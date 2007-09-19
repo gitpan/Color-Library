@@ -12,6 +12,8 @@ my $builder = Module::Build->new(
     },
     requires => {
         'Module::Pluggable' => 0,
+        'Class::Accessor::Fast' => 0,
+        'Class::Data::Inheritable' => 0,
     },
     add_to_cleanup      => [ 'Color-Library-*' ],
     create_makefile_pl => 'traditional',

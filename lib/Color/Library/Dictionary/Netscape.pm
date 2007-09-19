@@ -22,117 +22,6 @@ Color::Library::Dictionary::Netscape - (Netscape) Colors recognized by Netscape
 
 L<http://www.timestream.com/mmedia/graphics/colors/ns3names.txt>
 
-=begin :html
-
-=head1 COLORS
-
-<table>
-<tr><td style="border:1px solid #666; background:#70db93;width:4em;" /><td>aquamarine</td><td>aquamarine</td><td>##70db93</td><td>112</td> <td>219</td> <td>147</td>
-</tr> <tr><td style="border:1px solid #666; background:#5c3317;width:4em;" /><td>baker'schocolate</td><td>bakerschocolate</td><td>##5c3317</td><td>92</td> <td>51</td> <td>23</td>
-</tr> <tr><td style="border:1px solid #666; background:#000000;width:4em;" /><td>black</td><td>black</td><td>##000000</td><td>0</td> <td>0</td> <td>0</td>
-</tr> <tr><td style="border:1px solid #666; background:#0000ff;width:4em;" /><td>blue</td><td>blue</td><td>##0000ff</td><td>0</td> <td>0</td> <td>255</td>
-</tr> <tr><td style="border:1px solid #666; background:#9f5f9f;width:4em;" /><td>blueviolet</td><td>blueviolet</td><td>##9f5f9f</td><td>159</td> <td>95</td> <td>159</td>
-</tr> <tr><td style="border:1px solid #666; background:#b5a642;width:4em;" /><td>brass</td><td>brass</td><td>##b5a642</td><td>181</td> <td>166</td> <td>66</td>
-</tr> <tr><td style="border:1px solid #666; background:#d9d919;width:4em;" /><td>brightgold</td><td>brightgold</td><td>##d9d919</td><td>217</td> <td>217</td> <td>25</td>
-</tr> <tr><td style="border:1px solid #666; background:#8c7853;width:4em;" /><td>bronze</td><td>bronze</td><td>##8c7853</td><td>140</td> <td>120</td> <td>83</td>
-</tr> <tr><td style="border:1px solid #666; background:#a67d3d;width:4em;" /><td>bronzeii</td><td>bronzeii</td><td>##a67d3d</td><td>166</td> <td>125</td> <td>61</td>
-</tr> <tr><td style="border:1px solid #666; background:#a62a2a;width:4em;" /><td>brown</td><td>brown</td><td>##a62a2a</td><td>166</td> <td>42</td> <td>42</td>
-</tr> <tr><td style="border:1px solid #666; background:#5f9f9f;width:4em;" /><td>cadetblue</td><td>cadetblue</td><td>##5f9f9f</td><td>95</td> <td>159</td> <td>159</td>
-</tr> <tr><td style="border:1px solid #666; background:#d98719;width:4em;" /><td>coolcopper</td><td>coolcopper</td><td>##d98719</td><td>217</td> <td>135</td> <td>25</td>
-</tr> <tr><td style="border:1px solid #666; background:#b87333;width:4em;" /><td>copper</td><td>copper</td><td>##b87333</td><td>184</td> <td>115</td> <td>51</td>
-</tr> <tr><td style="border:1px solid #666; background:#ff7f00;width:4em;" /><td>coral</td><td>coral</td><td>##ff7f00</td><td>255</td> <td>127</td> <td>0</td>
-</tr> <tr><td style="border:1px solid #666; background:#42426f;width:4em;" /><td>cornflowerblue</td><td>cornflowerblue</td><td>##42426f</td><td>66</td> <td>66</td> <td>111</td>
-</tr> <tr><td style="border:1px solid #666; background:#00ffff;width:4em;" /><td>cyan</td><td>cyan</td><td>##00ffff</td><td>0</td> <td>255</td> <td>255</td>
-</tr> <tr><td style="border:1px solid #666; background:#5c4033;width:4em;" /><td>darkbrown</td><td>darkbrown</td><td>##5c4033</td><td>92</td> <td>64</td> <td>51</td>
-</tr> <tr><td style="border:1px solid #666; background:#2f4f2f;width:4em;" /><td>darkgreen</td><td>darkgreen</td><td>##2f4f2f</td><td>47</td> <td>79</td> <td>47</td>
-</tr> <tr><td style="border:1px solid #666; background:#4a766e;width:4em;" /><td>darkgreencopper</td><td>darkgreencopper</td><td>##4a766e</td><td>74</td> <td>118</td> <td>110</td>
-</tr> <tr><td style="border:1px solid #666; background:#4f4f2f;width:4em;" /><td>darkolivegreen</td><td>darkolivegreen</td><td>##4f4f2f</td><td>79</td> <td>79</td> <td>47</td>
-</tr> <tr><td style="border:1px solid #666; background:#9932cd;width:4em;" /><td>darkorchid</td><td>darkorchid</td><td>##9932cd</td><td>153</td> <td>50</td> <td>205</td>
-</tr> <tr><td style="border:1px solid #666; background:#871f78;width:4em;" /><td>darkpurple</td><td>darkpurple</td><td>##871f78</td><td>135</td> <td>31</td> <td>120</td>
-</tr> <tr><td style="border:1px solid #666; background:#241882;width:4em;" /><td>darkslateblue</td><td>darkslateblue</td><td>##241882</td><td>36</td> <td>24</td> <td>130</td>
-</tr> <tr><td style="border:1px solid #666; background:#2f4f4f;width:4em;" /><td>darkslategrey</td><td>darkslategrey</td><td>##2f4f4f</td><td>47</td> <td>79</td> <td>79</td>
-</tr> <tr><td style="border:1px solid #666; background:#97694f;width:4em;" /><td>darktan</td><td>darktan</td><td>##97694f</td><td>151</td> <td>105</td> <td>79</td>
-</tr> <tr><td style="border:1px solid #666; background:#7093db;width:4em;" /><td>darkturquoise</td><td>darkturquoise</td><td>##7093db</td><td>112</td> <td>147</td> <td>219</td>
-</tr> <tr><td style="border:1px solid #666; background:#855e42;width:4em;" /><td>darkwood</td><td>darkwood</td><td>##855e42</td><td>133</td> <td>94</td> <td>66</td>
-</tr> <tr><td style="border:1px solid #666; background:#545454;width:4em;" /><td>dimgrey</td><td>dimgrey</td><td>##545454</td><td>84</td> <td>84</td> <td>84</td>
-</tr> <tr><td style="border:1px solid #666; background:#856363;width:4em;" /><td>dustyrose</td><td>dustyrose</td><td>##856363</td><td>133</td> <td>99</td> <td>99</td>
-</tr> <tr><td style="border:1px solid #666; background:#d19275;width:4em;" /><td>feldspar</td><td>feldspar</td><td>##d19275</td><td>209</td> <td>146</td> <td>117</td>
-</tr> <tr><td style="border:1px solid #666; background:#8e2323;width:4em;" /><td>firebrick</td><td>firebrick</td><td>##8e2323</td><td>142</td> <td>35</td> <td>35</td>
-</tr> <tr><td style="border:1px solid #666; background:#f5ccb0;width:4em;" /><td>flesh</td><td>flesh</td><td>##f5ccb0</td><td>245</td> <td>204</td> <td>176</td>
-</tr> <tr><td style="border:1px solid #666; background:#238e23;width:4em;" /><td>forestgreen</td><td>forestgreen</td><td>##238e23</td><td>35</td> <td>142</td> <td>35</td>
-</tr> <tr><td style="border:1px solid #666; background:#cd7f32;width:4em;" /><td>gold</td><td>gold</td><td>##cd7f32</td><td>205</td> <td>127</td> <td>50</td>
-</tr> <tr><td style="border:1px solid #666; background:#dbdb70;width:4em;" /><td>goldenrod</td><td>goldenrod</td><td>##dbdb70</td><td>219</td> <td>219</td> <td>112</td>
-</tr> <tr><td style="border:1px solid #666; background:#00ff00;width:4em;" /><td>green</td><td>green</td><td>##00ff00</td><td>0</td> <td>255</td> <td>0</td>
-</tr> <tr><td style="border:1px solid #666; background:#856363;width:4em;" /><td>greencopper</td><td>greencopper</td><td>##856363</td><td>133</td> <td>99</td> <td>99</td>
-</tr> <tr><td style="border:1px solid #666; background:#d19275;width:4em;" /><td>greenyellow</td><td>greenyellow</td><td>##d19275</td><td>209</td> <td>146</td> <td>117</td>
-</tr> <tr><td style="border:1px solid #666; background:#545454;width:4em;" /><td>grey</td><td>grey</td><td>##545454</td><td>84</td> <td>84</td> <td>84</td>
-</tr> <tr><td style="border:1px solid #666; background:#8e2323;width:4em;" /><td>huntergreen</td><td>huntergreen</td><td>##8e2323</td><td>142</td> <td>35</td> <td>35</td>
-</tr> <tr><td style="border:1px solid #666; background:#f5ccb0;width:4em;" /><td>indianred</td><td>indianred</td><td>##f5ccb0</td><td>245</td> <td>204</td> <td>176</td>
-</tr> <tr><td style="border:1px solid #666; background:#238e23;width:4em;" /><td>khaki</td><td>khaki</td><td>##238e23</td><td>35</td> <td>142</td> <td>35</td>
-</tr> <tr><td style="border:1px solid #666; background:#cd7f32;width:4em;" /><td>lightblue</td><td>lightblue</td><td>##cd7f32</td><td>205</td> <td>127</td> <td>50</td>
-</tr> <tr><td style="border:1px solid #666; background:#dbdb70;width:4em;" /><td>lightgrey</td><td>lightgrey</td><td>##dbdb70</td><td>219</td> <td>219</td> <td>112</td>
-</tr> <tr><td style="border:1px solid #666; background:#545454;width:4em;" /><td>lightsteelblue</td><td>lightsteelblue</td><td>##545454</td><td>84</td> <td>84</td> <td>84</td>
-</tr> <tr><td style="border:1px solid #666; background:#856363;width:4em;" /><td>lightwood</td><td>lightwood</td><td>##856363</td><td>133</td> <td>99</td> <td>99</td>
-</tr> <tr><td style="border:1px solid #666; background:#d19275;width:4em;" /><td>limegreen</td><td>limegreen</td><td>##d19275</td><td>209</td> <td>146</td> <td>117</td>
-</tr> <tr><td style="border:1px solid #666; background:#ff00ff;width:4em;" /><td>magenta</td><td>magenta</td><td>##ff00ff</td><td>255</td> <td>0</td> <td>255</td>
-</tr> <tr><td style="border:1px solid #666; background:#8e2323;width:4em;" /><td>mandarianorange</td><td>mandarianorange</td><td>##8e2323</td><td>142</td> <td>35</td> <td>35</td>
-</tr> <tr><td style="border:1px solid #666; background:#f5ccb0;width:4em;" /><td>maroon</td><td>maroon</td><td>##f5ccb0</td><td>245</td> <td>204</td> <td>176</td>
-</tr> <tr><td style="border:1px solid #666; background:#238e23;width:4em;" /><td>mediumaquamarine</td><td>mediumaquamarine</td><td>##238e23</td><td>35</td> <td>142</td> <td>35</td>
-</tr> <tr><td style="border:1px solid #666; background:#cd7f32;width:4em;" /><td>mediumblue</td><td>mediumblue</td><td>##cd7f32</td><td>205</td> <td>127</td> <td>50</td>
-</tr> <tr><td style="border:1px solid #666; background:#dbdb70;width:4em;" /><td>mediumforestgreen</td><td>mediumforestgreen</td><td>##dbdb70</td><td>219</td> <td>219</td> <td>112</td>
-</tr> <tr><td style="border:1px solid #666; background:#eaeaae;width:4em;" /><td>mediumgoldenrod</td><td>mediumgoldenrod</td><td>##eaeaae</td><td>234</td> <td>234</td> <td>174</td>
-</tr> <tr><td style="border:1px solid #666; background:#9370db;width:4em;" /><td>mediumorchid</td><td>mediumorchid</td><td>##9370db</td><td>147</td> <td>112</td> <td>219</td>
-</tr> <tr><td style="border:1px solid #666; background:#426f42;width:4em;" /><td>mediumseagreen</td><td>mediumseagreen</td><td>##426f42</td><td>66</td> <td>111</td> <td>66</td>
-</tr> <tr><td style="border:1px solid #666; background:#7f00ff;width:4em;" /><td>mediumslateblue</td><td>mediumslateblue</td><td>##7f00ff</td><td>127</td> <td>0</td> <td>255</td>
-</tr> <tr><td style="border:1px solid #666; background:#7fff00;width:4em;" /><td>mediumspringgreen</td><td>mediumspringgreen</td><td>##7fff00</td><td>127</td> <td>255</td> <td>0</td>
-</tr> <tr><td style="border:1px solid #666; background:#70dbdb;width:4em;" /><td>mediumturquoise</td><td>mediumturquoise</td><td>##70dbdb</td><td>112</td> <td>219</td> <td>219</td>
-</tr> <tr><td style="border:1px solid #666; background:#db7093;width:4em;" /><td>mediumvioletred</td><td>mediumvioletred</td><td>##db7093</td><td>219</td> <td>112</td> <td>147</td>
-</tr> <tr><td style="border:1px solid #666; background:#a68064;width:4em;" /><td>mediumwood</td><td>mediumwood</td><td>##a68064</td><td>166</td> <td>128</td> <td>100</td>
-</tr> <tr><td style="border:1px solid #666; background:#2f2f4f;width:4em;" /><td>midnightblue</td><td>midnightblue</td><td>##2f2f4f</td><td>47</td> <td>47</td> <td>79</td>
-</tr> <tr><td style="border:1px solid #666; background:#23238e;width:4em;" /><td>navyblue</td><td>navyblue</td><td>##23238e</td><td>35</td> <td>35</td> <td>142</td>
-</tr> <tr><td style="border:1px solid #666; background:#4d4dff;width:4em;" /><td>neonblue</td><td>neonblue</td><td>##4d4dff</td><td>77</td> <td>77</td> <td>255</td>
-</tr> <tr><td style="border:1px solid #666; background:#ff6ec7;width:4em;" /><td>neonpink</td><td>neonpink</td><td>##ff6ec7</td><td>255</td> <td>110</td> <td>199</td>
-</tr> <tr><td style="border:1px solid #666; background:#00009c;width:4em;" /><td>newmidnightblue</td><td>newmidnightblue</td><td>##00009c</td><td>0</td> <td>0</td> <td>156</td>
-</tr> <tr><td style="border:1px solid #666; background:#ebc79e;width:4em;" /><td>newtan</td><td>newtan</td><td>##ebc79e</td><td>235</td> <td>199</td> <td>158</td>
-</tr> <tr><td style="border:1px solid #666; background:#cfb53b;width:4em;" /><td>oldgold</td><td>oldgold</td><td>##cfb53b</td><td>207</td> <td>181</td> <td>59</td>
-</tr> <tr><td style="border:1px solid #666; background:#ff7f00;width:4em;" /><td>orange</td><td>orange</td><td>##ff7f00</td><td>255</td> <td>127</td> <td>0</td>
-</tr> <tr><td style="border:1px solid #666; background:#ff2400;width:4em;" /><td>orangered</td><td>orangered</td><td>##ff2400</td><td>255</td> <td>36</td> <td>0</td>
-</tr> <tr><td style="border:1px solid #666; background:#db70db;width:4em;" /><td>orchid</td><td>orchid</td><td>##db70db</td><td>219</td> <td>112</td> <td>219</td>
-</tr> <tr><td style="border:1px solid #666; background:#8fbc8f;width:4em;" /><td>palegreen</td><td>palegreen</td><td>##8fbc8f</td><td>143</td> <td>188</td> <td>143</td>
-</tr> <tr><td style="border:1px solid #666; background:#bc8f8f;width:4em;" /><td>pink</td><td>pink</td><td>##bc8f8f</td><td>188</td> <td>143</td> <td>143</td>
-</tr> <tr><td style="border:1px solid #666; background:#eaadea;width:4em;" /><td>plum</td><td>plum</td><td>##eaadea</td><td>234</td> <td>173</td> <td>234</td>
-</tr> <tr><td style="border:1px solid #666; background:#d9d9f3;width:4em;" /><td>quartz</td><td>quartz</td><td>##d9d9f3</td><td>217</td> <td>217</td> <td>243</td>
-</tr> <tr><td style="border:1px solid #666; background:#ff0000;width:4em;" /><td>red</td><td>red</td><td>##ff0000</td><td>255</td> <td>0</td> <td>0</td>
-</tr> <tr><td style="border:1px solid #666; background:#5959ab;width:4em;" /><td>richblue</td><td>richblue</td><td>##5959ab</td><td>89</td> <td>89</td> <td>171</td>
-</tr> <tr><td style="border:1px solid #666; background:#6f4242;width:4em;" /><td>salmon</td><td>salmon</td><td>##6f4242</td><td>111</td> <td>66</td> <td>66</td>
-</tr> <tr><td style="border:1px solid #666; background:#8c1717;width:4em;" /><td>scarlet</td><td>scarlet</td><td>##8c1717</td><td>140</td> <td>23</td> <td>23</td>
-</tr> <tr><td style="border:1px solid #666; background:#238e68;width:4em;" /><td>seagreen</td><td>seagreen</td><td>##238e68</td><td>35</td> <td>142</td> <td>104</td>
-</tr> <tr><td style="border:1px solid #666; background:#6b4226;width:4em;" /><td>semi-sweetchocolate</td><td>semisweetchocolate</td><td>##6b4226</td><td>107</td> <td>66</td> <td>38</td>
-</tr> <tr><td style="border:1px solid #666; background:#8e6b23;width:4em;" /><td>sienna</td><td>sienna</td><td>##8e6b23</td><td>142</td> <td>107</td> <td>35</td>
-</tr> <tr><td style="border:1px solid #666; background:#e6e8fa;width:4em;" /><td>silver</td><td>silver</td><td>##e6e8fa</td><td>230</td> <td>232</td> <td>250</td>
-</tr> <tr><td style="border:1px solid #666; background:#3299cc;width:4em;" /><td>skyblue</td><td>skyblue</td><td>##3299cc</td><td>50</td> <td>153</td> <td>204</td>
-</tr> <tr><td style="border:1px solid #666; background:#007fff;width:4em;" /><td>slateblue</td><td>slateblue</td><td>##007fff</td><td>0</td> <td>127</td> <td>255</td>
-</tr> <tr><td style="border:1px solid #666; background:#ff1cae;width:4em;" /><td>spicypink</td><td>spicypink</td><td>##ff1cae</td><td>255</td> <td>28</td> <td>174</td>
-</tr> <tr><td style="border:1px solid #666; background:#00ff7f;width:4em;" /><td>springgreen</td><td>springgreen</td><td>##00ff7f</td><td>0</td> <td>255</td> <td>127</td>
-</tr> <tr><td style="border:1px solid #666; background:#236b8e;width:4em;" /><td>steelblue</td><td>steelblue</td><td>##236b8e</td><td>35</td> <td>107</td> <td>142</td>
-</tr> <tr><td style="border:1px solid #666; background:#38b0de;width:4em;" /><td>summersky</td><td>summersky</td><td>##38b0de</td><td>56</td> <td>176</td> <td>222</td>
-</tr> <tr><td style="border:1px solid #666; background:#db9370;width:4em;" /><td>tan</td><td>tan</td><td>##db9370</td><td>219</td> <td>147</td> <td>112</td>
-</tr> <tr><td style="border:1px solid #666; background:#d8bfd8;width:4em;" /><td>thistle</td><td>thistle</td><td>##d8bfd8</td><td>216</td> <td>191</td> <td>216</td>
-</tr> <tr><td style="border:1px solid #666; background:#adeaea;width:4em;" /><td>turquoise</td><td>turquoise</td><td>##adeaea</td><td>173</td> <td>234</td> <td>234</td>
-</tr> <tr><td style="border:1px solid #666; background:#5c4033;width:4em;" /><td>verydarkbrown</td><td>verydarkbrown</td><td>##5c4033</td><td>92</td> <td>64</td> <td>51</td>
-</tr> <tr><td style="border:1px solid #666; background:#cdcdcd;width:4em;" /><td>verylightgrey</td><td>verylightgrey</td><td>##cdcdcd</td><td>205</td> <td>205</td> <td>205</td>
-</tr> <tr><td style="border:1px solid #666; background:#4f2f4f;width:4em;" /><td>violet</td><td>violet</td><td>##4f2f4f</td><td>79</td> <td>47</td> <td>79</td>
-</tr> <tr><td style="border:1px solid #666; background:#cc3299;width:4em;" /><td>violetred</td><td>violetred</td><td>##cc3299</td><td>204</td> <td>50</td> <td>153</td>
-</tr> <tr><td style="border:1px solid #666; background:#d8d8bf;width:4em;" /><td>wheat</td><td>wheat</td><td>##d8d8bf</td><td>216</td> <td>216</td> <td>191</td>
-</tr> <tr><td style="border:1px solid #666; background:#ffffff;width:4em;" /><td>white</td><td>white</td><td>##ffffff</td><td>255</td> <td>255</td> <td>255</td>
-</tr> <tr><td style="border:1px solid #666; background:#ffff00;width:4em;" /><td>yellow</td><td>yellow</td><td>##ffff00</td><td>255</td> <td>255</td> <td>0</td>
-</tr> <tr><td style="border:1px solid #666; background:#99cc32;width:4em;" /><td>yellowgreen</td><td>yellowgreen</td><td>##99cc32</td><td>153</td> <td>204</td> <td>50</td>
-</tr></table>
-
-=end :html
-
-=begin :man
-
 =head1 COLORS
 
 =over 4
@@ -339,8 +228,6 @@ L<http://www.timestream.com/mmedia/graphics/colors/ns3names.txt>
 
 
 =back
-
-=end :man
 
 =cut
 

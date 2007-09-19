@@ -5,6 +5,8 @@ WriteMakefile
           'NAME' => 'Color::Library',
           'VERSION_FROM' => 'lib/Color/Library.pm',
           'PREREQ_PM' => {
+                           'Class::Accessor::Fast' => '0',
+                           'Class::Data::Inheritable' => '0',
                            'Module::Pluggable' => '0',
                            'Test::More' => '0'
                          },

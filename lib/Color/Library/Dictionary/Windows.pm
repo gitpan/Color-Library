@@ -22,33 +22,6 @@ Color::Library::Dictionary::Windows - (Windows) Colors from the Windows system p
 
 L<http://msdn.microsoft.com/archive/en-us/dnargdi/html/msdn_palette.asp?frame=true>
 
-=begin :html
-
-=head1 COLORS
-
-<table>
-<tr><td style="border:1px solid #666; background:#000000;width:4em;" /><td>black</td><td>black</td><td>##000000</td><td>0</td> <td>0</td> <td>0</td>
-</tr> <tr><td style="border:1px solid #666; background:#0000ff;width:4em;" /><td>blue</td><td>blue</td><td>##0000ff</td><td>0</td> <td>0</td> <td>255</td>
-</tr> <tr><td style="border:1px solid #666; background:#00ffff;width:4em;" /><td>cyan</td><td>cyan</td><td>##00ffff</td><td>0</td> <td>255</td> <td>255</td>
-</tr> <tr><td style="border:1px solid #666; background:#000080;width:4em;" /><td>darkblue</td><td>darkblue</td><td>##000080</td><td>0</td> <td>0</td> <td>128</td>
-</tr> <tr><td style="border:1px solid #666; background:#008080;width:4em;" /><td>darkcyan</td><td>darkcyan</td><td>##008080</td><td>0</td> <td>128</td> <td>128</td>
-</tr> <tr><td style="border:1px solid #666; background:#808080;width:4em;" /><td>darkgray</td><td>darkgray</td><td>##808080</td><td>128</td> <td>128</td> <td>128</td>
-</tr> <tr><td style="border:1px solid #666; background:#008000;width:4em;" /><td>darkgreen</td><td>darkgreen</td><td>##008000</td><td>0</td> <td>128</td> <td>0</td>
-</tr> <tr><td style="border:1px solid #666; background:#800080;width:4em;" /><td>darkmagenta</td><td>darkmagenta</td><td>##800080</td><td>128</td> <td>0</td> <td>128</td>
-</tr> <tr><td style="border:1px solid #666; background:#800000;width:4em;" /><td>darkred</td><td>darkred</td><td>##800000</td><td>128</td> <td>0</td> <td>0</td>
-</tr> <tr><td style="border:1px solid #666; background:#808000;width:4em;" /><td>darkyellow</td><td>darkyellow</td><td>##808000</td><td>128</td> <td>128</td> <td>0</td>
-</tr> <tr><td style="border:1px solid #666; background:#00ff00;width:4em;" /><td>green</td><td>green</td><td>##00ff00</td><td>0</td> <td>255</td> <td>0</td>
-</tr> <tr><td style="border:1px solid #666; background:#c0c0c0;width:4em;" /><td>lightgray</td><td>lightgray</td><td>##c0c0c0</td><td>192</td> <td>192</td> <td>192</td>
-</tr> <tr><td style="border:1px solid #666; background:#ff00ff;width:4em;" /><td>magenta</td><td>magenta</td><td>##ff00ff</td><td>255</td> <td>0</td> <td>255</td>
-</tr> <tr><td style="border:1px solid #666; background:#ff0000;width:4em;" /><td>red</td><td>red</td><td>##ff0000</td><td>255</td> <td>0</td> <td>0</td>
-</tr> <tr><td style="border:1px solid #666; background:#ffffff;width:4em;" /><td>white</td><td>white</td><td>##ffffff</td><td>255</td> <td>255</td> <td>255</td>
-</tr> <tr><td style="border:1px solid #666; background:#ffff00;width:4em;" /><td>yellow</td><td>yellow</td><td>##ffff00</td><td>255</td> <td>255</td> <td>0</td>
-</tr></table>
-
-=end :html
-
-=begin :man
-
 =head1 COLORS
 
 =over 4
@@ -87,8 +60,6 @@ L<http://msdn.microsoft.com/archive/en-us/dnargdi/html/msdn_palette.asp?frame=tr
 
 
 =back
-
-=end :man
 
 =cut
 

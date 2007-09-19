@@ -2,5 +2,9 @@ TODO:
  - Accept rgb of the style 0.0 - 1.0, etc.
  - Add missing colors to the Windows dictionary (cream, etc)
 
-0.01 Sunday September 09 21:52:18 PDT 2007:
+0.011 Tuesday September 18 20:28:16 PDT 2007:
+ - Documentation touch-up
+ - Additional requirement of Class::Accessor::Fast and Class::Data::Inheritable
+
+0.010 Sunday September 09 21:52:18 PDT 2007:
  - Initial version

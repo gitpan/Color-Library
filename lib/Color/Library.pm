@@ -9,11 +9,11 @@ Color::Library - An easy-to-use and comprehensive named-color library
 
 =head1 VERSION
 
-Version 0.01
+Version 0.011
 
 =cut
 
-our $VERSION = '0.01';
+our $VERSION = '0.011';
 
 use Module::Pluggable search_path => 'Color::Library::Dictionary', sub_name => '_load_dictionaries', require => 1;
 use Color::Library::Dictionary;

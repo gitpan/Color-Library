@@ -379,18 +379,18 @@ sub generate_dictionary_module {
     my @colors = sort { $a->[1] cmp $b->[1] } @$colors;
     my @table = map { [ $_->[2], $_->[1], '#' . $_->[4], $_->[3] ] } @colors;
 
-    my $html_color_table = table({}, "\n" .
-        Tr({}, [
-            map {
-                td({ style => "border:1px solid #666; background:" . $_->[2] . ";width:4em;" }) .
-                td($_->[0]) .
-                td($_->[1]) .
-                td("#" . $_->[2]) .
-                td($_->[3]) .
-                "\n";
-            } @table,
-        ]),
-    );
+#    my $html_color_table = table({}, "\n" .
+#        Tr({}, [
+#            map {
+#                td({ style => "border:1px solid #666; background:" . $_->[2] . ";width:4em;" }) .
+#                td($_->[0]) .
+#                td($_->[1]) .
+#                td("#" . $_->[2]) .
+#                td($_->[3]) .
+#                "\n";
+#            } @table,
+#        ]),
+#    );
 
     my $text_color_table = Text::Table->new('', '', '');
     $text_color_table->load(@table);
@@ -419,16 +419,6 @@ $module - (@{[ $_description->{title} ]}) @{[ $_description->{subtitle} ]}
 
 $pod_description
 
-=begin :html
-
-=head1 COLORS
-
-$html_color_table
-
-=end :html
-
-=begin :man
-
 =head1 COLORS
 
 =over 4
@@ -436,8 +426,6 @@ $html_color_table
 @{[ join "\n", map { "=item $_" } $text_color_table->body ]}
 
 =back
-
-=end :man
 
 =cut
 
