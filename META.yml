@@ -1,6 +1,6 @@
 ---
 name: Color-Library
-version: 0.011
+version: 0.02
 author:
   - 'Robert Krimen <rkrimen@cpan.org>'
 abstract: An easy-to-use and comprehensive named-color library
@@ -16,7 +16,7 @@ build_requires:
 provides:
   Color::Library:
     file: lib/Color/Library.pm
-    version: 0.011
+    version: 0.02
   Color::Library::Color:
     file: lib/Color/Library/Color.pm
   Color::Library::Dictionary:
@@ -55,6 +55,8 @@ provides:
     file: lib/Color/Library/Dictionary/Netscape.pm
   Color::Library::Dictionary::SVG:
     file: lib/Color/Library/Dictionary/SVG.pm
+  Color::Library::Dictionary::Tango:
+    file: lib/Color/Library/Dictionary/Tango.pm
   Color::Library::Dictionary::VACCC:
     file: lib/Color/Library/Dictionary/VACCC.pm
   Color::Library::Dictionary::WWW:

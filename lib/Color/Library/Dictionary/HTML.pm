@@ -17,51 +17,46 @@ Color::Library::Dictionary::HTML - (HTML) Colors from the HTML 4.0 specification
 
 =head1 DESCRIPTION
 
-
 The HTML-4.0 specification defines 16 color names assigned to the full and half coordinate RGB primaries.
 
 L<http://www.w3.org/TR/REC-html40/sgml/loosedtd.html#Color>
 
 =head1 COLORS
 
-=over 4
+	aqua    aqua    #00ffff
 
-=item aqua    aqua    #00ffff
+	black   black   #000000
 
-=item black   black   #000000
+	blue    blue    #0000ff
 
-=item blue    blue    #0000ff
+	fuchsia fuchsia #ff00ff
 
-=item fuchsia fuchsia #ff00ff
+	fuscia  fuscia  #ff00ff
 
-=item fuscia  fuscia  #ff00ff
+	gray    gray    #808080
 
-=item gray    gray    #808080
+	green   green   #008000
 
-=item green   green   #008000
+	lime    lime    #00ff00
 
-=item lime    lime    #00ff00
+	maroon  maroon  #800000
 
-=item maroon  maroon  #800000
+	navy    navy    #000080
 
-=item navy    navy    #000080
+	olive   olive   #808000
 
-=item olive   olive   #808000
+	purple  purple  #800080
 
-=item purple  purple  #800080
+	red     red     #ff0000
 
-=item red     red     #ff0000
+	silver  silver  #c0c0c0
 
-=item silver  silver  #c0c0c0
+	teal    teal    #008080
 
-=item teal    teal    #008080
+	white   white   #ffffff
 
-=item white   white   #ffffff
+	yellow  yellow  #ffff00
 
-=item yellow  yellow  #ffff00
-
-
-=back
 
 =cut
 

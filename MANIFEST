@@ -9,21 +9,6 @@ t/boilerplate.t
 t/pod-coverage.t
 t/pod.t
 Makefile.PL
-dictionary/generate.pl
-dictionary/mozilla-layout-tools-ColorNames.txt
-dictionary/NBS-ISCC/A.htm
-dictionary/NBS-ISCC/B.htm
-dictionary/NBS-ISCC/Centroid.txt
-dictionary/NBS-ISCC/F.htm
-dictionary/NBS-ISCC/H.htm
-dictionary/NBS-ISCC/M.htm
-dictionary/NBS-ISCC/P.htm
-dictionary/NBS-ISCC/R.htm
-dictionary/NBS-ISCC/RC.htm
-dictionary/NBS-ISCC/S.htm
-dictionary/NBS-ISCC/SC.htm
-dictionary/NBS-ISCC/TC.htm
-dictionary/VACCC.html
 lib/Color/Library/Color.pm
 lib/Color/Library/Dictionary.pm
 lib/Color/Library/Dictionary/HTML.pm
@@ -47,4 +32,5 @@ lib/Color/Library/Dictionary/VACCC.pm
 lib/Color/Library/Dictionary/Windows.pm
 lib/Color/Library/Dictionary/WWW.pm
 lib/Color/Library/Dictionary/X11.pm
+lib/Color/Library/Dictionary/Tango.pm
 t/01-Color-Library.t

@@ -17,1604 +17,1599 @@ Color::Library::Dictionary::NBS_ISCC::B - (NBS/ISCC B) Colour Terminology in Bio
 
 =head1 DESCRIPTION
 
+    Kenneth L. Kelly and Deanne B. Judd.
+    "Color: Universal Language and Dictionary of Names",
+    National Bureau of Standards,
+    Spec. Publ. 440, Dec. 1976, 189 pages.
 
-Kenneth L. Kelly and Deanne B. Judd.
-"Color: Universal Language and Dictionary of Names",
-National Bureau of Standards,
-Spec. Publ. 440, Dec. 1976, 189 pages.
 
+    Color Name Dictionary: (B) Colour Terminology in Biology
 
-Color Name Dictionary: (B) Colour Terminology in Biology
+    Colour Terminology in Biology,
+    H.A. Dade 
 
-        Colour Terminology in Biology,
-        H.A. Dade 
-
-    This combinatorial dictionary seems to be derived from Latin (eg. viridi-caeruleus). Its 128 names map to 789 colors, using 214 of the 267 centroids. But averaging over 6 colors per name means it has little descriptive power.
+This combinatorial dictionary seems to be derived from Latin (eg. viridi-caeruleus). Its 128 names map to 789 colors, using 214 of the 267 centroids. But averaging over 6 colors per name means it has little descriptive power.
 
 L<http://swissnet.ai.mit.edu/~jaffer/Color/Dictionaries#B>
 
 =head1 COLORS
 
-=over 4
+	aerugineus          aerugineus         #93c592
 
-=item aerugineus          aerugineus         #93c592
+	aerugineus          aerugineus         #679267
 
-=item aerugineus          aerugineus         #679267
+	aerugineus          aerugineus         #6aab8e
 
-=item aerugineus          aerugineus         #6aab8e
+	aerugineus          aerugineus         #3b7861
 
-=item aerugineus          aerugineus         #3b7861
+	aerugineus          aerugineus         #8da399
 
-=item aerugineus          aerugineus         #8da399
+	aerugineus          aerugineus         #5e716a
 
-=item aerugineus          aerugineus         #5e716a
+	aerugineus          aerugineus         #66ada4
 
-=item aerugineus          aerugineus         #66ada4
+	aerugineus          aerugineus         #317873
 
-=item aerugineus          aerugineus         #317873
+	armeniacus          armeniacus         #cb6d51
 
-=item armeniacus          armeniacus         #cb6d51
+	armeniacus          armeniacus         #d99058
 
-=item armeniacus          armeniacus         #d99058
+	atroardesiacus      atroardesiacus     #3a4b47
 
-=item atroardesiacus      atroardesiacus     #3a4b47
+	atroardesiacus      atroardesiacus     #4e5755
 
-=item atroardesiacus      atroardesiacus     #4e5755
+	atroardesiacus      atroardesiacus     #00304e
 
-=item atroardesiacus      atroardesiacus     #00304e
+	atroardesiacus      atroardesiacus     #536878
 
-=item atroardesiacus      atroardesiacus     #536878
+	atroardesiacus      atroardesiacus     #36454f
 
-=item atroardesiacus      atroardesiacus     #36454f
+	atroardesiacus      atroardesiacus     #202830
 
-=item atroardesiacus      atroardesiacus     #202830
+	atroardesiacus      atroardesiacus     #51585e
 
-=item atroardesiacus      atroardesiacus     #51585e
+	atroardesiacus      atroardesiacus     #202428
 
-=item atroardesiacus      atroardesiacus     #202428
+	atroardesiacus      atroardesiacus     #5d555b
 
-=item atroardesiacus      atroardesiacus     #5d555b
+	atroardesiacus      atroardesiacus     #555555
 
-=item atroardesiacus      atroardesiacus     #555555
+	atroardesiacus      atroardesiacus     #222222
 
-=item atroardesiacus      atroardesiacus     #222222
+	atrocyaneus         atrocyaneus        #317873
 
-=item atrocyaneus         atrocyaneus        #317873
+	atrocyaneus         atrocyaneus        #004b49
 
-=item atrocyaneus         atrocyaneus        #004b49
+	atrocyaneus         atrocyaneus        #367588
 
-=item atrocyaneus         atrocyaneus        #367588
+	atrocyaneus         atrocyaneus        #004958
 
-=item atrocyaneus         atrocyaneus        #004958
+	atrocyaneus         atrocyaneus        #436b95
 
-=item atrocyaneus         atrocyaneus        #436b95
+	atrocyaneus         atrocyaneus        #00304e
 
-=item atrocyaneus         atrocyaneus        #00304e
+	atrocyaneus         atrocyaneus        #536878
 
-=item atrocyaneus         atrocyaneus        #536878
+	atroherbaceus       atroherbaceus      #867e36
 
-=item atroherbaceus       atroherbaceus      #867e36
+	atroherbaceus       atroherbaceus      #665d1e
 
-=item atroherbaceus       atroherbaceus      #665d1e
+	atroherbaceus       atroherbaceus      #8a9a5b
 
-=item atroherbaceus       atroherbaceus      #8a9a5b
+	atroherbaceus       atroherbaceus      #4a5d23
 
-=item atroherbaceus       atroherbaceus      #4a5d23
+	atroherbaceus       atroherbaceus      #515744
 
-=item atroherbaceus       atroherbaceus      #515744
+	atroherbaceus       atroherbaceus      #355e3b
 
-=item atroherbaceus       atroherbaceus      #355e3b
+	atroherbaceus       atroherbaceus      #3b7861
 
-=item atroherbaceus       atroherbaceus      #3b7861
+	atroherbaceus       atroherbaceus      #5e716a
 
-=item atroherbaceus       atroherbaceus      #5e716a
+	atrolazulinus       atrolazulinus      #00a1c2
 
-=item atrolazulinus       atrolazulinus      #00a1c2
+	atrolazulinus       atrolazulinus      #0067a5
 
-=item atrolazulinus       atrolazulinus      #0067a5
+	atrolazulinus       atrolazulinus      #00416a
 
-=item atrolazulinus       atrolazulinus      #00416a
+	atrolazulinus       atrolazulinus      #436b95
 
-=item atrolazulinus       atrolazulinus      #436b95
+	atrolazulinus       atrolazulinus      #00304e
 
-=item atrolazulinus       atrolazulinus      #00304e
+	atrolazulinus       atrolazulinus      #536878
 
-=item atrolazulinus       atrolazulinus      #536878
+	atrolazulinus       atrolazulinus      #36454f
 
-=item atrolazulinus       atrolazulinus      #36454f
+	atrolazulinus       atrolazulinus      #545aa7
 
-=item atrolazulinus       atrolazulinus      #545aa7
+	atrolazulinus       atrolazulinus      #4e5180
 
-=item atrolazulinus       atrolazulinus      #4e5180
+	atrolazulinus       atrolazulinus      #4c516d
 
-=item atrolazulinus       atrolazulinus      #4c516d
+	atrolividus         atrolividus        #86608e
 
-=item atrolividus         atrolividus        #86608e
+	atrolividus         atrolividus        #563c5c
 
-=item atrolividus         atrolividus        #563c5c
+	atrolividus         atrolividus        #796878
 
-=item atrolividus         atrolividus        #796878
+	atrolividus         atrolividus        #50404d
 
-=item atrolividus         atrolividus        #50404d
+	atrolividus         atrolividus        #5d3954
 
-=item atrolividus         atrolividus        #5d3954
+	atrolividus         atrolividus        #673147
 
-=item atrolividus         atrolividus        #673147
+	atromurinus         atromurinus        #5b504f
 
-=item atromurinus         atromurinus        #5b504f
+	atromurinus         atromurinus        #555555
 
-=item atromurinus         atromurinus        #555555
+	atropurpureus       atropurpureus      #602f6b
 
-=item atropurpureus       atropurpureus      #602f6b
+	atropurpureus       atropurpureus      #86608e
 
-=item atropurpureus       atropurpureus      #86608e
+	atropurpureus       atropurpureus      #563c5c
 
-=item atropurpureus       atropurpureus      #563c5c
+	atropurpureus       atropurpureus      #50404d
 
-=item atropurpureus       atropurpureus      #50404d
+	atropurpureus       atropurpureus      #9e4f88
 
-=item atropurpureus       atropurpureus      #9e4f88
+	atropurpureus       atropurpureus      #702963
 
-=item atropurpureus       atropurpureus      #702963
+	atropurpureus       atropurpureus      #915c83
 
-=item atropurpureus       atropurpureus      #915c83
+	atropurpureus       atropurpureus      #5d3954
 
-=item atropurpureus       atropurpureus      #5d3954
+	atropurpureus       atropurpureus      #341731
 
-=item atropurpureus       atropurpureus      #341731
+	atropurpureus       atropurpureus      #673147
 
-=item atropurpureus       atropurpureus      #673147
+	atrovenetus         atrovenetus        #3b7861
 
-=item atrovenetus         atrovenetus        #3b7861
+	atrovenetus         atrovenetus        #1b4d3e
 
-=item atrovenetus         atrovenetus        #1b4d3e
+	atrovenetus         atrovenetus        #5e716a
 
-=item atrovenetus         atrovenetus        #5e716a
+	atrovenetus         atrovenetus        #3a4b47
 
-=item atrovenetus         atrovenetus        #3a4b47
+	atrovenetus         atrovenetus        #4e5755
 
-=item atrovenetus         atrovenetus        #4e5755
+	atrovenetus         atrovenetus        #007a74
 
-=item atrovenetus         atrovenetus        #007a74
+	atrovenetus         atrovenetus        #317873
 
-=item atrovenetus         atrovenetus        #317873
+	atrovenetus         atrovenetus        #004b49
 
-=item atrovenetus         atrovenetus        #004b49
+	atrovenetus         atrovenetus        #367588
 
-=item atrovenetus         atrovenetus        #367588
+	atrovenetus         atrovenetus        #536878
 
-=item atrovenetus         atrovenetus        #536878
+	atrovenetus         atrovenetus        #36454f
 
-=item atrovenetus         atrovenetus        #36454f
+	atrovinosus         atrovinosus        #905d5d
 
-=item atrovinosus         atrovinosus        #905d5d
+	atrovinosus         atrovinosus        #543d3f
 
-=item atrovinosus         atrovinosus        #543d3f
+	atrovinosus         atrovinosus        #674c47
 
-=item atrovinosus         atrovinosus        #674c47
+	atrovinosus         atrovinosus        #50404d
 
-=item atrovinosus         atrovinosus        #50404d
+	atrovinosus         atrovinosus        #673147
 
-=item atrovinosus         atrovinosus        #673147
+	atrovinosus         atrovinosus        #915f6d
 
-=item atrovinosus         atrovinosus        #915f6d
+	atroviolaceus       atroviolaceus      #36454f
 
-=item atroviolaceus       atroviolaceus      #36454f
+	atroviolaceus       atroviolaceus      #272458
 
-=item atroviolaceus       atroviolaceus      #272458
+	atroviolaceus       atroviolaceus      #4e5180
 
-=item atroviolaceus       atroviolaceus      #4e5180
+	atroviolaceus       atroviolaceus      #252440
 
-=item atroviolaceus       atroviolaceus      #252440
+	atroviolaceus       atroviolaceus      #4c516d
 
-=item atroviolaceus       atroviolaceus      #4c516d
+	atroviolaceus       atroviolaceus      #604e81
 
-=item atroviolaceus       atroviolaceus      #604e81
+	atroviolaceus       atroviolaceus      #2f2140
 
-=item atroviolaceus       atroviolaceus      #2f2140
+	atroviolaceus       atroviolaceus      #554c69
 
-=item atroviolaceus       atroviolaceus      #554c69
+	atroviolaceus       atroviolaceus      #602f6b
 
-=item atroviolaceus       atroviolaceus      #602f6b
+	atroviolaceus       atroviolaceus      #563c5c
 
-=item atroviolaceus       atroviolaceus      #563c5c
+	atroviolaceus       atroviolaceus      #796878
 
-=item atroviolaceus       atroviolaceus      #796878
+	atroviolaceus       atroviolaceus      #50404d
 
-=item atroviolaceus       atroviolaceus      #50404d
+	atroviridis         atroviridis        #7e9f2e
 
-=item atroviridis         atroviridis        #7e9f2e
+	atroviridis         atroviridis        #8a9a5b
 
-=item atroviridis         atroviridis        #8a9a5b
+	atroviridis         atroviridis        #4a5d23
 
-=item atroviridis         atroviridis        #4a5d23
+	atroviridis         atroviridis        #515744
 
-=item atroviridis         atroviridis        #515744
+	atroviridis         atroviridis        #679267
 
-=item atroviridis         atroviridis        #679267
+	atroviridis         atroviridis        #355e3b
 
-=item atroviridis         atroviridis        #355e3b
+	atroviridis         atroviridis        #3eb489
 
-=item atroviridis         atroviridis        #3eb489
+	atroviridis         atroviridis        #007959
 
-=item atroviridis         atroviridis        #007959
+	atroviridis         atroviridis        #3b7861
 
-=item atroviridis         atroviridis        #3b7861
+	atroviridis         atroviridis        #1b4d3e
 
-=item atroviridis         atroviridis        #1b4d3e
+	atroviridis         atroviridis        #5e716a
 
-=item atroviridis         atroviridis        #5e716a
+	atroviridis         atroviridis        #3a4b47
 
-=item atroviridis         atroviridis        #3a4b47
+	atroviridis         atroviridis        #4e5755
 
-=item atroviridis         atroviridis        #4e5755
+	atroviridis         atroviridis        #317873
 
-=item atroviridis         atroviridis        #317873
+	atroviridis         atroviridis        #004b49
 
-=item atroviridis         atroviridis        #004b49
+	aurantiacus         aurantiacus        #f38400
 
-=item aurantiacus         aurantiacus        #f38400
+	aurantiacus         aurantiacus        #ed872d
 
-=item aurantiacus         aurantiacus        #ed872d
+	aurantiacus         aurantiacus        #eaa221
 
-=item aurantiacus         aurantiacus        #eaa221
+	avellaneus          avellaneus         #c19a6b
 
-=item avellaneus          avellaneus         #c19a6b
+	avellaneus          avellaneus         #826644
 
-=item avellaneus          avellaneus         #826644
+	avellaneus          avellaneus         #ae9b82
 
-=item avellaneus          avellaneus         #ae9b82
+	badius              badius             #ab4e52
 
-=item badius              badius             #ab4e52
+	badius              badius             #905d5d
 
-=item badius              badius             #905d5d
+	badius              badius             #543d3f
 
-=item badius              badius             #543d3f
+	badius              badius             #882d17
 
-=item badius              badius             #882d17
+	badius              badius             #79443b
 
-=item badius              badius             #79443b
+	badius              badius             #674c47
 
-=item badius              badius             #674c47
+	brunneo-vinosus     brunneovinosus     #905d5d
 
-=item brunneo-vinosus     brunneovinosus     #905d5d
+	brunneo-vinosus     brunneovinosus     #543d3f
 
-=item brunneo-vinosus     brunneovinosus     #543d3f
+	brunneo-vinosus     brunneovinosus     #5c504f
 
-=item brunneo-vinosus     brunneovinosus     #5c504f
+	brunneo-vinosus     brunneovinosus     #674c47
 
-=item brunneo-vinosus     brunneovinosus     #674c47
+	brunneo-vinosus     brunneovinosus     #635147
 
-=item brunneo-vinosus     brunneovinosus     #635147
+	brunneo-vinosus     brunneovinosus     #5b504f
 
-=item brunneo-vinosus     brunneovinosus     #5b504f
+	brunneo-vinosus     brunneovinosus     #50404d
 
-=item brunneo-vinosus     brunneovinosus     #50404d
+	brunneo-vinosus     brunneovinosus     #673147
 
-=item brunneo-vinosus     brunneovinosus     #673147
+	bubalinus           bubalinus          #f4c2c2
 
-=item bubalinus           bubalinus          #f4c2c2
+	bubalinus           bubalinus          #e3a857
 
-=item bubalinus           bubalinus          #e3a857
+	bubalinus           bubalinus          #fad6a5
 
-=item bubalinus           bubalinus          #fad6a5
+	bubalinus           bubalinus          #f8de7e
 
-=item bubalinus           bubalinus          #f8de7e
+	bubalinus           bubalinus          #c9ae5d
 
-=item bubalinus           bubalinus          #c9ae5d
+	bubalinus           bubalinus          #f3e5ab
 
-=item bubalinus           bubalinus          #f3e5ab
+	caeruleo-glaucus    caeruleoglaucus    #c7e6d7
 
-=item caeruleo-glaucus    caeruleoglaucus    #c7e6d7
+	caeruleo-glaucus    caeruleoglaucus    #96ded1
 
-=item caeruleo-glaucus    caeruleoglaucus    #96ded1
+	caeruleo-glaucus    caeruleoglaucus    #66aabc
 
-=item caeruleo-glaucus    caeruleoglaucus    #66aabc
+	caeruleo-glaucus    caeruleoglaucus    #bcd4e6
 
-=item caeruleo-glaucus    caeruleoglaucus    #bcd4e6
+	caeruleo-glaucus    caeruleoglaucus    #91a3b0
 
-=item caeruleo-glaucus    caeruleoglaucus    #91a3b0
+	caeruleo-griseus    caeruleogriseus    #bcd4e6
 
-=item caeruleo-griseus    caeruleogriseus    #bcd4e6
+	caeruleo-griseus    caeruleogriseus    #91a3b0
 
-=item caeruleo-griseus    caeruleogriseus    #91a3b0
+	caeruleo-griseus    caeruleogriseus    #536878
 
-=item caeruleo-griseus    caeruleogriseus    #536878
+	caeruleo-griseus    caeruleogriseus    #81878b
 
-=item caeruleo-griseus    caeruleogriseus    #81878b
+	caeruleo-griseus    caeruleogriseus    #8c92ac
 
-=item caeruleo-griseus    caeruleogriseus    #8c92ac
+	caeruleus           caeruleus          #c7e6d7
 
-=item caeruleus           caeruleus          #c7e6d7
+	caeruleus           caeruleus          #96ded1
 
-=item caeruleus           caeruleus          #96ded1
+	caeruleus           caeruleus          #66ada4
 
-=item caeruleus           caeruleus          #66ada4
+	caeruleus           caeruleus          #239eba
 
-=item caeruleus           caeruleus          #239eba
+	caeruleus           caeruleus          #9cd1dc
 
-=item caeruleus           caeruleus          #9cd1dc
+	caeruleus           caeruleus          #66aabc
 
-=item caeruleus           caeruleus          #66aabc
+	caeruleus           caeruleus          #a1caf1
 
-=item caeruleus           caeruleus          #a1caf1
+	caeruleus           caeruleus          #70a3cc
 
-=item caeruleus           caeruleus          #70a3cc
+	caeruleus           caeruleus          #bcd4e6
 
-=item caeruleus           caeruleus          #bcd4e6
+	caeruleus           caeruleus          #91a3b0
 
-=item caeruleus           caeruleus          #91a3b0
+	caesius             caesius            #66aabc
 
-=item caesius             caesius            #66aabc
+	caesius             caesius            #367588
 
-=item caesius             caesius            #367588
+	caesius             caesius            #70a3cc
 
-=item caesius             caesius            #70a3cc
+	caesius             caesius            #436b95
 
-=item caesius             caesius            #436b95
+	caesius             caesius            #91a3b0
 
-=item caesius             caesius            #91a3b0
+	caesius             caesius            #536878
 
-=item caesius             caesius            #536878
+	caesius             caesius            #8791bf
 
-=item caesius             caesius            #8791bf
+	caesius             caesius            #4e5180
 
-=item caesius             caesius            #4e5180
+	caesius             caesius            #8c92ac
 
-=item caesius             caesius            #8c92ac
+	caesius             caesius            #4c516d
 
-=item caesius             caesius            #4c516d
+	castaneus           castaneus          #79443b
 
-=item castaneus           castaneus          #79443b
+	castaneus           castaneus          #3e1d1e
 
-=item castaneus           castaneus          #3e1d1e
+	castaneus           castaneus          #674c47
 
-=item castaneus           castaneus          #674c47
+	castaneus           castaneus          #43302e
 
-=item castaneus           castaneus          #43302e
+	chlorinus           chlorinus          #8a9a5b
 
-=item chlorinus           chlorinus          #8a9a5b
+	chlorinus           chlorinus          #44944a
 
-=item chlorinus           chlorinus          #44944a
+	chlorinus           chlorinus          #679267
 
-=item chlorinus           chlorinus          #679267
+	cinnamomeus         cinnamomeus        #d9a6a9
 
-=item cinnamomeus         cinnamomeus        #d9a6a9
+	cinnamomeus         cinnamomeus        #d99058
 
-=item cinnamomeus         cinnamomeus        #d99058
+	cinnamomeus         cinnamomeus        #a67b5b
 
-=item cinnamomeus         cinnamomeus        #a67b5b
+	cinnamomeus         cinnamomeus        #e3a857
 
-=item cinnamomeus         cinnamomeus        #e3a857
+	cinnamomeus         cinnamomeus        #be8a3d
 
-=item cinnamomeus         cinnamomeus        #be8a3d
+	cinnamomeus         cinnamomeus        #996515
 
-=item cinnamomeus         cinnamomeus        #996515
+	cinnamomeus         cinnamomeus        #c19a6b
 
-=item cinnamomeus         cinnamomeus        #c19a6b
+	cinnamomeus         cinnamomeus        #826644
 
-=item cinnamomeus         cinnamomeus        #826644
+	citrino-viridis     citrinoviridis     #b9b459
 
-=item citrino-viridis     citrinoviridis     #b9b459
+	citrino-viridis     citrinoviridis     #98943e
 
-=item citrino-viridis     citrinoviridis     #98943e
+	citrino-viridis     citrinoviridis     #867e36
 
-=item citrino-viridis     citrinoviridis     #867e36
+	corallinus          corallinus         #e4717a
 
-=item corallinus          corallinus         #e4717a
+	corallinus          corallinus         #ab4e52
 
-=item corallinus          corallinus         #ab4e52
+	corallinus          corallinus         #d9603b
 
-=item corallinus          corallinus         #d9603b
+	corallinus          corallinus         #cb6d51
 
-=item corallinus          corallinus         #cb6d51
+	croceus             croceus            #f4c2c2
 
-=item croceus             croceus            #f4c2c2
+	croceus             croceus            #d99058
 
-=item croceus             croceus            #d99058
+	croceus             croceus            #fbc97f
 
-=item croceus             croceus            #fbc97f
+	croceus             croceus            #e3a857
 
-=item croceus             croceus            #e3a857
+	croceus             croceus            #fad6a5
 
-=item croceus             croceus            #fad6a5
+	cyaneus             cyaneus            #007791
 
-=item cyaneus             cyaneus            #007791
+	cyaneus             cyaneus            #367588
 
-=item cyaneus             cyaneus            #367588
+	cyaneus             cyaneus            #0067a5
 
-=item cyaneus             cyaneus            #0067a5
+	cyaneus             cyaneus            #436b95
 
-=item cyaneus             cyaneus            #436b95
+	electrinus          electrinus         #fada5e
 
-=item electrinus          electrinus         #fada5e
+	electrinus          electrinus         #d4af37
 
-=item electrinus          electrinus         #d4af37
+	electrinus          electrinus         #f8de7e
 
-=item electrinus          electrinus         #f8de7e
+	electrinus          electrinus         #c9ae5d
 
-=item electrinus          electrinus         #c9ae5d
+	ferro-griseus       ferrogriseus       #57554c
 
-=item ferro-griseus       ferrogriseus       #57554c
+	flavo-virens        flavovirens        #beb72e
 
-=item flavo-virens        flavovirens        #beb72e
+	flavo-virens        flavovirens        #eae679
 
-=item flavo-virens        flavovirens        #eae679
+	flavo-virens        flavovirens        #b9b459
 
-=item flavo-virens        flavovirens        #b9b459
+	flavo-virens        flavovirens        #ebe8a4
 
-=item flavo-virens        flavovirens        #ebe8a4
+	flavo-virens        flavovirens        #bdda57
 
-=item flavo-virens        flavovirens        #bdda57
+	flavo-virens        flavovirens        #7e9f2e
 
-=item flavo-virens        flavovirens        #7e9f2e
+	flavo-virens        flavovirens        #c9dc89
 
-=item flavo-virens        flavovirens        #c9dc89
+	flavo-virens        flavovirens        #8a9a5b
 
-=item flavo-virens        flavovirens        #8a9a5b
+	flavo-virens        flavovirens        #dadfb7
 
-=item flavo-virens        flavovirens        #dadfb7
+	flavus              flavus             #fada5e
 
-=item flavus              flavus             #fada5e
+	flavus              flavus             #d4af37
 
-=item flavus              flavus             #d4af37
+	flavus              flavus             #f8de7e
 
-=item flavus              flavus             #f8de7e
+	flavus              flavus             #e9e450
 
-=item flavus              flavus             #e9e450
+	flavus              flavus             #beb72e
 
-=item flavus              flavus             #beb72e
+	fulvus              fulvus             #ae6938
 
-=item fulvus              fulvus             #ae6938
+	fulvus              fulvus             #be8a3d
 
-=item fulvus              fulvus             #be8a3d
+	fulvus              fulvus             #996515
 
-=item fulvus              fulvus             #996515
+	fumosus             fumosus            #c1b6b3
 
-=item fumosus             fumosus            #c1b6b3
+	fumosus             fumosus            #c2ac99
 
-=item fumosus             fumosus            #c2ac99
+	fumosus             fumosus            #ae9b82
 
-=item fumosus             fumosus            #ae9b82
+	fumosus             fumosus            #c2b280
 
-=item fumosus             fumosus            #c2b280
+	fumosus             fumosus            #bfb8a5
 
-=item fumosus             fumosus            #bfb8a5
+	fumosus             fumosus            #f2f3f4
 
-=item fumosus             fumosus            #f2f3f4
+	fumosus             fumosus            #b9b8b5
 
-=item fumosus             fumosus            #b9b8b5
+	fusco-niger         fusconiger         #5c504f
 
-=item fusco-niger         fusconiger         #5c504f
+	fusco-niger         fusconiger         #3e322c
 
-=item fusco-niger         fusconiger         #3e322c
+	fusco-niger         fusconiger         #5b504f
 
-=item fusco-niger         fusconiger         #5b504f
+	fusco-niger         fusconiger         #483c32
 
-=item fusco-niger         fusconiger         #483c32
+	fusco-niger         fusconiger         #50404d
 
-=item fusco-niger         fusconiger         #50404d
+	fusco-niger         fusconiger         #5d555b
 
-=item fusco-niger         fusconiger         #5d555b
+	fusco-niger         fusconiger         #38152c
 
-=item fusco-niger         fusconiger         #38152c
+	fusco-niger         fusconiger         #555555
 
-=item fusco-niger         fusconiger         #555555
+	fuscus              fuscus             #905d5d
 
-=item fuscus              fuscus             #905d5d
+	fuscus              fuscus             #5c504f
 
-=item fuscus              fuscus             #5c504f
+	fuscus              fuscus             #5b504f
 
-=item fuscus              fuscus             #5b504f
+	fuscus              fuscus             #50404d
 
-=item fuscus              fuscus             #50404d
+	fuscus              fuscus             #5d555b
 
-=item fuscus              fuscus             #5d555b
+	glauco-griseus      glaucogriseus      #8f9779
 
-=item glauco-griseus      glaucogriseus      #8f9779
+	glauco-griseus      glaucogriseus      #c7e6d7
 
-=item glauco-griseus      glaucogriseus      #c7e6d7
+	glauco-griseus      glaucogriseus      #8da399
 
-=item glauco-griseus      glaucogriseus      #8da399
+	glauco-griseus      glaucogriseus      #b2beb5
 
-=item glauco-griseus      glaucogriseus      #b2beb5
+	glauco-griseus      glaucogriseus      #7d8984
 
-=item glauco-griseus      glaucogriseus      #7d8984
+	glauco-griseus      glaucogriseus      #91a3b0
 
-=item glauco-griseus      glaucogriseus      #91a3b0
+	glauco-griseus      glaucogriseus      #536878
 
-=item glauco-griseus      glaucogriseus      #536878
+	glauco-griseus      glaucogriseus      #b4bcc0
 
-=item glauco-griseus      glaucogriseus      #b4bcc0
+	glauco-griseus      glaucogriseus      #81878b
 
-=item glauco-griseus      glaucogriseus      #81878b
+	glauco-venetus      glaucovenetus      #8da399
 
-=item glauco-venetus      glaucovenetus      #8da399
+	glauco-venetus      glaucovenetus      #5e716a
 
-=item glauco-venetus      glaucovenetus      #5e716a
+	glauco-venetus      glaucovenetus      #66ada4
 
-=item glauco-venetus      glaucovenetus      #66ada4
+	glauco-venetus      glaucovenetus      #317873
 
-=item glauco-venetus      glaucovenetus      #317873
+	glaucus             glaucus            #93c592
 
-=item glaucus             glaucus            #93c592
+	glaucus             glaucus            #c7e6d7
 
-=item glaucus             glaucus            #c7e6d7
+	glaucus             glaucus            #8da399
 
-=item glaucus             glaucus            #8da399
+	glaucus             glaucus            #66ada4
 
-=item glaucus             glaucus            #66ada4
+	glaucus             glaucus            #9cd1dc
 
-=item glaucus             glaucus            #9cd1dc
+	glaucus             glaucus            #bcd4e6
 
-=item glaucus             glaucus            #bcd4e6
+	griseo-caeruleus    griseocaeruleus    #a1caf1
 
-=item griseo-caeruleus    griseocaeruleus    #a1caf1
+	griseo-caeruleus    griseocaeruleus    #70a3cc
 
-=item griseo-caeruleus    griseocaeruleus    #70a3cc
+	griseo-caeruleus    griseocaeruleus    #bcd4e6
 
-=item griseo-caeruleus    griseocaeruleus    #bcd4e6
+	griseo-caeruleus    griseocaeruleus    #91a3b0
 
-=item griseo-caeruleus    griseocaeruleus    #91a3b0
+	griseo-caeruleus    griseocaeruleus    #b3bce2
 
-=item griseo-caeruleus    griseocaeruleus    #b3bce2
+	griseo-caeruleus    griseocaeruleus    #8791bf
 
-=item griseo-caeruleus    griseocaeruleus    #8791bf
+	griseo-caeruleus    griseocaeruleus    #c0c8e1
 
-=item griseo-caeruleus    griseocaeruleus    #c0c8e1
+	griseo-caeruleus    griseocaeruleus    #8c92ac
 
-=item griseo-caeruleus    griseocaeruleus    #8c92ac
+	griseo-chlorinus    griseochlorinus    #eae679
 
-=item griseo-chlorinus    griseochlorinus    #eae679
+	griseo-chlorinus    griseochlorinus    #b9b459
 
-=item griseo-chlorinus    griseochlorinus    #b9b459
+	griseo-chlorinus    griseochlorinus    #ebe8a4
 
-=item griseo-chlorinus    griseochlorinus    #ebe8a4
+	griseo-chlorinus    griseochlorinus    #b9b57d
 
-=item griseo-chlorinus    griseochlorinus    #b9b57d
+	griseo-chlorinus    griseochlorinus    #c9dc89
 
-=item griseo-chlorinus    griseochlorinus    #c9dc89
+	griseo-chlorinus    griseochlorinus    #8a9a5b
 
-=item griseo-chlorinus    griseochlorinus    #8a9a5b
+	griseo-chlorinus    griseochlorinus    #dadfb7
 
-=item griseo-chlorinus    griseochlorinus    #dadfb7
+	griseo-lavendulus   griseolavendulus   #8791bf
 
-=item griseo-lavendulus   griseolavendulus   #8791bf
+	griseo-lavendulus   griseolavendulus   #c0c8e1
 
-=item griseo-lavendulus   griseolavendulus   #c0c8e1
+	griseo-lavendulus   griseolavendulus   #8c92ac
 
-=item griseo-lavendulus   griseolavendulus   #8c92ac
+	griseo-lavendulus   griseolavendulus   #c4c3dd
 
-=item griseo-lavendulus   griseolavendulus   #c4c3dd
+	griseo-lavendulus   griseolavendulus   #9690ab
 
-=item griseo-lavendulus   griseolavendulus   #9690ab
+	griseo-lavendulus   griseolavendulus   #554c69
 
-=item griseo-lavendulus   griseolavendulus   #554c69
+	griseo-lavendulus   griseolavendulus   #b695c0
 
-=item griseo-lavendulus   griseolavendulus   #b695c0
+	griseo-lavendulus   griseolavendulus   #aa98a9
 
-=item griseo-lavendulus   griseolavendulus   #aa98a9
+	griseo-lavendulus   griseolavendulus   #796878
 
-=item griseo-lavendulus   griseolavendulus   #796878
+	griseo-lavendulus   griseolavendulus   #8b8589
 
-=item griseo-lavendulus   griseolavendulus   #8b8589
+	griseo-lavendulus   griseolavendulus   #c3a6b1
 
-=item griseo-lavendulus   griseolavendulus   #c3a6b1
+	griseo-lazulinus    griseolazulinus    #91a3b0
 
-=item griseo-lazulinus    griseolazulinus    #91a3b0
+	griseo-lazulinus    griseolazulinus    #536878
 
-=item griseo-lazulinus    griseolazulinus    #536878
+	griseo-lazulinus    griseolazulinus    #8c92ac
 
-=item griseo-lazulinus    griseolazulinus    #8c92ac
+	griseo-lazulinus    griseolazulinus    #4c516d
 
-=item griseo-lazulinus    griseolazulinus    #4c516d
+	griseo-lilacinus    griseolilacinus    #dea5a4
 
-=item griseo-lilacinus    griseolilacinus    #dea5a4
+	griseo-lilacinus    griseolilacinus    #aa8a9e
 
-=item griseo-lilacinus    griseolilacinus    #aa8a9e
+	griseo-lilacinus    griseolilacinus    #c3a6b1
 
-=item griseo-lilacinus    griseolilacinus    #c3a6b1
+	griseo-lineus       griseolineus       #4997d0
 
-=item griseo-lineus       griseolineus       #4997d0
+	griseo-lineus       griseolineus       #a1caf1
 
-=item griseo-lineus       griseolineus       #a1caf1
+	griseo-lineus       griseolineus       #70a3cc
 
-=item griseo-lineus       griseolineus       #70a3cc
+	griseo-lineus       griseolineus       #8791bf
 
-=item griseo-lineus       griseolineus       #8791bf
+	griseo-lineus       griseolineus       #c0c8e1
 
-=item griseo-lineus       griseolineus       #c0c8e1
+	griseo-lineus       griseolineus       #8c82b6
 
-=item griseo-lineus       griseolineus       #8c82b6
+	griseo-olivaceous   griseoolivaceous   #8c8767
 
-=item griseo-olivaceous   griseoolivaceous   #8c8767
+	griseo-olivaceous   griseoolivaceous   #8a8776
 
-=item griseo-olivaceous   griseoolivaceous   #8a8776
+	griseo-olivaceous   griseoolivaceous   #57554c
 
-=item griseo-olivaceous   griseoolivaceous   #57554c
+	griseo-roseus       griseoroseus       #ea9399
 
-=item griseo-roseus       griseoroseus       #ea9399
+	griseo-roseus       griseoroseus       #e4717a
 
-=item griseo-roseus       griseoroseus       #e4717a
+	griseo-roseus       griseoroseus       #f9ccca
 
-=item griseo-roseus       griseoroseus       #f9ccca
+	griseo-roseus       griseoroseus       #dea5a4
 
-=item griseo-roseus       griseoroseus       #dea5a4
+	griseo-roseus       griseoroseus       #c08081
 
-=item griseo-roseus       griseoroseus       #c08081
+	griseo-roseus       griseoroseus       #ead8d7
 
-=item griseo-roseus       griseoroseus       #ead8d7
+	griseo-roseus       griseoroseus       #c4aead
 
-=item griseo-roseus       griseoroseus       #c4aead
+	griseo-roseus       griseoroseus       #de6fa1
 
-=item griseo-roseus       griseoroseus       #de6fa1
+	griseo-roseus       griseoroseus       #efbbcc
 
-=item griseo-roseus       griseoroseus       #efbbcc
+	griseo-roseus       griseoroseus       #d597ae
 
-=item griseo-roseus       griseoroseus       #d597ae
+	griseo-roseus       griseoroseus       #c17e91
 
-=item griseo-roseus       griseoroseus       #c17e91
+	griseo-sepiaceus    griseosepiaceus    #977f73
 
-=item griseo-sepiaceus    griseosepiaceus    #977f73
+	griseo-sepiaceus    griseosepiaceus    #958070
 
-=item griseo-sepiaceus    griseosepiaceus    #958070
+	griseo-sepiaceus    griseosepiaceus    #635147
 
-=item griseo-sepiaceus    griseosepiaceus    #635147
+	griseo-sepiaceus    griseosepiaceus    #5b504f
 
-=item griseo-sepiaceus    griseosepiaceus    #5b504f
+	griseo-sepiaceus    griseosepiaceus    #c19a6b
 
-=item griseo-sepiaceus    griseosepiaceus    #c19a6b
+	griseo-sepiaceus    griseosepiaceus    #826644
 
-=item griseo-sepiaceus    griseosepiaceus    #826644
+	griseo-sepiaceus    griseosepiaceus    #ae9b82
 
-=item griseo-sepiaceus    griseosepiaceus    #ae9b82
+	griseo-sepiaceus    griseosepiaceus    #7e6d5a
 
-=item griseo-sepiaceus    griseosepiaceus    #7e6d5a
+	griseo-venetus      griseovenetus      #96ded1
 
-=item griseo-venetus      griseovenetus      #96ded1
+	griseo-venetus      griseovenetus      #66ada4
 
-=item griseo-venetus      griseovenetus      #66ada4
+	griseo-violaceus    griseoviolaceus    #8c92ac
 
-=item griseo-violaceus    griseoviolaceus    #8c92ac
+	griseo-violaceus    griseoviolaceus    #4c516d
 
-=item griseo-violaceus    griseoviolaceus    #4c516d
+	griseo-violaceus    griseoviolaceus    #604e81
 
-=item griseo-violaceus    griseoviolaceus    #604e81
+	griseo-violaceus    griseoviolaceus    #9690ab
 
-=item griseo-violaceus    griseoviolaceus    #9690ab
+	griseo-violaceus    griseoviolaceus    #554c69
 
-=item griseo-violaceus    griseoviolaceus    #554c69
+	griseo-viridis      griseoviridis      #44944a
 
-=item griseo-viridis      griseoviridis      #44944a
+	griseo-viridis      griseoviridis      #93c592
 
-=item griseo-viridis      griseoviridis      #93c592
+	griseo-viridis      griseoviridis      #679267
 
-=item griseo-viridis      griseoviridis      #679267
+	griseo-viridis      griseoviridis      #6aab8e
 
-=item griseo-viridis      griseoviridis      #6aab8e
+	herbaceus           herbaceus          #b9b459
 
-=item herbaceus           herbaceus          #b9b459
+	herbaceus           herbaceus          #98943e
 
-=item herbaceus           herbaceus          #98943e
+	herbaceus           herbaceus          #867e36
 
-=item herbaceus           herbaceus          #867e36
+	herbaceus           herbaceus          #665d1e
 
-=item herbaceus           herbaceus          #665d1e
+	herbaceus           herbaceus          #7e9f2e
 
-=item herbaceus           herbaceus          #7e9f2e
+	herbaceus           herbaceus          #8a9a5b
 
-=item herbaceus           herbaceus          #8a9a5b
+	herbaceus           herbaceus          #8f9779
 
-=item herbaceus           herbaceus          #8f9779
+	herbaceus           herbaceus          #4a5d23
 
-=item herbaceus           herbaceus          #4a5d23
+	herbaceus           herbaceus          #515744
 
-=item herbaceus           herbaceus          #515744
+	herbaceus           herbaceus          #679267
 
-=item herbaceus           herbaceus          #679267
+	herbaceus           herbaceus          #355e3b
 
-=item herbaceus           herbaceus          #355e3b
+	herbaceus           herbaceus          #3b7861
 
-=item herbaceus           herbaceus          #3b7861
+	herbaceus           herbaceus          #5e716a
 
-=item herbaceus           herbaceus          #5e716a
+	herbaceus           herbaceus          #3a4b47
 
-=item herbaceus           herbaceus          #3a4b47
+	hinnuleus           hinnuleus          #977f73
 
-=item hinnuleus           hinnuleus          #977f73
+	hinnuleus           hinnuleus          #a67b5b
 
-=item hinnuleus           hinnuleus          #a67b5b
+	hinnuleus           hinnuleus          #6f4e37
 
-=item hinnuleus           hinnuleus          #6f4e37
+	hinnuleus           hinnuleus          #958070
 
-=item hinnuleus           hinnuleus          #958070
+	hinnuleus           hinnuleus          #635147
 
-=item hinnuleus           hinnuleus          #635147
+	incarnatus          incarnatus         #e4717a
 
-=item incarnatus          incarnatus         #e4717a
+	incarnatus          incarnatus         #dea5a4
 
-=item incarnatus          incarnatus         #dea5a4
+	incarnatus          incarnatus         #f88379
 
-=item incarnatus          incarnatus         #f88379
+	incarnatus          incarnatus         #e66761
 
-=item incarnatus          incarnatus         #e66761
+	incarnatus          incarnatus         #f4c2c2
 
-=item incarnatus          incarnatus         #f4c2c2
+	incarnatus          incarnatus         #d9a6a9
 
-=item incarnatus          incarnatus         #d9a6a9
+	isabellinus         isabellinus        #826644
 
-=item isabellinus         isabellinus        #826644
+	isabellinus         isabellinus        #a18f60
 
-=item isabellinus         isabellinus        #a18f60
+	isabellinus         isabellinus        #967117
 
-=item isabellinus         isabellinus        #967117
+	latericius          latericius         #79443b
 
-=item latericius          latericius         #79443b
+	latericius          latericius         #977f73
 
-=item latericius          latericius         #977f73
+	latericius          latericius         #674c47
 
-=item latericius          latericius         #674c47
+	latericius          latericius         #a67b5b
 
-=item latericius          latericius         #a67b5b
+	latericius          latericius         #6f4e37
 
-=item latericius          latericius         #6f4e37
+	latericius          latericius         #635147
 
-=item latericius          latericius         #635147
+	lavendulo-griseus   lavendulogriseus   #91a3b0
 
-=item lavendulo-griseus   lavendulogriseus   #91a3b0
+	lavendulo-griseus   lavendulogriseus   #b4bcc0
 
-=item lavendulo-griseus   lavendulogriseus   #b4bcc0
+	lavendulo-griseus   lavendulogriseus   #81878b
 
-=item lavendulo-griseus   lavendulogriseus   #81878b
+	lavendulo-griseus   lavendulogriseus   #bfb9bd
 
-=item lavendulo-griseus   lavendulogriseus   #bfb9bd
+	lavendulo-griseus   lavendulogriseus   #8b8589
 
-=item lavendulo-griseus   lavendulogriseus   #8b8589
+	lavendulo-griseus   lavendulogriseus   #848482
 
-=item lavendulo-griseus   lavendulogriseus   #848482
+	lavendulus          lavendulus         #6c79b8
 
-=item lavendulus          lavendulus         #6c79b8
+	lavendulus          lavendulus         #b3bce2
 
-=item lavendulus          lavendulus         #b3bce2
+	lavendulus          lavendulus         #8791bf
 
-=item lavendulus          lavendulus         #8791bf
+	lavendulus          lavendulus         #7e73b8
 
-=item lavendulus          lavendulus         #7e73b8
+	lavendulus          lavendulus         #dcd0ff
 
-=item lavendulus          lavendulus         #dcd0ff
+	lavendulus          lavendulus         #8c82b6
 
-=item lavendulus          lavendulus         #8c82b6
+	lavendulus          lavendulus         #c4c3dd
 
-=item lavendulus          lavendulus         #c4c3dd
+	lavendulus          lavendulus         #9690ab
 
-=item lavendulus          lavendulus         #9690ab
+	lavendulus          lavendulus         #d6cadd
 
-=item lavendulus          lavendulus         #d6cadd
+	lazulino-ardesiacus lazulinoardesiacus #00304e
 
-=item lazulino-ardesiacus lazulinoardesiacus #00304e
+	lazulino-ardesiacus lazulinoardesiacus #536878
 
-=item lazulino-ardesiacus lazulinoardesiacus #536878
+	lazulino-ardesiacus lazulinoardesiacus #36454f
 
-=item lazulino-ardesiacus lazulinoardesiacus #36454f
+	lazulino-ardesiacus lazulinoardesiacus #4c516d
 
-=item lazulino-ardesiacus lazulinoardesiacus #4c516d
+	lazulinus           lazulinus          #00a1c2
 
-=item lazulinus           lazulinus          #00a1c2
+	lazulinus           lazulinus          #4997d0
 
-=item lazulinus           lazulinus          #4997d0
+	lazulinus           lazulinus          #0067a5
 
-=item lazulinus           lazulinus          #0067a5
+	lazulinus           lazulinus          #436b95
 
-=item lazulinus           lazulinus          #436b95
+	lazulinus           lazulinus          #30267a
 
-=item lazulinus           lazulinus          #30267a
+	lazulinus           lazulinus          #6c79b8
 
-=item lazulinus           lazulinus          #6c79b8
+	lazulinus           lazulinus          #545aa7
 
-=item lazulinus           lazulinus          #545aa7
+	lilacinus           lilacinus          #7e73b8
 
-=item lilacinus           lilacinus          #7e73b8
+	lilacinus           lilacinus          #8c82b6
 
-=item lilacinus           lilacinus          #8c82b6
+	lilacinus           lilacinus          #d399e6
 
-=item lilacinus           lilacinus          #d399e6
+	lilacinus           lilacinus          #b695c0
 
-=item lilacinus           lilacinus          #b695c0
+	lilacinus           lilacinus          #86608e
 
-=item lilacinus           lilacinus          #86608e
+	lilacinus           lilacinus          #d6cadd
 
-=item lilacinus           lilacinus          #d6cadd
+	lilacinus           lilacinus          #aa98a9
 
-=item lilacinus           lilacinus          #aa98a9
+	lilacinus           lilacinus          #9e4f88
 
-=item lilacinus           lilacinus          #9e4f88
+	lilacinus           lilacinus          #b784a7
 
-=item lilacinus           lilacinus          #b784a7
+	lilacinus           lilacinus          #915c83
 
-=item lilacinus           lilacinus          #915c83
+	lilacinus           lilacinus          #aa8a9e
 
-=item lilacinus           lilacinus          #aa8a9e
+	lilacinus           lilacinus          #de6fa1
 
-=item lilacinus           lilacinus          #de6fa1
+	lilacinus           lilacinus          #efbbcc
 
-=item lilacinus           lilacinus          #efbbcc
+	lilacinus           lilacinus          #d597ae
 
-=item lilacinus           lilacinus          #d597ae
+	lilacinus           lilacinus          #e8ccd7
 
-=item lilacinus           lilacinus          #e8ccd7
+	lilacinus           lilacinus          #c3a6b1
 
-=item lilacinus           lilacinus          #c3a6b1
+	lineus              lineus             #4997d0
 
-=item lineus              lineus             #4997d0
+	lineus              lineus             #a1caf1
 
-=item lineus              lineus             #a1caf1
+	lineus              lineus             #70a3cc
 
-=item lineus              lineus             #70a3cc
+	lineus              lineus             #bcd4e6
 
-=item lineus              lineus             #bcd4e6
+	lineus              lineus             #91a3b0
 
-=item lineus              lineus             #91a3b0
+	lineus              lineus             #6c79b8
 
-=item lineus              lineus             #6c79b8
+	lineus              lineus             #b3bce2
 
-=item lineus              lineus             #b3bce2
+	lineus              lineus             #8791bf
 
-=item lineus              lineus             #8791bf
+	lineus              lineus             #c0c8e1
 
-=item lineus              lineus             #c0c8e1
+	lineus              lineus             #8c92ac
 
-=item lineus              lineus             #8c92ac
+	livido-purpureus    lividopurpureus    #86608e
 
-=item livido-purpureus    lividopurpureus    #86608e
+	livido-purpureus    lividopurpureus    #b784a7
 
-=item livido-purpureus    lividopurpureus    #b784a7
+	livido-purpureus    lividopurpureus    #915c83
 
-=item livido-purpureus    lividopurpureus    #915c83
+	livido-purpureus    lividopurpureus    #836479
 
-=item livido-purpureus    lividopurpureus    #836479
+	livido-purpureus    lividopurpureus    #a8516e
 
-=item livido-purpureus    lividopurpureus    #a8516e
+	livido-purpureus    lividopurpureus    #915f6d
 
-=item livido-purpureus    lividopurpureus    #915f6d
+	livido-ruber        lividoruber        #a8516e
 
-=item livido-ruber        lividoruber        #a8516e
+	livido-ruber        lividoruber        #915f6d
 
-=item livido-ruber        lividoruber        #915f6d
+	livido-violaceus    lividoviolaceus    #604e97
 
-=item livido-violaceus    lividoviolaceus    #604e97
+	livido-violaceus    lividoviolaceus    #8c82b6
 
-=item livido-violaceus    lividoviolaceus    #8c82b6
+	livido-violaceus    lividoviolaceus    #604e81
 
-=item livido-violaceus    lividoviolaceus    #604e81
+	livido-violaceus    lividoviolaceus    #875692
 
-=item livido-violaceus    lividoviolaceus    #875692
+	livido-violaceus    lividoviolaceus    #86608e
 
-=item livido-violaceus    lividoviolaceus    #86608e
+	livido-violaceus    lividoviolaceus    #796878
 
-=item livido-violaceus    lividoviolaceus    #796878
+	luteolus            luteolus           #fbc97f
 
-=item luteolus            luteolus           #fbc97f
+	luteolus            luteolus           #e3a857
 
-=item luteolus            luteolus           #e3a857
+	luteolus            luteolus           #fada5e
 
-=item luteolus            luteolus           #fada5e
+	luteolus            luteolus           #d4af37
 
-=item luteolus            luteolus           #d4af37
+	luteolus            luteolus           #f8de7e
 
-=item luteolus            luteolus           #f8de7e
+	luteolus            luteolus           #c9ae5d
 
-=item luteolus            luteolus           #c9ae5d
+	luteus              luteus             #ed872d
 
-=item luteus              luteus             #ed872d
+	luteus              luteus             #eaa221
 
-=item luteus              luteus             #eaa221
+	luteus              luteus             #f3c300
 
-=item luteus              luteus             #f3c300
+	luteus              luteus             #d4af37
 
-=item luteus              luteus             #d4af37
+	malachiteus         malachiteus        #93c592
 
-=item malachiteus         malachiteus        #93c592
+	malachiteus         malachiteus        #679267
 
-=item malachiteus         malachiteus        #679267
+	malachiteus         malachiteus        #3b7861
 
-=item malachiteus         malachiteus        #3b7861
+	malvaceus           malvaceus          #d399e6
 
-=item malvaceus           malvaceus          #d399e6
+	malvaceus           malvaceus          #875692
 
-=item malvaceus           malvaceus          #875692
+	malvaceus           malvaceus          #b695c0
 
-=item malvaceus           malvaceus          #b695c0
+	malvaceus           malvaceus          #9e4f88
 
-=item malvaceus           malvaceus          #9e4f88
+	malvaceus           malvaceus          #de6fa1
 
-=item malvaceus           malvaceus          #de6fa1
+	melleus             melleus            #e3a857
 
-=item melleus             melleus            #e3a857
+	melleus             melleus            #996515
 
-=item melleus             melleus            #996515
+	melleus             melleus            #c19a6b
 
-=item melleus             melleus            #c19a6b
+	melleus             melleus            #826644
 
-=item melleus             melleus            #826644
+	melleus             melleus            #c9ae5d
 
-=item melleus             melleus            #c9ae5d
+	melleus             melleus            #ab9144
 
-=item melleus             melleus            #ab9144
+	melleus             melleus            #967117
 
-=item melleus             melleus            #967117
+	miniatus            miniatus           #e25822
 
-=item miniatus            miniatus           #e25822
+	miniatus            miniatus           #d9603b
 
-=item miniatus            miniatus           #d9603b
+	miniatus            miniatus           #cb6d51
 
-=item miniatus            miniatus           #cb6d51
+	miniatus            miniatus           #9e4732
 
-=item miniatus            miniatus           #9e4732
+	murinus             murinus            #5b504f
 
-=item murinus             murinus            #5b504f
+	murinus             murinus            #4b3621
 
-=item murinus             murinus            #4b3621
+	murinus             murinus            #848482
 
-=item murinus             murinus            #848482
+	murinus             murinus            #555555
 
-=item murinus             murinus            #555555
+	niger               niger              #5b504f
 
-=item niger               niger              #5b504f
+	niger               niger              #57554c
 
-=item niger               niger              #57554c
+	niger               niger              #36454f
 
-=item niger               niger              #36454f
+	niger               niger              #50404d
 
-=item niger               niger              #50404d
+	niger               niger              #5d555b
 
-=item niger               niger              #5d555b
+	niger               niger              #555555
 
-=item niger               niger              #555555
+	niger               niger              #222222
 
-=item niger               niger              #222222
+	obscuro-virens      obscurovirens      #665d1e
 
-=item obscuro-virens      obscurovirens      #665d1e
+	obscuro-virens      obscurovirens      #5b5842
 
-=item obscuro-virens      obscurovirens      #5b5842
+	obscuro-virens      obscurovirens      #4a5d23
 
-=item obscuro-virens      obscurovirens      #4a5d23
+	obscuro-virens      obscurovirens      #515744
 
-=item obscuro-virens      obscurovirens      #515744
+	obscuro-virens      obscurovirens      #3b7861
 
-=item obscuro-virens      obscurovirens      #3b7861
+	obscuro-virens      obscurovirens      #1b4d3e
 
-=item obscuro-virens      obscurovirens      #1b4d3e
+	obscuro-virens      obscurovirens      #5e716a
 
-=item obscuro-virens      obscurovirens      #5e716a
+	obscuro-virens      obscurovirens      #3a4b47
 
-=item obscuro-virens      obscurovirens      #3a4b47
+	ochraceus           ochraceus          #f4c2c2
 
-=item ochraceus           ochraceus          #f4c2c2
+	ochraceus           ochraceus          #d9a6a9
 
-=item ochraceus           ochraceus          #d9a6a9
+	ochraceus           ochraceus          #ed872d
 
-=item ochraceus           ochraceus          #ed872d
+	ochraceus           ochraceus          #d99058
 
-=item ochraceus           ochraceus          #d99058
+	ochraceus           ochraceus          #eaa221
 
-=item ochraceus           ochraceus          #eaa221
+	ochraceus           ochraceus          #c98500
 
-=item ochraceus           ochraceus          #c98500
+	ochraceus           ochraceus          #be8a3d
 
-=item ochraceus           ochraceus          #be8a3d
+	olivaceo-bubalinus  olivaceobubalinus  #f3e5ab
 
-=item olivaceo-bubalinus  olivaceobubalinus  #f3e5ab
+	olivaceo-bubalinus  olivaceobubalinus  #c2b280
 
-=item olivaceo-bubalinus  olivaceobubalinus  #c2b280
+	olivaceo-citrinus   olivaceocitrinus   #af8d13
 
-=item olivaceo-citrinus   olivaceocitrinus   #af8d13
+	olivaceo-citrinus   olivaceocitrinus   #ab9144
 
-=item olivaceo-citrinus   olivaceocitrinus   #ab9144
+	olivaceo-citrinus   olivaceocitrinus   #967117
 
-=item olivaceo-citrinus   olivaceocitrinus   #967117
+	olivaceo-citrinus   olivaceocitrinus   #6c541e
 
-=item olivaceo-citrinus   olivaceocitrinus   #6c541e
+	olivaceo-citrinus   olivaceocitrinus   #98943e
 
-=item olivaceo-citrinus   olivaceocitrinus   #98943e
+	olivaceo-citrinus   olivaceocitrinus   #867e36
 
-=item olivaceo-citrinus   olivaceocitrinus   #867e36
+	olivaceo-citrinus   olivaceocitrinus   #665d1e
 
-=item olivaceo-citrinus   olivaceocitrinus   #665d1e
+	olivaceo-griseus    olivaceogriseus    #5b5842
 
-=item olivaceo-griseus    olivaceogriseus    #5b5842
+	olivaceo-griseus    olivaceogriseus    #8a8776
 
-=item olivaceo-griseus    olivaceogriseus    #8a8776
+	olivaceo-griseus    olivaceogriseus    #57554c
 
-=item olivaceo-griseus    olivaceogriseus    #57554c
+	olivaceo-niger      olivaceoniger      #57554c
 
-=item olivaceo-niger      olivaceoniger      #57554c
+	olivaceo-niger      olivaceoniger      #515744
 
-=item olivaceo-niger      olivaceoniger      #515744
+	olivaceo-niger      olivaceoniger      #31362b
 
-=item olivaceo-niger      olivaceoniger      #31362b
+	olivaceo-niger      olivaceoniger      #4e5755
 
-=item olivaceo-niger      olivaceoniger      #4e5755
+	olivaceo-niger      olivaceoniger      #555555
 
-=item olivaceo-niger      olivaceoniger      #555555
+	olivaceus           olivaceus          #7e6d5a
 
-=item olivaceus           olivaceus          #7e6d5a
+	olivaceus           olivaceus          #483c32
 
-=item olivaceus           olivaceus          #483c32
+	olivaceus           olivaceus          #ab9144
 
-=item olivaceus           olivaceus          #ab9144
+	olivaceus           olivaceus          #a18f60
 
-=item olivaceus           olivaceus          #a18f60
+	olivaceus           olivaceus          #967117
 
-=item olivaceus           olivaceus          #967117
+	olivaceus           olivaceus          #6c541e
 
-=item olivaceus           olivaceus          #6c541e
+	olivaceus           olivaceus          #98943e
 
-=item olivaceus           olivaceus          #98943e
+	olivaceus           olivaceus          #867e36
 
-=item olivaceus           olivaceus          #867e36
+	olivaceus           olivaceus          #665d1e
 
-=item olivaceus           olivaceus          #665d1e
+	olivaceus           olivaceus          #5b5842
 
-=item olivaceus           olivaceus          #5b5842
+	persicinus          persicinus         #f88379
 
-=item persicinus          persicinus         #f88379
+	persicinus          persicinus         #f4c2c2
 
-=item persicinus          persicinus         #f4c2c2
+	persicinus          persicinus         #d9a6a9
 
-=item persicinus          persicinus         #d9a6a9
+	persicinus          persicinus         #d9603b
 
-=item persicinus          persicinus         #d9603b
+	persicinus          persicinus         #cb6d51
 
-=item persicinus          persicinus         #cb6d51
+	persicinus          persicinus         #fd943f
 
-=item persicinus          persicinus         #fd943f
+	persicinus          persicinus         #fab57f
 
-=item persicinus          persicinus         #fab57f
+	persicinus          persicinus         #d99058
 
-=item persicinus          persicinus         #d99058
+	pistaceus           pistaceus          #8a9a5b
 
-=item pistaceus           pistaceus          #8a9a5b
+	pistaceus           pistaceus          #8f9779
 
-=item pistaceus           pistaceus          #8f9779
+	pistaceus           pistaceus          #93c592
 
-=item pistaceus           pistaceus          #93c592
+	pistaceus           pistaceus          #679267
 
-=item pistaceus           pistaceus          #679267
+	pistaceus           pistaceus          #6aab8e
 
-=item pistaceus           pistaceus          #6aab8e
+	pistaceus           pistaceus          #8da399
 
-=item pistaceus           pistaceus          #8da399
+	pistaceus           pistaceus          #5e716a
 
-=item pistaceus           pistaceus          #5e716a
+	plumbeo-niger       plumbeoniger       #51585e
 
-=item plumbeo-niger       plumbeoniger       #51585e
+	plumbeus            plumbeus           #91a3b0
 
-=item plumbeus            plumbeus           #91a3b0
+	plumbeus            plumbeus           #536878
 
-=item plumbeus            plumbeus           #536878
+	plumbeus            plumbeus           #81878b
 
-=item plumbeus            plumbeus           #81878b
+	plumbeus            plumbeus           #51585e
 
-=item plumbeus            plumbeus           #51585e
+	prasinus            prasinus           #c9dc89
 
-=item prasinus            prasinus           #c9dc89
+	prasinus            prasinus           #b6e5af
 
-=item prasinus            prasinus           #b6e5af
+	prasinus            prasinus           #93c592
 
-=item prasinus            prasinus           #93c592
+	prasinus            prasinus           #8ed1b2
 
-=item prasinus            prasinus           #8ed1b2
+	prasinus            prasinus           #c7e6d7
 
-=item prasinus            prasinus           #c7e6d7
+	primulinus          primulinus         #f3e5ab
 
-=item primulinus          primulinus         #f3e5ab
+	primulinus          primulinus         #eae679
 
-=item primulinus          primulinus         #eae679
+	primulinus          primulinus         #b9b459
 
-=item primulinus          primulinus         #b9b459
+	purpureo-ardesiacus purpureoardesiacus #796878
 
-=item purpureo-ardesiacus purpureoardesiacus #796878
+	purpureo-ardesiacus purpureoardesiacus #50404d
 
-=item purpureo-ardesiacus purpureoardesiacus #50404d
+	purpureo-ardesiacus purpureoardesiacus #5d3954
 
-=item purpureo-ardesiacus purpureoardesiacus #5d3954
+	purpureo-ardesiacus purpureoardesiacus #836479
 
-=item purpureo-ardesiacus purpureoardesiacus #836479
+	purpureo-griseus    purpureogriseus    #796878
 
-=item purpureo-griseus    purpureogriseus    #796878
+	purpureo-griseus    purpureogriseus    #8b8589
 
-=item purpureo-griseus    purpureogriseus    #8b8589
+	purpureo-griseus    purpureogriseus    #5d555b
 
-=item purpureo-griseus    purpureogriseus    #5d555b
+	purpureo-griseus    purpureogriseus    #848482
 
-=item purpureo-griseus    purpureogriseus    #848482
+	purpureus           purpureus          #9a4eae
 
-=item purpureus           purpureus          #9a4eae
+	purpureus           purpureus          #875692
 
-=item purpureus           purpureus          #875692
+	purpureus           purpureus          #602f6b
 
-=item purpureus           purpureus          #602f6b
+	purpureus           purpureus          #86608e
 
-=item purpureus           purpureus          #86608e
+	purpureus           purpureus          #870074
 
-=item purpureus           purpureus          #870074
+	purpureus           purpureus          #9e4f88
 
-=item purpureus           purpureus          #9e4f88
+	purpureus           purpureus          #702963
 
-=item purpureus           purpureus          #702963
+	purpureus           purpureus          #b3446c
 
-=item purpureus           purpureus          #b3446c
+	purpureus           purpureus          #78184a
 
-=item purpureus           purpureus          #78184a
+	purpureus           purpureus          #a8516e
 
-=item purpureus           purpureus          #a8516e
+	purpureus           purpureus          #915f6d
 
-=item purpureus           purpureus          #915f6d
+	roseo-bubalinus     roseobubalinus     #f4c2c2
 
-=item roseo-bubalinus     roseobubalinus     #f4c2c2
+	roseo-bubalinus     roseobubalinus     #d9a6a9
 
-=item roseo-bubalinus     roseobubalinus     #d9a6a9
+	roseo-bubalinus     roseobubalinus     #ecd5c5
 
-=item roseo-bubalinus     roseobubalinus     #ecd5c5
+	roseo-bubalinus     roseobubalinus     #c7ada3
 
-=item roseo-bubalinus     roseobubalinus     #c7ada3
+	roseo-bubalinus     roseobubalinus     #c2ac99
 
-=item roseo-bubalinus     roseobubalinus     #c2ac99
+	roseo-bubalinus     roseobubalinus     #fad6a5
 
-=item roseo-bubalinus     roseobubalinus     #fad6a5
+	roseo-vinosus       roseovinosus       #f4c2c2
 
-=item roseo-vinosus       roseovinosus       #f4c2c2
+	roseo-vinosus       roseovinosus       #d9a6a9
 
-=item roseo-vinosus       roseovinosus       #d9a6a9
+	roseo-vinosus       roseovinosus       #ecd5c5
 
-=item roseo-vinosus       roseovinosus       #ecd5c5
+	roseo-vinosus       roseovinosus       #c7ada3
 
-=item roseo-vinosus       roseovinosus       #c7ada3
+	roseo-vinosus       roseovinosus       #b4745e
 
-=item roseo-vinosus       roseovinosus       #b4745e
+	roseo-vinosus       roseovinosus       #a87c6d
 
-=item roseo-vinosus       roseovinosus       #a87c6d
+	roseus              roseus             #ffb5ba
 
-=item roseus              roseus             #ffb5ba
+	roseus              roseus             #ea9399
 
-=item roseus              roseus             #ea9399
+	roseus              roseus             #e4717a
 
-=item roseus              roseus             #e4717a
+	roseus              roseus             #ab4e52
 
-=item roseus              roseus             #ab4e52
+	roseus              roseus             #f88379
 
-=item roseus              roseus             #f88379
+	roseus              roseus             #e66761
 
-=item roseus              roseus             #e66761
+	roseus              roseus             #9e4f88
 
-=item roseus              roseus             #9e4f88
+	roseus              roseus             #ffc8d6
 
-=item roseus              roseus             #ffc8d6
+	roseus              roseus             #e68fac
 
-=item roseus              roseus             #e68fac
+	roseus              roseus             #de6fa1
 
-=item roseus              roseus             #de6fa1
+	roseus              roseus             #efbbcc
 
-=item roseus              roseus             #efbbcc
+	roseus              roseus             #ce4676
 
-=item roseus              roseus             #ce4676
+	roseus              roseus             #b3446c
 
-=item roseus              roseus             #b3446c
+	ruber               ruber              #be0032
 
-=item ruber               ruber              #be0032
+	ruber               ruber              #bc3f4a
 
-=item ruber               ruber              #bc3f4a
+	ruber               ruber              #ce4676
 
-=item ruber               ruber              #ce4676
+	ruber               ruber              #78184a
 
-=item ruber               ruber              #78184a
+	ruber               ruber              #a8516e
 
-=item ruber               ruber              #a8516e
+	ruber               ruber              #915f6d
 
-=item ruber               ruber              #915f6d
+	salmoneus           salmoneus          #d9a6a9
 
-=item salmoneus           salmoneus          #d9a6a9
+	salmoneus           salmoneus          #ecd5c5
 
-=item salmoneus           salmoneus          #ecd5c5
+	salmoneus           salmoneus          #c2ac99
 
-=item salmoneus           salmoneus          #c2ac99
+	salmoneus           salmoneus          #fab57f
 
-=item salmoneus           salmoneus          #fab57f
+	salmoneus           salmoneus          #d99058
 
-=item salmoneus           salmoneus          #d99058
+	salmoneus           salmoneus          #e3a857
 
-=item salmoneus           salmoneus          #e3a857
+	salmoneus           salmoneus          #fad6a5
 
-=item salmoneus           salmoneus          #fad6a5
+	salmoneus           salmoneus          #f3e5ab
 
-=item salmoneus           salmoneus          #f3e5ab
+	senatus             senatus            #be6516
 
-=item senatus             senatus            #be6516
+	senatus             senatus            #c98500
 
-=item senatus             senatus            #c98500
+	senatus             senatus            #be8a3d
 
-=item senatus             senatus            #be8a3d
+	senatus             senatus            #996515
 
-=item senatus             senatus            #996515
+	sepiaceus           sepiaceus          #6f4e37
 
-=item sepiaceus           sepiaceus          #6f4e37
+	sepiaceus           sepiaceus          #635147
 
-=item sepiaceus           sepiaceus          #635147
+	sepiaceus           sepiaceus          #826644
 
-=item sepiaceus           sepiaceus          #826644
+	sepiaceus           sepiaceus          #7e6d5a
 
-=item sepiaceus           sepiaceus          #7e6d5a
+	sepiaceus           sepiaceus          #483c32
 
-=item sepiaceus           sepiaceus          #483c32
+	sepiaceus           sepiaceus          #6c541e
 
-=item sepiaceus           sepiaceus          #6c541e
+	stramineus          stramineus         #f8de7e
 
-=item stramineus          stramineus         #f8de7e
+	stramineus          stramineus         #f3e5ab
 
-=item stramineus          stramineus         #f3e5ab
+	stramineus          stramineus         #eae679
 
-=item stramineus          stramineus         #eae679
+	stramineus          stramineus         #b9b459
 
-=item stramineus          stramineus         #b9b459
+	stramineus          stramineus         #ebe8a4
 
-=item stramineus          stramineus         #ebe8a4
+	sublazulinus        sublazulinus       #4997d0
 
-=item sublazulinus        sublazulinus       #4997d0
+	sublazulinus        sublazulinus       #0067a5
 
-=item sublazulinus        sublazulinus       #0067a5
+	sublazulinus        sublazulinus       #a1caf1
 
-=item sublazulinus        sublazulinus       #a1caf1
+	sublazulinus        sublazulinus       #70a3cc
 
-=item sublazulinus        sublazulinus       #70a3cc
+	sublazulinus        sublazulinus       #bcd4e6
 
-=item sublazulinus        sublazulinus       #bcd4e6
+	sublazulinus        sublazulinus       #91a3b0
 
-=item sublazulinus        sublazulinus       #91a3b0
+	sublazulinus        sublazulinus       #30267a
 
-=item sublazulinus        sublazulinus       #30267a
+	sublazulinus        sublazulinus       #6c79b8
 
-=item sublazulinus        sublazulinus       #6c79b8
+	sublazulinus        sublazulinus       #545aa7
 
-=item sublazulinus        sublazulinus       #545aa7
+	sublazulinus        sublazulinus       #b3bce2
 
-=item sublazulinus        sublazulinus       #b3bce2
+	sublazulinus        sublazulinus       #8791bf
 
-=item sublazulinus        sublazulinus       #8791bf
+	sublazulinus        sublazulinus       #c0c8e1
 
-=item sublazulinus        sublazulinus       #c0c8e1
+	sublazulinus        sublazulinus       #8c92ac
 
-=item sublazulinus        sublazulinus       #8c92ac
+	submurinus          submurinus         #c1b6b3
 
-=item submurinus          submurinus         #c1b6b3
+	submurinus          submurinus         #8e8279
 
-=item submurinus          submurinus         #8e8279
+	submurinus          submurinus         #bfb8a5
 
-=item submurinus          submurinus         #bfb8a5
+	submurinus          submurinus         #b9b8b5
 
-=item submurinus          submurinus         #b9b8b5
+	subolivaceo-griseus subolivaceogriseus #f0ead6
 
-=item subolivaceo-griseus subolivaceogriseus #f0ead6
+	subolivaceo-griseus subolivaceogriseus #bfb8a5
 
-=item subolivaceo-griseus subolivaceogriseus #bfb8a5
+	subolivaceo-griseus subolivaceogriseus #8c8767
 
-=item subolivaceo-griseus subolivaceogriseus #8c8767
+	subolivaceo-griseus subolivaceogriseus #8a8776
 
-=item subolivaceo-griseus subolivaceogriseus #8a8776
+	subpurpureo-griseus subpurpureogriseus #bfb9bd
 
-=item subpurpureo-griseus subpurpureogriseus #bfb9bd
+	subpurpureo-griseus subpurpureogriseus #8b8589
 
-=item subpurpureo-griseus subpurpureogriseus #8b8589
+	subvinoso-griseus   subvinosogriseus   #c4aead
 
-=item subvinoso-griseus   subvinosogriseus   #c4aead
+	subvinoso-griseus   subvinosogriseus   #c1b6b3
 
-=item subvinoso-griseus   subvinosogriseus   #c1b6b3
+	subvinoso-griseus   subvinosogriseus   #ad8884
 
-=item subvinoso-griseus   subvinosogriseus   #ad8884
+	subvinoso-griseus   subvinosogriseus   #905d5d
 
-=item subvinoso-griseus   subvinosogriseus   #905d5d
+	subvinoso-griseus   subvinosogriseus   #8f817f
 
-=item subvinoso-griseus   subvinosogriseus   #8f817f
+	subvinoso-griseus   subvinosogriseus   #958070
 
-=item subvinoso-griseus   subvinosogriseus   #958070
+	subvinoso-griseus   subvinosogriseus   #aa98a9
 
-=item subvinoso-griseus   subvinosogriseus   #aa98a9
+	subvinoso-griseus   subvinosogriseus   #796878
 
-=item subvinoso-griseus   subvinosogriseus   #796878
+	subvinoso-griseus   subvinosogriseus   #bfb9bd
 
-=item subvinoso-griseus   subvinosogriseus   #bfb9bd
+	subvinoso-griseus   subvinosogriseus   #8b8589
 
-=item subvinoso-griseus   subvinosogriseus   #8b8589
+	subvinoso-griseus   subvinosogriseus   #e8ccd7
 
-=item subvinoso-griseus   subvinosogriseus   #e8ccd7
+	subvinoso-griseus   subvinosogriseus   #c3a6b1
 
-=item subvinoso-griseus   subvinosogriseus   #c3a6b1
+	subvinosus          subvinosus         #f9ccca
 
-=item subvinosus          subvinosus         #f9ccca
+	subvinosus          subvinosus         #dea5a4
 
-=item subvinosus          subvinosus         #dea5a4
+	subvinosus          subvinosus         #ead8d7
 
-=item subvinosus          subvinosus         #ead8d7
+	subvinosus          subvinosus         #c4aead
 
-=item subvinosus          subvinosus         #c4aead
+	subvinosus          subvinosus         #c1b6b3
 
-=item subvinosus          subvinosus         #c1b6b3
+	subvinosus          subvinosus         #ecd5c5
 
-=item subvinosus          subvinosus         #ecd5c5
+	subvinosus          subvinosus         #c7ada3
 
-=item subvinosus          subvinosus         #c7ada3
+	subviolaceous       subviolaceous      #30267a
 
-=item subviolaceous       subviolaceous      #30267a
+	subviolaceous       subviolaceous      #6c79b8
 
-=item subviolaceous       subviolaceous      #6c79b8
+	subviolaceous       subviolaceous      #545aa7
 
-=item subviolaceous       subviolaceous      #545aa7
+	subviolaceous       subviolaceous      #b3bce2
 
-=item subviolaceous       subviolaceous      #b3bce2
+	subviolaceous       subviolaceous      #8791bf
 
-=item subviolaceous       subviolaceous      #8791bf
+	subviolaceous       subviolaceous      #c0c8e1
 
-=item subviolaceous       subviolaceous      #c0c8e1
+	subviolaceous       subviolaceous      #8c92ac
 
-=item subviolaceous       subviolaceous      #8c92ac
+	subviolaceous       subviolaceous      #7e73b8
 
-=item subviolaceous       subviolaceous      #7e73b8
+	subviolaceous       subviolaceous      #dcd0ff
 
-=item subviolaceous       subviolaceous      #dcd0ff
+	subviolaceous       subviolaceous      #8c82b6
 
-=item subviolaceous       subviolaceous      #8c82b6
+	subviolaceous       subviolaceous      #c4c3dd
 
-=item subviolaceous       subviolaceous      #c4c3dd
+	subviolaceous       subviolaceous      #9690ab
 
-=item subviolaceous       subviolaceous      #9690ab
+	subviolaceous       subviolaceous      #d399e6
 
-=item subviolaceous       subviolaceous      #d399e6
+	subviolaceous       subviolaceous      #d5badb
 
-=item subviolaceous       subviolaceous      #d5badb
+	subviolaceous       subviolaceous      #b695c0
 
-=item subviolaceous       subviolaceous      #b695c0
+	subviridi-griseus   subviridigriseus   #b4bcc0
 
-=item subviridi-griseus   subviridigriseus   #b4bcc0
+	subviridi-griseus   subviridigriseus   #b9b8b5
 
-=item subviridi-griseus   subviridigriseus   #b9b8b5
+	subviridis          subviridis         #bdda57
 
-=item subviridis          subviridis         #bdda57
+	subviridis          subviridis         #c9dc89
 
-=item subviridis          subviridis         #c9dc89
+	subviridis          subviridis         #dadfb7
 
-=item subviridis          subviridis         #dadfb7
+	subviridis          subviridis         #83d37d
 
-=item subviridis          subviridis         #83d37d
+	subviridis          subviridis         #93c592
 
-=item subviridis          subviridis         #93c592
+	sulphureus          sulphureus         #e9e450
 
-=item sulphureus          sulphureus         #e9e450
+	sulphureus          sulphureus         #eae679
 
-=item sulphureus          sulphureus         #eae679
+	sulphureus          sulphureus         #b9b459
 
-=item sulphureus          sulphureus         #b9b459
+	sulphureus          sulphureus         #ebe8a4
 
-=item sulphureus          sulphureus         #ebe8a4
+	testaceus           testaceus          #f88379
 
-=item testaceus           testaceus          #f88379
+	testaceus           testaceus          #d9a6a9
 
-=item testaceus           testaceus          #d9a6a9
+	testaceus           testaceus          #b4745e
 
-=item testaceus           testaceus          #b4745e
+	testaceus           testaceus          #a87c6d
 
-=item testaceus           testaceus          #a87c6d
+	testaceus           testaceus          #79443b
 
-=item testaceus           testaceus          #79443b
+	testaceus           testaceus          #d99058
 
-=item testaceus           testaceus          #d99058
+	testaceus           testaceus          #a67b5b
 
-=item testaceus           testaceus          #a67b5b
+	umbrinus            umbrinus           #79443b
 
-=item umbrinus            umbrinus           #79443b
+	umbrinus            umbrinus           #674c47
 
-=item umbrinus            umbrinus           #674c47
+	umbrinus            umbrinus           #80461b
 
-=item umbrinus            umbrinus           #80461b
+	umbrinus            umbrinus           #a67b5b
 
-=item umbrinus            umbrinus           #a67b5b
+	umbrinus            umbrinus           #6f4e37
 
-=item umbrinus            umbrinus           #6f4e37
+	umbrinus            umbrinus           #996515
 
-=item umbrinus            umbrinus           #996515
+	umbrinus            umbrinus           #826644
 
-=item umbrinus            umbrinus           #826644
+	umbrinus            umbrinus           #4b3621
 
-=item umbrinus            umbrinus           #4b3621
+	venetus             venetus            #00a693
 
-=item venetus             venetus            #00a693
+	venetus             venetus            #007a74
 
-=item venetus             venetus            #007a74
+	venetus             venetus            #66ada4
 
-=item venetus             venetus            #66ada4
+	venetus             venetus            #317873
 
-=item venetus             venetus            #317873
+	vinoso-bubalinus    vinosobubalinus    #c1b6b3
 
-=item vinoso-bubalinus    vinosobubalinus    #c1b6b3
+	vinoso-bubalinus    vinosobubalinus    #f4c2c2
 
-=item vinoso-bubalinus    vinosobubalinus    #f4c2c2
+	vinoso-bubalinus    vinosobubalinus    #d9a6a9
 
-=item vinoso-bubalinus    vinosobubalinus    #d9a6a9
+	vinoso-bubalinus    vinosobubalinus    #ecd5c5
 
-=item vinoso-bubalinus    vinosobubalinus    #ecd5c5
+	vinoso-bubalinus    vinosobubalinus    #c7ada3
 
-=item vinoso-bubalinus    vinosobubalinus    #c7ada3
+	vinoso-bubalinus    vinosobubalinus    #c2ac99
 
-=item vinoso-bubalinus    vinosobubalinus    #c2ac99
+	vinoso-bubalinus    vinosobubalinus    #c19a6b
 
-=item vinoso-bubalinus    vinosobubalinus    #c19a6b
+	vinoso-bubalinus    vinosobubalinus    #ae9b82
 
-=item vinoso-bubalinus    vinosobubalinus    #ae9b82
+	vinoso-griseus      vinosogriseus      #905d5d
 
-=item vinoso-griseus      vinosogriseus      #905d5d
+	vinoso-griseus      vinosogriseus      #5c504f
 
-=item vinoso-griseus      vinosogriseus      #5c504f
+	vinoso-griseus      vinosogriseus      #977f73
 
-=item vinoso-griseus      vinosogriseus      #977f73
+	vinoso-griseus      vinosogriseus      #958070
 
-=item vinoso-griseus      vinosogriseus      #958070
+	vinoso-griseus      vinosogriseus      #635147
 
-=item vinoso-griseus      vinosogriseus      #635147
+	vinoso-griseus      vinosogriseus      #796878
 
-=item vinoso-griseus      vinosogriseus      #796878
+	vinoso-lividus      vinosolividus      #ad8884
 
-=item vinoso-lividus      vinosolividus      #ad8884
+	vinoso-lividus      vinosolividus      #905d5d
 
-=item vinoso-lividus      vinosolividus      #905d5d
+	vinoso-lividus      vinosolividus      #a87c6d
 
-=item vinoso-lividus      vinosolividus      #a87c6d
+	vinoso-lividus      vinosolividus      #674c47
 
-=item vinoso-lividus      vinosolividus      #674c47
+	vinoso-lividus      vinosolividus      #c17e91
 
-=item vinoso-lividus      vinosolividus      #c17e91
+	vinoso-lividus      vinosolividus      #915f6d
 
-=item vinoso-lividus      vinosolividus      #915f6d
+	vinoso-purpureus    vinosopurpureus    #836479
 
-=item vinoso-purpureus    vinosopurpureus    #836479
+	vinosus             vinosus            #e4717a
 
-=item vinosus             vinosus            #e4717a
+	vinosus             vinosus            #c08081
 
-=item vinosus             vinosus            #c08081
+	vinosus             vinosus            #905d5d
 
-=item vinosus             vinosus            #905d5d
+	vinosus             vinosus            #f88379
 
-=item vinosus             vinosus            #f88379
+	violaceo-ardesiacus violaceoardesiacus #796878
 
-=item violaceo-ardesiacus violaceoardesiacus #796878
+	violaceo-ardesiacus violaceoardesiacus #50404d
 
-=item violaceo-ardesiacus violaceoardesiacus #50404d
+	violaceo-ardesiacus violaceoardesiacus #5d555b
 
-=item violaceo-ardesiacus violaceoardesiacus #5d555b
+	violaceo-griseus    violaceogriseus    #536878
 
-=item violaceo-griseus    violaceogriseus    #536878
+	violaceo-griseus    violaceogriseus    #4c516d
 
-=item violaceo-griseus    violaceogriseus    #4c516d
+	violaceo-griseus    violaceogriseus    #796878
 
-=item violaceo-griseus    violaceogriseus    #796878
+	violaceo-griseus    violaceogriseus    #8b8589
 
-=item violaceo-griseus    violaceogriseus    #8b8589
+	violaceo-griseus    violaceogriseus    #5d555b
 
-=item violaceo-griseus    violaceogriseus    #5d555b
+	violaceo-griseus    violaceogriseus    #848482
 
-=item violaceo-griseus    violaceogriseus    #848482
+	violaceo-griseus    violaceogriseus    #555555
 
-=item violaceo-griseus    violaceogriseus    #555555
+	violaceo-niger      violaceoniger      #50404d
 
-=item violaceo-niger      violaceoniger      #50404d
+	violaceo-niger      violaceoniger      #5d555b
 
-=item violaceo-niger      violaceoniger      #5d555b
+	violaceo-niger      violaceoniger      #555555
 
-=item violaceo-niger      violaceoniger      #555555
+	violaceo-niger      violaceoniger      #222222
 
-=item violaceo-niger      violaceoniger      #222222
+	violaceus           violaceus          #30267a
 
-=item violaceus           violaceus          #30267a
+	violaceus           violaceus          #545aa7
 
-=item violaceus           violaceus          #545aa7
+	violaceus           violaceus          #4e5180
 
-=item violaceus           violaceus          #4e5180
+	violaceus           violaceus          #9065ca
 
-=item violaceus           violaceus          #9065ca
+	violaceus           violaceus          #7e73b8
 
-=item violaceus           violaceus          #7e73b8
+	violaceus           violaceus          #604e97
 
-=item violaceus           violaceus          #604e97
+	violaceus           violaceus          #8c82b6
 
-=item violaceus           violaceus          #8c82b6
+	violaceus           violaceus          #604e81
 
-=item violaceus           violaceus          #604e81
+	violaceus           violaceus          #9a4eae
 
-=item violaceus           violaceus          #9a4eae
+	violaceus           violaceus          #602f6b
 
-=item violaceus           violaceus          #602f6b
+	violaceus           violaceus          #86608e
 
-=item violaceus           violaceus          #86608e
+	viridi-caeruleus    viridicaeruleus    #3eb489
 
-=item viridi-caeruleus    viridicaeruleus    #3eb489
+	viridi-caeruleus    viridicaeruleus    #6aab8e
 
-=item viridi-caeruleus    viridicaeruleus    #6aab8e
+	viridi-caeruleus    viridicaeruleus    #c7e6d7
 
-=item viridi-caeruleus    viridicaeruleus    #c7e6d7
+	viridi-caeruleus    viridicaeruleus    #96ded1
 
-=item viridi-caeruleus    viridicaeruleus    #96ded1
+	viridi-caeruleus    viridicaeruleus    #66ada4
 
-=item viridi-caeruleus    viridicaeruleus    #66ada4
+	viridi-flavus       viridiflavus       #e9e450
 
-=item viridi-flavus       viridiflavus       #e9e450
+	viridi-flavus       viridiflavus       #beb72e
 
-=item viridi-flavus       viridiflavus       #beb72e
+	viridi-flavus       viridiflavus       #eae679
 
-=item viridi-flavus       viridiflavus       #eae679
+	viridi-flavus       viridiflavus       #b9b459
 
-=item viridi-flavus       viridiflavus       #b9b459
+	viridi-flavus       viridiflavus       #ebe8a4
 
-=item viridi-flavus       viridiflavus       #ebe8a4
+	viridi-flavus       viridiflavus       #8db600
 
-=item viridi-flavus       viridiflavus       #8db600
+	viridi-flavus       viridiflavus       #bdda57
 
-=item viridi-flavus       viridiflavus       #bdda57
+	viridi-flavus       viridiflavus       #7e9f2e
 
-=item viridi-flavus       viridiflavus       #7e9f2e
+	viridi-flavus       viridiflavus       #c9dc89
 
-=item viridi-flavus       viridiflavus       #c9dc89
+	viridi-flavus       viridiflavus       #8a9a5b
 
-=item viridi-flavus       viridiflavus       #8a9a5b
+	viridi-glaucus      viridiglaucus      #c9dc89
 
-=item viridi-glaucus      viridiglaucus      #c9dc89
+	viridi-glaucus      viridiglaucus      #dadfb7
 
-=item viridi-glaucus      viridiglaucus      #dadfb7
+	viridi-glaucus      viridiglaucus      #8ed1b2
 
-=item viridi-glaucus      viridiglaucus      #8ed1b2
+	viridi-glaucus      viridiglaucus      #c7e6d7
 
-=item viridi-glaucus      viridiglaucus      #c7e6d7
+	viridi-griseus      viridigriseus      #8a9a5b
 
-=item viridi-griseus      viridigriseus      #8a9a5b
+	viridi-griseus      viridigriseus      #8f9779
 
-=item viridi-griseus      viridigriseus      #8f9779
+	viridi-griseus      viridigriseus      #8da399
 
-=item viridi-griseus      viridigriseus      #8da399
+	viridi-griseus      viridigriseus      #5e716a
 
-=item viridi-griseus      viridigriseus      #5e716a
+	viridi-griseus      viridigriseus      #b2beb5
 
-=item viridi-griseus      viridigriseus      #b2beb5
+	viridi-griseus      viridigriseus      #7d8984
 
-=item viridi-griseus      viridigriseus      #7d8984
+	viridi-griseus      viridigriseus      #81878b
 
-=item viridi-griseus      viridigriseus      #81878b
+	viridi-griseus      viridigriseus      #51585e
 
-=item viridi-griseus      viridigriseus      #51585e
+	viridi-griseus      viridigriseus      #b9b8b5
 
-=item viridi-griseus      viridigriseus      #b9b8b5
+	viridi-griseus      viridigriseus      #848482
 
-=item viridi-griseus      viridigriseus      #848482
+	viridi-niger        viridiniger        #555555
 
-=item viridi-niger        viridiniger        #555555
+	viridi-olivaceus    viridiolivaceus    #a18f60
 
-=item viridi-olivaceus    viridiolivaceus    #a18f60
+	viridi-olivaceus    viridiolivaceus    #867e36
 
-=item viridi-olivaceus    viridiolivaceus    #867e36
+	viridi-olivaceus    viridiolivaceus    #8a9a5b
 
-=item viridi-olivaceus    viridiolivaceus    #8a9a5b
+	viridi-olivaceus    viridiolivaceus    #8f9779
 
-=item viridi-olivaceus    viridiolivaceus    #8f9779
+	viridis             viridis            #8db600
 
-=item viridis             viridis            #8db600
+	viridis             viridis            #bdda57
 
-=item viridis             viridis            #bdda57
+	viridis             viridis            #7e9f2e
 
-=item viridis             viridis            #7e9f2e
+	viridis             viridis            #83d37d
 
-=item viridis             viridis            #83d37d
+	viridis             viridis            #93c592
 
-=item viridis             viridis            #93c592
+	viridis             viridis            #3eb489
 
-=item viridis             viridis            #3eb489
-
-
-=back
 
 =cut
 
@@ -2415,18 +2410,18 @@ sub _description {
     return {
           'subtitle' => 'Colour Terminology in Biology',
           'title' => 'NBS/ISCC B',
-          'description' => 'Kenneth L. Kelly and Deanne B. Judd.
-"Color: Universal Language and Dictionary of Names",
-National Bureau of Standards,
-Spec. Publ. 440, Dec. 1976, 189 pages.
+          'description' => '    Kenneth L. Kelly and Deanne B. Judd.
+    "Color: Universal Language and Dictionary of Names",
+    National Bureau of Standards,
+    Spec. Publ. 440, Dec. 1976, 189 pages.
 
 
-Color Name Dictionary: (B) Colour Terminology in Biology
+    Color Name Dictionary: (B) Colour Terminology in Biology
 
-        Colour Terminology in Biology,
-        H.A. Dade 
+    Colour Terminology in Biology,
+    H.A. Dade 
 
-    This combinatorial dictionary seems to be derived from Latin (eg. viridi-caeruleus). Its 128 names map to 789 colors, using 214 of the 267 centroids. But averaging over 6 colors per name means it has little descriptive power.
+This combinatorial dictionary seems to be derived from Latin (eg. viridi-caeruleus). Its 128 names map to 789 colors, using 214 of the 267 centroids. But averaging over 6 colors per name means it has little descriptive power.
 
 [http://swissnet.ai.mit.edu/~jaffer/Color/Dictionaries#B]
 '

@@ -17,380 +17,375 @@ Color::Library::Dictionary::NBS_ISCC::SC - (NBS/ISCC SC) Soil Color Charts
 
 =head1 DESCRIPTION
 
+    Kenneth L. Kelly and Deanne B. Judd.
+    "Color: Universal Language and Dictionary of Names",
+    National Bureau of Standards,
+    Spec. Publ. 440, Dec. 1976, 189 pages.
 
-Kenneth L. Kelly and Deanne B. Judd.
-"Color: Universal Language and Dictionary of Names",
-National Bureau of Standards,
-Spec. Publ. 440, Dec. 1976, 189 pages.
 
+    Color Name Dictionary: (SC) Soil Color Charts
 
-Color Name Dictionary: (SC) Soil Color Charts
+    U.S. Department of Agriculture
+    Soil Color Charts 
 
-        U.S. Department of Agriculture
-        Soil Color Charts 
-
-    This combinatorial field-work dictionary's 50 names mape to 176 colors, using 76 of 267 centroids. Again, its focus on soil colors limits its general usefulness.
+This combinatorial field-work dictionary's 50 names mape to 176 colors, using 76 of 267 centroids. Again, its focus on soil colors limits its general usefulness.
 
 L<http://swissnet.ai.mit.edu/~jaffer/Color/Dictionaries#SC>
 
 =head1 COLORS
 
-=over 4
+	black                   black                #3e322c
 
-=item black                   black                #3e322c
+	black                   black                #28201c
 
-=item black                   black                #28201c
+	black                   black                #3b3121
 
-=item black                   black                #3b3121
+	black                   black                #363527
 
-=item black                   black                #363527
+	black                   black                #25241d
 
-=item black                   black                #25241d
+	black                   black                #222222
 
-=item black                   black                #222222
+	brown                   brown                #a67b5b
 
-=item brown                   brown                #a67b5b
+	brown                   brown                #6f4e37
 
-=item brown                   brown                #6f4e37
+	brown                   brown                #958070
 
-=item brown                   brown                #958070
+	brown                   brown                #635147
 
-=item brown                   brown                #635147
+	brown                   brown                #826644
 
-=item brown                   brown                #826644
+	brown                   brown                #7e6d5a
 
-=item brown                   brown                #7e6d5a
+	brownish yellow         brownishyellow       #be8a3d
 
-=item brownish yellow         brownishyellow       #be8a3d
+	brownish yellow         brownishyellow       #c19a6b
 
-=item brownish yellow         brownishyellow       #c19a6b
+	dark brown              darkbrown            #6f4e37
 
-=item dark brown              darkbrown            #6f4e37
+	dark brown              darkbrown            #635147
 
-=item dark brown              darkbrown            #635147
+	dark brown              darkbrown            #826644
 
-=item dark brown              darkbrown            #826644
+	dark brown              darkbrown            #4b3621
 
-=item dark brown              darkbrown            #4b3621
+	dark brown              darkbrown            #7e6d5a
 
-=item dark brown              darkbrown            #7e6d5a
+	dark gray               darkgray             #5b504f
 
-=item dark gray               darkgray             #5b504f
+	dark gray               darkgray             #57554c
 
-=item dark gray               darkgray             #57554c
+	dark gray               darkgray             #555555
 
-=item dark gray               darkgray             #555555
+	dark grayish brown      darkgrayishbrown     #7e6d5a
 
-=item dark grayish brown      darkgrayishbrown     #7e6d5a
+	dark grayish brown      darkgrayishbrown     #6c541e
 
-=item dark grayish brown      darkgrayishbrown     #6c541e
+	dark olive              darkolive            #665d1e
 
-=item dark olive              darkolive            #665d1e
+	dark olive              darkolive            #403d21
 
-=item dark olive              darkolive            #403d21
+	dark olive              darkolive            #363527
 
-=item dark olive              darkolive            #363527
+	dark olive-gray         darkolivegray        #5b5842
 
-=item dark olive-gray         darkolivegray        #5b5842
+	dark red                darkred              #722f37
 
-=item dark red                darkred              #722f37
+	dark red                darkred              #882d17
 
-=item dark red                darkred              #882d17
+	dark red                darkred              #56070c
 
-=item dark red                darkred              #56070c
+	dark red                darkred              #79443b
 
-=item dark red                darkred              #79443b
+	dark red                darkred              #80461b
 
-=item dark red                darkred              #80461b
+	dark reddish brown      darkreddishbrown     #79443b
 
-=item dark reddish brown      darkreddishbrown     #79443b
+	dark reddish brown      darkreddishbrown     #3e1d1e
 
-=item dark reddish brown      darkreddishbrown     #3e1d1e
+	dark reddish brown      darkreddishbrown     #674c47
 
-=item dark reddish brown      darkreddishbrown     #674c47
+	dark reddish brown      darkreddishbrown     #43302e
 
-=item dark reddish brown      darkreddishbrown     #43302e
+	dark reddish brown      darkreddishbrown     #6f4e37
 
-=item dark reddish brown      darkreddishbrown     #6f4e37
+	dark reddish brown      darkreddishbrown     #422518
 
-=item dark reddish brown      darkreddishbrown     #422518
+	dark reddish brown      darkreddishbrown     #635147
 
-=item dark reddish brown      darkreddishbrown     #635147
+	dark reddish brown      darkreddishbrown     #3e322c
 
-=item dark reddish brown      darkreddishbrown     #3e322c
+	dark reddish gray       darkreddishgray      #5c504f
 
-=item dark reddish gray       darkreddishgray      #5c504f
+	dark reddish gray       darkreddishgray      #635147
 
-=item dark reddish gray       darkreddishgray      #635147
+	dark reddish gray       darkreddishgray      #5b504f
 
-=item dark reddish gray       darkreddishgray      #5b504f
+	dark yellowish brown    darkyellowishbrown   #996515
 
-=item dark yellowish brown    darkyellowishbrown   #996515
+	dark yellowish brown    darkyellowishbrown   #826644
 
-=item dark yellowish brown    darkyellowishbrown   #826644
+	dark yellowish brown    darkyellowishbrown   #4b3621
 
-=item dark yellowish brown    darkyellowishbrown   #4b3621
+	dusky red               duskyred             #79443b
 
-=item dusky red               duskyred             #79443b
+	dusky red               duskyred             #674c47
 
-=item dusky red               duskyred             #674c47
+	gray                    gray                 #8e8279
 
-=item gray                    gray                 #8e8279
+	gray                    gray                 #8a8776
 
-=item gray                    gray                 #8a8776
+	gray                    gray                 #848482
 
-=item gray                    gray                 #848482
+	grayish brown           grayishbrown         #7e6d5a
 
-=item grayish brown           grayishbrown         #7e6d5a
+	grayish brown           grayishbrown         #967117
 
-=item grayish brown           grayishbrown         #967117
+	light brown             lightbrown           #a67b5b
 
-=item light brown             lightbrown           #a67b5b
+	light brownish gray     lightbrownishgray    #ae9b82
 
-=item light brownish gray     lightbrownishgray    #ae9b82
+	light brownish gray     lightbrownishgray    #967117
 
-=item light brownish gray     lightbrownishgray    #967117
+	light gray              lightgray            #c1b6b3
 
-=item light gray              lightgray            #c1b6b3
+	light gray              lightgray            #8e8279
 
-=item light gray              lightgray            #8e8279
+	light gray              lightgray            #ae9b82
 
-=item light gray              lightgray            #ae9b82
+	light gray              lightgray            #c2b280
 
-=item light gray              lightgray            #c2b280
+	light gray              lightgray            #bfb8a5
 
-=item light gray              lightgray            #bfb8a5
+	light gray              lightgray            #8a8776
 
-=item light gray              lightgray            #8a8776
+	light gray              lightgray            #b9b8b5
 
-=item light gray              lightgray            #b9b8b5
+	light gray              lightgray            #848482
 
-=item light gray              lightgray            #848482
+	light olive brown       lightolivebrown      #967117
 
-=item light olive brown       lightolivebrown      #967117
+	light olive-gray        lightolivegray       #8c8767
 
-=item light olive-gray        lightolivegray       #8c8767
+	light olive-gray        lightolivegray       #8a8776
 
-=item light olive-gray        lightolivegray       #8a8776
+	light red               lightred             #e66761
 
-=item light red               lightred             #e66761
+	light red               lightred             #c48379
 
-=item light red               lightred             #c48379
+	light red               lightred             #cb6d51
 
-=item light red               lightred             #cb6d51
+	light red               lightred             #b4745e
 
-=item light red               lightred             #b4745e
+	light red               lightred             #d99058
 
-=item light red               lightred             #d99058
+	light reddish brown     lightreddishbrown    #a87c6d
 
-=item light reddish brown     lightreddishbrown    #a87c6d
+	light reddish brown     lightreddishbrown    #977f73
 
-=item light reddish brown     lightreddishbrown    #977f73
+	light reddish brown     lightreddishbrown    #a67b5b
 
-=item light reddish brown     lightreddishbrown    #a67b5b
+	light yellowish brown   lightyellowishbrown  #c19a6b
 
-=item light yellowish brown   lightyellowishbrown  #c19a6b
+	light yellowish brown   lightyellowishbrown  #a18f60
 
-=item light yellowish brown   lightyellowishbrown  #a18f60
+	olive                   olive                #867e36
 
-=item olive                   olive                #867e36
+	olive                   olive                #665d1e
 
-=item olive                   olive                #665d1e
+	olive                   olive                #8c8767
 
-=item olive                   olive                #8c8767
+	olive                   olive                #5b5842
 
-=item olive                   olive                #5b5842
+	olive brown             olivebrown           #6c541e
 
-=item olive brown             olivebrown           #6c541e
+	olive brown             olivebrown           #3b3121
 
-=item olive brown             olivebrown           #3b3121
+	olive gray              olivegray            #8c8767
 
-=item olive gray              olivegray            #8c8767
+	olive gray              olivegray            #5b5842
 
-=item olive gray              olivegray            #5b5842
+	olive gray              olivegray            #8a8776
 
-=item olive gray              olivegray            #8a8776
+	olive yellow            oliveyellow          #ab9144
 
-=item olive yellow            oliveyellow          #ab9144
+	pale brown              palebrown            #c19a6b
 
-=item pale brown              palebrown            #c19a6b
+	pale brown              palebrown            #ae9b82
 
-=item pale brown              palebrown            #ae9b82
+	pale olive              paleolive            #a18f60
 
-=item pale olive              paleolive            #a18f60
+	pale olive              paleolive            #8c8767
 
-=item pale olive              paleolive            #8c8767
+	pale red                palered              #ad8884
 
-=item pale red                palered              #ad8884
+	pale red                palered              #a87c6d
 
-=item pale red                palered              #a87c6d
+	pale red                palered              #977f73
 
-=item pale red                palered              #977f73
+	pale yellow             paleyellow           #f3e5ab
 
-=item pale yellow             paleyellow           #f3e5ab
+	pale yellow             paleyellow           #c2b280
 
-=item pale yellow             paleyellow           #c2b280
+	pink                    pink                 #f4c2c2
 
-=item pink                    pink                 #f4c2c2
+	pink                    pink                 #d9a6a9
 
-=item pink                    pink                 #d9a6a9
+	pink                    pink                 #ecd5c5
 
-=item pink                    pink                 #ecd5c5
+	pink                    pink                 #c7ada3
 
-=item pink                    pink                 #c7ada3
+	pink                    pink                 #c2ac99
 
-=item pink                    pink                 #c2ac99
+	pink                    pink                 #fad6a5
 
-=item pink                    pink                 #fad6a5
+	pink                    pink                 #c19a6b
 
-=item pink                    pink                 #c19a6b
+	pinkish gray            pinkishgray          #c7ada3
 
-=item pinkish gray            pinkishgray          #c7ada3
+	pinkish gray            pinkishgray          #c2ac99
 
-=item pinkish gray            pinkishgray          #c2ac99
+	pinkish gray            pinkishgray          #977f73
 
-=item pinkish gray            pinkishgray          #977f73
+	pinkish gray            pinkishgray          #958070
 
-=item pinkish gray            pinkishgray          #958070
+	pinkish white           pinkishwhite         #ecd5c5
 
-=item pinkish white           pinkishwhite         #ecd5c5
+	pinkish white           pinkishwhite         #c7ada3
 
-=item pinkish white           pinkishwhite         #c7ada3
+	pinkish white           pinkishwhite         #c2ac99
 
-=item pinkish white           pinkishwhite         #c2ac99
+	red                     red                  #ab4e52
 
-=item red                     red                  #ab4e52
+	red                     red                  #905d5d
 
-=item red                     red                  #905d5d
+	red                     red                  #cb6d51
 
-=item red                     red                  #cb6d51
+	red                     red                  #9e4732
 
-=item red                     red                  #9e4732
+	red                     red                  #b4745e
 
-=item red                     red                  #b4745e
+	red                     red                  #79443b
 
-=item red                     red                  #79443b
+	red                     red                  #ae6938
 
-=item red                     red                  #ae6938
+	red                     red                  #80461b
 
-=item red                     red                  #80461b
+	reddish black           reddishblack         #282022
 
-=item reddish black           reddishblack         #282022
+	reddish black           reddishblack         #3e1d1e
 
-=item reddish black           reddishblack         #3e1d1e
+	reddish black           reddishblack         #43302e
 
-=item reddish black           reddishblack         #43302e
+	reddish black           reddishblack         #3e322c
 
-=item reddish black           reddishblack         #3e322c
+	reddish black           reddishblack         #28201c
 
-=item reddish black           reddishblack         #28201c
+	reddish brown           reddishbrown         #a87c6d
 
-=item reddish brown           reddishbrown         #a87c6d
+	reddish brown           reddishbrown         #79443b
 
-=item reddish brown           reddishbrown         #79443b
+	reddish brown           reddishbrown         #977f73
 
-=item reddish brown           reddishbrown         #977f73
+	reddish brown           reddishbrown         #674c47
 
-=item reddish brown           reddishbrown         #674c47
+	reddish brown           reddishbrown         #a67b5b
 
-=item reddish brown           reddishbrown         #a67b5b
+	reddish brown           reddishbrown         #6f4e37
 
-=item reddish brown           reddishbrown         #6f4e37
+	reddish gray            reddishgray          #8f817f
 
-=item reddish gray            reddishgray          #8f817f
+	reddish gray            reddishgray          #977f73
 
-=item reddish gray            reddishgray          #977f73
+	reddish gray            reddishgray          #958070
 
-=item reddish gray            reddishgray          #958070
+	reddish gray            reddishgray          #8e8279
 
-=item reddish gray            reddishgray          #8e8279
+	reddish yellow          reddishyellow        #fab57f
 
-=item reddish yellow          reddishyellow        #fab57f
+	reddish yellow          reddishyellow        #d99058
 
-=item reddish yellow          reddishyellow        #d99058
+	reddish yellow          reddishyellow        #fbc97f
 
-=item reddish yellow          reddishyellow        #fbc97f
+	reddish yellow          reddishyellow        #e3a857
 
-=item reddish yellow          reddishyellow        #e3a857
+	reddish yellow          reddishyellow        #be8a3d
 
-=item reddish yellow          reddishyellow        #be8a3d
+	strong brown            strongbrown          #80461b
 
-=item strong brown            strongbrown          #80461b
+	strong brown            strongbrown          #996515
 
-=item strong brown            strongbrown          #996515
+	very dark brown         verydarkbrown        #422518
 
-=item very dark brown         verydarkbrown        #422518
+	very dark brown         verydarkbrown        #3e322c
 
-=item very dark brown         verydarkbrown        #3e322c
+	very dark brown         verydarkbrown        #4b3621
 
-=item very dark brown         verydarkbrown        #4b3621
+	very dark brown         verydarkbrown        #483c32
 
-=item very dark brown         verydarkbrown        #483c32
+	very dark gray          verydarkgray         #5b504f
 
-=item very dark gray          verydarkgray         #5b504f
+	very dark gray          verydarkgray         #57554c
 
-=item very dark gray          verydarkgray         #57554c
+	very dark gray          verydarkgray         #555555
 
-=item very dark gray          verydarkgray         #555555
+	very dark grayish brown verydarkgrayishbrown #483c32
 
-=item very dark grayish brown verydarkgrayishbrown #483c32
+	very dark grayish brown verydarkgrayishbrown #6c541e
 
-=item very dark grayish brown verydarkgrayishbrown #6c541e
+	very dusky red          veryduskyred         #3e1d1e
 
-=item very dusky red          veryduskyred         #3e1d1e
+	very dusky red          veryduskyred         #43302e
 
-=item very dusky red          veryduskyred         #43302e
+	very pale brown         verypalebrown        #c2ac99
 
-=item very pale brown         verypalebrown        #c2ac99
+	very pale brown         verypalebrown        #fad6a5
 
-=item very pale brown         verypalebrown        #fad6a5
+	very pale brown         verypalebrown        #c19a6b
 
-=item very pale brown         verypalebrown        #c19a6b
+	very pale brown         verypalebrown        #ae9b82
 
-=item very pale brown         verypalebrown        #ae9b82
+	weak red                weakred              #905d5d
 
-=item weak red                weakred              #905d5d
+	weak red                weakred              #a87c6d
 
-=item weak red                weakred              #a87c6d
+	weak red                weakred              #79443b
 
-=item weak red                weakred              #79443b
+	weak red                weakred              #977f73
 
-=item weak red                weakred              #977f73
+	weak red                weakred              #674c47
 
-=item weak red                weakred              #674c47
+	white                   white                #eae3e1
 
-=item white                   white                #eae3e1
+	white                   white                #c1b6b3
 
-=item white                   white                #c1b6b3
+	white                   white                #fad6a5
 
-=item white                   white                #fad6a5
+	white                   white                #f0ead6
 
-=item white                   white                #f0ead6
+	white                   white                #bfb8a5
 
-=item white                   white                #bfb8a5
+	white                   white                #f2f3f4
 
-=item white                   white                #f2f3f4
+	white                   white                #b9b8b5
 
-=item white                   white                #b9b8b5
+	yellow                  yellow               #fbc97f
 
-=item yellow                  yellow               #fbc97f
+	yellow                  yellow               #e3a857
 
-=item yellow                  yellow               #e3a857
+	yellow                  yellow               #f8de7e
 
-=item yellow                  yellow               #f8de7e
+	yellow                  yellow               #c9ae5d
 
-=item yellow                  yellow               #c9ae5d
+	yellowish brown         yellowishbrown       #996515
 
-=item yellowish brown         yellowishbrown       #996515
+	yellowish brown         yellowishbrown       #826644
 
-=item yellowish brown         yellowishbrown       #826644
+	yellow red              yellowred            #ae6938
 
-=item yellow red              yellowred            #ae6938
+	yellow red              yellowred            #80461b
 
-=item yellow red              yellowred            #80461b
-
-
-=back
 
 =cut
 
@@ -579,18 +574,18 @@ sub _description {
     return {
           'subtitle' => 'Soil Color Charts',
           'title' => 'NBS/ISCC SC',
-          'description' => 'Kenneth L. Kelly and Deanne B. Judd.
-"Color: Universal Language and Dictionary of Names",
-National Bureau of Standards,
-Spec. Publ. 440, Dec. 1976, 189 pages.
+          'description' => '    Kenneth L. Kelly and Deanne B. Judd.
+    "Color: Universal Language and Dictionary of Names",
+    National Bureau of Standards,
+    Spec. Publ. 440, Dec. 1976, 189 pages.
 
 
-Color Name Dictionary: (SC) Soil Color Charts
+    Color Name Dictionary: (SC) Soil Color Charts
 
-        U.S. Department of Agriculture
-        Soil Color Charts 
+    U.S. Department of Agriculture
+    Soil Color Charts 
 
-    This combinatorial field-work dictionary\'s 50 names mape to 176 colors, using 76 of 267 centroids. Again, its focus on soil colors limits its general usefulness.
+This combinatorial field-work dictionary\'s 50 names mape to 176 colors, using 76 of 267 centroids. Again, its focus on soil colors limits its general usefulness.
 
 [http://swissnet.ai.mit.edu/~jaffer/Color/Dictionaries#SC]
 '

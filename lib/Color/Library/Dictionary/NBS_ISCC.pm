@@ -17,557 +17,552 @@ Color::Library::Dictionary::NBS_ISCC - (NBS/ISCC Centroids) Centroids of the NBS
 
 =head1 DESCRIPTION
 
+    Kenneth L. Kelly and Deanne B. Judd.
+    "Color: Universal Language and Dictionary of Names",
+    National Bureau of Standards,
+    Spec. Publ. 440, Dec. 1976, 189 pages.
 
-Kenneth L. Kelly and Deanne B. Judd.
-"Color: Universal Language and Dictionary of Names",
-National Bureau of Standards,
-Spec. Publ. 440, Dec. 1976, 189 pages.
 
-
-Color Name Dictionary: NBS/ISCC Centroids
+    Color Name Dictionary: NBS/ISCC Centroids
 
 L<http://swissnet.ai.mit.edu/~jaffer/Color/Dictionaries#NBS-ISCC%20Centroids>
 
 =head1 COLORS
 
-=over 4
+	Black                         black                      #222222
 
-=item Black                         black                      #222222
+	Blackish Blue                 blackishblue               #202830
 
-=item Blackish Blue                 blackishblue               #202830
+	Blackish Green                blackishgreen              #1a2421
 
-=item Blackish Green                blackishgreen              #1a2421
+	Blackish Purple               blackishpurple             #291e29
 
-=item Blackish Purple               blackishpurple             #291e29
+	Blackish Red                  blackishred                #2e1d21
 
-=item Blackish Red                  blackishred                #2e1d21
+	Bluish Black                  bluishblack                #202428
 
-=item Bluish Black                  bluishblack                #202428
+	Bluish Gray                   bluishgray                 #81878b
 
-=item Bluish Gray                   bluishgray                 #81878b
+	Bluish White                  bluishwhite                #e9e9ed
 
-=item Bluish White                  bluishwhite                #e9e9ed
+	Brilliant Blue                brilliantblue              #4997d0
 
-=item Brilliant Blue                brilliantblue              #4997d0
+	Brilliant Bluish Green        brilliantbluishgreen       #00a693
 
-=item Brilliant Bluish Green        brilliantbluishgreen       #00a693
+	Brilliant Green               brilliantgreen             #3eb489
 
-=item Brilliant Green               brilliantgreen             #3eb489
+	Brilliant Greenish Blue       brilliantgreenishblue      #239eba
 
-=item Brilliant Greenish Blue       brilliantgreenishblue      #239eba
+	Brilliant Greenish Yellow     brilliantgreenishyellow    #e9e450
 
-=item Brilliant Greenish Yellow     brilliantgreenishyellow    #e9e450
+	Brilliant Orange              brilliantorange            #fd943f
 
-=item Brilliant Orange              brilliantorange            #fd943f
+	Brilliant Orange Yellow       brilliantorangeyellow      #ffc14f
 
-=item Brilliant Orange Yellow       brilliantorangeyellow      #ffc14f
+	Brilliant Purple              brilliantpurple            #d399e6
 
-=item Brilliant Purple              brilliantpurple            #d399e6
+	Brilliant Purplish Blue       brilliantpurplishblue      #6c79b8
 
-=item Brilliant Purplish Blue       brilliantpurplishblue      #6c79b8
+	Brilliant Purplish Pink       brilliantpurplishpink      #ffc8d6
 
-=item Brilliant Purplish Pink       brilliantpurplishpink      #ffc8d6
+	Brilliant Violet              brilliantviolet            #7e73b8
 
-=item Brilliant Violet              brilliantviolet            #7e73b8
+	Brilliant Yellow              brilliantyellow            #fada5e
 
-=item Brilliant Yellow              brilliantyellow            #fada5e
+	Brilliant Yellow Green        brilliantyellowgreen       #bdda57
 
-=item Brilliant Yellow Green        brilliantyellowgreen       #bdda57
+	Brilliant Yellowish Green     brilliantyellowishgreen    #83d37d
 
-=item Brilliant Yellowish Green     brilliantyellowishgreen    #83d37d
+	Brownish Black                brownishblack              #28201c
 
-=item Brownish Black                brownishblack              #28201c
+	Brownish Gray                 brownishgray               #5b504f
 
-=item Brownish Gray                 brownishgray               #5b504f
+	Brownish Orange               brownishorange             #ae6938
 
-=item Brownish Orange               brownishorange             #ae6938
+	Brownish Pink                 brownishpink               #c2ac99
 
-=item Brownish Pink                 brownishpink               #c2ac99
+	Dark Blue                     darkblue                   #00304e
 
-=item Dark Blue                     darkblue                   #00304e
+	Dark Bluish Gray              darkbluishgray             #51585e
 
-=item Dark Bluish Gray              darkbluishgray             #51585e
+	Dark Bluish Green             darkbluishgreen            #004b49
 
-=item Dark Bluish Green             darkbluishgreen            #004b49
+	Dark Brown                    darkbrown                  #422518
 
-=item Dark Brown                    darkbrown                  #422518
+	Dark Gray                     darkgray                   #555555
 
-=item Dark Gray                     darkgray                   #555555
+	Dark Grayish Blue             darkgrayishblue            #36454f
 
-=item Dark Grayish Blue             darkgrayishblue            #36454f
+	Dark Grayish Brown            darkgrayishbrown           #3e322c
 
-=item Dark Grayish Brown            darkgrayishbrown           #3e322c
+	Dark Grayish Green            darkgrayishgreen           #3a4b47
 
-=item Dark Grayish Green            darkgrayishgreen           #3a4b47
+	Dark Grayish Olive            darkgrayisholive           #363527
 
-=item Dark Grayish Olive            darkgrayisholive           #363527
+	Dark Grayish Olive Green      darkgrayisholivegreen      #31362b
 
-=item Dark Grayish Olive Green      darkgrayisholivegreen      #31362b
+	Dark Grayish Purple           darkgrayishpurple          #50404d
 
-=item Dark Grayish Purple           darkgrayishpurple          #50404d
+	Dark Grayish Red              darkgrayishred             #543d3f
 
-=item Dark Grayish Red              darkgrayishred             #543d3f
+	Dark Grayish Reddish Brown    darkgrayishreddishbrown    #43302e
 
-=item Dark Grayish Reddish Brown    darkgrayishreddishbrown    #43302e
+	Dark Grayish Yellow           darkgrayishyellow          #a18f60
 
-=item Dark Grayish Yellow           darkgrayishyellow          #a18f60
+	Dark Grayish Yellowish Brown  darkgrayishyellowishbrown  #483c32
 
-=item Dark Grayish Yellowish Brown  darkgrayishyellowishbrown  #483c32
+	Dark Green                    darkgreen                  #1b4d3e
 
-=item Dark Green                    darkgreen                  #1b4d3e
+	Dark Greenish Blue            darkgreenishblue           #004958
 
-=item Dark Greenish Blue            darkgreenishblue           #004958
+	Dark Greenish Gray            darkgreenishgray           #4e5755
 
-=item Dark Greenish Gray            darkgreenishgray           #4e5755
+	Dark Greenish Yellow          darkgreenishyellow         #98943e
 
-=item Dark Greenish Yellow          darkgreenishyellow         #98943e
+	Dark Olive                    darkolive                  #403d21
 
-=item Dark Olive                    darkolive                  #403d21
+	Dark Olive Brown              darkolivebrown             #3b3121
 
-=item Dark Olive Brown              darkolivebrown             #3b3121
+	Dark Olive Green              darkolivegreen             #2b3d26
 
-=item Dark Olive Green              darkolivegreen             #2b3d26
+	Dark Orange Yellow            darkorangeyellow           #be8a3d
 
-=item Dark Orange Yellow            darkorangeyellow           #be8a3d
+	Dark Pink                     darkpink                   #c08081
 
-=item Dark Pink                     darkpink                   #c08081
+	Dark Purple                   darkpurple                 #563c5c
 
-=item Dark Purple                   darkpurple                 #563c5c
+	Dark Purplish Blue            darkpurplishblue           #252440
 
-=item Dark Purplish Blue            darkpurplishblue           #252440
+	Dark Purplish Gray            darkpurplishgray           #5d555b
 
-=item Dark Purplish Gray            darkpurplishgray           #5d555b
+	Dark Purplish Pink            darkpurplishpink           #c17e91
 
-=item Dark Purplish Pink            darkpurplishpink           #c17e91
+	Dark Purplish Red             darkpurplishred            #673147
 
-=item Dark Purplish Red             darkpurplishred            #673147
+	Dark Red                      darkred                    #722f37
 
-=item Dark Red                      darkred                    #722f37
+	Dark Reddish Brown            darkreddishbrown           #3e1d1e
 
-=item Dark Reddish Brown            darkreddishbrown           #3e1d1e
+	Dark Reddish Gray             darkreddishgray            #5c504f
 
-=item Dark Reddish Gray             darkreddishgray            #5c504f
+	Dark Reddish Orange           darkreddishorange          #9e4732
 
-=item Dark Reddish Orange           darkreddishorange          #9e4732
+	Dark Reddish Purple           darkreddishpurple          #5d3954
 
-=item Dark Reddish Purple           darkreddishpurple          #5d3954
+	Dark Violet                   darkviolet                 #2f2140
 
-=item Dark Violet                   darkviolet                 #2f2140
+	Dark Yellow                   darkyellow                 #ab9144
 
-=item Dark Yellow                   darkyellow                 #ab9144
+	Dark Yellowish Brown          darkyellowishbrown         #4b3621
 
-=item Dark Yellowish Brown          darkyellowishbrown         #4b3621
+	Dark Yellowish Green          darkyellowishgreen         #355e3b
 
-=item Dark Yellowish Green          darkyellowishgreen         #355e3b
+	Dark Yellowish Pink           darkyellowishpink          #c48379
 
-=item Dark Yellowish Pink           darkyellowishpink          #c48379
+	Deep Blue                     deepblue                   #00416a
 
-=item Deep Blue                     deepblue                   #00416a
+	Deep Bluish Green             deepbluishgreen            #00443f
 
-=item Deep Bluish Green             deepbluishgreen            #00443f
+	Deep Brown                    deepbrown                  #593319
 
-=item Deep Brown                    deepbrown                  #593319
+	Deep Green                    deepgreen                  #00543d
 
-=item Deep Green                    deepgreen                  #00543d
+	Deep Greenish Blue            deepgreenishblue           #2e8495
 
-=item Deep Greenish Blue            deepgreenishblue           #2e8495
+	Deep Greenish Yellow          deepgreenishyellow         #9b9400
 
-=item Deep Greenish Yellow          deepgreenishyellow         #9b9400
+	Deep Olive Green              deepolivegreen             #232f00
 
-=item Deep Olive Green              deepolivegreen             #232f00
+	Deep Orange                   deeporange                 #be6516
 
-=item Deep Orange                   deeporange                 #be6516
+	Deep Orange Yellow            deeporangeyellow           #c98500
 
-=item Deep Orange Yellow            deeporangeyellow           #c98500
+	Deep Pink                     deeppink                   #e4717a
 
-=item Deep Pink                     deeppink                   #e4717a
+	Deep Purple                   deeppurple                 #602f6b
 
-=item Deep Purple                   deeppurple                 #602f6b
+	Deep Purplish Blue            deeppurplishblue           #272458
 
-=item Deep Purplish Blue            deeppurplishblue           #272458
+	Deep Purplish Pink            deeppurplishpink           #de6fa1
 
-=item Deep Purplish Pink            deeppurplishpink           #de6fa1
+	Deep Purplish Red             deeppurplishred            #78184a
 
-=item Deep Purplish Red             deeppurplishred            #78184a
+	Deep Red                      deepred                    #841b2d
 
-=item Deep Red                      deepred                    #841b2d
+	Deep Reddish Brown            deepreddishbrown           #56070c
 
-=item Deep Reddish Brown            deepreddishbrown           #56070c
+	Deep Reddish Orange           deepreddishorange          #aa381e
 
-=item Deep Reddish Orange           deepreddishorange          #aa381e
+	Deep Reddish Purple           deepreddishpurple          #702963
 
-=item Deep Reddish Purple           deepreddishpurple          #702963
+	Deep Violet                   deepviolet                 #32174d
 
-=item Deep Violet                   deepviolet                 #32174d
+	Deep Yellow                   deepyellow                 #af8d13
 
-=item Deep Yellow                   deepyellow                 #af8d13
+	Deep Yellow Green             deepyellowgreen            #467129
 
-=item Deep Yellow Green             deepyellowgreen            #467129
+	Deep Yellowish Brown          deepyellowishbrown         #654522
 
-=item Deep Yellowish Brown          deepyellowishbrown         #654522
+	Deep Yellowish Green          deepyellowishgreen         #00622d
 
-=item Deep Yellowish Green          deepyellowishgreen         #00622d
+	Deep Yellowish Pink           deepyellowishpink          #e66721
 
-=item Deep Yellowish Pink           deepyellowishpink          #e66721
+	Grayish Blue                  grayishblue                #536878
 
-=item Grayish Blue                  grayishblue                #536878
+	Grayish Brown                 grayishbrown               #635147
 
-=item Grayish Brown                 grayishbrown               #635147
+	Grayish Green                 grayishgreen               #5e716a
 
-=item Grayish Green                 grayishgreen               #5e716a
+	Grayish Greenish Yellow       grayishgreenishyellow      #b9b57d
 
-=item Grayish Greenish Yellow       grayishgreenishyellow      #b9b57d
+	Grayish Olive                 grayisholive               #5b5842
 
-=item Grayish Olive                 grayisholive               #5b5842
+	Grayish Olive Green           grayisholivegreen          #515744
 
-=item Grayish Olive Green           grayisholivegreen          #515744
+	Grayish Pink                  grayishpink                #c4aead
 
-=item Grayish Pink                  grayishpink                #c4aead
+	Grayish Purple                grayishpurple              #796878
 
-=item Grayish Purple                grayishpurple              #796878
+	Grayish Purplish Blue         grayishpurplishblue        #4c516d
 
-=item Grayish Purplish Blue         grayishpurplishblue        #4c516d
+	Grayish Purplish Pink         grayishpurplishpink        #c3a6b1
 
-=item Grayish Purplish Pink         grayishpurplishpink        #c3a6b1
+	Grayish Purplish Red          grayishpurplishred         #915f6d
 
-=item Grayish Purplish Red          grayishpurplishred         #915f6d
+	Grayish Red                   grayishred                 #905d5d
 
-=item Grayish Red                   grayishred                 #905d5d
+	Grayish Reddish Brown         grayishreddishbrown        #674c47
 
-=item Grayish Reddish Brown         grayishreddishbrown        #674c47
+	Grayish Reddish Orange        grayishreddishorange       #b4745e
 
-=item Grayish Reddish Orange        grayishreddishorange       #b4745e
+	Grayish Reddish Purple        grayishreddishpurple       #836479
 
-=item Grayish Reddish Purple        grayishreddishpurple       #836479
+	Grayish Violet                grayishviolet              #554c69
 
-=item Grayish Violet                grayishviolet              #554c69
+	Grayish Yellow                grayishyellow              #c2b280
 
-=item Grayish Yellow                grayishyellow              #c2b280
+	Grayish Yellow Green          grayishyellowgreen         #8f9779
 
-=item Grayish Yellow Green          grayishyellowgreen         #8f9779
+	Grayish Yellowish Brown       grayishyellowishbrown      #7e6d5a
 
-=item Grayish Yellowish Brown       grayishyellowishbrown      #7e6d5a
+	Grayish Yellowish Pink        grayishyellowishpink       #c7ada3
 
-=item Grayish Yellowish Pink        grayishyellowishpink       #c7ada3
+	Greenish Black                greenishblack              #1e2321
 
-=item Greenish Black                greenishblack              #1e2321
+	Greenish Gray                 greenishgray               #7d8984
 
-=item Greenish Gray                 greenishgray               #7d8984
+	Greenish White                greenishwhite              #dfede8
 
-=item Greenish White                greenishwhite              #dfede8
+	Light Blue                    lightblue                  #70a3cc
 
-=item Light Blue                    lightblue                  #70a3cc
+	Light Bluish Gray             lightbluishgray            #b4bcc0
 
-=item Light Bluish Gray             lightbluishgray            #b4bcc0
+	Light Bluish Green            lightbluishgreen           #66ada4
 
-=item Light Bluish Green            lightbluishgreen           #66ada4
+	Light Brown                   lightbrown                 #a67b5b
 
-=item Light Brown                   lightbrown                 #a67b5b
+	Light Brownish Gray           lightbrownishgray          #8e8279
 
-=item Light Brownish Gray           lightbrownishgray          #8e8279
+	Light Gray                    lightgray                  #b9b8b5
 
-=item Light Gray                    lightgray                  #b9b8b5
+	Light Grayish Brown           lightgrayishbrown          #958070
 
-=item Light Grayish Brown           lightgrayishbrown          #958070
+	Light Grayish Olive           lightgrayisholive          #8c8767
 
-=item Light Grayish Olive           lightgrayisholive          #8c8767
+	Light Grayish Purplish Red    lightgrayishpurplishred    #af868e
 
-=item Light Grayish Purplish Red    lightgrayishpurplishred    #af868e
+	Light Grayish Red             lightgrayishred            #ad8884
 
-=item Light Grayish Red             lightgrayishred            #ad8884
+	Light Grayish Reddish Brown   lightgrayishreddishbrown   #977f73
 
-=item Light Grayish Reddish Brown   lightgrayishreddishbrown   #977f73
+	Light Grayish Yellowish Brown lightgrayishyellowishbrown #ae9b82
 
-=item Light Grayish Yellowish Brown lightgrayishyellowishbrown #ae9b82
+	Light Green                   lightgreen                 #6aab8e
 
-=item Light Green                   lightgreen                 #6aab8e
+	Light Greenish Blue           lightgreenishblue          #66aabc
 
-=item Light Greenish Blue           lightgreenishblue          #66aabc
+	Light Greenish Gray           lightgreenishgray          #b2beb5
 
-=item Light Greenish Gray           lightgreenishgray          #b2beb5
+	Light Greenish Yellow         lightgreenishyellow        #eae679
 
-=item Light Greenish Yellow         lightgreenishyellow        #eae679
+	Light Olive                   lightolive                 #867e36
 
-=item Light Olive                   lightolive                 #867e36
+	Light Olive Brown             lightolivebrown            #967117
 
-=item Light Olive Brown             lightolivebrown            #967117
+	Light Olive Gray              lightolivegray             #8a8776
 
-=item Light Olive Gray              lightolivegray             #8a8776
+	Light Orange                  lightorange                #fab57f
 
-=item Light Orange                  lightorange                #fab57f
+	Light Orange Yellow           lightorangeyellow          #fbc97f
 
-=item Light Orange Yellow           lightorangeyellow          #fbc97f
+	Light Pink                    lightpink                  #f9ccca
 
-=item Light Pink                    lightpink                  #f9ccca
+	Light Purple                  lightpurple                #b695c0
 
-=item Light Purple                  lightpurple                #b695c0
+	Light Purplish Blue           lightpurplishblue          #8791bf
 
-=item Light Purplish Blue           lightpurplishblue          #8791bf
+	Light Purplish Gray           lightpurplishgray          #bfb9bd
 
-=item Light Purplish Gray           lightpurplishgray          #bfb9bd
+	Light Purplish Pink           lightpurplishpink          #efbbcc
 
-=item Light Purplish Pink           lightpurplishpink          #efbbcc
+	Light Reddish Brown           lightreddishbrown          #a87c6d
 
-=item Light Reddish Brown           lightreddishbrown          #a87c6d
+	Light Reddish Purple          lightreddishpurple         #b784a7
 
-=item Light Reddish Purple          lightreddishpurple         #b784a7
+	Light Violet                  lightviolet                #8c82b6
 
-=item Light Violet                  lightviolet                #8c82b6
+	Light Yellow                  lightyellow                #f8de7e
 
-=item Light Yellow                  lightyellow                #f8de7e
+	Light Yellow Green            lightyellowgreen           #c9dc89
 
-=item Light Yellow Green            lightyellowgreen           #c9dc89
+	Light Yellowish Brown         lightyellowishbrown        #c19a6b
 
-=item Light Yellowish Brown         lightyellowishbrown        #c19a6b
+	Light Yellowish Green         lightyellowishgreen        #93c592
 
-=item Light Yellowish Green         lightyellowishgreen        #93c592
+	Light Yellowish Pink          lightyellowishpink         #f4c2c2
 
-=item Light Yellowish Pink          lightyellowishpink         #f4c2c2
+	Medium Gray                   mediumgray                 #848482
 
-=item Medium Gray                   mediumgray                 #848482
+	Moderate Blue                 moderateblue               #436b95
 
-=item Moderate Blue                 moderateblue               #436b95
+	Moderate Bluish Green         moderatebluishgreen        #317873
 
-=item Moderate Bluish Green         moderatebluishgreen        #317873
+	Moderate Brown                moderatebrown              #6f4e37
 
-=item Moderate Brown                moderatebrown              #6f4e37
+	Moderate Green                moderategreen              #3b7861
 
-=item Moderate Green                moderategreen              #3b7861
+	Moderate Greenish Blue        moderategreenishblue       #367588
 
-=item Moderate Greenish Blue        moderategreenishblue       #367588
+	Moderate Greenish Yellow      moderategreenishyellow     #b9b459
 
-=item Moderate Greenish Yellow      moderategreenishyellow     #b9b459
+	Moderate Olive                moderateolive              #665d1e
 
-=item Moderate Olive                moderateolive              #665d1e
+	Moderate Olive Brown          moderateolivebrown         #6c541e
 
-=item Moderate Olive Brown          moderateolivebrown         #6c541e
+	Moderate Olive Green          moderateolivegreen         #4a5d23
 
-=item Moderate Olive Green          moderateolivegreen         #4a5d23
+	Moderate Orange               moderateorange             #d99058
 
-=item Moderate Orange               moderateorange             #d99058
+	Moderate Orange Yellow        moderateorangeyellow       #e3a857
 
-=item Moderate Orange Yellow        moderateorangeyellow       #e3a857
+	Moderate Pink                 moderatepink               #dea5a4
 
-=item Moderate Pink                 moderatepink               #dea5a4
+	Moderate Purple               moderatepurple             #86608e
 
-=item Moderate Purple               moderatepurple             #86608e
+	Moderate Purplish Blue        moderatepurplishblue       #4e5180
 
-=item Moderate Purplish Blue        moderatepurplishblue       #4e5180
+	Moderate Purplish Pink        moderatepurplishpink       #d597ae
 
-=item Moderate Purplish Pink        moderatepurplishpink       #d597ae
+	Moderate Purplish Red         moderatepurplishred        #a8516e
 
-=item Moderate Purplish Red         moderatepurplishred        #a8516e
+	Moderate Red                  moderatered                #ab4e52
 
-=item Moderate Red                  moderatered                #ab4e52
+	Moderate Reddish Brown        moderatereddishbrown       #79443b
 
-=item Moderate Reddish Brown        moderatereddishbrown       #79443b
+	Moderate Reddish Orange       moderatereddishorange      #cb6d51
 
-=item Moderate Reddish Orange       moderatereddishorange      #cb6d51
+	Moderate Reddish Purple       moderatereddishpurple      #915c83
 
-=item Moderate Reddish Purple       moderatereddishpurple      #915c83
+	Moderate Violet               moderateviolet             #604e81
 
-=item Moderate Violet               moderateviolet             #604e81
+	Moderate Yellow               moderateyellow             #c9ae5d
 
-=item Moderate Yellow               moderateyellow             #c9ae5d
+	Moderate Yellow Green         moderateyellowgreen        #8a9a5b
 
-=item Moderate Yellow Green         moderateyellowgreen        #8a9a5b
+	Moderate Yellowish Brown      moderateyellowishbrown     #826644
 
-=item Moderate Yellowish Brown      moderateyellowishbrown     #826644
+	Moderate Yellowish Green      moderateyellowishgreen     #679267
 
-=item Moderate Yellowish Green      moderateyellowishgreen     #679267
+	Moderate Yellowish Pink       moderateyellowishpink      #d9a6a9
 
-=item Moderate Yellowish Pink       moderateyellowishpink      #d9a6a9
+	Olive Black                   oliveblack                 #25241d
 
-=item Olive Black                   oliveblack                 #25241d
+	Olive Gray                    olivegray                  #57554c
 
-=item Olive Gray                    olivegray                  #57554c
+	Pale Blue                     paleblue                   #91a3b0
 
-=item Pale Blue                     paleblue                   #91a3b0
+	Pale Green                    palegreen                  #8da399
 
-=item Pale Green                    palegreen                  #8da399
+	Pale Greenish Yellow          palegreenishyellow         #ebe8a4
 
-=item Pale Greenish Yellow          palegreenishyellow         #ebe8a4
+	Pale Orange Yellow            paleorangeyellow           #fad6a5
 
-=item Pale Orange Yellow            paleorangeyellow           #fad6a5
+	Pale Pink                     palepink                   #ead8d7
 
-=item Pale Pink                     palepink                   #ead8d7
+	Pale Purple                   palepurple                 #aa98a9
 
-=item Pale Purple                   palepurple                 #aa98a9
+	Pale Purplish Blue            palepurplishblue           #8c92ac
 
-=item Pale Purplish Blue            palepurplishblue           #8c92ac
+	Pale Purplish Pink            palepurplishpink           #e8ccd7
 
-=item Pale Purplish Pink            palepurplishpink           #e8ccd7
+	Pale Reddish Purple           palereddishpurple          #aa8a9e
 
-=item Pale Reddish Purple           palereddishpurple          #aa8a9e
+	Pale Violet                   paleviolet                 #9690ab
 
-=item Pale Violet                   paleviolet                 #9690ab
+	Pale Yellow                   paleyellow                 #f3e5ab
 
-=item Pale Yellow                   paleyellow                 #f3e5ab
+	Pale Yellow Green             paleyellowgreen            #dadfb7
 
-=item Pale Yellow Green             paleyellowgreen            #dadfb7
+	Pale Yellowish Pink           paleyellowishpink          #ecd5c5
 
-=item Pale Yellowish Pink           paleyellowishpink          #ecd5c5
+	Pinkish Gray                  pinkishgray                #c1b6b3
 
-=item Pinkish Gray                  pinkishgray                #c1b6b3
+	Pinkish White                 pinkishwhite               #eae3e1
 
-=item Pinkish White                 pinkishwhite               #eae3e1
+	Purplish Black                purplishblack              #242124
 
-=item Purplish Black                purplishblack              #242124
+	Purplish Gray                 purplishgray               #8b8589
 
-=item Purplish Gray                 purplishgray               #8b8589
+	Purplish White                purplishwhite              #e8e3e5
 
-=item Purplish White                purplishwhite              #e8e3e5
+	Reddish Black                 reddishblack               #282022
 
-=item Reddish Black                 reddishblack               #282022
+	Reddish Gray                  reddishgray                #8f817f
 
-=item Reddish Gray                  reddishgray                #8f817f
+	Strong Blue                   strongblue                 #0067a5
 
-=item Strong Blue                   strongblue                 #0067a5
+	Strong Bluish Green           strongbluishgreen          #007a74
 
-=item Strong Bluish Green           strongbluishgreen          #007a74
+	Strong Brown                  strongbrown                #80461b
 
-=item Strong Brown                  strongbrown                #80461b
+	Strong Green                  stronggreen                #007959
 
-=item Strong Green                  stronggreen                #007959
+	Strong Greenish Blue          stronggreenishblue         #007791
 
-=item Strong Greenish Blue          stronggreenishblue         #007791
+	Strong Greenish Yellow        stronggreenishyellow       #beb72e
 
-=item Strong Greenish Yellow        stronggreenishyellow       #beb72e
+	Strong Olive Green            strongolivegreen           #404f00
 
-=item Strong Olive Green            strongolivegreen           #404f00
+	Strong Orange                 strongorange               #ed872d
 
-=item Strong Orange                 strongorange               #ed872d
+	Strong Orange Yellow          strongorangeyellow         #eaa221
 
-=item Strong Orange Yellow          strongorangeyellow         #eaa221
+	Strong Pink                   strongpink                 #ea9399
 
-=item Strong Pink                   strongpink                 #ea9399
+	Strong Purple                 strongpurple               #875692
 
-=item Strong Purple                 strongpurple               #875692
+	Strong Purplish Blue          strongpurplishblue         #545aa7
 
-=item Strong Purplish Blue          strongpurplishblue         #545aa7
+	Strong Purplish Pink          strongpurplishpink         #e68fac
 
-=item Strong Purplish Pink          strongpurplishpink         #e68fac
+	Strong Purplish Red           strongpurplishred          #b3446c
 
-=item Strong Purplish Red           strongpurplishred          #b3446c
+	Strong Red                    strongred                  #bc3f4a
 
-=item Strong Red                    strongred                  #bc3f4a
+	Strong Reddish Brown          strongreddishbrown         #882d17
 
-=item Strong Reddish Brown          strongreddishbrown         #882d17
+	Strong Reddish Orange         strongreddishorange        #d9603b
 
-=item Strong Reddish Orange         strongreddishorange        #d9603b
+	Strong Reddish Purple         strongreddishpurple        #9e4f88
 
-=item Strong Reddish Purple         strongreddishpurple        #9e4f88
+	Strong Violet                 strongviolet               #604e97
 
-=item Strong Violet                 strongviolet               #604e97
+	Strong Yellow                 strongyellow               #d4af37
 
-=item Strong Yellow                 strongyellow               #d4af37
+	Strong Yellow Green           strongyellowgreen          #7e9f2e
 
-=item Strong Yellow Green           strongyellowgreen          #7e9f2e
+	Strong Yellowish Brown        strongyellowishbrown       #996515
 
-=item Strong Yellowish Brown        strongyellowishbrown       #996515
+	Strong Yellowish Green        strongyellowishgreen       #44944a
 
-=item Strong Yellowish Green        strongyellowishgreen       #44944a
+	Strong Yellowish Pink         strongyellowishpink        #f99379
 
-=item Strong Yellowish Pink         strongyellowishpink        #f99379
+	Very Dark Bluish Green        verydarkbluishgreen        #002a29
 
-=item Very Dark Bluish Green        verydarkbluishgreen        #002a29
+	Very Dark Green               verydarkgreen              #1c352d
 
-=item Very Dark Green               verydarkgreen              #1c352d
+	Very Dark Greenish Blue       verydarkgreenishblue       #002e3b
 
-=item Very Dark Greenish Blue       verydarkgreenishblue       #002e3b
+	Very Dark Purple              verydarkpurple             #301934
 
-=item Very Dark Purple              verydarkpurple             #301934
+	Very Dark Purplish Red        verydarkpurplishred        #38152c
 
-=item Very Dark Purplish Red        verydarkpurplishred        #38152c
+	Very Dark Red                 verydarkred                #3f1728
 
-=item Very Dark Red                 verydarkred                #3f1728
+	Very Dark Reddish Purple      verydarkreddishpurple      #341731
 
-=item Very Dark Reddish Purple      verydarkreddishpurple      #341731
+	Very Dark Yellowish Green     verydarkyellowishgreen     #173620
 
-=item Very Dark Yellowish Green     verydarkyellowishgreen     #173620
+	Very Deep Purple              verydeeppurple             #401a4c
 
-=item Very Deep Purple              verydeeppurple             #401a4c
+	Very Deep Purplish Red        verydeeppurplishred        #54133b
 
-=item Very Deep Purplish Red        verydeeppurplishred        #54133b
+	Very Deep Red                 verydeepred                #5c0923
 
-=item Very Deep Red                 verydeepred                #5c0923
+	Very Deep Reddish Purple      verydeepreddishpurple      #54194e
 
-=item Very Deep Reddish Purple      verydeepreddishpurple      #54194e
+	Very Deep Yellowish Green     verydeepyellowishgreen     #003118
 
-=item Very Deep Yellowish Green     verydeepyellowishgreen     #003118
+	Very Light Blue               verylightblue              #a1caf1
 
-=item Very Light Blue               verylightblue              #a1caf1
+	Very Light Bluish Green       verylightbluishgreen       #96ded1
 
-=item Very Light Bluish Green       verylightbluishgreen       #96ded1
+	Very Light Green              verylightgreen             #8ed1b2
 
-=item Very Light Green              verylightgreen             #8ed1b2
+	Very Light Greenish Blue      verylightgreenishblue      #9cd1dc
 
-=item Very Light Greenish Blue      verylightgreenishblue      #9cd1dc
+	Very Light Purple             verylightpurple            #d5badb
 
-=item Very Light Purple             verylightpurple            #d5badb
+	Very Light Purplish Blue      verylightpurplishblue      #b3bce2
 
-=item Very Light Purplish Blue      verylightpurplishblue      #b3bce2
+	Very Light Violet             verylightviolet            #dcd0ff
 
-=item Very Light Violet             verylightviolet            #dcd0ff
+	Very Light Yellowish Green    verylightyellowishgreen    #b6e5af
 
-=item Very Light Yellowish Green    verylightyellowishgreen    #b6e5af
+	Very Pale Blue                verypaleblue               #bcd4e6
 
-=item Very Pale Blue                verypaleblue               #bcd4e6
+	Very Pale Green               verypalegreen              #c7e6d7
 
-=item Very Pale Green               verypalegreen              #c7e6d7
+	Very Pale Purple              verypalepurple             #d6cadd
 
-=item Very Pale Purple              verypalepurple             #d6cadd
+	Very Pale Purplish Blue       verypalepurplishblue       #c0c8e1
 
-=item Very Pale Purplish Blue       verypalepurplishblue       #c0c8e1
+	Very Pale Violet              verypaleviolet             #c4c3dd
 
-=item Very Pale Violet              verypaleviolet             #c4c3dd
+	Vivid Blue                    vividblue                  #00a1c2
 
-=item Vivid Blue                    vividblue                  #00a1c2
+	Vivid Bluish Green            vividbluishgreen           #008882
 
-=item Vivid Bluish Green            vividbluishgreen           #008882
+	Vivid Green                   vividgreen                 #008856
 
-=item Vivid Green                   vividgreen                 #008856
+	Vivid Greenish Blue           vividgreenishblue          #0085a1
 
-=item Vivid Greenish Blue           vividgreenishblue          #0085a1
+	Vivid Greenish Yellow         vividgreenishyellow        #dcd300
 
-=item Vivid Greenish Yellow         vividgreenishyellow        #dcd300
+	Vivid Orange                  vividorange                #f38400
 
-=item Vivid Orange                  vividorange                #f38400
+	Vivid Orange Yellow           vividorangeyellow          #f6a600
 
-=item Vivid Orange Yellow           vividorangeyellow          #f6a600
+	Vivid Pink                    vividpink                  #ffb5ba
 
-=item Vivid Pink                    vividpink                  #ffb5ba
+	Vivid Purple                  vividpurple                #9a4eae
 
-=item Vivid Purple                  vividpurple                #9a4eae
+	Vivid Purplish Blue           vividpurplishblue          #30267a
 
-=item Vivid Purplish Blue           vividpurplishblue          #30267a
+	Vivid Purplish Red            vividpurplishred           #ce4676
 
-=item Vivid Purplish Red            vividpurplishred           #ce4676
+	Vivid Red                     vividred                   #be0032
 
-=item Vivid Red                     vividred                   #be0032
+	Vivid Reddish Orange          vividreddishorange         #e25822
 
-=item Vivid Reddish Orange          vividreddishorange         #e25822
+	Vivid Reddish Purple          vividreddishpurple         #870074
 
-=item Vivid Reddish Purple          vividreddishpurple         #870074
+	Vivid Violet                  vividviolet                #9065ca
 
-=item Vivid Violet                  vividviolet                #9065ca
+	Vivid Yellow                  vividyellow                #f3c300
 
-=item Vivid Yellow                  vividyellow                #f3c300
+	Vivid Yellow Green            vividyellowgreen           #8db600
 
-=item Vivid Yellow Green            vividyellowgreen           #8db600
+	Vivid Yellowish Green         vividyellowishgreen        #27a64c
 
-=item Vivid Yellowish Green         vividyellowishgreen        #27a64c
+	Vivid Yellowish Pink          vividyellowishpink         #ffb7a5
 
-=item Vivid Yellowish Pink          vividyellowishpink         #ffb7a5
+	White                         white                      #f2f3f4
 
-=item White                         white                      #f2f3f4
+	Yellowish Gray                yellowishgray              #bfb8a5
 
-=item Yellowish Gray                yellowishgray              #bfb8a5
+	Yellowish White               yellowishwhite             #f0ead6
 
-=item Yellowish White               yellowishwhite             #f0ead6
-
-
-=back
 
 =cut
 
@@ -847,13 +842,13 @@ sub _description {
     return {
           'subtitle' => 'Centroids of the NBS/ISCC catalog',
           'title' => 'NBS/ISCC Centroids',
-          'description' => 'Kenneth L. Kelly and Deanne B. Judd.
-"Color: Universal Language and Dictionary of Names",
-National Bureau of Standards,
-Spec. Publ. 440, Dec. 1976, 189 pages.
+          'description' => '    Kenneth L. Kelly and Deanne B. Judd.
+    "Color: Universal Language and Dictionary of Names",
+    National Bureau of Standards,
+    Spec. Publ. 440, Dec. 1976, 189 pages.
 
 
-Color Name Dictionary: NBS/ISCC Centroids
+    Color Name Dictionary: NBS/ISCC Centroids
 
 [http://swissnet.ai.mit.edu/~jaffer/Color/Dictionaries#NBS-ISCC%20Centroids]
 '

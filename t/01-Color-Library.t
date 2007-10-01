@@ -1,7 +1,7 @@
 #!perl -T
 
 #use Test::More tests => 1;
-use Test::More tests => 188;
+use Test::More tests => 196;
 
 BEGIN {
 	use_ok( 'Color::Library' );
@@ -28,6 +28,7 @@ has_color_count(Color::Library->Mozilla, 146);
 has_color_count(Color::Library->Netscape, 100);
 has_color_count(Color::Library->Windows, 16);
 has_color_count(Color::Library->VACCC, 216);
+has_color_count(Color::Library->Tango, 27);
 has_color_count(Color::Library->NBS_ISCC, 267);
 has_color_count(Color::Library->NBS_ISCC->A, 349);
 has_color_count(Color::Library->NBS_ISCC->B, 788);
@@ -49,6 +50,7 @@ has_color_count(Color::Library::Dictionary::Mozilla, 146);
 has_color_count(Color::Library::Dictionary::Netscape, 100);
 has_color_count(Color::Library::Dictionary::Windows, 16);
 has_color_count(Color::Library::Dictionary::VACCC, 216);
+has_color_count(Color::Library::Dictionary::Tango, 27);
 has_color_count(Color::Library::Dictionary::NBS_ISCC, 267);
 has_color_count(Color::Library::Dictionary::NBS_ISCC::A, 349);
 has_color_count(Color::Library::Dictionary::NBS_ISCC::B, 788);

@@ -17,464 +17,459 @@ Color::Library::Dictionary::NBS_ISCC::F - (NBS/ISCC F) Colors; (for) Ready-Mixed
 
 =head1 DESCRIPTION
 
+    Kenneth L. Kelly and Deanne B. Judd.
+    "Color: Universal Language and Dictionary of Names",
+    National Bureau of Standards,
+    Spec. Publ. 440, Dec. 1976, 189 pages.
 
-Kenneth L. Kelly and Deanne B. Judd.
-"Color: Universal Language and Dictionary of Names",
-National Bureau of Standards,
-Spec. Publ. 440, Dec. 1976, 189 pages.
 
+    Color Name Dictionary: (F) Colors; (for) Ready-Mixed Paints
 
-Color Name Dictionary: (F) Colors; (for) Ready-Mixed Paints
+    Federal Specification TT-C-595,
+    Colors; (for) Ready-Mixed Paints 
 
-        Federal Specification TT-C-595,
-        Colors; (for) Ready-Mixed Paints 
-
-    This dictionary is a hybrid of combinatorial and idiosyncratic terms. 134 names map to 174 colors, using only 73 out of 267 centroids.
+This dictionary is a hybrid of combinatorial and idiosyncratic terms. 134 names map to 174 colors, using only 73 out of 267 centroids.
 
 L<http://swissnet.ai.mit.edu/~jaffer/Color/Dictionaries#F>
 
 =head1 COLORS
 
-=over 4
+	aircraft cream                                    aircraftcream                            #c2b280
 
-=item aircraft cream                                    aircraftcream                            #c2b280
+	aircraft gray                                     aircraftgray                             #b9b8b5
 
-=item aircraft gray                                     aircraftgray                             #b9b8b5
+	anti-corrosive brown                              anticorrosivebrown                       #422518
 
-=item anti-corrosive brown                              anticorrosivebrown                       #422518
+	anti-corrosive green                              anticorrosivegreen                       #403d21
 
-=item anti-corrosive green                              anticorrosivegreen                       #403d21
+	azure blue                                        azureblue                                #8791bf
 
-=item azure blue                                        azureblue                                #8791bf
+	battleship gray                                   battleshipgray                           #848482
 
-=item battleship gray                                   battleshipgray                           #848482
+	black                                             black                                    #222222
 
-=item black                                             black                                    #222222
+	black boottopping                                 blackboottopping                         #222222
 
-=item black boottopping                                 blackboottopping                         #222222
+	black deck                                        blackdeck                                #222222
 
-=item black deck                                        blackdeck                                #222222
+	blue                                              blue                                     #436b95
 
-=item blue                                              blue                                     #436b95
+	blue drab                                         bluedrab                                 #4e5755
 
-=item blue drab                                         bluedrab                                 #4e5755
+	blue gray                                         bluegray                                 #848482
 
-=item blue gray                                         bluegray                                 #848482
+	blue green                                        bluegreen                                #93c592
 
-=item blue green                                        bluegreen                                #93c592
+	blue striping                                     bluestriping                             #0067a5
 
-=item blue striping                                     bluestriping                             #0067a5
+	blue tint                                         bluetint                                 #c7e6d7
 
-=item blue tint                                         bluetint                                 #c7e6d7
+	bright blue                                       brightblue                               #0067a5
 
-=item bright blue                                       brightblue                               #0067a5
+	bright green                                      brightgreen                              #3b7861
 
-=item bright green                                      brightgreen                              #3b7861
+	brilliant yellow                                  brilliantyellow                          #f3c300
 
-=item brilliant yellow                                  brilliantyellow                          #f3c300
+	brown striping                                    brownstriping                            #56070c
 
-=item brown striping                                    brownstriping                            #56070c
+	brown striping                                    brownstriping                            #593319
 
-=item brown striping                                    brownstriping                            #593319
+	buff                                              buff                                     #e3a857
 
-=item buff                                              buff                                     #e3a857
+	buff                                              buff                                     #c19a6b
 
-=item buff                                              buff                                     #c19a6b
+	buff                                              buff                                     #c2b280
 
-=item buff                                              buff                                     #c2b280
+	buff                                              buff                                     #d99058
 
-=item buff                                              buff                                     #d99058
+	buff                                              buff                                     #be8a3d
 
-=item buff                                              buff                                     #be8a3d
+	cameo rose                                        cameorose                                #fad6a5
 
-=item cameo rose                                        cameorose                                #fad6a5
+	cameo rose                                        cameorose                                #f4c2c2
 
-=item cameo rose                                        cameorose                                #f4c2c2
+	canary yellow                                     canaryyellow                             #f8de7e
 
-=item canary yellow                                     canaryyellow                             #f8de7e
+	canyon brown                                      canyonbrown                              #635147
 
-=item canyon brown                                      canyonbrown                              #635147
+	chrome green                                      chromegreen                              #173620
 
-=item chrome green                                      chromegreen                              #173620
+	chrome yellow                                     chromeyellow                             #f6a600
 
-=item chrome yellow                                     chromeyellow                             #f6a600
+	chrome yellow                                     chromeyellow                             #eaa221
 
-=item chrome yellow                                     chromeyellow                             #eaa221
+	clear blue                                        clearblue                                #367588
 
-=item clear blue                                        clearblue                                #367588
+	cream                                             cream                                    #c2b280
 
-=item cream                                             cream                                    #c2b280
+	cream striping                                    creamstriping                            #f8de7e
 
-=item cream striping                                    creamstriping                            #f8de7e
+	dark earth                                        darkearth                                #7e6d5a
 
-=item dark earth                                        darkearth                                #7e6d5a
+	dark earth                                        darkearth                                #6c541e
 
-=item dark earth                                        darkearth                                #6c541e
+	dark gray                                         darkgray                                 #555555
 
-=item dark gray                                         darkgray                                 #555555
+	dark green                                        darkgreen                                #355e3b
 
-=item dark green                                        darkgreen                                #355e3b
+	dark green                                        darkgreen                                #3a4b47
 
-=item dark green                                        darkgreen                                #3a4b47
+	dark green deck                                   darkgreendeck                            #3a4b47
 
-=item dark green deck                                   darkgreendeck                            #3a4b47
+	dark gull gray                                    darkgullgray                             #848482
 
-=item dark gull gray                                    darkgullgray                             #848482
+	dark putty                                        darkputty                                #57554c
 
-=item dark putty                                        darkputty                                #57554c
+	dark red boottopping                              darkredboottopping                       #3e322c
 
-=item dark red boottopping                              darkredboottopping                       #3e322c
+	dark zinc yellow primer                           darkzincyellowprimer                     #515744
 
-=item dark zinc yellow primer                           darkzincyellowprimer                     #515744
+	deep navy gray                                    deepnavygray                             #555555
 
-=item deep navy gray                                    deepnavygray                             #555555
+	deep reddish brown                                deepreddishbrown                         #3e1d1e
 
-=item deep reddish brown                                deepreddishbrown                         #3e1d1e
+	desert sand                                       desertsand                               #958070
 
-=item desert sand                                       desertsand                               #958070
+	desert sand                                       desertsand                               #a67b5b
 
-=item desert sand                                       desertsand                               #a67b5b
+	dull red                                          dullred                                  #79443b
 
-=item dull red                                          dullred                                  #79443b
+	earth brown                                       earthbrown                               #635147
 
-=item earth brown                                       earthbrown                               #635147
+	earth red                                         earthred                                 #6f4e37
 
-=item earth red                                         earthred                                 #6f4e37
+	earth yellow                                      earthyellow                              #c19a6b
 
-=item earth yellow                                      earthyellow                              #c19a6b
+	eggshell                                          eggshell                                 #f3e5ab
 
-=item eggshell                                          eggshell                                 #f3e5ab
+	eggshell                                          eggshell                                 #f0ead6
 
-=item eggshell                                          eggshell                                 #f0ead6
+	engine gray                                       enginegray                               #555555
 
-=item engine gray                                       enginegray                               #555555
+	engine gray                                       enginegray                               #848482
 
-=item engine gray                                       enginegray                               #848482
+	exterior green #14 or exterior green no. fourteen exteriorgreen14orexteriorgreennofourteen #2b3d26
 
-=item exterior green #14 or exterior green no. fourteen exteriorgreen14orexteriorgreennofourteen #2b3d26
+	exterior green #15 or exterior green no. fifteen  exteriorgreen15orexteriorgreennofifteen  #8a9a5b
 
-=item exterior green #15 or exterior green no. fifteen  exteriorgreen15orexteriorgreennofifteen  #8a9a5b
+	field drab                                        fielddrab                                #7e6d5a
 
-=item field drab                                        fielddrab                                #7e6d5a
+	field drab                                        fielddrab                                #6c541e
 
-=item field drab                                        fielddrab                                #6c541e
+	fire red                                          firered                                  #be0032
 
-=item fire red                                          firered                                  #be0032
+	flat cream                                        flatcream                                #f3e5ab
 
-=item flat cream                                        flatcream                                #f3e5ab
+	forest green                                      forestgreen                              #2b3d26
 
-=item forest green                                      forestgreen                              #2b3d26
+	forest green                                      forestgreen                              #355e3b
 
-=item forest green                                      forestgreen                              #355e3b
+	gloss black                                       glossblack                               #222222
 
-=item gloss black                                       glossblack                               #222222
+	government wall green                             governmentwallgreen                      #8f9779
 
-=item government wall green                             governmentwallgreen                      #8f9779
+	gray                                              gray                                     #848482
 
-=item gray                                              gray                                     #848482
+	gray                                              gray                                     #c2b280
 
-=item gray                                              gray                                     #c2b280
+	gray                                              gray                                     #bfb8a5
 
-=item gray                                              gray                                     #bfb8a5
+	gray #12                                          gray12                                   #bfb8a5
 
-=item gray #12                                          gray12                                   #bfb8a5
+	gray #7                                           gray7                                    #8c8767
 
-=item gray #7                                           gray7                                    #8c8767
+	gray #7                                           gray7                                    #8a8776
 
-=item gray #7                                           gray7                                    #8a8776
+	gray deck                                         graydeck                                 #555555
 
-=item gray deck                                         graydeck                                 #555555
+	gray deck                                         graydeck                                 #848482
 
-=item gray deck                                         graydeck                                 #848482
+	gray tint                                         graytint                                 #c2b280
 
-=item gray tint                                         graytint                                 #c2b280
+	gray wood                                         graywood                                 #848482
 
-=item gray wood                                         graywood                                 #848482
+	green                                             green                                    #355e3b
 
-=item green                                             green                                    #355e3b
+	green                                             green                                    #355e3b
 
-=item green                                             green                                    #355e3b
+	green                                             green                                    #1c352d
 
-=item green                                             green                                    #1c352d
+	green                                             green                                    #2b3d26
 
-=item green                                             green                                    #2b3d26
+	green                                             green                                    #b9b57d
 
-=item green                                             green                                    #b9b57d
+	green                                             green                                    #403d21
 
-=item green                                             green                                    #403d21
+	green                                             green                                    #3b7861
 
-=item green                                             green                                    #3b7861
+	green boottopping                                 greenboottopping                         #355e3b
 
-=item green boottopping                                 greenboottopping                         #355e3b
+	green striping                                    greenstriping                            #355e3b
 
-=item green striping                                    greenstriping                            #355e3b
+	green tint                                        greentint                                #dadfb7
 
-=item green tint                                        greentint                                #dadfb7
+	green zinc yellow primer                          greenzincyellowprimer                    #8a9a5b
 
-=item green zinc yellow primer                          greenzincyellowprimer                    #8a9a5b
+	haze-gray                                         hazegray                                 #848482
 
-=item haze-gray                                         hazegray                                 #848482
+	highlight buff                                    highlightbuff                            #c2b280
 
-=item highlight buff                                    highlightbuff                            #c2b280
+	hospital ship green                               hospitalshipgreen                        #679267
 
-=item hospital ship green                               hospitalshipgreen                        #679267
+	hull black                                        hullblack                                #222222
 
-=item hull black                                        hullblack                                #222222
+	hull gray                                         hullgray                                 #91a3b0
 
-=item hull gray                                         hullgray                                 #91a3b0
+	insignia blue                                     insigniablue                             #252440
 
-=item insignia blue                                     insigniablue                             #252440
+	insignia blue                                     insigniablue                             #36454f
 
-=item insignia blue                                     insigniablue                             #36454f
+	insignia red                                      insigniared                              #be0032
 
-=item insignia red                                      insigniared                              #be0032
+	insignia red                                      insigniared                              #ab4e52
 
-=item insignia red                                      insigniared                              #ab4e52
+	insignia white                                    insigniawhite                            #f2f3f4
 
-=item insignia white                                    insigniawhite                            #f2f3f4
+	instrument black                                  instrumentblack                          #222222
 
-=item instrument black                                  instrumentblack                          #222222
+	interior green                                    interiorgreen                            #4a5d23
 
-=item interior green                                    interiorgreen                            #4a5d23
+	intermediate blue                                 intermediateblue                         #536878
 
-=item intermediate blue                                 intermediateblue                         #536878
+	international orange                              internationalorange                      #e25822
 
-=item international orange                              internationalorange                      #e25822
+	ivory                                             ivory                                    #f8de7e
 
-=item ivory                                             ivory                                    #f8de7e
+	ivory cream                                       ivorycream                               #f3e5ab
 
-=item ivory cream                                       ivorycream                               #f3e5ab
+	jet                                               jet                                      #222222
 
-=item jet                                               jet                                      #222222
+	jet black                                         jetblack                                 #222222
 
-=item jet black                                         jetblack                                 #222222
+	lemon yellow                                      lemonyellow                              #f3c300
 
-=item lemon yellow                                      lemonyellow                              #f3c300
+	light blue                                        lightblue                                #436b95
 
-=item light blue                                        lightblue                                #436b95
+	light blue                                        lightblue                                #317873
 
-=item light blue                                        lightblue                                #317873
+	light blue                                        lightblue                                #367588
 
-=item light blue                                        lightblue                                #367588
+	light blue                                        lightblue                                #8ed1b2
 
-=item light blue                                        lightblue                                #8ed1b2
+	light blue                                        lightblue                                #317873
 
-=item light blue                                        lightblue                                #317873
+	light blue                                        lightblue                                #367588
 
-=item light blue                                        lightblue                                #367588
+	light blue enamel                                 lightblueenamel                          #00304e
 
-=item light blue enamel                                 lightblueenamel                          #00304e
+	light blue,, light blue 5                         lightbluelightblue5                      #c7e6d7
 
-=item light blue,, light blue 5                         lightbluelightblue5                      #c7e6d7
+	light gray                                        lightgray                                #b9b8b5
 
-=item light gray                                        lightgray                                #b9b8b5
+	light gray                                        lightgray                                #f3e5ab
 
-=item light gray                                        lightgray                                #f3e5ab
+	light gray                                        lightgray                                #c2b280
 
-=item light gray                                        lightgray                                #c2b280
+	light gray                                        lightgray                                #848482
 
-=item light gray                                        lightgray                                #848482
+	light gray                                        lightgray                                #b9b8b5
 
-=item light gray                                        lightgray                                #b9b8b5
+	light gray boottopping                            lightgrayboottopping                     #848482
 
-=item light gray boottopping                            lightgrayboottopping                     #848482
+	light green                                       lightgreen                               #44944a
 
-=item light green                                       lightgreen                               #44944a
+	light green                                       lightgreen                               #c9dc89
 
-=item light green                                       lightgreen                               #c9dc89
+	light green                                       lightgreen                               #679267
 
-=item light green                                       lightgreen                               #679267
+	light green                                       lightgreen                               #b9b57d
 
-=item light green                                       lightgreen                               #b9b57d
+	light green                                       lightgreen                               #8a9a5b
 
-=item light green                                       lightgreen                               #8a9a5b
+	light green                                       lightgreen                               #b2beb5
 
-=item light green                                       lightgreen                               #b2beb5
+	light gull gray                                   lightgullgray                            #b9b8b5
 
-=item light gull gray                                   lightgullgray                            #b9b8b5
+	light ivory                                       lightivory                               #f3e5ab
 
-=item light ivory                                       lightivory                               #f3e5ab
+	light navy gray                                   lightnavygray                            #848482
 
-=item light navy gray                                   lightnavygray                            #848482
+	light olive                                       lightolive                               #8c8767
 
-=item light olive                                       lightolive                               #8c8767
+	light red boottopping                             lightredboottopping                      #56070c
 
-=item light red boottopping                             lightredboottopping                      #56070c
+	light yellow                                      lightyellow                              #f3c300
 
-=item light yellow                                      lightyellow                              #f3c300
+	light yellow                                      lightyellow                              #f8de7e
 
-=item light yellow                                      lightyellow                              #f8de7e
+	loam                                              loam                                     #57554c
 
-=item loam                                              loam                                     #57554c
+	machinery green                                   machinerygreen                           #5e716a
 
-=item machinery green                                   machinerygreen                           #5e716a
+	marine green                                      marinegreen                              #3b3121
 
-=item marine green                                      marinegreen                              #3b3121
+	maroon                                            maroon                                   #56070c
 
-=item maroon                                            maroon                                   #56070c
+	maroon                                            maroon                                   #674c47
 
-=item maroon                                            maroon                                   #674c47
+	medium blue                                       mediumblue                               #536878
 
-=item medium blue                                       mediumblue                               #536878
+	medium blue                                       mediumblue                               #436b95
 
-=item medium blue                                       mediumblue                               #436b95
+	medium gray                                       mediumgray                               #8c8767
 
-=item medium gray                                       mediumgray                               #8c8767
+	medium gray                                       mediumgray                               #848482
 
-=item medium gray                                       mediumgray                               #848482
+	medium gray                                       mediumgray                               #8a8776
 
-=item medium gray                                       mediumgray                               #8a8776
+	medium green                                      mediumgreen                              #3a4b47
 
-=item medium green                                      mediumgreen                              #3a4b47
+	medium green                                      mediumgreen                              #00622d
 
-=item medium green                                      mediumgreen                              #00622d
+	medium green                                      mediumgreen                              #5e716a
 
-=item medium green                                      mediumgreen                              #5e716a
+	medium navy gray                                  mediumnavygray                           #848482
 
-=item medium navy gray                                  mediumnavygray                           #848482
+	medium tan                                        mediumtan                                #826644
 
-=item medium tan                                        mediumtan                                #826644
+	metallic brown                                    metallicbrown                            #56070c
 
-=item metallic brown                                    metallicbrown                            #56070c
+	metallic brown                                    metallicbrown                            #56070c
 
-=item metallic brown                                    metallicbrown                            #56070c
+	metallic brown                                    metallicbrown                            #593319
 
-=item metallic brown                                    metallicbrown                            #593319
+	metallic red                                      metallicred                              #56070c
 
-=item metallic red                                      metallicred                              #56070c
+	middle stone                                      middlestone                              #967117
 
-=item middle stone                                      middlestone                              #967117
+	middlestone                                       middlestone                              #967117
 
-=item middlestone                                       middlestone                              #967117
+	mosstone                                          mosstone                                 #8a9a5b
 
-=item mosstone                                          mosstone                                 #8a9a5b
+	national school bus chrome                        nationalschoolbuschrome                  #f6a600
 
-=item national school bus chrome                        nationalschoolbuschrome                  #f6a600
+	navy gray                                         navygray                                 #555555
 
-=item navy gray                                         navygray                                 #555555
+	ocean gray                                        oceangray                                #536878
 
-=item ocean gray                                        oceangray                                #536878
+	ocean gray                                        oceangray                                #848482
 
-=item ocean gray                                        oceangray                                #848482
+	olive drab                                        olivedrab                                #3b3121
 
-=item olive drab                                        olivedrab                                #3b3121
+	olive drab                                        olivedrab                                #5b5842
 
-=item olive drab                                        olivedrab                                #5b5842
+	olive drab                                        olivedrab                                #403d21
 
-=item olive drab                                        olivedrab                                #403d21
+	olive green                                       olivegreen                               #403d21
 
-=item olive green                                       olivegreen                               #403d21
+	orange                                            orange                                   #d9603b
 
-=item orange                                            orange                                   #d9603b
+	orange                                            orange                                   #e25822
 
-=item orange                                            orange                                   #e25822
+	orange                                            orange                                   #ed872d
 
-=item orange                                            orange                                   #ed872d
+	orange yellow                                     orangeyellow                             #f6a600
 
-=item orange yellow                                     orangeyellow                             #f6a600
+	orange yellow                                     orangeyellow                             #eaa221
 
-=item orange yellow                                     orangeyellow                             #eaa221
+	oyster gray                                       oystergray                               #b9b8b5
 
-=item oyster gray                                       oystergray                               #b9b8b5
+	peach                                             peach                                    #fad6a5
 
-=item peach                                             peach                                    #fad6a5
+	pea green                                         peagreen                                 #679267
 
-=item pea green                                         peagreen                                 #679267
+	pearl gray                                        pearlgray                                #c2b280
 
-=item pearl gray                                        pearlgray                                #c2b280
+	pearl gray                                        pearlgray                                #b9b8b5
 
-=item pearl gray                                        pearlgray                                #b9b8b5
+	pullman green                                     pullmangreen                             #2b3d26
 
-=item pullman green                                     pullmangreen                             #2b3d26
+	pullman green                                     pullmangreen                             #403d21
 
-=item pullman green                                     pullmangreen                             #403d21
+	pullman green                                     pullmangreen                             #5b5842
 
-=item pullman green                                     pullmangreen                             #5b5842
+	purple                                            purple                                   #86608e
 
-=item purple                                            purple                                   #86608e
+	red                                               red                                      #be0032
 
-=item red                                               red                                      #be0032
+	red                                               red                                      #be0032
 
-=item red                                               red                                      #be0032
+	red                                               red                                      #ab4e52
 
-=item red                                               red                                      #ab4e52
+	red boottopping                                   redboottopping                           #56070c
 
-=item red boottopping                                   redboottopping                           #56070c
+	red deck                                          reddeck                                  #56070c
 
-=item red deck                                          reddeck                                  #56070c
+	red lead                                          redlead                                  #d9603b
 
-=item red lead                                          redlead                                  #d9603b
+	red lead and oil                                  redleadandoil                            #e25822
 
-=item red lead and oil                                  redleadandoil                            #e25822
+	red lead modified                                 redleadmodified                          #aa381e
 
-=item red lead modified                                 redleadmodified                          #aa381e
+	red oxide                                         redoxide                                 #56070c
 
-=item red oxide                                         redoxide                                 #56070c
+	red striping                                      redstriping                              #be0032
 
-=item red striping                                      redstriping                              #be0032
+	road and tire gray                                roadandtiregray                          #848482
 
-=item road and tire gray                                roadandtiregray                          #848482
+	royal blue                                        royalblue                                #00304e
 
-=item royal blue                                        royalblue                                #00304e
+	sand                                              sand                                     #958070
 
-=item sand                                              sand                                     #958070
+	sand                                              sand                                     #c2b280
 
-=item sand                                              sand                                     #c2b280
+	sand                                              sand                                     #a18f60
 
-=item sand                                              sand                                     #a18f60
+	sea blue                                          seablue                                  #202830
 
-=item sea blue                                          seablue                                  #202830
+	sea blue                                          seablue                                  #202830
 
-=item sea blue                                          seablue                                  #202830
+	sea blue                                          seablue                                  #51585e
 
-=item sea blue                                          seablue                                  #51585e
+	sea blue                                          seablue                                  #51585e
 
-=item sea blue                                          seablue                                  #51585e
+	sea gray                                          seagray                                  #555555
 
-=item sea gray                                          seagray                                  #555555
+	seal brown                                        sealbrown                                #6f4e37
 
-=item seal brown                                        sealbrown                                #6f4e37
+	slate                                             slate                                    #555555
 
-=item slate                                             slate                                    #555555
+	soft yellow                                       softyellow                               #f8de7e
 
-=item soft yellow                                       softyellow                               #f8de7e
+	spring green                                      springgreen                              #8f9779
 
-=item spring green                                      springgreen                              #8f9779
+	spruce green                                      sprucegreen                              #515744
 
-=item spruce green                                      sprucegreen                              #515744
+	suntan                                            suntan                                   #f3e5ab
 
-=item suntan                                            suntan                                   #f3e5ab
+	terra cotta                                       terracotta                               #a87c6d
 
-=item terra cotta                                       terracotta                               #a87c6d
+	vermilion                                         vermilion                                #be0032
 
-=item vermilion                                         vermilion                                #be0032
+	vineyard green                                    vineyardgreen                            #1a2421
 
-=item vineyard green                                    vineyardgreen                            #1a2421
+	vivid orange                                      vividorange                              #e25822
 
-=item vivid orange                                      vividorange                              #e25822
+	warm gray                                         warmgray                                 #c2b280
 
-=item warm gray                                         warmgray                                 #c2b280
+	willow green                                      willowgreen                              #44944a
 
-=item willow green                                      willowgreen                              #44944a
+	yellow                                            yellow                                   #f6a600
 
-=item yellow                                            yellow                                   #f6a600
+	yellow                                            yellow                                   #eaa221
 
-=item yellow                                            yellow                                   #eaa221
+	yellow                                            yellow                                   #f6a600
 
-=item yellow                                            yellow                                   #f6a600
+	yellow striping                                   yellowstriping                           #f6a600
 
-=item yellow striping                                   yellowstriping                           #f6a600
+	yellow striping                                   yellowstriping                           #eaa221
 
-=item yellow striping                                   yellowstriping                           #eaa221
+	yellow tint                                       yellowtint                               #fad6a5
 
-=item yellow tint                                       yellowtint                               #fad6a5
+	zinc chromate                                     zincchromate                             #8a9a5b
 
-=item zinc chromate                                     zincchromate                             #8a9a5b
+	zinc yellow primer                                zincyellowprimer                         #c9ae5d
 
-=item zinc yellow primer                                zincyellowprimer                         #c9ae5d
-
-
-=back
 
 =cut
 
@@ -705,18 +700,18 @@ sub _description {
     return {
           'subtitle' => 'Colors; (for) Ready-Mixed Paints',
           'title' => 'NBS/ISCC F',
-          'description' => 'Kenneth L. Kelly and Deanne B. Judd.
-"Color: Universal Language and Dictionary of Names",
-National Bureau of Standards,
-Spec. Publ. 440, Dec. 1976, 189 pages.
+          'description' => '    Kenneth L. Kelly and Deanne B. Judd.
+    "Color: Universal Language and Dictionary of Names",
+    National Bureau of Standards,
+    Spec. Publ. 440, Dec. 1976, 189 pages.
 
 
-Color Name Dictionary: (F) Colors; (for) Ready-Mixed Paints
+    Color Name Dictionary: (F) Colors; (for) Ready-Mixed Paints
 
-        Federal Specification TT-C-595,
-        Colors; (for) Ready-Mixed Paints 
+    Federal Specification TT-C-595,
+    Colors; (for) Ready-Mixed Paints 
 
-    This dictionary is a hybrid of combinatorial and idiosyncratic terms. 134 names map to 174 colors, using only 73 out of 267 centroids.
+This dictionary is a hybrid of combinatorial and idiosyncratic terms. 134 names map to 174 colors, using only 73 out of 267 centroids.
 
 [http://swissnet.ai.mit.edu/~jaffer/Color/Dictionaries#F]
 '

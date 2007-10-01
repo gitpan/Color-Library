@@ -17,1535 +17,1530 @@ Color::Library::Dictionary::X11 - (X11) Colors for the X11 Window System (rgb.tx
 
 =head1 DESCRIPTION
 
-
 X11/rgb.txt (often /usr/X11R6/lib/X11/rgb.txt) from the X11 Window System distribution.
 
 =head1 COLORS
 
-=over 4
+	aliceblue              aliceblue            #f0f8ff
 
-=item aliceblue              aliceblue            #f0f8ff
+	alice blue             aliceblue            #f0f8ff
 
-=item alice blue             aliceblue            #f0f8ff
+	antiquewhite           antiquewhite         #faebd7
 
-=item antiquewhite           antiquewhite         #faebd7
+	antique white          antiquewhite         #faebd7
 
-=item antique white          antiquewhite         #faebd7
+	antiquewhite1          antiquewhite1        #ffefdb
 
-=item antiquewhite1          antiquewhite1        #ffefdb
+	antiquewhite2          antiquewhite2        #eedfcc
 
-=item antiquewhite2          antiquewhite2        #eedfcc
+	antiquewhite3          antiquewhite3        #cdc0b0
 
-=item antiquewhite3          antiquewhite3        #cdc0b0
+	antiquewhite4          antiquewhite4        #8b8378
 
-=item antiquewhite4          antiquewhite4        #8b8378
+	aquamarine             aquamarine           #7fffd4
 
-=item aquamarine             aquamarine           #7fffd4
+	aquamarine1            aquamarine1          #7fffd4
 
-=item aquamarine1            aquamarine1          #7fffd4
+	aquamarine2            aquamarine2          #76eec6
 
-=item aquamarine2            aquamarine2          #76eec6
+	aquamarine3            aquamarine3          #66cdaa
 
-=item aquamarine3            aquamarine3          #66cdaa
+	aquamarine4            aquamarine4          #458b74
 
-=item aquamarine4            aquamarine4          #458b74
+	azure                  azure                #f0ffff
 
-=item azure                  azure                #f0ffff
+	azure1                 azure1               #f0ffff
 
-=item azure1                 azure1               #f0ffff
+	azure2                 azure2               #e0eeee
 
-=item azure2                 azure2               #e0eeee
+	azure3                 azure3               #c1cdcd
 
-=item azure3                 azure3               #c1cdcd
+	azure4                 azure4               #838b8b
 
-=item azure4                 azure4               #838b8b
+	beige                  beige                #f5f5dc
 
-=item beige                  beige                #f5f5dc
+	bisque                 bisque               #ffe4c4
 
-=item bisque                 bisque               #ffe4c4
+	bisque1                bisque1              #ffe4c4
 
-=item bisque1                bisque1              #ffe4c4
+	bisque2                bisque2              #eed5b7
 
-=item bisque2                bisque2              #eed5b7
+	bisque3                bisque3              #cdb79e
 
-=item bisque3                bisque3              #cdb79e
+	bisque4                bisque4              #8b7d6b
 
-=item bisque4                bisque4              #8b7d6b
+	black                  black                #000000
 
-=item black                  black                #000000
+	blanched almond        blanchedalmond       #ffebcd
 
-=item blanched almond        blanchedalmond       #ffebcd
+	blanchedalmond         blanchedalmond       #ffebcd
 
-=item blanchedalmond         blanchedalmond       #ffebcd
+	blue                   blue                 #0000ff
 
-=item blue                   blue                 #0000ff
+	blue1                  blue1                #0000ff
 
-=item blue1                  blue1                #0000ff
+	blue2                  blue2                #0000ee
 
-=item blue2                  blue2                #0000ee
+	blue3                  blue3                #0000cd
 
-=item blue3                  blue3                #0000cd
+	blue4                  blue4                #00008b
 
-=item blue4                  blue4                #00008b
+	blueviolet             blueviolet           #8a2be2
 
-=item blueviolet             blueviolet           #8a2be2
+	blue violet            blueviolet           #8a2be2
 
-=item blue violet            blueviolet           #8a2be2
+	brown                  brown                #a52a2a
 
-=item brown                  brown                #a52a2a
+	brown1                 brown1               #ff4040
 
-=item brown1                 brown1               #ff4040
+	brown2                 brown2               #ee3b3b
 
-=item brown2                 brown2               #ee3b3b
+	brown3                 brown3               #cd3333
 
-=item brown3                 brown3               #cd3333
+	brown4                 brown4               #8b2323
 
-=item brown4                 brown4               #8b2323
+	burlywood              burlywood            #deb887
 
-=item burlywood              burlywood            #deb887
+	burlywood1             burlywood1           #ffd39b
 
-=item burlywood1             burlywood1           #ffd39b
+	burlywood2             burlywood2           #eec591
 
-=item burlywood2             burlywood2           #eec591
+	burlywood3             burlywood3           #cdaa7d
 
-=item burlywood3             burlywood3           #cdaa7d
+	burlywood4             burlywood4           #8b7355
 
-=item burlywood4             burlywood4           #8b7355
+	cadetblue              cadetblue            #5f9ea0
 
-=item cadetblue              cadetblue            #5f9ea0
+	cadet blue             cadetblue            #5f9ea0
 
-=item cadet blue             cadetblue            #5f9ea0
+	cadetblue1             cadetblue1           #98f5ff
 
-=item cadetblue1             cadetblue1           #98f5ff
+	cadetblue2             cadetblue2           #8ee5ee
 
-=item cadetblue2             cadetblue2           #8ee5ee
+	cadetblue3             cadetblue3           #7ac5cd
 
-=item cadetblue3             cadetblue3           #7ac5cd
+	cadetblue4             cadetblue4           #53868b
 
-=item cadetblue4             cadetblue4           #53868b
+	chartreuse             chartreuse           #7fff00
 
-=item chartreuse             chartreuse           #7fff00
+	chartreuse1            chartreuse1          #7fff00
 
-=item chartreuse1            chartreuse1          #7fff00
+	chartreuse2            chartreuse2          #76ee00
 
-=item chartreuse2            chartreuse2          #76ee00
+	chartreuse3            chartreuse3          #66cd00
 
-=item chartreuse3            chartreuse3          #66cd00
+	chartreuse4            chartreuse4          #458b00
 
-=item chartreuse4            chartreuse4          #458b00
+	chocolate              chocolate            #d2691e
 
-=item chocolate              chocolate            #d2691e
+	chocolate1             chocolate1           #ff7f24
 
-=item chocolate1             chocolate1           #ff7f24
+	chocolate2             chocolate2           #ee7621
 
-=item chocolate2             chocolate2           #ee7621
+	chocolate3             chocolate3           #cd661d
 
-=item chocolate3             chocolate3           #cd661d
+	chocolate4             chocolate4           #8b4513
 
-=item chocolate4             chocolate4           #8b4513
+	coral                  coral                #ff7f50
 
-=item coral                  coral                #ff7f50
+	coral1                 coral1               #ff7256
 
-=item coral1                 coral1               #ff7256
+	coral2                 coral2               #ee6a50
 
-=item coral2                 coral2               #ee6a50
+	coral3                 coral3               #cd5b45
 
-=item coral3                 coral3               #cd5b45
+	coral4                 coral4               #8b3e2f
 
-=item coral4                 coral4               #8b3e2f
+	cornflower blue        cornflowerblue       #6495ed
 
-=item cornflower blue        cornflowerblue       #6495ed
+	cornflowerblue         cornflowerblue       #6495ed
 
-=item cornflowerblue         cornflowerblue       #6495ed
+	cornsilk               cornsilk             #fff8dc
 
-=item cornsilk               cornsilk             #fff8dc
+	cornsilk1              cornsilk1            #fff8dc
 
-=item cornsilk1              cornsilk1            #fff8dc
+	cornsilk2              cornsilk2            #eee8cd
 
-=item cornsilk2              cornsilk2            #eee8cd
+	cornsilk3              cornsilk3            #cdc8b1
 
-=item cornsilk3              cornsilk3            #cdc8b1
+	cornsilk4              cornsilk4            #8b8878
 
-=item cornsilk4              cornsilk4            #8b8878
+	cyan                   cyan                 #00ffff
 
-=item cyan                   cyan                 #00ffff
+	cyan1                  cyan1                #00ffff
 
-=item cyan1                  cyan1                #00ffff
+	cyan2                  cyan2                #00eeee
 
-=item cyan2                  cyan2                #00eeee
+	cyan3                  cyan3                #00cdcd
 
-=item cyan3                  cyan3                #00cdcd
+	cyan4                  cyan4                #008b8b
 
-=item cyan4                  cyan4                #008b8b
+	dark blue              darkblue             #00008b
 
-=item dark blue              darkblue             #00008b
+	darkblue               darkblue             #00008b
 
-=item darkblue               darkblue             #00008b
+	darkcyan               darkcyan             #008b8b
 
-=item darkcyan               darkcyan             #008b8b
+	dark cyan              darkcyan             #008b8b
 
-=item dark cyan              darkcyan             #008b8b
+	darkgoldenrod          darkgoldenrod        #b8860b
 
-=item darkgoldenrod          darkgoldenrod        #b8860b
+	dark goldenrod         darkgoldenrod        #b8860b
 
-=item dark goldenrod         darkgoldenrod        #b8860b
+	darkgoldenrod1         darkgoldenrod1       #ffb90f
 
-=item darkgoldenrod1         darkgoldenrod1       #ffb90f
+	darkgoldenrod2         darkgoldenrod2       #eead0e
 
-=item darkgoldenrod2         darkgoldenrod2       #eead0e
+	darkgoldenrod3         darkgoldenrod3       #cd950c
 
-=item darkgoldenrod3         darkgoldenrod3       #cd950c
+	darkgoldenrod4         darkgoldenrod4       #8b6508
 
-=item darkgoldenrod4         darkgoldenrod4       #8b6508
+	dark gray              darkgray             #a9a9a9
 
-=item dark gray              darkgray             #a9a9a9
+	darkgray               darkgray             #a9a9a9
 
-=item darkgray               darkgray             #a9a9a9
+	darkgreen              darkgreen            #006400
 
-=item darkgreen              darkgreen            #006400
+	dark green             darkgreen            #006400
 
-=item dark green             darkgreen            #006400
+	dark grey              darkgrey             #a9a9a9
 
-=item dark grey              darkgrey             #a9a9a9
+	darkgrey               darkgrey             #a9a9a9
 
-=item darkgrey               darkgrey             #a9a9a9
+	dark khaki             darkkhaki            #bdb76b
 
-=item dark khaki             darkkhaki            #bdb76b
+	darkkhaki              darkkhaki            #bdb76b
 
-=item darkkhaki              darkkhaki            #bdb76b
+	dark magenta           darkmagenta          #8b008b
 
-=item dark magenta           darkmagenta          #8b008b
+	darkmagenta            darkmagenta          #8b008b
 
-=item darkmagenta            darkmagenta          #8b008b
+	dark olive green       darkolivegreen       #556b2f
 
-=item dark olive green       darkolivegreen       #556b2f
+	darkolivegreen         darkolivegreen       #556b2f
 
-=item darkolivegreen         darkolivegreen       #556b2f
+	darkolivegreen1        darkolivegreen1      #caff70
 
-=item darkolivegreen1        darkolivegreen1      #caff70
+	darkolivegreen2        darkolivegreen2      #bcee68
 
-=item darkolivegreen2        darkolivegreen2      #bcee68
+	darkolivegreen3        darkolivegreen3      #a2cd5a
 
-=item darkolivegreen3        darkolivegreen3      #a2cd5a
+	darkolivegreen4        darkolivegreen4      #6e8b3d
 
-=item darkolivegreen4        darkolivegreen4      #6e8b3d
+	dark orange            darkorange           #ff8c00
 
-=item dark orange            darkorange           #ff8c00
+	darkorange             darkorange           #ff8c00
 
-=item darkorange             darkorange           #ff8c00
+	darkorange1            darkorange1          #ff7f00
 
-=item darkorange1            darkorange1          #ff7f00
+	darkorange2            darkorange2          #ee7600
 
-=item darkorange2            darkorange2          #ee7600
+	darkorange3            darkorange3          #cd6600
 
-=item darkorange3            darkorange3          #cd6600
+	darkorange4            darkorange4          #8b4500
 
-=item darkorange4            darkorange4          #8b4500
+	darkorchid             darkorchid           #9932cc
 
-=item darkorchid             darkorchid           #9932cc
+	dark orchid            darkorchid           #9932cc
 
-=item dark orchid            darkorchid           #9932cc
+	darkorchid1            darkorchid1          #bf3eff
 
-=item darkorchid1            darkorchid1          #bf3eff
+	darkorchid2            darkorchid2          #b23aee
 
-=item darkorchid2            darkorchid2          #b23aee
+	darkorchid3            darkorchid3          #9a32cd
 
-=item darkorchid3            darkorchid3          #9a32cd
+	darkorchid4            darkorchid4          #68228b
 
-=item darkorchid4            darkorchid4          #68228b
+	dark red               darkred              #8b0000
 
-=item dark red               darkred              #8b0000
+	darkred                darkred              #8b0000
 
-=item darkred                darkred              #8b0000
+	dark salmon            darksalmon           #e9967a
 
-=item dark salmon            darksalmon           #e9967a
+	darksalmon             darksalmon           #e9967a
 
-=item darksalmon             darksalmon           #e9967a
+	dark sea green         darkseagreen         #8fbc8f
 
-=item dark sea green         darkseagreen         #8fbc8f
+	darkseagreen           darkseagreen         #8fbc8f
 
-=item darkseagreen           darkseagreen         #8fbc8f
+	darkseagreen1          darkseagreen1        #c1ffc1
 
-=item darkseagreen1          darkseagreen1        #c1ffc1
+	darkseagreen2          darkseagreen2        #b4eeb4
 
-=item darkseagreen2          darkseagreen2        #b4eeb4
+	darkseagreen3          darkseagreen3        #9bcd9b
 
-=item darkseagreen3          darkseagreen3        #9bcd9b
+	darkseagreen4          darkseagreen4        #698b69
 
-=item darkseagreen4          darkseagreen4        #698b69
+	dark slate blue        darkslateblue        #483d8b
 
-=item dark slate blue        darkslateblue        #483d8b
+	darkslateblue          darkslateblue        #483d8b
 
-=item darkslateblue          darkslateblue        #483d8b
+	dark slate gray        darkslategray        #2f4f4f
 
-=item dark slate gray        darkslategray        #2f4f4f
+	darkslategray          darkslategray        #2f4f4f
 
-=item darkslategray          darkslategray        #2f4f4f
+	darkslategray1         darkslategray1       #97ffff
 
-=item darkslategray1         darkslategray1       #97ffff
+	darkslategray2         darkslategray2       #8deeee
 
-=item darkslategray2         darkslategray2       #8deeee
+	darkslategray3         darkslategray3       #79cdcd
 
-=item darkslategray3         darkslategray3       #79cdcd
+	darkslategray4         darkslategray4       #528b8b
 
-=item darkslategray4         darkslategray4       #528b8b
+	dark slate grey        darkslategrey        #2f4f4f
 
-=item dark slate grey        darkslategrey        #2f4f4f
+	darkslategrey          darkslategrey        #2f4f4f
 
-=item darkslategrey          darkslategrey        #2f4f4f
+	darkslategrey1         darkslategrey1       #97ffff
 
-=item darkslategrey1         darkslategrey1       #97ffff
+	darkslategrey2         darkslategrey2       #8deeee
 
-=item darkslategrey2         darkslategrey2       #8deeee
+	darkslategrey3         darkslategrey3       #79cdcd
 
-=item darkslategrey3         darkslategrey3       #79cdcd
+	darkslategrey4         darkslategrey4       #528b8b
 
-=item darkslategrey4         darkslategrey4       #528b8b
+	dark turquoise         darkturquoise        #00ced1
 
-=item dark turquoise         darkturquoise        #00ced1
+	darkturquoise          darkturquoise        #00ced1
 
-=item darkturquoise          darkturquoise        #00ced1
+	darkviolet             darkviolet           #9400d3
 
-=item darkviolet             darkviolet           #9400d3
+	dark violet            darkviolet           #9400d3
 
-=item dark violet            darkviolet           #9400d3
+	deep pink              deeppink             #ff1493
 
-=item deep pink              deeppink             #ff1493
+	deeppink               deeppink             #ff1493
 
-=item deeppink               deeppink             #ff1493
+	deeppink1              deeppink1            #ff1493
 
-=item deeppink1              deeppink1            #ff1493
+	deeppink2              deeppink2            #ee1289
 
-=item deeppink2              deeppink2            #ee1289
+	deeppink3              deeppink3            #cd1076
 
-=item deeppink3              deeppink3            #cd1076
+	deeppink4              deeppink4            #8b0a50
 
-=item deeppink4              deeppink4            #8b0a50
+	deepskyblue            deepskyblue          #00bfff
 
-=item deepskyblue            deepskyblue          #00bfff
+	deep sky blue          deepskyblue          #00bfff
 
-=item deep sky blue          deepskyblue          #00bfff
+	deepskyblue1           deepskyblue1         #00bfff
 
-=item deepskyblue1           deepskyblue1         #00bfff
+	deepskyblue2           deepskyblue2         #00b2ee
 
-=item deepskyblue2           deepskyblue2         #00b2ee
+	deepskyblue3           deepskyblue3         #009acd
 
-=item deepskyblue3           deepskyblue3         #009acd
+	deepskyblue4           deepskyblue4         #00688b
 
-=item deepskyblue4           deepskyblue4         #00688b
+	dimgray                dimgray              #696969
 
-=item dimgray                dimgray              #696969
+	dim gray               dimgray              #696969
 
-=item dim gray               dimgray              #696969
+	dim grey               dimgrey              #696969
 
-=item dim grey               dimgrey              #696969
+	dimgrey                dimgrey              #696969
 
-=item dimgrey                dimgrey              #696969
+	dodger blue            dodgerblue           #1e90ff
 
-=item dodger blue            dodgerblue           #1e90ff
+	dodgerblue             dodgerblue           #1e90ff
 
-=item dodgerblue             dodgerblue           #1e90ff
+	dodgerblue1            dodgerblue1          #1e90ff
 
-=item dodgerblue1            dodgerblue1          #1e90ff
+	dodgerblue2            dodgerblue2          #1c86ee
 
-=item dodgerblue2            dodgerblue2          #1c86ee
+	dodgerblue3            dodgerblue3          #1874cd
 
-=item dodgerblue3            dodgerblue3          #1874cd
+	dodgerblue4            dodgerblue4          #104e8b
 
-=item dodgerblue4            dodgerblue4          #104e8b
+	firebrick              firebrick            #b22222
 
-=item firebrick              firebrick            #b22222
+	firebrick1             firebrick1           #ff3030
 
-=item firebrick1             firebrick1           #ff3030
+	firebrick2             firebrick2           #ee2c2c
 
-=item firebrick2             firebrick2           #ee2c2c
+	firebrick3             firebrick3           #cd2626
 
-=item firebrick3             firebrick3           #cd2626
+	firebrick4             firebrick4           #8b1a1a
 
-=item firebrick4             firebrick4           #8b1a1a
+	floral white           floralwhite          #fffaf0
 
-=item floral white           floralwhite          #fffaf0
+	floralwhite            floralwhite          #fffaf0
 
-=item floralwhite            floralwhite          #fffaf0
+	forestgreen            forestgreen          #228b22
 
-=item forestgreen            forestgreen          #228b22
+	forest green           forestgreen          #228b22
 
-=item forest green           forestgreen          #228b22
+	gainsboro              gainsboro            #dcdcdc
 
-=item gainsboro              gainsboro            #dcdcdc
+	ghostwhite             ghostwhite           #f8f8ff
 
-=item ghostwhite             ghostwhite           #f8f8ff
+	ghost white            ghostwhite           #f8f8ff
 
-=item ghost white            ghostwhite           #f8f8ff
+	gold                   gold                 #ffd700
 
-=item gold                   gold                 #ffd700
+	gold1                  gold1                #ffd700
 
-=item gold1                  gold1                #ffd700
+	gold2                  gold2                #eec900
 
-=item gold2                  gold2                #eec900
+	gold3                  gold3                #cdad00
 
-=item gold3                  gold3                #cdad00
+	gold4                  gold4                #8b7500
 
-=item gold4                  gold4                #8b7500
+	goldenrod              goldenrod            #daa520
 
-=item goldenrod              goldenrod            #daa520
+	goldenrod1             goldenrod1           #ffc125
 
-=item goldenrod1             goldenrod1           #ffc125
+	goldenrod2             goldenrod2           #eeb422
 
-=item goldenrod2             goldenrod2           #eeb422
+	goldenrod3             goldenrod3           #cd9b1d
 
-=item goldenrod3             goldenrod3           #cd9b1d
+	goldenrod4             goldenrod4           #8b6914
 
-=item goldenrod4             goldenrod4           #8b6914
+	gray                   gray                 #bebebe
 
-=item gray                   gray                 #bebebe
+	gray0                  gray0                #000000
 
-=item gray0                  gray0                #000000
+	gray1                  gray1                #030303
 
-=item gray1                  gray1                #030303
+	gray10                 gray10               #1a1a1a
 
-=item gray10                 gray10               #1a1a1a
+	gray100                gray100              #ffffff
 
-=item gray100                gray100              #ffffff
+	gray11                 gray11               #1c1c1c
 
-=item gray11                 gray11               #1c1c1c
+	gray12                 gray12               #1f1f1f
 
-=item gray12                 gray12               #1f1f1f
+	gray13                 gray13               #212121
 
-=item gray13                 gray13               #212121
+	gray14                 gray14               #242424
 
-=item gray14                 gray14               #242424
+	gray15                 gray15               #262626
 
-=item gray15                 gray15               #262626
+	gray16                 gray16               #292929
 
-=item gray16                 gray16               #292929
+	gray17                 gray17               #2b2b2b
 
-=item gray17                 gray17               #2b2b2b
+	gray18                 gray18               #2e2e2e
 
-=item gray18                 gray18               #2e2e2e
+	gray19                 gray19               #303030
 
-=item gray19                 gray19               #303030
+	gray2                  gray2                #050505
 
-=item gray2                  gray2                #050505
+	gray20                 gray20               #333333
 
-=item gray20                 gray20               #333333
+	gray21                 gray21               #363636
 
-=item gray21                 gray21               #363636
+	gray22                 gray22               #383838
 
-=item gray22                 gray22               #383838
+	gray23                 gray23               #3b3b3b
 
-=item gray23                 gray23               #3b3b3b
+	gray24                 gray24               #3d3d3d
 
-=item gray24                 gray24               #3d3d3d
+	gray25                 gray25               #404040
 
-=item gray25                 gray25               #404040
+	gray26                 gray26               #424242
 
-=item gray26                 gray26               #424242
+	gray27                 gray27               #454545
 
-=item gray27                 gray27               #454545
+	gray28                 gray28               #474747
 
-=item gray28                 gray28               #474747
+	gray29                 gray29               #4a4a4a
 
-=item gray29                 gray29               #4a4a4a
+	gray3                  gray3                #080808
 
-=item gray3                  gray3                #080808
+	gray30                 gray30               #4d4d4d
 
-=item gray30                 gray30               #4d4d4d
+	gray31                 gray31               #4f4f4f
 
-=item gray31                 gray31               #4f4f4f
+	gray32                 gray32               #525252
 
-=item gray32                 gray32               #525252
+	gray33                 gray33               #545454
 
-=item gray33                 gray33               #545454
+	gray34                 gray34               #575757
 
-=item gray34                 gray34               #575757
+	gray35                 gray35               #595959
 
-=item gray35                 gray35               #595959
+	gray36                 gray36               #5c5c5c
 
-=item gray36                 gray36               #5c5c5c
+	gray37                 gray37               #5e5e5e
 
-=item gray37                 gray37               #5e5e5e
+	gray38                 gray38               #616161
 
-=item gray38                 gray38               #616161
+	gray39                 gray39               #636363
 
-=item gray39                 gray39               #636363
+	gray4                  gray4                #0a0a0a
 
-=item gray4                  gray4                #0a0a0a
+	gray40                 gray40               #666666
 
-=item gray40                 gray40               #666666
+	gray41                 gray41               #696969
 
-=item gray41                 gray41               #696969
+	gray42                 gray42               #6b6b6b
 
-=item gray42                 gray42               #6b6b6b
+	gray43                 gray43               #6e6e6e
 
-=item gray43                 gray43               #6e6e6e
+	gray44                 gray44               #707070
 
-=item gray44                 gray44               #707070
+	gray45                 gray45               #737373
 
-=item gray45                 gray45               #737373
+	gray46                 gray46               #757575
 
-=item gray46                 gray46               #757575
+	gray47                 gray47               #787878
 
-=item gray47                 gray47               #787878
+	gray48                 gray48               #7a7a7a
 
-=item gray48                 gray48               #7a7a7a
+	gray49                 gray49               #7d7d7d
 
-=item gray49                 gray49               #7d7d7d
+	gray5                  gray5                #0d0d0d
 
-=item gray5                  gray5                #0d0d0d
+	gray50                 gray50               #7f7f7f
 
-=item gray50                 gray50               #7f7f7f
+	gray51                 gray51               #828282
 
-=item gray51                 gray51               #828282
+	gray52                 gray52               #858585
 
-=item gray52                 gray52               #858585
+	gray53                 gray53               #878787
 
-=item gray53                 gray53               #878787
+	gray54                 gray54               #8a8a8a
 
-=item gray54                 gray54               #8a8a8a
+	gray55                 gray55               #8c8c8c
 
-=item gray55                 gray55               #8c8c8c
+	gray56                 gray56               #8f8f8f
 
-=item gray56                 gray56               #8f8f8f
+	gray57                 gray57               #919191
 
-=item gray57                 gray57               #919191
+	gray58                 gray58               #949494
 
-=item gray58                 gray58               #949494
+	gray59                 gray59               #969696
 
-=item gray59                 gray59               #969696
+	gray6                  gray6                #0f0f0f
 
-=item gray6                  gray6                #0f0f0f
+	gray60                 gray60               #999999
 
-=item gray60                 gray60               #999999
+	gray61                 gray61               #9c9c9c
 
-=item gray61                 gray61               #9c9c9c
+	gray62                 gray62               #9e9e9e
 
-=item gray62                 gray62               #9e9e9e
+	gray63                 gray63               #a1a1a1
 
-=item gray63                 gray63               #a1a1a1
+	gray64                 gray64               #a3a3a3
 
-=item gray64                 gray64               #a3a3a3
+	gray65                 gray65               #a6a6a6
 
-=item gray65                 gray65               #a6a6a6
+	gray66                 gray66               #a8a8a8
 
-=item gray66                 gray66               #a8a8a8
+	gray67                 gray67               #ababab
 
-=item gray67                 gray67               #ababab
+	gray68                 gray68               #adadad
 
-=item gray68                 gray68               #adadad
+	gray69                 gray69               #b0b0b0
 
-=item gray69                 gray69               #b0b0b0
+	gray7                  gray7                #121212
 
-=item gray7                  gray7                #121212
+	gray70                 gray70               #b3b3b3
 
-=item gray70                 gray70               #b3b3b3
+	gray71                 gray71               #b5b5b5
 
-=item gray71                 gray71               #b5b5b5
+	gray72                 gray72               #b8b8b8
 
-=item gray72                 gray72               #b8b8b8
+	gray73                 gray73               #bababa
 
-=item gray73                 gray73               #bababa
+	gray74                 gray74               #bdbdbd
 
-=item gray74                 gray74               #bdbdbd
+	gray75                 gray75               #bfbfbf
 
-=item gray75                 gray75               #bfbfbf
+	gray76                 gray76               #c2c2c2
 
-=item gray76                 gray76               #c2c2c2
+	gray77                 gray77               #c4c4c4
 
-=item gray77                 gray77               #c4c4c4
+	gray78                 gray78               #c7c7c7
 
-=item gray78                 gray78               #c7c7c7
+	gray79                 gray79               #c9c9c9
 
-=item gray79                 gray79               #c9c9c9
+	gray8                  gray8                #141414
 
-=item gray8                  gray8                #141414
+	gray80                 gray80               #cccccc
 
-=item gray80                 gray80               #cccccc
+	gray81                 gray81               #cfcfcf
 
-=item gray81                 gray81               #cfcfcf
+	gray82                 gray82               #d1d1d1
 
-=item gray82                 gray82               #d1d1d1
+	gray83                 gray83               #d4d4d4
 
-=item gray83                 gray83               #d4d4d4
+	gray84                 gray84               #d6d6d6
 
-=item gray84                 gray84               #d6d6d6
+	gray85                 gray85               #d9d9d9
 
-=item gray85                 gray85               #d9d9d9
+	gray86                 gray86               #dbdbdb
 
-=item gray86                 gray86               #dbdbdb
+	gray87                 gray87               #dedede
 
-=item gray87                 gray87               #dedede
+	gray88                 gray88               #e0e0e0
 
-=item gray88                 gray88               #e0e0e0
+	gray89                 gray89               #e3e3e3
 
-=item gray89                 gray89               #e3e3e3
+	gray9                  gray9                #171717
 
-=item gray9                  gray9                #171717
+	gray90                 gray90               #e5e5e5
 
-=item gray90                 gray90               #e5e5e5
+	gray91                 gray91               #e8e8e8
 
-=item gray91                 gray91               #e8e8e8
+	gray92                 gray92               #ebebeb
 
-=item gray92                 gray92               #ebebeb
+	gray93                 gray93               #ededed
 
-=item gray93                 gray93               #ededed
+	gray94                 gray94               #f0f0f0
 
-=item gray94                 gray94               #f0f0f0
+	gray95                 gray95               #f2f2f2
 
-=item gray95                 gray95               #f2f2f2
+	gray96                 gray96               #f5f5f5
 
-=item gray96                 gray96               #f5f5f5
+	gray97                 gray97               #f7f7f7
 
-=item gray97                 gray97               #f7f7f7
+	gray98                 gray98               #fafafa
 
-=item gray98                 gray98               #fafafa
+	gray99                 gray99               #fcfcfc
 
-=item gray99                 gray99               #fcfcfc
+	green                  green                #00ff00
 
-=item green                  green                #00ff00
+	green1                 green1               #00ff00
 
-=item green1                 green1               #00ff00
+	green2                 green2               #00ee00
 
-=item green2                 green2               #00ee00
+	green3                 green3               #00cd00
 
-=item green3                 green3               #00cd00
+	green4                 green4               #008b00
 
-=item green4                 green4               #008b00
+	green yellow           greenyellow          #adff2f
 
-=item green yellow           greenyellow          #adff2f
+	greenyellow            greenyellow          #adff2f
 
-=item greenyellow            greenyellow          #adff2f
+	grey                   grey                 #bebebe
 
-=item grey                   grey                 #bebebe
+	grey0                  grey0                #000000
 
-=item grey0                  grey0                #000000
+	grey1                  grey1                #030303
 
-=item grey1                  grey1                #030303
+	grey10                 grey10               #1a1a1a
 
-=item grey10                 grey10               #1a1a1a
+	grey100                grey100              #ffffff
 
-=item grey100                grey100              #ffffff
+	grey11                 grey11               #1c1c1c
 
-=item grey11                 grey11               #1c1c1c
+	grey12                 grey12               #1f1f1f
 
-=item grey12                 grey12               #1f1f1f
+	grey13                 grey13               #212121
 
-=item grey13                 grey13               #212121
+	grey14                 grey14               #242424
 
-=item grey14                 grey14               #242424
+	grey15                 grey15               #262626
 
-=item grey15                 grey15               #262626
+	grey16                 grey16               #292929
 
-=item grey16                 grey16               #292929
+	grey17                 grey17               #2b2b2b
 
-=item grey17                 grey17               #2b2b2b
+	grey18                 grey18               #2e2e2e
 
-=item grey18                 grey18               #2e2e2e
+	grey19                 grey19               #303030
 
-=item grey19                 grey19               #303030
+	grey2                  grey2                #050505
 
-=item grey2                  grey2                #050505
+	grey20                 grey20               #333333
 
-=item grey20                 grey20               #333333
+	grey21                 grey21               #363636
 
-=item grey21                 grey21               #363636
+	grey22                 grey22               #383838
 
-=item grey22                 grey22               #383838
+	grey23                 grey23               #3b3b3b
 
-=item grey23                 grey23               #3b3b3b
+	grey24                 grey24               #3d3d3d
 
-=item grey24                 grey24               #3d3d3d
+	grey25                 grey25               #404040
 
-=item grey25                 grey25               #404040
+	grey26                 grey26               #424242
 
-=item grey26                 grey26               #424242
+	grey27                 grey27               #454545
 
-=item grey27                 grey27               #454545
+	grey28                 grey28               #474747
 
-=item grey28                 grey28               #474747
+	grey29                 grey29               #4a4a4a
 
-=item grey29                 grey29               #4a4a4a
+	grey3                  grey3                #080808
 
-=item grey3                  grey3                #080808
+	grey30                 grey30               #4d4d4d
 
-=item grey30                 grey30               #4d4d4d
+	grey31                 grey31               #4f4f4f
 
-=item grey31                 grey31               #4f4f4f
+	grey32                 grey32               #525252
 
-=item grey32                 grey32               #525252
+	grey33                 grey33               #545454
 
-=item grey33                 grey33               #545454
+	grey34                 grey34               #575757
 
-=item grey34                 grey34               #575757
+	grey35                 grey35               #595959
 
-=item grey35                 grey35               #595959
+	grey36                 grey36               #5c5c5c
 
-=item grey36                 grey36               #5c5c5c
+	grey37                 grey37               #5e5e5e
 
-=item grey37                 grey37               #5e5e5e
+	grey38                 grey38               #616161
 
-=item grey38                 grey38               #616161
+	grey39                 grey39               #636363
 
-=item grey39                 grey39               #636363
+	grey4                  grey4                #0a0a0a
 
-=item grey4                  grey4                #0a0a0a
+	grey40                 grey40               #666666
 
-=item grey40                 grey40               #666666
+	grey41                 grey41               #696969
 
-=item grey41                 grey41               #696969
+	grey42                 grey42               #6b6b6b
 
-=item grey42                 grey42               #6b6b6b
+	grey43                 grey43               #6e6e6e
 
-=item grey43                 grey43               #6e6e6e
+	grey44                 grey44               #707070
 
-=item grey44                 grey44               #707070
+	grey45                 grey45               #737373
 
-=item grey45                 grey45               #737373
+	grey46                 grey46               #757575
 
-=item grey46                 grey46               #757575
+	grey47                 grey47               #787878
 
-=item grey47                 grey47               #787878
+	grey48                 grey48               #7a7a7a
 
-=item grey48                 grey48               #7a7a7a
+	grey49                 grey49               #7d7d7d
 
-=item grey49                 grey49               #7d7d7d
+	grey5                  grey5                #0d0d0d
 
-=item grey5                  grey5                #0d0d0d
+	grey50                 grey50               #7f7f7f
 
-=item grey50                 grey50               #7f7f7f
+	grey51                 grey51               #828282
 
-=item grey51                 grey51               #828282
+	grey52                 grey52               #858585
 
-=item grey52                 grey52               #858585
+	grey53                 grey53               #878787
 
-=item grey53                 grey53               #878787
+	grey54                 grey54               #8a8a8a
 
-=item grey54                 grey54               #8a8a8a
+	grey55                 grey55               #8c8c8c
 
-=item grey55                 grey55               #8c8c8c
+	grey56                 grey56               #8f8f8f
 
-=item grey56                 grey56               #8f8f8f
+	grey57                 grey57               #919191
 
-=item grey57                 grey57               #919191
+	grey58                 grey58               #949494
 
-=item grey58                 grey58               #949494
+	grey59                 grey59               #969696
 
-=item grey59                 grey59               #969696
+	grey6                  grey6                #0f0f0f
 
-=item grey6                  grey6                #0f0f0f
+	grey60                 grey60               #999999
 
-=item grey60                 grey60               #999999
+	grey61                 grey61               #9c9c9c
 
-=item grey61                 grey61               #9c9c9c
+	grey62                 grey62               #9e9e9e
 
-=item grey62                 grey62               #9e9e9e
+	grey63                 grey63               #a1a1a1
 
-=item grey63                 grey63               #a1a1a1
+	grey64                 grey64               #a3a3a3
 
-=item grey64                 grey64               #a3a3a3
+	grey65                 grey65               #a6a6a6
 
-=item grey65                 grey65               #a6a6a6
+	grey66                 grey66               #a8a8a8
 
-=item grey66                 grey66               #a8a8a8
+	grey67                 grey67               #ababab
 
-=item grey67                 grey67               #ababab
+	grey68                 grey68               #adadad
 
-=item grey68                 grey68               #adadad
+	grey69                 grey69               #b0b0b0
 
-=item grey69                 grey69               #b0b0b0
+	grey7                  grey7                #121212
 
-=item grey7                  grey7                #121212
+	grey70                 grey70               #b3b3b3
 
-=item grey70                 grey70               #b3b3b3
+	grey71                 grey71               #b5b5b5
 
-=item grey71                 grey71               #b5b5b5
+	grey72                 grey72               #b8b8b8
 
-=item grey72                 grey72               #b8b8b8
+	grey73                 grey73               #bababa
 
-=item grey73                 grey73               #bababa
+	grey74                 grey74               #bdbdbd
 
-=item grey74                 grey74               #bdbdbd
+	grey75                 grey75               #bfbfbf
 
-=item grey75                 grey75               #bfbfbf
+	grey76                 grey76               #c2c2c2
 
-=item grey76                 grey76               #c2c2c2
+	grey77                 grey77               #c4c4c4
 
-=item grey77                 grey77               #c4c4c4
+	grey78                 grey78               #c7c7c7
 
-=item grey78                 grey78               #c7c7c7
+	grey79                 grey79               #c9c9c9
 
-=item grey79                 grey79               #c9c9c9
+	grey8                  grey8                #141414
 
-=item grey8                  grey8                #141414
+	grey80                 grey80               #cccccc
 
-=item grey80                 grey80               #cccccc
+	grey81                 grey81               #cfcfcf
 
-=item grey81                 grey81               #cfcfcf
+	grey82                 grey82               #d1d1d1
 
-=item grey82                 grey82               #d1d1d1
+	grey83                 grey83               #d4d4d4
 
-=item grey83                 grey83               #d4d4d4
+	grey84                 grey84               #d6d6d6
 
-=item grey84                 grey84               #d6d6d6
+	grey85                 grey85               #d9d9d9
 
-=item grey85                 grey85               #d9d9d9
+	grey86                 grey86               #dbdbdb
 
-=item grey86                 grey86               #dbdbdb
+	grey87                 grey87               #dedede
 
-=item grey87                 grey87               #dedede
+	grey88                 grey88               #e0e0e0
 
-=item grey88                 grey88               #e0e0e0
+	grey89                 grey89               #e3e3e3
 
-=item grey89                 grey89               #e3e3e3
+	grey9                  grey9                #171717
 
-=item grey9                  grey9                #171717
+	grey90                 grey90               #e5e5e5
 
-=item grey90                 grey90               #e5e5e5
+	grey91                 grey91               #e8e8e8
 
-=item grey91                 grey91               #e8e8e8
+	grey92                 grey92               #ebebeb
 
-=item grey92                 grey92               #ebebeb
+	grey93                 grey93               #ededed
 
-=item grey93                 grey93               #ededed
+	grey94                 grey94               #f0f0f0
 
-=item grey94                 grey94               #f0f0f0
+	grey95                 grey95               #f2f2f2
 
-=item grey95                 grey95               #f2f2f2
+	grey96                 grey96               #f5f5f5
 
-=item grey96                 grey96               #f5f5f5
+	grey97                 grey97               #f7f7f7
 
-=item grey97                 grey97               #f7f7f7
+	grey98                 grey98               #fafafa
 
-=item grey98                 grey98               #fafafa
+	grey99                 grey99               #fcfcfc
 
-=item grey99                 grey99               #fcfcfc
+	honeydew               honeydew             #f0fff0
 
-=item honeydew               honeydew             #f0fff0
+	honeydew1              honeydew1            #f0fff0
 
-=item honeydew1              honeydew1            #f0fff0
+	honeydew2              honeydew2            #e0eee0
 
-=item honeydew2              honeydew2            #e0eee0
+	honeydew3              honeydew3            #c1cdc1
 
-=item honeydew3              honeydew3            #c1cdc1
+	honeydew4              honeydew4            #838b83
 
-=item honeydew4              honeydew4            #838b83
+	hot pink               hotpink              #ff69b4
 
-=item hot pink               hotpink              #ff69b4
+	hotpink                hotpink              #ff69b4
 
-=item hotpink                hotpink              #ff69b4
+	hotpink1               hotpink1             #ff6eb4
 
-=item hotpink1               hotpink1             #ff6eb4
+	hotpink2               hotpink2             #ee6aa7
 
-=item hotpink2               hotpink2             #ee6aa7
+	hotpink3               hotpink3             #cd6090
 
-=item hotpink3               hotpink3             #cd6090
+	hotpink4               hotpink4             #8b3a62
 
-=item hotpink4               hotpink4             #8b3a62
+	indianred              indianred            #cd5c5c
 
-=item indianred              indianred            #cd5c5c
+	indian red             indianred            #cd5c5c
 
-=item indian red             indianred            #cd5c5c
+	indianred1             indianred1           #ff6a6a
 
-=item indianred1             indianred1           #ff6a6a
+	indianred2             indianred2           #ee6363
 
-=item indianred2             indianred2           #ee6363
+	indianred3             indianred3           #cd5555
 
-=item indianred3             indianred3           #cd5555
+	indianred4             indianred4           #8b3a3a
 
-=item indianred4             indianred4           #8b3a3a
+	ivory                  ivory                #fffff0
 
-=item ivory                  ivory                #fffff0
+	ivory1                 ivory1               #fffff0
 
-=item ivory1                 ivory1               #fffff0
+	ivory2                 ivory2               #eeeee0
 
-=item ivory2                 ivory2               #eeeee0
+	ivory3                 ivory3               #cdcdc1
 
-=item ivory3                 ivory3               #cdcdc1
+	ivory4                 ivory4               #8b8b83
 
-=item ivory4                 ivory4               #8b8b83
+	khaki                  khaki                #f0e68c
 
-=item khaki                  khaki                #f0e68c
+	khaki1                 khaki1               #fff68f
 
-=item khaki1                 khaki1               #fff68f
+	khaki2                 khaki2               #eee685
 
-=item khaki2                 khaki2               #eee685
+	khaki3                 khaki3               #cdc673
 
-=item khaki3                 khaki3               #cdc673
+	khaki4                 khaki4               #8b864e
 
-=item khaki4                 khaki4               #8b864e
+	lavender               lavender             #e6e6fa
 
-=item lavender               lavender             #e6e6fa
+	lavenderblush          lavenderblush        #fff0f5
 
-=item lavenderblush          lavenderblush        #fff0f5
+	lavender blush         lavenderblush        #fff0f5
 
-=item lavender blush         lavenderblush        #fff0f5
+	lavenderblush1         lavenderblush1       #fff0f5
 
-=item lavenderblush1         lavenderblush1       #fff0f5
+	lavenderblush2         lavenderblush2       #eee0e5
 
-=item lavenderblush2         lavenderblush2       #eee0e5
+	lavenderblush3         lavenderblush3       #cdc1c5
 
-=item lavenderblush3         lavenderblush3       #cdc1c5
+	lavenderblush4         lavenderblush4       #8b8386
 
-=item lavenderblush4         lavenderblush4       #8b8386
+	lawn green             lawngreen            #7cfc00
 
-=item lawn green             lawngreen            #7cfc00
+	lawngreen              lawngreen            #7cfc00
 
-=item lawngreen              lawngreen            #7cfc00
+	lemonchiffon           lemonchiffon         #fffacd
 
-=item lemonchiffon           lemonchiffon         #fffacd
+	lemon chiffon          lemonchiffon         #fffacd
 
-=item lemon chiffon          lemonchiffon         #fffacd
+	lemonchiffon1          lemonchiffon1        #fffacd
 
-=item lemonchiffon1          lemonchiffon1        #fffacd
+	lemonchiffon2          lemonchiffon2        #eee9bf
 
-=item lemonchiffon2          lemonchiffon2        #eee9bf
+	lemonchiffon3          lemonchiffon3        #cdc9a5
 
-=item lemonchiffon3          lemonchiffon3        #cdc9a5
+	lemonchiffon4          lemonchiffon4        #8b8970
 
-=item lemonchiffon4          lemonchiffon4        #8b8970
+	lightblue              lightblue            #add8e6
 
-=item lightblue              lightblue            #add8e6
+	light blue             lightblue            #add8e6
 
-=item light blue             lightblue            #add8e6
+	lightblue1             lightblue1           #bfefff
 
-=item lightblue1             lightblue1           #bfefff
+	lightblue2             lightblue2           #b2dfee
 
-=item lightblue2             lightblue2           #b2dfee
+	lightblue3             lightblue3           #9ac0cd
 
-=item lightblue3             lightblue3           #9ac0cd
+	lightblue4             lightblue4           #68838b
 
-=item lightblue4             lightblue4           #68838b
+	lightcoral             lightcoral           #f08080
 
-=item lightcoral             lightcoral           #f08080
+	light coral            lightcoral           #f08080
 
-=item light coral            lightcoral           #f08080
+	lightcyan              lightcyan            #e0ffff
 
-=item lightcyan              lightcyan            #e0ffff
+	light cyan             lightcyan            #e0ffff
 
-=item light cyan             lightcyan            #e0ffff
+	lightcyan1             lightcyan1           #e0ffff
 
-=item lightcyan1             lightcyan1           #e0ffff
+	lightcyan2             lightcyan2           #d1eeee
 
-=item lightcyan2             lightcyan2           #d1eeee
+	lightcyan3             lightcyan3           #b4cdcd
 
-=item lightcyan3             lightcyan3           #b4cdcd
+	lightcyan4             lightcyan4           #7a8b8b
 
-=item lightcyan4             lightcyan4           #7a8b8b
+	lightgoldenrod         lightgoldenrod       #eedd82
 
-=item lightgoldenrod         lightgoldenrod       #eedd82
+	light goldenrod        lightgoldenrod       #eedd82
 
-=item light goldenrod        lightgoldenrod       #eedd82
+	lightgoldenrod1        lightgoldenrod1      #ffec8b
 
-=item lightgoldenrod1        lightgoldenrod1      #ffec8b
+	lightgoldenrod2        lightgoldenrod2      #eedc82
 
-=item lightgoldenrod2        lightgoldenrod2      #eedc82
+	lightgoldenrod3        lightgoldenrod3      #cdbe70
 
-=item lightgoldenrod3        lightgoldenrod3      #cdbe70
+	lightgoldenrod4        lightgoldenrod4      #8b814c
 
-=item lightgoldenrod4        lightgoldenrod4      #8b814c
+	lightgoldenrodyellow   lightgoldenrodyellow #fafad2
 
-=item lightgoldenrodyellow   lightgoldenrodyellow #fafad2
+	light goldenrod yellow lightgoldenrodyellow #fafad2
 
-=item light goldenrod yellow lightgoldenrodyellow #fafad2
+	lightgray              lightgray            #d3d3d3
 
-=item lightgray              lightgray            #d3d3d3
+	light gray             lightgray            #d3d3d3
 
-=item light gray             lightgray            #d3d3d3
+	light green            lightgreen           #90ee90
 
-=item light green            lightgreen           #90ee90
+	lightgreen             lightgreen           #90ee90
 
-=item lightgreen             lightgreen           #90ee90
+	lightgrey              lightgrey            #d3d3d3
 
-=item lightgrey              lightgrey            #d3d3d3
+	light grey             lightgrey            #d3d3d3
 
-=item light grey             lightgrey            #d3d3d3
+	lightpink              lightpink            #ffb6c1
 
-=item lightpink              lightpink            #ffb6c1
+	light pink             lightpink            #ffb6c1
 
-=item light pink             lightpink            #ffb6c1
+	lightpink1             lightpink1           #ffaeb9
 
-=item lightpink1             lightpink1           #ffaeb9
+	lightpink2             lightpink2           #eea2ad
 
-=item lightpink2             lightpink2           #eea2ad
+	lightpink3             lightpink3           #cd8c95
 
-=item lightpink3             lightpink3           #cd8c95
+	lightpink4             lightpink4           #8b5f65
 
-=item lightpink4             lightpink4           #8b5f65
+	light salmon           lightsalmon          #ffa07a
 
-=item light salmon           lightsalmon          #ffa07a
+	lightsalmon            lightsalmon          #ffa07a
 
-=item lightsalmon            lightsalmon          #ffa07a
+	lightsalmon1           lightsalmon1         #ffa07a
 
-=item lightsalmon1           lightsalmon1         #ffa07a
+	lightsalmon2           lightsalmon2         #ee9572
 
-=item lightsalmon2           lightsalmon2         #ee9572
+	lightsalmon3           lightsalmon3         #cd8162
 
-=item lightsalmon3           lightsalmon3         #cd8162
+	lightsalmon4           lightsalmon4         #8b5742
 
-=item lightsalmon4           lightsalmon4         #8b5742
+	light sea green        lightseagreen        #20b2aa
 
-=item light sea green        lightseagreen        #20b2aa
+	lightseagreen          lightseagreen        #20b2aa
 
-=item lightseagreen          lightseagreen        #20b2aa
+	light sky blue         lightskyblue         #87cefa
 
-=item light sky blue         lightskyblue         #87cefa
+	lightskyblue           lightskyblue         #87cefa
 
-=item lightskyblue           lightskyblue         #87cefa
+	lightskyblue1          lightskyblue1        #b0e2ff
 
-=item lightskyblue1          lightskyblue1        #b0e2ff
+	lightskyblue2          lightskyblue2        #a4d3ee
 
-=item lightskyblue2          lightskyblue2        #a4d3ee
+	lightskyblue3          lightskyblue3        #8db6cd
 
-=item lightskyblue3          lightskyblue3        #8db6cd
+	lightskyblue4          lightskyblue4        #607b8b
 
-=item lightskyblue4          lightskyblue4        #607b8b
+	light slate blue       lightslateblue       #8470ff
 
-=item light slate blue       lightslateblue       #8470ff
+	lightslateblue         lightslateblue       #8470ff
 
-=item lightslateblue         lightslateblue       #8470ff
+	light slate gray       lightslategray       #778899
 
-=item light slate gray       lightslategray       #778899
+	lightslategray         lightslategray       #778899
 
-=item lightslategray         lightslategray       #778899
+	light slate grey       lightslategrey       #778899
 
-=item light slate grey       lightslategrey       #778899
+	lightslategrey         lightslategrey       #778899
 
-=item lightslategrey         lightslategrey       #778899
+	lightsteelblue         lightsteelblue       #b0c4de
 
-=item lightsteelblue         lightsteelblue       #b0c4de
+	light steel blue       lightsteelblue       #b0c4de
 
-=item light steel blue       lightsteelblue       #b0c4de
+	lightsteelblue1        lightsteelblue1      #cae1ff
 
-=item lightsteelblue1        lightsteelblue1      #cae1ff
+	lightsteelblue2        lightsteelblue2      #bcd2ee
 
-=item lightsteelblue2        lightsteelblue2      #bcd2ee
+	lightsteelblue3        lightsteelblue3      #a2b5cd
 
-=item lightsteelblue3        lightsteelblue3      #a2b5cd
+	lightsteelblue4        lightsteelblue4      #6e7b8b
 
-=item lightsteelblue4        lightsteelblue4      #6e7b8b
+	lightyellow            lightyellow          #ffffe0
 
-=item lightyellow            lightyellow          #ffffe0
+	light yellow           lightyellow          #ffffe0
 
-=item light yellow           lightyellow          #ffffe0
+	lightyellow1           lightyellow1         #ffffe0
 
-=item lightyellow1           lightyellow1         #ffffe0
+	lightyellow2           lightyellow2         #eeeed1
 
-=item lightyellow2           lightyellow2         #eeeed1
+	lightyellow3           lightyellow3         #cdcdb4
 
-=item lightyellow3           lightyellow3         #cdcdb4
+	lightyellow4           lightyellow4         #8b8b7a
 
-=item lightyellow4           lightyellow4         #8b8b7a
+	lime green             limegreen            #32cd32
 
-=item lime green             limegreen            #32cd32
+	limegreen              limegreen            #32cd32
 
-=item limegreen              limegreen            #32cd32
+	linen                  linen                #faf0e6
 
-=item linen                  linen                #faf0e6
+	magenta                magenta              #ff00ff
 
-=item magenta                magenta              #ff00ff
+	magenta1               magenta1             #ff00ff
 
-=item magenta1               magenta1             #ff00ff
+	magenta2               magenta2             #ee00ee
 
-=item magenta2               magenta2             #ee00ee
+	magenta3               magenta3             #cd00cd
 
-=item magenta3               magenta3             #cd00cd
+	magenta4               magenta4             #8b008b
 
-=item magenta4               magenta4             #8b008b
+	maroon                 maroon               #b03060
 
-=item maroon                 maroon               #b03060
+	maroon1                maroon1              #ff34b3
 
-=item maroon1                maroon1              #ff34b3
+	maroon2                maroon2              #ee30a7
 
-=item maroon2                maroon2              #ee30a7
+	maroon3                maroon3              #cd2990
 
-=item maroon3                maroon3              #cd2990
+	maroon4                maroon4              #8b1c62
 
-=item maroon4                maroon4              #8b1c62
+	mediumaquamarine       mediumaquamarine     #66cdaa
 
-=item mediumaquamarine       mediumaquamarine     #66cdaa
+	medium aquamarine      mediumaquamarine     #66cdaa
 
-=item medium aquamarine      mediumaquamarine     #66cdaa
+	mediumblue             mediumblue           #0000cd
 
-=item mediumblue             mediumblue           #0000cd
+	medium blue            mediumblue           #0000cd
 
-=item medium blue            mediumblue           #0000cd
+	medium orchid          mediumorchid         #ba55d3
 
-=item medium orchid          mediumorchid         #ba55d3
+	mediumorchid           mediumorchid         #ba55d3
 
-=item mediumorchid           mediumorchid         #ba55d3
+	mediumorchid1          mediumorchid1        #e066ff
 
-=item mediumorchid1          mediumorchid1        #e066ff
+	mediumorchid2          mediumorchid2        #d15fee
 
-=item mediumorchid2          mediumorchid2        #d15fee
+	mediumorchid3          mediumorchid3        #b452cd
 
-=item mediumorchid3          mediumorchid3        #b452cd
+	mediumorchid4          mediumorchid4        #7a378b
 
-=item mediumorchid4          mediumorchid4        #7a378b
+	medium purple          mediumpurple         #9370db
 
-=item medium purple          mediumpurple         #9370db
+	mediumpurple           mediumpurple         #9370db
 
-=item mediumpurple           mediumpurple         #9370db
+	mediumpurple1          mediumpurple1        #ab82ff
 
-=item mediumpurple1          mediumpurple1        #ab82ff
+	mediumpurple2          mediumpurple2        #9f79ee
 
-=item mediumpurple2          mediumpurple2        #9f79ee
+	mediumpurple3          mediumpurple3        #8968cd
 
-=item mediumpurple3          mediumpurple3        #8968cd
+	mediumpurple4          mediumpurple4        #5d478b
 
-=item mediumpurple4          mediumpurple4        #5d478b
+	medium sea green       mediumseagreen       #3cb371
 
-=item medium sea green       mediumseagreen       #3cb371
+	mediumseagreen         mediumseagreen       #3cb371
 
-=item mediumseagreen         mediumseagreen       #3cb371
+	mediumslateblue        mediumslateblue      #7b68ee
 
-=item mediumslateblue        mediumslateblue      #7b68ee
+	medium slate blue      mediumslateblue      #7b68ee
 
-=item medium slate blue      mediumslateblue      #7b68ee
+	mediumspringgreen      mediumspringgreen    #00fa9a
 
-=item mediumspringgreen      mediumspringgreen    #00fa9a
+	medium spring green    mediumspringgreen    #00fa9a
 
-=item medium spring green    mediumspringgreen    #00fa9a
+	medium turquoise       mediumturquoise      #48d1cc
 
-=item medium turquoise       mediumturquoise      #48d1cc
+	mediumturquoise        mediumturquoise      #48d1cc
 
-=item mediumturquoise        mediumturquoise      #48d1cc
+	mediumvioletred        mediumvioletred      #c71585
 
-=item mediumvioletred        mediumvioletred      #c71585
+	medium violet red      mediumvioletred      #c71585
 
-=item medium violet red      mediumvioletred      #c71585
+	midnight blue          midnightblue         #191970
 
-=item midnight blue          midnightblue         #191970
+	midnightblue           midnightblue         #191970
 
-=item midnightblue           midnightblue         #191970
+	mint cream             mintcream            #f5fffa
 
-=item mint cream             mintcream            #f5fffa
+	mintcream              mintcream            #f5fffa
 
-=item mintcream              mintcream            #f5fffa
+	misty rose             mistyrose            #ffe4e1
 
-=item misty rose             mistyrose            #ffe4e1
+	mistyrose              mistyrose            #ffe4e1
 
-=item mistyrose              mistyrose            #ffe4e1
+	mistyrose1             mistyrose1           #ffe4e1
 
-=item mistyrose1             mistyrose1           #ffe4e1
+	mistyrose2             mistyrose2           #eed5d2
 
-=item mistyrose2             mistyrose2           #eed5d2
+	mistyrose3             mistyrose3           #cdb7b5
 
-=item mistyrose3             mistyrose3           #cdb7b5
+	mistyrose4             mistyrose4           #8b7d7b
 
-=item mistyrose4             mistyrose4           #8b7d7b
+	moccasin               moccasin             #ffe4b5
 
-=item moccasin               moccasin             #ffe4b5
+	navajowhite            navajowhite          #ffdead
 
-=item navajowhite            navajowhite          #ffdead
+	navajo white           navajowhite          #ffdead
 
-=item navajo white           navajowhite          #ffdead
+	navajowhite1           navajowhite1         #ffdead
 
-=item navajowhite1           navajowhite1         #ffdead
+	navajowhite2           navajowhite2         #eecfa1
 
-=item navajowhite2           navajowhite2         #eecfa1
+	navajowhite3           navajowhite3         #cdb38b
 
-=item navajowhite3           navajowhite3         #cdb38b
+	navajowhite4           navajowhite4         #8b795e
 
-=item navajowhite4           navajowhite4         #8b795e
+	navy                   navy                 #000080
 
-=item navy                   navy                 #000080
+	navyblue               navyblue             #000080
 
-=item navyblue               navyblue             #000080
+	navy blue              navyblue             #000080
 
-=item navy blue              navyblue             #000080
+	oldlace                oldlace              #fdf5e6
 
-=item oldlace                oldlace              #fdf5e6
+	old lace               oldlace              #fdf5e6
 
-=item old lace               oldlace              #fdf5e6
+	olivedrab              olivedrab            #6b8e23
 
-=item olivedrab              olivedrab            #6b8e23
+	olive drab             olivedrab            #6b8e23
 
-=item olive drab             olivedrab            #6b8e23
+	olivedrab1             olivedrab1           #c0ff3e
 
-=item olivedrab1             olivedrab1           #c0ff3e
+	olivedrab2             olivedrab2           #b3ee3a
 
-=item olivedrab2             olivedrab2           #b3ee3a
+	olivedrab3             olivedrab3           #9acd32
 
-=item olivedrab3             olivedrab3           #9acd32
+	olivedrab4             olivedrab4           #698b22
 
-=item olivedrab4             olivedrab4           #698b22
+	orange                 orange               #ffa500
 
-=item orange                 orange               #ffa500
+	orange1                orange1              #ffa500
 
-=item orange1                orange1              #ffa500
+	orange2                orange2              #ee9a00
 
-=item orange2                orange2              #ee9a00
+	orange3                orange3              #cd8500
 
-=item orange3                orange3              #cd8500
+	orange4                orange4              #8b5a00
 
-=item orange4                orange4              #8b5a00
+	orange red             orangered            #ff4500
 
-=item orange red             orangered            #ff4500
+	orangered              orangered            #ff4500
 
-=item orangered              orangered            #ff4500
+	orangered1             orangered1           #ff4500
 
-=item orangered1             orangered1           #ff4500
+	orangered2             orangered2           #ee4000
 
-=item orangered2             orangered2           #ee4000
+	orangered3             orangered3           #cd3700
 
-=item orangered3             orangered3           #cd3700
+	orangered4             orangered4           #8b2500
 
-=item orangered4             orangered4           #8b2500
+	orchid                 orchid               #da70d6
 
-=item orchid                 orchid               #da70d6
+	orchid1                orchid1              #ff83fa
 
-=item orchid1                orchid1              #ff83fa
+	orchid2                orchid2              #ee7ae9
 
-=item orchid2                orchid2              #ee7ae9
+	orchid3                orchid3              #cd69c9
 
-=item orchid3                orchid3              #cd69c9
+	orchid4                orchid4              #8b4789
 
-=item orchid4                orchid4              #8b4789
+	palegoldenrod          palegoldenrod        #eee8aa
 
-=item palegoldenrod          palegoldenrod        #eee8aa
+	pale goldenrod         palegoldenrod        #eee8aa
 
-=item pale goldenrod         palegoldenrod        #eee8aa
+	palegreen              palegreen            #98fb98
 
-=item palegreen              palegreen            #98fb98
+	pale green             palegreen            #98fb98
 
-=item pale green             palegreen            #98fb98
+	palegreen1             palegreen1           #9aff9a
 
-=item palegreen1             palegreen1           #9aff9a
+	palegreen2             palegreen2           #90ee90
 
-=item palegreen2             palegreen2           #90ee90
+	palegreen3             palegreen3           #7ccd7c
 
-=item palegreen3             palegreen3           #7ccd7c
+	palegreen4             palegreen4           #548b54
 
-=item palegreen4             palegreen4           #548b54
+	pale turquoise         paleturquoise        #afeeee
 
-=item pale turquoise         paleturquoise        #afeeee
+	paleturquoise          paleturquoise        #afeeee
 
-=item paleturquoise          paleturquoise        #afeeee
+	paleturquoise1         paleturquoise1       #bbffff
 
-=item paleturquoise1         paleturquoise1       #bbffff
+	paleturquoise2         paleturquoise2       #aeeeee
 
-=item paleturquoise2         paleturquoise2       #aeeeee
+	paleturquoise3         paleturquoise3       #96cdcd
 
-=item paleturquoise3         paleturquoise3       #96cdcd
+	paleturquoise4         paleturquoise4       #668b8b
 
-=item paleturquoise4         paleturquoise4       #668b8b
+	pale violet red        palevioletred        #db7093
 
-=item pale violet red        palevioletred        #db7093
+	palevioletred          palevioletred        #db7093
 
-=item palevioletred          palevioletred        #db7093
+	palevioletred1         palevioletred1       #ff82ab
 
-=item palevioletred1         palevioletred1       #ff82ab
+	palevioletred2         palevioletred2       #ee799f
 
-=item palevioletred2         palevioletred2       #ee799f
+	palevioletred3         palevioletred3       #cd6889
 
-=item palevioletred3         palevioletred3       #cd6889
+	palevioletred4         palevioletred4       #8b475d
 
-=item palevioletred4         palevioletred4       #8b475d
+	papayawhip             papayawhip           #ffefd5
 
-=item papayawhip             papayawhip           #ffefd5
+	papaya whip            papayawhip           #ffefd5
 
-=item papaya whip            papayawhip           #ffefd5
+	peachpuff              peachpuff            #ffdab9
 
-=item peachpuff              peachpuff            #ffdab9
+	peach puff             peachpuff            #ffdab9
 
-=item peach puff             peachpuff            #ffdab9
+	peachpuff1             peachpuff1           #ffdab9
 
-=item peachpuff1             peachpuff1           #ffdab9
+	peachpuff2             peachpuff2           #eecbad
 
-=item peachpuff2             peachpuff2           #eecbad
+	peachpuff3             peachpuff3           #cdaf95
 
-=item peachpuff3             peachpuff3           #cdaf95
+	peachpuff4             peachpuff4           #8b7765
 
-=item peachpuff4             peachpuff4           #8b7765
+	peru                   peru                 #cd853f
 
-=item peru                   peru                 #cd853f
+	pink                   pink                 #ffc0cb
 
-=item pink                   pink                 #ffc0cb
+	pink1                  pink1                #ffb5c5
 
-=item pink1                  pink1                #ffb5c5
+	pink2                  pink2                #eea9b8
 
-=item pink2                  pink2                #eea9b8
+	pink3                  pink3                #cd919e
 
-=item pink3                  pink3                #cd919e
+	pink4                  pink4                #8b636c
 
-=item pink4                  pink4                #8b636c
+	plum                   plum                 #dda0dd
 
-=item plum                   plum                 #dda0dd
+	plum1                  plum1                #ffbbff
 
-=item plum1                  plum1                #ffbbff
+	plum2                  plum2                #eeaeee
 
-=item plum2                  plum2                #eeaeee
+	plum3                  plum3                #cd96cd
 
-=item plum3                  plum3                #cd96cd
+	plum4                  plum4                #8b668b
 
-=item plum4                  plum4                #8b668b
+	powder blue            powderblue           #b0e0e6
 
-=item powder blue            powderblue           #b0e0e6
+	powderblue             powderblue           #b0e0e6
 
-=item powderblue             powderblue           #b0e0e6
+	purple                 purple               #a020f0
 
-=item purple                 purple               #a020f0
+	purple1                purple1              #9b30ff
 
-=item purple1                purple1              #9b30ff
+	purple2                purple2              #912cee
 
-=item purple2                purple2              #912cee
+	purple3                purple3              #7d26cd
 
-=item purple3                purple3              #7d26cd
+	purple4                purple4              #551a8b
 
-=item purple4                purple4              #551a8b
+	red                    red                  #ff0000
 
-=item red                    red                  #ff0000
+	red1                   red1                 #ff0000
 
-=item red1                   red1                 #ff0000
+	red2                   red2                 #ee0000
 
-=item red2                   red2                 #ee0000
+	red3                   red3                 #cd0000
 
-=item red3                   red3                 #cd0000
+	red4                   red4                 #8b0000
 
-=item red4                   red4                 #8b0000
+	rosybrown              rosybrown            #bc8f8f
 
-=item rosybrown              rosybrown            #bc8f8f
+	rosy brown             rosybrown            #bc8f8f
 
-=item rosy brown             rosybrown            #bc8f8f
+	rosybrown1             rosybrown1           #ffc1c1
 
-=item rosybrown1             rosybrown1           #ffc1c1
+	rosybrown2             rosybrown2           #eeb4b4
 
-=item rosybrown2             rosybrown2           #eeb4b4
+	rosybrown3             rosybrown3           #cd9b9b
 
-=item rosybrown3             rosybrown3           #cd9b9b
+	rosybrown4             rosybrown4           #8b6969
 
-=item rosybrown4             rosybrown4           #8b6969
+	royalblue              royalblue            #4169e1
 
-=item royalblue              royalblue            #4169e1
+	royal blue             royalblue            #4169e1
 
-=item royal blue             royalblue            #4169e1
+	royalblue1             royalblue1           #4876ff
 
-=item royalblue1             royalblue1           #4876ff
+	royalblue2             royalblue2           #436eee
 
-=item royalblue2             royalblue2           #436eee
+	royalblue3             royalblue3           #3a5fcd
 
-=item royalblue3             royalblue3           #3a5fcd
+	royalblue4             royalblue4           #27408b
 
-=item royalblue4             royalblue4           #27408b
+	saddlebrown            saddlebrown          #8b4513
 
-=item saddlebrown            saddlebrown          #8b4513
+	saddle brown           saddlebrown          #8b4513
 
-=item saddle brown           saddlebrown          #8b4513
+	salmon                 salmon               #fa8072
 
-=item salmon                 salmon               #fa8072
+	salmon1                salmon1              #ff8c69
 
-=item salmon1                salmon1              #ff8c69
+	salmon2                salmon2              #ee8262
 
-=item salmon2                salmon2              #ee8262
+	salmon3                salmon3              #cd7054
 
-=item salmon3                salmon3              #cd7054
+	salmon4                salmon4              #8b4c39
 
-=item salmon4                salmon4              #8b4c39
+	sandybrown             sandybrown           #f4a460
 
-=item sandybrown             sandybrown           #f4a460
+	sandy brown            sandybrown           #f4a460
 
-=item sandy brown            sandybrown           #f4a460
+	sea green              seagreen             #2e8b57
 
-=item sea green              seagreen             #2e8b57
+	seagreen               seagreen             #2e8b57
 
-=item seagreen               seagreen             #2e8b57
+	seagreen1              seagreen1            #54ff9f
 
-=item seagreen1              seagreen1            #54ff9f
+	seagreen2              seagreen2            #4eee94
 
-=item seagreen2              seagreen2            #4eee94
+	seagreen3              seagreen3            #43cd80
 
-=item seagreen3              seagreen3            #43cd80
+	seagreen4              seagreen4            #2e8b57
 
-=item seagreen4              seagreen4            #2e8b57
+	seashell               seashell             #fff5ee
 
-=item seashell               seashell             #fff5ee
+	seashell1              seashell1            #fff5ee
 
-=item seashell1              seashell1            #fff5ee
+	seashell2              seashell2            #eee5de
 
-=item seashell2              seashell2            #eee5de
+	seashell3              seashell3            #cdc5bf
 
-=item seashell3              seashell3            #cdc5bf
+	seashell4              seashell4            #8b8682
 
-=item seashell4              seashell4            #8b8682
+	sienna                 sienna               #a0522d
 
-=item sienna                 sienna               #a0522d
+	sienna1                sienna1              #ff8247
 
-=item sienna1                sienna1              #ff8247
+	sienna2                sienna2              #ee7942
 
-=item sienna2                sienna2              #ee7942
+	sienna3                sienna3              #cd6839
 
-=item sienna3                sienna3              #cd6839
+	sienna4                sienna4              #8b4726
 
-=item sienna4                sienna4              #8b4726
+	sky blue               skyblue              #87ceeb
 
-=item sky blue               skyblue              #87ceeb
+	skyblue                skyblue              #87ceeb
 
-=item skyblue                skyblue              #87ceeb
+	skyblue1               skyblue1             #87ceff
 
-=item skyblue1               skyblue1             #87ceff
+	skyblue2               skyblue2             #7ec0ee
 
-=item skyblue2               skyblue2             #7ec0ee
+	skyblue3               skyblue3             #6ca6cd
 
-=item skyblue3               skyblue3             #6ca6cd
+	skyblue4               skyblue4             #4a708b
 
-=item skyblue4               skyblue4             #4a708b
+	slateblue              slateblue            #6a5acd
 
-=item slateblue              slateblue            #6a5acd
+	slate blue             slateblue            #6a5acd
 
-=item slate blue             slateblue            #6a5acd
+	slateblue1             slateblue1           #836fff
 
-=item slateblue1             slateblue1           #836fff
+	slateblue2             slateblue2           #7a67ee
 
-=item slateblue2             slateblue2           #7a67ee
+	slateblue3             slateblue3           #6959cd
 
-=item slateblue3             slateblue3           #6959cd
+	slateblue4             slateblue4           #473c8b
 
-=item slateblue4             slateblue4           #473c8b
+	slategray              slategray            #708090
 
-=item slategray              slategray            #708090
+	slate gray             slategray            #708090
 
-=item slate gray             slategray            #708090
+	slategray1             slategray1           #c6e2ff
 
-=item slategray1             slategray1           #c6e2ff
+	slategray2             slategray2           #b9d3ee
 
-=item slategray2             slategray2           #b9d3ee
+	slategray3             slategray3           #9fb6cd
 
-=item slategray3             slategray3           #9fb6cd
+	slategray4             slategray4           #6c7b8b
 
-=item slategray4             slategray4           #6c7b8b
+	slategrey              slategrey            #708090
 
-=item slategrey              slategrey            #708090
+	slate grey             slategrey            #708090
 
-=item slate grey             slategrey            #708090
+	slategrey1             slategrey1           #c6e2ff
 
-=item slategrey1             slategrey1           #c6e2ff
+	slategrey2             slategrey2           #b9d3ee
 
-=item slategrey2             slategrey2           #b9d3ee
+	slategrey3             slategrey3           #9fb6cd
 
-=item slategrey3             slategrey3           #9fb6cd
+	slategrey4             slategrey4           #6c7b8b
 
-=item slategrey4             slategrey4           #6c7b8b
+	snow                   snow                 #fffafa
 
-=item snow                   snow                 #fffafa
+	snow1                  snow1                #fffafa
 
-=item snow1                  snow1                #fffafa
+	snow2                  snow2                #eee9e9
 
-=item snow2                  snow2                #eee9e9
+	snow3                  snow3                #cdc9c9
 
-=item snow3                  snow3                #cdc9c9
+	snow4                  snow4                #8b8989
 
-=item snow4                  snow4                #8b8989
+	springgreen            springgreen          #00ff7f
 
-=item springgreen            springgreen          #00ff7f
+	spring green           springgreen          #00ff7f
 
-=item spring green           springgreen          #00ff7f
+	springgreen1           springgreen1         #00ff7f
 
-=item springgreen1           springgreen1         #00ff7f
+	springgreen2           springgreen2         #00ee76
 
-=item springgreen2           springgreen2         #00ee76
+	springgreen3           springgreen3         #00cd66
 
-=item springgreen3           springgreen3         #00cd66
+	springgreen4           springgreen4         #008b45
 
-=item springgreen4           springgreen4         #008b45
+	steel blue             steelblue            #4682b4
 
-=item steel blue             steelblue            #4682b4
+	steelblue              steelblue            #4682b4
 
-=item steelblue              steelblue            #4682b4
+	steelblue1             steelblue1           #63b8ff
 
-=item steelblue1             steelblue1           #63b8ff
+	steelblue2             steelblue2           #5cacee
 
-=item steelblue2             steelblue2           #5cacee
+	steelblue3             steelblue3           #4f94cd
 
-=item steelblue3             steelblue3           #4f94cd
+	steelblue4             steelblue4           #36648b
 
-=item steelblue4             steelblue4           #36648b
+	tan                    tan                  #d2b48c
 
-=item tan                    tan                  #d2b48c
+	tan1                   tan1                 #ffa54f
 
-=item tan1                   tan1                 #ffa54f
+	tan2                   tan2                 #ee9a49
 
-=item tan2                   tan2                 #ee9a49
+	tan3                   tan3                 #cd853f
 
-=item tan3                   tan3                 #cd853f
+	tan4                   tan4                 #8b5a2b
 
-=item tan4                   tan4                 #8b5a2b
+	thistle                thistle              #d8bfd8
 
-=item thistle                thistle              #d8bfd8
+	thistle1               thistle1             #ffe1ff
 
-=item thistle1               thistle1             #ffe1ff
+	thistle2               thistle2             #eed2ee
 
-=item thistle2               thistle2             #eed2ee
+	thistle3               thistle3             #cdb5cd
 
-=item thistle3               thistle3             #cdb5cd
+	thistle4               thistle4             #8b7b8b
 
-=item thistle4               thistle4             #8b7b8b
+	tomato                 tomato               #ff6347
 
-=item tomato                 tomato               #ff6347
+	tomato1                tomato1              #ff6347
 
-=item tomato1                tomato1              #ff6347
+	tomato2                tomato2              #ee5c42
 
-=item tomato2                tomato2              #ee5c42
+	tomato3                tomato3              #cd4f39
 
-=item tomato3                tomato3              #cd4f39
+	tomato4                tomato4              #8b3626
 
-=item tomato4                tomato4              #8b3626
+	turquoise              turquoise            #40e0d0
 
-=item turquoise              turquoise            #40e0d0
+	turquoise1             turquoise1           #00f5ff
 
-=item turquoise1             turquoise1           #00f5ff
+	turquoise2             turquoise2           #00e5ee
 
-=item turquoise2             turquoise2           #00e5ee
+	turquoise3             turquoise3           #00c5cd
 
-=item turquoise3             turquoise3           #00c5cd
+	turquoise4             turquoise4           #00868b
 
-=item turquoise4             turquoise4           #00868b
+	violet                 violet               #ee82ee
 
-=item violet                 violet               #ee82ee
+	violet red             violetred            #d02090
 
-=item violet red             violetred            #d02090
+	violetred              violetred            #d02090
 
-=item violetred              violetred            #d02090
+	violetred1             violetred1           #ff3e96
 
-=item violetred1             violetred1           #ff3e96
+	violetred2             violetred2           #ee3a8c
 
-=item violetred2             violetred2           #ee3a8c
+	violetred3             violetred3           #cd3278
 
-=item violetred3             violetred3           #cd3278
+	violetred4             violetred4           #8b2252
 
-=item violetred4             violetred4           #8b2252
+	wheat                  wheat                #f5deb3
 
-=item wheat                  wheat                #f5deb3
+	wheat1                 wheat1               #ffe7ba
 
-=item wheat1                 wheat1               #ffe7ba
+	wheat2                 wheat2               #eed8ae
 
-=item wheat2                 wheat2               #eed8ae
+	wheat3                 wheat3               #cdba96
 
-=item wheat3                 wheat3               #cdba96
+	wheat4                 wheat4               #8b7e66
 
-=item wheat4                 wheat4               #8b7e66
+	white                  white                #ffffff
 
-=item white                  white                #ffffff
+	white smoke            whitesmoke           #f5f5f5
 
-=item white smoke            whitesmoke           #f5f5f5
+	whitesmoke             whitesmoke           #f5f5f5
 
-=item whitesmoke             whitesmoke           #f5f5f5
+	yellow                 yellow               #ffff00
 
-=item yellow                 yellow               #ffff00
+	yellow1                yellow1              #ffff00
 
-=item yellow1                yellow1              #ffff00
+	yellow2                yellow2              #eeee00
 
-=item yellow2                yellow2              #eeee00
+	yellow3                yellow3              #cdcd00
 
-=item yellow3                yellow3              #cdcd00
+	yellow4                yellow4              #8b8b00
 
-=item yellow4                yellow4              #8b8b00
+	yellow green           yellowgreen          #9acd32
 
-=item yellow green           yellowgreen          #9acd32
+	yellowgreen            yellowgreen          #9acd32
 
-=item yellowgreen            yellowgreen          #9acd32
-
-
-=back
 
 =cut
 

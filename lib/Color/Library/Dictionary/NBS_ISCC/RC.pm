@@ -17,268 +17,263 @@ Color::Library::Dictionary::NBS_ISCC::RC - (NBS/ISCC RC) Rock-Color Chart
 
 =head1 DESCRIPTION
 
+    Kenneth L. Kelly and Deanne B. Judd.
+    "Color: Universal Language and Dictionary of Names",
+    National Bureau of Standards,
+    Spec. Publ. 440, Dec. 1976, 189 pages.
 
-Kenneth L. Kelly and Deanne B. Judd.
-"Color: Universal Language and Dictionary of Names",
-National Bureau of Standards,
-Spec. Publ. 440, Dec. 1976, 189 pages.
 
+    Color Name Dictionary: (RC) Rock-Color Chart
 
-Color Name Dictionary: (RC) Rock-Color Chart
+    National Research Council,
+    Rock-Color Chart 
 
-        National Research Council,
-        Rock-Color Chart 
-
-    This combinatorial field-work dictionary's 95 names map to 120 colors, using 89 of 267 centoids. This is less redundant than the others. Unfortunately, the focus on rock colors will not make for a general purpose dictionary.
+This combinatorial field-work dictionary's 95 names map to 120 colors, using 89 of 267 centoids. This is less redundant than the others. Unfortunately, the focus on rock colors will not make for a general purpose dictionary.
 
 L<http://swissnet.ai.mit.edu/~jaffer/Color/Dictionaries#RC>
 
 =head1 COLORS
 
-=over 4
+	black                    black                  #222222
 
-=item black                    black                  #222222
+	blackish red             blackishred            #543d3f
 
-=item blackish red             blackishred            #543d3f
+	bluish white             bluishwhite            #e9e9ed
 
-=item bluish white             bluishwhite            #e9e9ed
+	brilliant green          brilliantgreen         #6aab8e
 
-=item brilliant green          brilliantgreen         #6aab8e
+	brownish black           brownishblack          #3e322c
 
-=item brownish black           brownishblack          #3e322c
+	brownish gray            brownishgray           #5b504f
 
-=item brownish gray            brownishgray           #5b504f
+	dark greenish gray       darkgreenishgray       #5e716a
 
-=item dark greenish gray       darkgreenishgray       #5e716a
+	dark greenish gray       darkgreenishgray       #4e5755
 
-=item dark greenish gray       darkgreenishgray       #4e5755
+	dark greenish yellow     darkgreenishyellow     #98943e
 
-=item dark greenish yellow     darkgreenishyellow     #98943e
+	dark reddish brown       darkreddishbrown       #79443b
 
-=item dark reddish brown       darkreddishbrown       #79443b
+	dark yellowish brown     darkyellowishbrown     #7e6d5a
 
-=item dark yellowish brown     darkyellowishbrown     #7e6d5a
+	dark yellowish green     darkyellowishgreen     #355e3b
 
-=item dark yellowish green     darkyellowishgreen     #355e3b
+	dark yellowish orange    darkyellowishorange    #be8a3d
 
-=item dark yellowish orange    darkyellowishorange    #be8a3d
+	dusky blue               duskyblue              #536878
 
-=item dusky blue               duskyblue              #536878
+	dusky blue               duskyblue              #36454f
 
-=item dusky blue               duskyblue              #36454f
+	dusky blue-green         duskybluegreen         #3a4b47
 
-=item dusky blue-green         duskybluegreen         #3a4b47
+	dusky brown              duskybrown             #3e322c
 
-=item dusky brown              duskybrown             #3e322c
+	dusky green              duskygreen             #1b4d3e
 
-=item dusky green              duskygreen             #1b4d3e
+	dusky red                duskyred               #722f37
 
-=item dusky red                duskyred               #722f37
+	dusky yellow             duskyyellow            #a18f60
 
-=item dusky yellow             duskyyellow            #a18f60
+	dusky yellow green       duskyyellowgreen       #8f9779
 
-=item dusky yellow green       duskyyellowgreen       #8f9779
+	dusky yellowish brown    duskyyellowishbrown    #483c32
 
-=item dusky yellowish brown    duskyyellowishbrown    #483c32
+	dusky yellowish green    duskyyellowishgreen    #355e3b
 
-=item dusky yellowish green    duskyyellowishgreen    #355e3b
+	dusky yellowish green    duskyyellowishgreen    #3a4b47
 
-=item dusky yellowish green    duskyyellowishgreen    #3a4b47
+	grayish black            grayishblack           #222222
 
-=item grayish black            grayishblack           #222222
+	grayish blue             grayishblue            #536878
 
-=item grayish blue             grayishblue            #536878
+	grayish blue             grayishblue            #8c92ac
 
-=item grayish blue             grayishblue            #8c92ac
+	grayish blue-green       grayishbluegreen       #5e716a
 
-=item grayish blue-green       grayishbluegreen       #5e716a
+	grayish blue-green       grayishbluegreen       #317873
 
-=item grayish blue-green       grayishbluegreen       #317873
+	grayish brown            grayishbrown           #635147
 
-=item grayish brown            grayishbrown           #635147
+	grayish green            grayishgreen           #5e716a
 
-=item grayish green            grayishgreen           #5e716a
+	grayish green            grayishgreen           #317873
 
-=item grayish green            grayishgreen           #317873
+	grayish olive            grayisholive           #5b5842
 
-=item grayish olive            grayisholive           #5b5842
+	grayish olive green      grayisholivegreen      #515744
 
-=item grayish olive green      grayisholivegreen      #515744
+	grayish orange           grayishorange          #c19a6b
 
-=item grayish orange           grayishorange          #c19a6b
+	grayish orange pink      grayishorangepink      #c7ada3
 
-=item grayish orange pink      grayishorangepink      #c7ada3
+	grayish pink             grayishpink            #ead8d7
 
-=item grayish pink             grayishpink            #ead8d7
+	grayish purple           grayishpurple          #796878
 
-=item grayish purple           grayishpurple          #796878
+	grayish red              grayishred             #905d5d
 
-=item grayish red              grayishred             #905d5d
+	grayish red              grayishred             #674c47
 
-=item grayish red              grayishred             #674c47
+	grayish red purple       grayishredpurple       #796878
 
-=item grayish red purple       grayishredpurple       #796878
+	grayish yellow           grayishyellow          #c2b280
 
-=item grayish yellow           grayishyellow          #c2b280
+	grayish yellow green     grayishyellowgreen     #8f9779
 
-=item grayish yellow green     grayishyellowgreen     #8f9779
+	greenish black           greenishblack          #31362b
 
-=item greenish black           greenishblack          #31362b
+	greenish black           greenishblack          #3a4b47
 
-=item greenish black           greenishblack          #3a4b47
+	greenish black           greenishblack          #1a2421
 
-=item greenish black           greenishblack          #1a2421
+	greenish black           greenishblack          #4e5755
 
-=item greenish black           greenishblack          #4e5755
+	greenish black           greenishblack          #1e2321
 
-=item greenish black           greenishblack          #1e2321
+	greenish gray            greenishgray           #8da399
 
-=item greenish gray            greenishgray           #8da399
+	greenish gray            greenishgray           #7d8984
 
-=item greenish gray            greenishgray           #7d8984
+	light blue               lightblue              #66aabc
 
-=item light blue               lightblue              #66aabc
+	light blue green         lightbluegreen         #66ada4
 
-=item light blue green         lightbluegreen         #66ada4
+	light bluish gray        lightbluishgray        #b4bcc0
 
-=item light bluish gray        lightbluishgray        #b4bcc0
+	light brown              lightbrown             #ae6938
 
-=item light brown              lightbrown             #ae6938
+	light brown              lightbrown             #a67b5b
 
-=item light brown              lightbrown             #a67b5b
+	light brownish gray      lightbrownishgray      #8e8279
 
-=item light brownish gray      lightbrownishgray      #8e8279
+	light gray               lightgray              #b9b8b5
 
-=item light gray               lightgray              #b9b8b5
+	light green              lightgreen             #6aab8e
 
-=item light green              lightgreen             #6aab8e
+	light greenish gray      lightgreenishgray      #b2beb5
 
-=item light greenish gray      lightgreenishgray      #b2beb5
+	light olive              lightolive             #867e36
 
-=item light olive              lightolive             #867e36
+	light olive brown        lightolivebrown        #867e36
 
-=item light olive brown        lightolivebrown        #867e36
+	light olive-gray         lightolivegray         #8e8279
 
-=item light olive-gray         lightolivegray         #8e8279
+	light olive-gray         lightolivegray         #8a8776
 
-=item light olive-gray         lightolivegray         #8a8776
+	light red                lightred               #c08081
 
-=item light red                lightred               #c08081
+	medium bluish gray       mediumbluishgray       #81878b
 
-=item medium bluish gray       mediumbluishgray       #81878b
+	medium gray              mediumgray             #848482
 
-=item medium gray              mediumgray             #848482
+	medium gray              mediumgray             #555555
 
-=item medium gray              mediumgray             #555555
+	medium light gray        mediumlightgray        #848482
 
-=item medium light gray        mediumlightgray        #848482
+	moderate blue            moderateblue           #367588
 
-=item moderate blue            moderateblue           #367588
+	moderate blue green      moderatebluegreen      #317873
 
-=item moderate blue green      moderatebluegreen      #317873
+	moderate brown           moderatebrown          #6f4e37
 
-=item moderate brown           moderatebrown          #6f4e37
+	moderate green           moderategreen          #3b7861
 
-=item moderate green           moderategreen          #3b7861
+	moderate greenish yellow moderategreenishyellow #b9b57d
 
-=item moderate greenish yellow moderategreenishyellow #b9b57d
+	moderate olive brown     moderateolivebrown     #665d1e
 
-=item moderate olive brown     moderateolivebrown     #665d1e
+	moderate orange pink     moderateorangepink     #f4c2c2
 
-=item moderate orange pink     moderateorangepink     #f4c2c2
+	moderate orange pink     moderateorangepink     #d9a6a9
 
-=item moderate orange pink     moderateorangepink     #d9a6a9
+	moderate pink            moderatepink           #dea5a4
 
-=item moderate pink            moderatepink           #dea5a4
+	moderate red             moderatered            #905d5d
 
-=item moderate red             moderatered            #905d5d
+	moderate reddish brown   moderatereddishbrown   #9e4732
 
-=item moderate reddish brown   moderatereddishbrown   #9e4732
+	moderate reddish orange  moderatereddishorange  #b4745e
 
-=item moderate reddish orange  moderatereddishorange  #b4745e
+	moderate yellow          moderateyellow         #c9ae5d
 
-=item moderate yellow          moderateyellow         #c9ae5d
+	moderate yellow green    moderateyellowgreen    #8a9a5b
 
-=item moderate yellow green    moderateyellowgreen    #8a9a5b
+	moderate yellowish brown moderateyellowishbrown #826644
 
-=item moderate yellowish brown moderateyellowishbrown #826644
+	moderate yellowish green moderateyellowishgreen #679267
 
-=item moderate yellowish green moderateyellowishgreen #679267
+	olive black              oliveblack             #363527
 
-=item olive black              oliveblack             #363527
+	olive black              oliveblack             #57554c
 
-=item olive black              oliveblack             #57554c
+	olive gray               olivegray              #57554c
 
-=item olive gray               olivegray              #57554c
+	pale blue                paleblue               #66aabc
 
-=item pale blue                paleblue               #66aabc
+	pale blue                paleblue               #91a3b0
 
-=item pale blue                paleblue               #91a3b0
+	pale blue green          palebluegreen          #8da399
 
-=item pale blue green          palebluegreen          #8da399
+	pale brown               palebrown              #977f73
 
-=item pale brown               palebrown              #977f73
+	pale green               palegreen              #8da399
 
-=item pale green               palegreen              #8da399
+	pale greenish yellow     palegreenishyellow     #dadfb7
 
-=item pale greenish yellow     palegreenishyellow     #dadfb7
+	pale olive               paleolive              #8c8767
 
-=item pale olive               paleolive              #8c8767
+	pale pink                palepink               #e8ccd7
 
-=item pale pink                palepink               #e8ccd7
+	pale purple              palepurple             #aa98a9
 
-=item pale purple              palepurple             #aa98a9
+	pale red                 palered                #ad8884
 
-=item pale red                 palered                #ad8884
+	pale red                 palered                #977f73
 
-=item pale red                 palered                #977f73
+	pale reddish brown       palereddishbrown       #a87c6d
 
-=item pale reddish brown       palereddishbrown       #a87c6d
+	pale red purple          paleredpurple          #aa98a9
 
-=item pale red purple          paleredpurple          #aa98a9
+	pale yellowish brown     paleyellowishbrown     #ae9b82
 
-=item pale yellowish brown     paleyellowishbrown     #ae9b82
+	pale yellowish green     paleyellowishgreen     #8da399
 
-=item pale yellowish green     paleyellowishgreen     #8da399
+	pale yellowish orange    paleyellowishorange    #fad6a5
 
-=item pale yellowish orange    paleyellowishorange    #fad6a5
+	pinkish gray             pinkishgray            #c1b6b3
 
-=item pinkish gray             pinkishgray            #c1b6b3
+	very dark red            verydarkred            #722f37
 
-=item very dark red            verydarkred            #722f37
+	very dusky purple        veryduskypurple        #563c5c
 
-=item very dusky purple        veryduskypurple        #563c5c
+	very dusky purple        veryduskypurple        #50404d
 
-=item very dusky purple        veryduskypurple        #50404d
+	very dusky purple        veryduskypurple        #291e29
 
-=item very dusky purple        veryduskypurple        #291e29
+	very dusky red           veryduskyred           #674c47
 
-=item very dusky red           veryduskyred           #674c47
+	very dusky red           veryduskyred           #43302e
 
-=item very dusky red           veryduskyred           #43302e
+	very dusky red purple    veryduskyredpurple     #50404d
 
-=item very dusky red purple    veryduskyredpurple     #50404d
+	very dusky red purple    veryduskyredpurple     #291e29
 
-=item very dusky red purple    veryduskyredpurple     #291e29
+	very dusky red purple    veryduskyredpurple     #673147
 
-=item very dusky red purple    veryduskyredpurple     #673147
+	very dusky red purple    veryduskyredpurple     #38152c
 
-=item very dusky red purple    veryduskyredpurple     #38152c
+	very light gray          verylightgray          #b9b8b5
 
-=item very light gray          verylightgray          #b9b8b5
+	very pale blue           verypaleblue           #bcd4e6
 
-=item very pale blue           verypaleblue           #bcd4e6
+	very pale green          verypalegreen          #c7e6d7
 
-=item very pale green          verypalegreen          #c7e6d7
+	very pale orange         verypaleorange         #bfb8a5
 
-=item very pale orange         verypaleorange         #bfb8a5
+	white                    white                  #f2f3f4
 
-=item white                    white                  #f2f3f4
+	yellowish gray           yellowishgray          #bfb8a5
 
-=item yellowish gray           yellowishgray          #bfb8a5
-
-
-=back
 
 =cut
 
@@ -411,18 +406,18 @@ sub _description {
     return {
           'subtitle' => 'Rock-Color Chart',
           'title' => 'NBS/ISCC RC',
-          'description' => 'Kenneth L. Kelly and Deanne B. Judd.
-"Color: Universal Language and Dictionary of Names",
-National Bureau of Standards,
-Spec. Publ. 440, Dec. 1976, 189 pages.
+          'description' => '    Kenneth L. Kelly and Deanne B. Judd.
+    "Color: Universal Language and Dictionary of Names",
+    National Bureau of Standards,
+    Spec. Publ. 440, Dec. 1976, 189 pages.
 
 
-Color Name Dictionary: (RC) Rock-Color Chart
+    Color Name Dictionary: (RC) Rock-Color Chart
 
-        National Research Council,
-        Rock-Color Chart 
+    National Research Council,
+    Rock-Color Chart 
 
-    This combinatorial field-work dictionary\'s 95 names map to 120 colors, using 89 of 267 centoids. This is less redundant than the others. Unfortunately, the focus on rock colors will not make for a general purpose dictionary.
+This combinatorial field-work dictionary\'s 95 names map to 120 colors, using 89 of 267 centoids. This is less redundant than the others. Unfortunately, the focus on rock colors will not make for a general purpose dictionary.
 
 [http://swissnet.ai.mit.edu/~jaffer/Color/Dictionaries#RC]
 '

@@ -17,11 +17,10 @@ Color::Library::Dictionary::NBS_ISCC::M - (NBS/ISCC M) Dictionary of Color
 
 =head1 DESCRIPTION
 
-
-Kenneth L. Kelly and Deanne B. Judd.
-"Color: Universal Language and Dictionary of Names",
-National Bureau of Standards,
-Spec. Publ. 440, Dec. 1976, 189 pages.
+    Kenneth L. Kelly and Deanne B. Judd.
+    "Color: Universal Language and Dictionary of Names",
+    National Bureau of Standards,
+    Spec. Publ. 440, Dec. 1976, 189 pages.
 
 
 Color Name Dictionary: (M) Dictionary of Color
@@ -35,9188 +34,9184 @@ L<http://swissnet.ai.mit.edu/~jaffer/Color/Dictionaries#M>
 
 =head1 COLORS
 
-=over 4
+	abbey                                   abbey                           #604e97
 
-=item abbey                                   abbey                           #604e97
+	absinthe [green]                        absinthegreen                   #8a9a5b
 
-=item absinthe [green]                        absinthegreen                   #8a9a5b
+	absinthe yellow                         absintheyellow                  #b9b57d
 
-=item absinthe yellow                         absintheyellow                  #b9b57d
+	acacia                                  acacia                          #eae679
 
-=item acacia                                  acacia                          #eae679
+	acacia                                  acacia                          #b9b459
 
-=item acacia                                  acacia                          #b9b459
+	academy blue                            academyblue                     #367588
 
-=item academy blue                            academyblue                     #367588
+	acajou                                  acajou                          #79443b
 
-=item acajou                                  acajou                          #79443b
+	acanthe                                 acanthe                         #6c541e
 
-=item acanthe                                 acanthe                         #6c541e
+	acier                                   acier                           #8c8767
 
-=item acier                                   acier                           #8c8767
+	ackermann's green                       ackermannsgreen                 #355e3b
 
-=item ackermann's green                       ackermannsgreen                 #355e3b
+	aconite violet                          aconiteviolet                   #86608e
 
-=item aconite violet                          aconiteviolet                   #86608e
+	acorn                                   acorn                           #7e6d5a
 
-=item acorn                                   acorn                           #7e6d5a
+	adamia                                  adamia                          #563c5c
 
-=item adamia                                  adamia                          #563c5c
+	adelaide                                adelaide                        #32174d
 
-=item adelaide                                adelaide                        #32174d
+	aden                                    aden                            #6aab8e
 
-=item aden                                    aden                            #6aab8e
+	admiral                                 admiral                         #291e29
 
-=item admiral                                 admiral                         #291e29
+	admiral                                 admiral                         #242124
 
-=item admiral                                 admiral                         #242124
+	adobe                                   adobe                           #826644
 
-=item adobe                                   adobe                           #826644
+	adrianople red                          adrianoplered                   #ab4e52
 
-=item adrianople red                          adrianoplered                   #ab4e52
+	adriatic                                adriatic                        #317873
 
-=item adriatic                                adriatic                        #317873
+	adust                                   adust                           #ae6938
 
-=item adust                                   adust                           #ae6938
+	aero                                    aero                            #536878
 
-=item aero                                    aero                            #536878
+	afghan                                  afghan                          #3e322c
 
-=item afghan                                  afghan                          #3e322c
+	afghan red                              afghanred                       #be0032
 
-=item afghan red                              afghanred                       #be0032
+	african                                 african                         #222222
 
-=item african                                 african                         #222222
+	african brown                           africanbrown                    #3e322c
 
-=item african brown                           africanbrown                    #3e322c
+	afterglow                               afterglow                       #9690ab
 
-=item afterglow                               afterglow                       #9690ab
+	agate                                   agate                           #882d17
 
-=item agate                                   agate                           #882d17
+	agate                                   agate                           #80461b
 
-=item agate                                   agate                           #80461b
+	agate grey                              agategrey                       #b9b8b5
 
-=item agate grey                              agategrey                       #b9b8b5
+	ageratum blue                           ageratumblue                    #aa98a9
 
-=item ageratum blue                           ageratumblue                    #aa98a9
+	ageratum violet                         ageratumviolet                  #796878
 
-=item ageratum violet                         ageratumviolet                  #796878
+	air blue                                airblue                         #436b95
 
-=item air blue                                airblue                         #436b95
+	airedale                                airedale                        #826644
 
-=item airedale                                airedale                        #826644
+	airedale                                airedale                        #7e6d5a
 
-=item airedale                                airedale                        #7e6d5a
+	airway                                  airway                          #70a3cc
 
-=item airway                                  airway                          #70a3cc
+	akbar                                   akbar                           #56070c
 
-=item akbar                                   akbar                           #56070c
+	akbar                                   akbar                           #79443b
 
-=item akbar                                   akbar                           #79443b
+	alabaster                               alabaster                       #ecd5c5
 
-=item alabaster                               alabaster                       #ecd5c5
+	alabaster                               alabaster                       #bfb8a5
 
-=item alabaster                               alabaster                       #bfb8a5
+	alamo                                   alamo                           #80461b
 
-=item alamo                                   alamo                           #80461b
+	alcanna                                 alcanna                         #882d17
 
-=item alcanna                                 alcanna                         #882d17
+	alcazar                                 alcazar                         #722f37
 
-=item alcazar                                 alcazar                         #722f37
+	alcazar                                 alcazar                         #882d17
 
-=item alcazar                                 alcazar                         #882d17
+	alderney                                alderney                        #826644
 
-=item alderney                                alderney                        #826644
+	alesan                                  alesan                          #977f73
 
-=item alesan                                  alesan                          #977f73
+	alesan                                  alesan                          #a67b5b
 
-=item alesan                                  alesan                          #a67b5b
+	alesan                                  alesan                          #958070
 
-=item alesan                                  alesan                          #958070
+	alexandria blue                         alexandriablue                  #00a1c2
 
-=item alexandria blue                         alexandriablue                  #00a1c2
+	alexandria blue                         alexandriablue                  #0067a5
 
-=item alexandria blue                         alexandriablue                  #0067a5
+	alfalfa                                 alfalfa                         #355e3b
 
-=item alfalfa                                 alfalfa                         #355e3b
+	algerian                                algerian                        #6f4e37
 
-=item algerian                                algerian                        #6f4e37
+	algerian red                            algerianred                     #56070c
 
-=item algerian red                            algerianred                     #56070c
+	algonquin                               algonquin                       #be6516
 
-=item algonquin                               algonquin                       #be6516
+	algonquin                               algonquin                       #ae6938
 
-=item algonquin                               algonquin                       #ae6938
+	alhambra                                alhambra                        #3a4b47
 
-=item alhambra                                alhambra                        #3a4b47
+	alhambra                                alhambra                        #004b49
 
-=item alhambra                                alhambra                        #004b49
+	alice blue                              aliceblue                       #91a3b0
 
-=item alice blue                              aliceblue                       #91a3b0
+	alkermes                                alkermes                        #be0032
 
-=item alkermes                                alkermes                        #be0032
+	almond                                  almond                          #a67b5b
 
-=item almond                                  almond                          #a67b5b
+	almond                                  almond                          #958070
 
-=item almond                                  almond                          #958070
+	almond                                  almond                          #c19a6b
 
-=item almond                                  almond                          #c19a6b
+	almond                                  almond                          #ae9b82
 
-=item almond                                  almond                          #ae9b82
+	almond blossom                          almondblossom                   #f9ccca
 
-=item almond blossom                          almondblossom                   #f9ccca
+	almond blossom                          almondblossom                   #dea5a4
 
-=item almond blossom                          almondblossom                   #dea5a4
+	almond blossom                          almondblossom                   #ead8d7
 
-=item almond blossom                          almondblossom                   #ead8d7
+	almond blossom                          almondblossom                   #c4aead
 
-=item almond blossom                          almondblossom                   #c4aead
+	almond brown                            almondbrown                     #a67b5b
 
-=item almond brown                            almondbrown                     #a67b5b
+	almond brown                            almondbrown                     #958070
 
-=item almond brown                            almondbrown                     #958070
+	almond brown                            almondbrown                     #c19a6b
 
-=item almond brown                            almondbrown                     #c19a6b
+	almond brown                            almondbrown                     #ae9b82
 
-=item almond brown                            almondbrown                     #ae9b82
+	almond green                            almondgreen                     #5e716a
 
-=item almond green                            almondgreen                     #5e716a
+	almond [pink]                           almondpink                      #f9ccca
 
-=item almond [pink]                           almondpink                      #f9ccca
+	almond [pink]                           almondpink                      #dea5a4
 
-=item almond [pink]                           almondpink                      #dea5a4
+	almond [pink]                           almondpink                      #ead8d7
 
-=item almond [pink]                           almondpink                      #ead8d7
+	almond [pink]                           almondpink                      #c4aead
 
-=item almond [pink]                           almondpink                      #c4aead
+	aloes [green]                           aloesgreen                      #8da399
 
-=item aloes [green]                           aloesgreen                      #8da399
+	aloma                                   aloma                           #a67b5b
 
-=item aloma                                   aloma                           #a67b5b
+	aloma                                   aloma                           #c19a6b
 
-=item aloma                                   aloma                           #c19a6b
+	aloma                                   aloma                           #826644
 
-=item aloma                                   aloma                           #826644
+	alpine                                  alpine                          #536878
 
-=item alpine                                  alpine                          #536878
+	alpine green                            alpinegreen                     #3a4b47
 
-=item alpine green                            alpinegreen                     #3a4b47
+	aluminum                                aluminum                        #b9b8b5
 
-=item aluminum                                aluminum                        #b9b8b5
+	aluminum                                aluminum                        #848482
 
-=item aluminum                                aluminum                        #848482
+	amaranth                                amaranth                        #702963
 
-=item amaranth                                amaranth                        #702963
+	amaranthine                             amaranthine                     #673147
 
-=item amaranthine                             amaranthine                     #673147
+	amaranth pink                           amaranthpink                    #de6fa1
 
-=item amaranth pink                           amaranthpink                    #de6fa1
+	amaranth purple                         amaranthpurple                  #78184a
 
-=item amaranth purple                         amaranthpurple                  #78184a
+	amarna                                  amarna                          #00543d
 
-=item amarna                                  amarna                          #00543d
+	amarna                                  amarna                          #1b4d3e
 
-=item amarna                                  amarna                          #1b4d3e
+	amarylis                                amarylis                        #ab4e52
 
-=item amarylis                                amarylis                        #ab4e52
+	amarylis                                amarylis                        #905d5d
 
-=item amarylis                                amarylis                        #905d5d
+	amazon                                  amazon                          #3b7861
 
-=item amazon                                  amazon                          #3b7861
+	amber brown                             amberbrown                      #ae6938
 
-=item amber brown                             amberbrown                      #ae6938
+	amberglow                               amberglow                       #ae6938
 
-=item amberglow                               amberglow                       #ae6938
+	amberglow                               amberglow                       #a67b5b
 
-=item amberglow                               amberglow                       #a67b5b
+	amber white                             amberwhite                      #f3e5ab
 
-=item amber white                             amberwhite                      #f3e5ab
+	amber white                             amberwhite                      #c2b280
 
-=item amber white                             amberwhite                      #c2b280
+	amber white                             amberwhite                      #ebe8a4
 
-=item amber white                             amberwhite                      #ebe8a4
+	amber white                             amberwhite                      #b9b57d
 
-=item amber white                             amberwhite                      #b9b57d
+	amber white                             amberwhite                      #dadfb7
 
-=item amber white                             amberwhite                      #dadfb7
+	amber [yellow]                          amberyellow                     #f8de7e
 
-=item amber [yellow]                          amberyellow                     #f8de7e
+	amber [yellow]                          amberyellow                     #c9ae5d
 
-=item amber [yellow]                          amberyellow                     #c9ae5d
+	ambrosia                                ambrosia                        #79443b
 
-=item ambrosia                                ambrosia                        #79443b
+	ambulance                               ambulance                       #43302e
 
-=item ambulance                               ambulance                       #43302e
+	amelie                                  amelie                          #3e322c
 
-=item amelie                                  amelie                          #3e322c
+	american beauty                         americanbeauty                  #722f37
 
-=item american beauty                         americanbeauty                  #722f37
+	american green                          americangreen                   #679267
 
-=item american green                          americangreen                   #679267
+	american green                          americangreen                   #355e3b
 
-=item american green                          americangreen                   #355e3b
+	american green                          americangreen                   #5e716a
 
-=item american green                          americangreen                   #5e716a
+	amethyst [violet]                       amethystviolet                  #86608e
 
-=item amethyst [violet]                       amethystviolet                  #86608e
+	amethyst [violet]                       amethystviolet                  #563c5c
 
-=item amethyst [violet]                       amethystviolet                  #563c5c
+	amethyst [violet]                       amethystviolet                  #796878
 
-=item amethyst [violet]                       amethystviolet                  #796878
+	amparo blue                             amparoblue                      #0067a5
 
-=item amparo blue                             amparoblue                      #0067a5
+	amparo blue                             amparoblue                      #6c79b8
 
-=item amparo blue                             amparoblue                      #6c79b8
+	amparo purple                           amparopurple                    #86608e
 
-=item amparo purple                           amparopurple                    #86608e
+	amulet                                  amulet                          #004b49
 
-=item amulet                                  amulet                          #004b49
+	anamite                                 anamite                         #8c8767
 
-=item anamite                                 anamite                         #8c8767
+	anatolia                                anatolia                        #56070c
 
-=item anatolia                                anatolia                        #56070c
+	anatta                                  anatta                          #d9a6a9
 
-=item anatta                                  anatta                          #d9a6a9
+	andorra                                 andorra                         #3e1d1e
 
-=item andorra                                 andorra                         #3e1d1e
+	andorra                                 andorra                         #43302e
 
-=item andorra                                 andorra                         #43302e
+	andorre                                 andorre                         #679267
 
-=item andorre                                 andorre                         #679267
+	andorre                                 andorre                         #5e716a
 
-=item andorre                                 andorre                         #5e716a
+	andover green                           andovergreen                    #515744
 
-=item andover green                           andovergreen                    #515744
+	andrinople berries                      andrinopleberries               #eaa221
 
-=item andrinople berries                      andrinopleberries               #eaa221
+	andrinople berries                      andrinopleberries               #e3a857
 
-=item andrinople berries                      andrinopleberries               #e3a857
+	anemone                                 anemone                         #aa8a9e
 
-=item anemone                                 anemone                         #aa8a9e
+	angel red                               angelred                        #79443b
 
-=item angel red                               angelred                        #79443b
+	animal rouge                            animalrouge                     #be0032
 
-=item animal rouge                            animalrouge                     #be0032
+	animal rouge                            animalrouge                     #bc3f4a
 
-=item animal rouge                            animalrouge                     #bc3f4a
+	annapolis                               annapolis                       #555555
 
-=item annapolis                               annapolis                       #555555
+	annatto                                 annatto                         #d9a6a9
 
-=item annatto                                 annatto                         #d9a6a9
+	annotto                                 annotto                         #d9a6a9
 
-=item annotto                                 annotto                         #d9a6a9
+	antelope                                antelope                        #967117
 
-=item antelope                                antelope                        #967117
+	antimony yellow                         antimonyyellow                  #e3a857
 
-=item antimony yellow                         antimonyyellow                  #e3a857
+	antique                                 antique                         #967117
 
-=item antique                                 antique                         #967117
+	antique                                 antique                         #6c541e
 
-=item antique                                 antique                         #6c541e
+	antique brass                           antiquebrass                    #867e36
 
-=item antique brass                           antiquebrass                    #867e36
+	antique brass                           antiquebrass                    #8c8767
 
-=item antique brass                           antiquebrass                    #8c8767
+	antique bronze                          antiquebronze                   #826644
 
-=item antique bronze                          antiquebronze                   #826644
+	antique brown                           antiquebrown                    #6f4e37
 
-=item antique brown                           antiquebrown                    #6f4e37
+	antique drab                            antiquedrab                     #826644
 
-=item antique drab                            antiquedrab                     #826644
+	antique drab                            antiquedrab                     #967117
 
-=item antique drab                            antiquedrab                     #967117
+	antique drab                            antiquedrab                     #6c541e
 
-=item antique drab                            antiquedrab                     #6c541e
+	antique fuchsia                         antiquefuchsia                  #86608e
 
-=item antique fuchsia                         antiquefuchsia                  #86608e
+	antique fuchsia                         antiquefuchsia                  #915c83
 
-=item antique fuchsia                         antiquefuchsia                  #915c83
+	antique gold                            antiquegold                     #be8a3d
 
-=item antique gold                            antiquegold                     #be8a3d
+	antique gold                            antiquegold                     #996515
 
-=item antique gold                            antiquegold                     #996515
+	antique green                           antiquegreen                    #3a4b47
 
-=item antique green                           antiquegreen                    #3a4b47
+	antique red                             antiquered                      #cb6d51
 
-=item antique red                             antiquered                      #cb6d51
+	antique red                             antiquered                      #9e4732
 
-=item antique red                             antiquered                      #9e4732
+	antique red                             antiquered                      #b4745e
 
-=item antique red                             antiquered                      #b4745e
+	antique red                             antiquered                      #79443b
 
-=item antique red                             antiquered                      #79443b
+	antique ruby                            antiqueruby                     #841b2d
 
-=item antique ruby                            antiqueruby                     #841b2d
+	antwerp blue                            antwerpblue                     #2e8495
 
-=item antwerp blue                            antwerpblue                     #2e8495
+	antwerp blue                            antwerpblue                     #436b95
 
-=item antwerp blue                            antwerpblue                     #436b95
+	antwerp brown                           antwerpbrown                    #483c32
 
-=item antwerp brown                           antwerpbrown                    #483c32
+	antwerp red                             antwerpred                      #79443b
 
-=item antwerp red                             antwerpred                      #79443b
+	apache                                  apache                          #6f4e37
 
-=item apache                                  apache                          #6f4e37
+	aphrodite                               aphrodite                       #66ada4
 
-=item aphrodite                               aphrodite                       #66ada4
+	appleblossom [pink]                     appleblossompink                #905d5d
 
-=item appleblossom [pink]                     appleblossompink                #905d5d
+	apple-fallow                            applefallow                     #841b2d
 
-=item apple-fallow                            applefallow                     #841b2d
+	apple-fallow                            applefallow                     #ab4e52
 
-=item apple-fallow                            applefallow                     #ab4e52
+	apple green                             applegreen                      #8a9a5b
 
-=item apple green                             applegreen                      #8a9a5b
+	apricot                                 apricot                         #d99058
 
-=item apricot                                 apricot                         #d99058
+	apricot yellow                          apricotyellow                   #f8de7e
 
-=item apricot yellow                          apricotyellow                   #f8de7e
+	apricot yellow                          apricotyellow                   #c9ae5d
 
-=item apricot yellow                          apricotyellow                   #c9ae5d
+	aquagreen                               aquagreen                       #93c592
 
-=item aquagreen                               aquagreen                       #93c592
+	aquamarine                              aquamarine                      #66aabc
 
-=item aquamarine                              aquamarine                      #66aabc
+	aquamarine                              aquamarine                      #91a3b0
 
-=item aquamarine                              aquamarine                      #91a3b0
+	arab [brown]                            arabbrown                       #80461b
 
-=item arab [brown]                            arabbrown                       #80461b
+	arabesque                               arabesque                       #cb6d51
 
-=item arabesque                               arabesque                       #cb6d51
+	arabian brown                           arabianbrown                    #80461b
 
-=item arabian brown                           arabianbrown                    #80461b
+	arabian brown                           arabianbrown                    #6f4e37
 
-=item arabian brown                           arabianbrown                    #6f4e37
+	arabian red                             arabianred                      #56070c
 
-=item arabian red                             arabianred                      #56070c
+	araby                                   araby                           #b4745e
 
-=item araby                                   araby                           #b4745e
+	araby                                   araby                           #a87c6d
 
-=item araby                                   araby                           #a87c6d
+	aragon                                  aragon                          #79443b
 
-=item aragon                                  aragon                          #79443b
+	arbutus                                 arbutus                         #ea9399
 
-=item arbutus                                 arbutus                         #ea9399
+	arbutus                                 arbutus                         #e4717a
 
-=item arbutus                                 arbutus                         #e4717a
+	arbutus                                 arbutus                         #e68fac
 
-=item arbutus                                 arbutus                         #e68fac
+	arbutus                                 arbutus                         #de6fa1
 
-=item arbutus                                 arbutus                         #de6fa1
+	arcadian green                          arcadiangreen                   #93c592
 
-=item arcadian green                          arcadiangreen                   #93c592
+	archel                                  archel                          #a8516e
 
-=item archel                                  archel                          #a8516e
+	archil                                  archil                          #a8516e
 
-=item archil                                  archil                          #a8516e
+	arctic                                  arctic                          #222222
 
-=item arctic                                  arctic                          #222222
+	arctic blue                             arcticblue                      #536878
 
-=item arctic blue                             arcticblue                      #536878
+	ardoise                                 ardoise                         #536878
 
-=item ardoise                                 ardoise                         #536878
+	ardoise                                 ardoise                         #796878
 
-=item ardoise                                 ardoise                         #796878
+	argali                                  argali                          #5b504f
 
-=item argali                                  argali                          #5b504f
+	argali                                  argali                          #555555
 
-=item argali                                  argali                          #555555
+	argent                                  argent                          #848482
 
-=item argent                                  argent                          #848482
+	argentina                               argentina                       #422518
 
-=item argentina                               argentina                       #422518
+	argus brown                             argusbrown                      #6f4e37
 
-=item argus brown                             argusbrown                      #6f4e37
+	argyle purple                           argylepurple                    #aa8a9e
 
-=item argyle purple                           argylepurple                    #aa8a9e
+	argyle purple                           argylepurple                    #836479
 
-=item argyle purple                           argylepurple                    #836479
+	arizona                                 arizona                         #c19a6b
 
-=item arizona                                 arizona                         #c19a6b
+	armada                                  armada                          #43302e
 
-=item armada                                  armada                          #43302e
+	armada                                  armada                          #3e322c
 
-=item armada                                  armada                          #3e322c
+	armenian blue                           armenianblue                    #00a1c2
 
-=item armenian blue                           armenianblue                    #00a1c2
+	armenian blue                           armenianblue                    #0067a5
 
-=item armenian blue                           armenianblue                    #0067a5
+	armenian bole                           armenianbole                    #79443b
 
-=item armenian bole                           armenianbole                    #79443b
+	armenian red                            armenianred                     #80461b
 
-=item armenian red                            armenianred                     #80461b
+	armenian stone                          armenianstone                   #436b95
 
-=item armenian stone                          armenianstone                   #436b95
+	army brown                              armybrown                       #a67b5b
 
-=item army brown                              armybrown                       #a67b5b
+	arno blue                               arnoblue                        #367588
 
-=item arno blue                               arnoblue                        #367588
+	arno blue                               arnoblue                        #004958
 
-=item arno blue                               arnoblue                        #004958
+	arnotto                                 arnotto                         #d9a6a9
 
-=item arnotto                                 arnotto                         #d9a6a9
+	arona                                   arona                           #36454f
 
-=item arona                                   arona                           #36454f
+	arrowwood                               arrowwood                       #967117
 
-=item arrowwood                               arrowwood                       #967117
+	arsenate                                arsenate                        #007959
 
-=item arsenate                                arsenate                        #007959
+	art brown                               artbrown                        #422518
 
-=item art brown                               artbrown                        #422518
+	artemesia green                         artemesiagreen                  #7d8984
 
-=item artemesia green                         artemesiagreen                  #7d8984
+	art gray, art grey                      artgrayartgrey                  #8b8589
 
-=item art gray, art grey                      artgrayartgrey                  #8b8589
+	art gray, art grey                      artgrayartgrey                  #848482
 
-=item art gray, art grey                      artgrayartgrey                  #848482
+	art green                               artgreen                        #8a9a5b
 
-=item art green                               artgreen                        #8a9a5b
+	art green                               artgreen                        #4a5d23
 
-=item art green                               artgreen                        #4a5d23
+	artichoke green                         artichokegreen                  #8f9779
 
-=item artichoke green                         artichokegreen                  #8f9779
+	artificial vermilion                    artificialvermilion             #915f6d
 
-=item artificial vermilion                    artificialvermilion             #915f6d
+	artillery                               artillery                       #be0032
 
-=item artillery                               artillery                       #be0032
+	ascot tan                               ascottan                        #635147
 
-=item ascot tan                               ascottan                        #635147
+	ashes of rose                           ashesofrose                     #915f6d
 
-=item ashes of rose                           ashesofrose                     #915f6d
+	ash [grey]                              ashgrey                         #b2beb5
 
-=item ash [grey]                              ashgrey                         #b2beb5
+	asmalte                                 asmalte                         #00416a
 
-=item asmalte                                 asmalte                         #00416a
+	asmalte                                 asmalte                         #436b95
 
-=item asmalte                                 asmalte                         #436b95
+	asparagus green                         asparagusgreen                  #dadfb7
 
-=item asparagus green                         asparagusgreen                  #dadfb7
+	aspen green                             aspengreen                      #5e716a
 
-=item aspen green                             aspengreen                      #5e716a
+	asphalt                                 asphalt                         #555555
 
-=item asphalt                                 asphalt                         #555555
+	asphaltum                               asphaltum                       #483c32
 
-=item asphaltum                               asphaltum                       #483c32
+	asphodel green                          asphodelgreen                   #8a9a5b
 
-=item asphodel green                          asphodelgreen                   #8a9a5b
+	aster                                   aster                           #796878
 
-=item aster                                   aster                           #796878
+	aster purple                            asterpurple                     #78184a
 
-=item aster purple                            asterpurple                     #78184a
+	athenia                                 athenia                         #905d5d
 
-=item athenia                                 athenia                         #905d5d
+	atlantic                                atlantic                        #36454f
 
-=item atlantic                                atlantic                        #36454f
+	atlantis                                atlantis                        #004958
 
-=item atlantis                                atlantis                        #004958
+	atlantis                                atlantis                        #36454f
 
-=item atlantis                                atlantis                        #36454f
+	atmosphere                              atmosphere                      #c2ac99
 
-=item atmosphere                              atmosphere                      #c2ac99
+	atmosphere                              atmosphere                      #ae9b82
 
-=item atmosphere                              atmosphere                      #ae9b82
+	atmosphere                              atmosphere                      #bfb8a5
 
-=item atmosphere                              atmosphere                      #bfb8a5
+	atramentous                             atramentous                     #51585e
 
-=item atramentous                             atramentous                     #51585e
+	attar of roses                          attarofroses                    #b4745e
 
-=item attar of roses                          attarofroses                    #b4745e
+	attar of roses                          attarofroses                    #a87c6d
 
-=item attar of roses                          attarofroses                    #a87c6d
+	aubergine                               aubergine                       #291e29
 
-=item aubergine                               aubergine                       #291e29
+	aubergine                               aubergine                       #242124
 
-=item aubergine                               aubergine                       #242124
+	auburn                                  auburn                          #6f4e37
 
-=item auburn                                  auburn                          #6f4e37
+	aubusson                                aubusson                        #722f37
 
-=item aubusson                                aubusson                        #722f37
+	aucuba                                  aucuba                          #867e36
 
-=item aucuba                                  aucuba                          #867e36
+	aureolin                                aureolin                        #fada5e
 
-=item aureolin                                aureolin                        #fada5e
+	aureolin                                aureolin                        #d4af37
 
-=item aureolin                                aureolin                        #d4af37
+	auricula purple                         auriculapurple                  #702963
 
-=item auricula purple                         auriculapurple                  #702963
+	auripigmentum                           auripigmentum                   #fada5e
 
-=item auripigmentum                           auripigmentum                   #fada5e
+	auripigmentum                           auripigmentum                   #d4af37
 
-=item auripigmentum                           auripigmentum                   #d4af37
+	auripigmentum                           auripigmentum                   #f8de7e
 
-=item auripigmentum                           auripigmentum                   #f8de7e
+	auripigmentum                           auripigmentum                   #c9ae5d
 
-=item auripigmentum                           auripigmentum                   #c9ae5d
+	aurora [orange]                         auroraorange                    #f88379
 
-=item aurora [orange]                         auroraorange                    #f88379
+	aurora [orange]                         auroraorange                    #e66761
 
-=item aurora [orange]                         auroraorange                    #e66761
+	aurora [orange]                         auroraorange                    #cb6d51
 
-=item aurora [orange]                         auroraorange                    #cb6d51
+	aurora red                              aurorared                       #ab4e52
 
-=item aurora red                              aurorared                       #ab4e52
+	aurora red                              aurorared                       #e66761
 
-=item aurora red                              aurorared                       #e66761
+	aurora red                              aurorared                       #cb6d51
 
-=item aurora red                              aurorared                       #cb6d51
+	aurora yellow                           aurorayellow                    #ed872d
 
-=item aurora yellow                           aurorayellow                    #ed872d
+	aurora yellow                           aurorayellow                    #d99058
 
-=item aurora yellow                           aurorayellow                    #d99058
+	aurora yellow                           aurorayellow                    #eaa221
 
-=item aurora yellow                           aurorayellow                    #eaa221
+	aurora yellow                           aurorayellow                    #e3a857
 
-=item aurora yellow                           aurorayellow                    #e3a857
+	aurore                                  aurore                          #dea5a4
 
-=item aurore                                  aurore                          #dea5a4
+	aurum                                   aurum                           #967117
 
-=item aurum                                   aurum                           #967117
+	australian pine                         australianpine                  #355e3b
 
-=item australian pine                         australianpine                  #355e3b
+	auteuil                                 auteuil                         #e3a857
 
-=item auteuil                                 auteuil                         #e3a857
+	autumn                                  autumn                          #5b5842
 
-=item autumn                                  autumn                          #5b5842
+	autumn                                  autumn                          #363527
 
-=item autumn                                  autumn                          #363527
+	autumn blonde                           autumnblonde                    #977f73
 
-=item autumn blonde                           autumnblonde                    #977f73
+	autumn blonde                           autumnblonde                    #6f4e37
 
-=item autumn blonde                           autumnblonde                    #6f4e37
+	autumn blonde                           autumnblonde                    #958070
 
-=item autumn blonde                           autumnblonde                    #958070
+	autumn blonde                           autumnblonde                    #635147
 
-=item autumn blonde                           autumnblonde                    #635147
+	autumn brown                            autumnbrown                     #483c32
 
-=item autumn brown                            autumnbrown                     #483c32
+	autumn glory                            autumnglory                     #722f37
 
-=item autumn glory                            autumnglory                     #722f37
+	autumn glory                            autumnglory                     #9e4732
 
-=item autumn glory                            autumnglory                     #9e4732
+	autumn green                            autumngreen                     #8a9a5b
 
-=item autumn green                            autumngreen                     #8a9a5b
+	autumn green                            autumngreen                     #4a5d23
 
-=item autumn green                            autumngreen                     #4a5d23
+	autumn leaf                             autumnleaf                      #be6516
 
-=item autumn leaf                             autumnleaf                      #be6516
+	autumn leaf                             autumnleaf                      #ae6938
 
-=item autumn leaf                             autumnleaf                      #ae6938
+	autumn leaf                             autumnleaf                      #80461b
 
-=item autumn leaf                             autumnleaf                      #80461b
+	autumn oak                              autumnoak                       #674c47
 
-=item autumn oak                              autumnoak                       #674c47
+	avellaneous                             avellaneous                     #a67b5b
 
-=item avellaneous                             avellaneous                     #a67b5b
+	avellaneous                             avellaneous                     #996515
 
-=item avellaneous                             avellaneous                     #996515
+	avignon berries                         avignonberries                  #eaa221
 
-=item avignon berries                         avignonberries                  #eaa221
+	avignon berries                         avignonberries                  #e3a857
 
-=item avignon berries                         avignonberries                  #e3a857
+	azalea                                  azalea                          #905d5d
 
-=item azalea                                  azalea                          #905d5d
+	aztec                                   aztec                           #996515
 
-=item aztec                                   aztec                           #996515
+	aztec                                   aztec                           #c19a6b
 
-=item aztec                                   aztec                           #c19a6b
+	aztec                                   aztec                           #826644
 
-=item aztec                                   aztec                           #826644
+	aztec maroon                            aztecmaroon                     #915f6d
 
-=item aztec maroon                            aztecmaroon                     #915f6d
+	azulin                                  azulin                          #536878
 
-=item azulin                                  azulin                          #536878
+	baby blue                               babyblue                        #91a3b0
 
-=item baby blue                               babyblue                        #91a3b0
+	baby blue                               babyblue                        #b4bcc0
 
-=item baby blue                               babyblue                        #b4bcc0
+	baby blue                               babyblue                        #81878b
 
-=item baby blue                               babyblue                        #81878b
+	baby pink                               babypink                        #f4c2c2
 
-=item baby pink                               babypink                        #f4c2c2
+	baby pink                               babypink                        #d9a6a9
 
-=item baby pink                               babypink                        #d9a6a9
+	baby rose                               babyrose                        #f88379
 
-=item baby rose                               babyrose                        #f88379
+	bacchus                                 bacchus                         #a8516e
 
-=item bacchus                                 bacchus                         #a8516e
+	bachelor button                         bachelorbutton                  #e4717a
 
-=item bachelor button                         bachelorbutton                  #e4717a
+	bagdad                                  bagdad                          #00304e
 
-=item bagdad                                  bagdad                          #00304e
+	bagdad                                  bagdad                          #36454f
 
-=item bagdad                                  bagdad                          #36454f
+	bagdad                                  bagdad                          #202830
 
-=item bagdad                                  bagdad                          #202830
+	bakst green                             bakstgreen                      #1b4d3e
 
-=item bakst green                             bakstgreen                      #1b4d3e
+	balge yellow                            balgeyellow                     #fada5e
 
-=item balge yellow                            balgeyellow                     #fada5e
+	ball lake                               balllake                        #be0032
 
-=item ball lake                               balllake                        #be0032
+	ball lake                               balllake                        #bc3f4a
 
-=item ball lake                               balllake                        #bc3f4a
+	balsam                                  balsam                          #36454f
 
-=item balsam                                  balsam                          #36454f
+	balsam green                            balsamgreen                     #222222
 
-=item balsam green                            balsamgreen                     #222222
+	baltic                                  baltic                          #3a4b47
 
-=item baltic                                  baltic                          #3a4b47
+	baltic                                  baltic                          #004b49
 
-=item baltic                                  baltic                          #004b49
+	bambino                                 bambino                         #91a3b0
 
-=item bambino                                 bambino                         #91a3b0
+	bamboo                                  bamboo                          #c19a6b
 
-=item bamboo                                  bamboo                          #c19a6b
+	bamboo                                  bamboo                          #826644
 
-=item bamboo                                  bamboo                          #826644
+	banana                                  banana                          #c2b280
 
-=item banana                                  banana                          #c2b280
+	banner                                  banner                          #4c516d
 
-=item banner                                  banner                          #4c516d
+	banshee                                 banshee                         #3a4b47
 
-=item banshee                                 banshee                         #3a4b47
+	barberry                                barberry                        #841b2d
 
-=item barberry                                barberry                        #841b2d
+	barberry                                barberry                        #ab4e52
 
-=item barberry                                barberry                        #ab4e52
+	bark                                    bark                            #3b3121
 
-=item bark                                    bark                            #3b3121
+	barwood                                 barwood                         #ab4e52
 
-=item barwood                                 barwood                         #ab4e52
+	basketball                              basketball                      #9065ca
 
-=item basketball                              basketball                      #9065ca
+	bastard saffron                         bastardsaffron                  #be0032
 
-=item bastard saffron                         bastardsaffron                  #be0032
+	bat                                     bat                             #555555
 
-=item bat                                     bat                             #555555
+	bath stone                              bathstone                       #fad6a5
 
-=item bath stone                              bathstone                       #fad6a5
+	battleship grey                         battleshipgrey                  #848482
 
-=item battleship grey                         battleshipgrey                  #848482
+	bay                                     bay                             #6f4e37
 
-=item bay                                     bay                             #6f4e37
+	bayou                                   bayou                           #3a4b47
 
-=item bayou                                   bayou                           #3a4b47
+	beach                                   beach                           #8c8767
 
-=item beach                                   beach                           #8c8767
+	beach                                   beach                           #8a8776
 
-=item beach                                   beach                           #8a8776
+	beach tan                               beachtan                        #635147
 
-=item beach tan                               beachtan                        #635147
+	bear                                    bear                            #555555
 
-=item bear                                    bear                            #555555
+	bear's hair                             bearshair                       #555555
 
-=item bear's hair                             bearshair                       #555555
+	bearskin [grey]                         bearskingrey                    #555555
 
-=item bearskin [grey]                         bearskingrey                    #555555
+	beaucaire                               beaucaire                       #007791
 
-=item beaucaire                               beaucaire                       #007791
+	beaucaire                               beaucaire                       #367588
 
-=item beaucaire                               beaucaire                       #367588
+	beaver                                  beaver                          #5b504f
 
-=item beaver                                  beaver                          #5b504f
+	beaverpelt                              beaverpelt                      #57554c
 
-=item beaverpelt                              beaverpelt                      #57554c
+	beech                                   beech                           #5b5842
 
-=item beech                                   beech                           #5b5842
+	beech                                   beech                           #57554c
 
-=item beech                                   beech                           #57554c
+	beechnut                                beechnut                        #635147
 
-=item beechnut                                beechnut                        #635147
+	beef's blood                            beefsblood                      #79443b
 
-=item beef's blood                            beefsblood                      #79443b
+	beeswax                                 beeswax                         #826644
 
-=item beeswax                                 beeswax                         #826644
+	beetle                                  beetle                          #515744
 
-=item beetle                                  beetle                          #515744
+	begonia                                 begonia                         #e4717a
 
-=item begonia                                 begonia                         #e4717a
+	begonia rose                            begoniarose                     #ab4e52
 
-=item begonia rose                            begoniarose                     #ab4e52
+	beige                                   beige                           #f3e5ab
 
-=item beige                                   beige                           #f3e5ab
+	beige                                   beige                           #c2b280
 
-=item beige                                   beige                           #c2b280
+	beige soirée                            beigesoire                      #c19a6b
 
-=item beige soirée                            beigesoire                      #c19a6b
+	belladonna                              belladonna                      #563c5c
 
-=item belladonna                              belladonna                      #563c5c
+	belleek                                 belleek                         #fad6a5
 
-=item belleek                                 belleek                         #fad6a5
+	belleek                                 belleek                         #ae9b82
 
-=item belleek                                 belleek                         #ae9b82
+	belleek                                 belleek                         #c2b280
 
-=item belleek                                 belleek                         #c2b280
+	belleek                                 belleek                         #bfb8a5
 
-=item belleek                                 belleek                         #bfb8a5
+	bellemonte                              bellemonte                      #ab4e52
 
-=item bellemonte                              bellemonte                      #ab4e52
+	bellflower                              bellflower                      #272458
 
-=item bellflower                              bellflower                      #272458
+	berlin brown                            berlinbrown                     #905d5d
 
-=item berlin brown                            berlinbrown                     #905d5d
+	berlin brown                            berlinbrown                     #674c47
 
-=item berlin brown                            berlinbrown                     #674c47
+	berlin red                              berlinred                       #79443b
 
-=item berlin red                              berlinred                       #79443b
+	bermuda                                 bermuda                         #e4717a
 
-=item bermuda                                 bermuda                         #e4717a
+	beryl                                   beryl                           #66aabc
 
-=item beryl                                   beryl                           #66aabc
+	beryl blue                              berylblue                       #66aabc
 
-=item beryl blue                              berylblue                       #66aabc
+	beryl green                             berylgreen                      #66ada4
 
-=item beryl green                             berylgreen                      #66ada4
+	biarritz                                biarritz                        #ae9b82
 
-=item biarritz                                biarritz                        #ae9b82
+	biarritz                                biarritz                        #967117
 
-=item biarritz                                biarritz                        #967117
+	big four yellow, big 4 yellow           bigfouryellowbig4yellow         #f38400
 
-=item big four yellow, big 4 yellow           bigfouryellowbig4yellow         #f38400
+	big four yellow, big 4 yellow           bigfouryellowbig4yellow         #ed872d
 
-=item big four yellow, big 4 yellow           bigfouryellowbig4yellow         #ed872d
+	billiard                                billiard                        #1b4d3e
 
-=item billiard                                billiard                        #1b4d3e
+	biscay green                            biscaygreen                     #8a9a5b
 
-=item biscay green                            biscaygreen                     #8a9a5b
+	biscuit                                 biscuit                         #a67b5b
 
-=item biscuit                                 biscuit                         #a67b5b
+	biscuit                                 biscuit                         #958070
 
-=item biscuit                                 biscuit                         #958070
+	biscuit                                 biscuit                         #c19a6b
 
-=item biscuit                                 biscuit                         #c19a6b
+	biscuit                                 biscuit                         #ae9b82
 
-=item biscuit                                 biscuit                         #ae9b82
+	bishop                                  bishop                          #604e81
 
-=item bishop                                  bishop                          #604e81
+	bishop's purple                         bishopspurple                   #915c83
 
-=item bishop's purple                         bishopspurple                   #915c83
+	bishop's violet                         bishopsviolet                   #915c83
 
-=item bishop's violet                         bishopsviolet                   #915c83
+	biskra                                  biskra                          #483c32
 
-=item biskra                                  biskra                          #483c32
+	bismarck                                bismarck                        #79443b
 
-=item bismarck                                bismarck                        #79443b
+	bismarck brown                          bismarckbrown                   #826644
 
-=item bismarck brown                          bismarckbrown                   #826644
+	bison                                   bison                           #483c32
 
-=item bison                                   bison                           #483c32
+	bisque                                  bisque                          #fad6a5
 
-=item bisque                                  bisque                          #fad6a5
+	bisque                                  bisque                          #bfb8a5
 
-=item bisque                                  bisque                          #bfb8a5
+	bister                                  bister                          #635147
 
-=item bister                                  bister                          #635147
+	bister                                  bister                          #7e6d5a
 
-=item bister                                  bister                          #7e6d5a
+	bistre                                  bistre                          #635147
 
-=item bistre                                  bistre                          #635147
+	bistre                                  bistre                          #7e6d5a
 
-=item bistre                                  bistre                          #7e6d5a
+	bistre green                            bistregreen                     #ab9144
 
-=item bistre green                            bistregreen                     #ab9144
+	bistre green                            bistregreen                     #a18f60
 
-=item bistre green                            bistregreen                     #a18f60
+	bittersweet                             bittersweet                     #aa381e
 
-=item bittersweet                             bittersweet                     #aa381e
+	bittersweet                             bittersweet                     #9e4732
 
-=item bittersweet                             bittersweet                     #9e4732
+	bittersweet orange                      bittersweetorange               #be6516
 
-=item bittersweet orange                      bittersweetorange               #be6516
+	bittersweet pink                        bittersweetpink                 #f88379
 
-=item bittersweet pink                        bittersweetpink                 #f88379
+	bitumen                                 bitumen                         #483c32
 
-=item bitumen                                 bitumen                         #483c32
+	bladder green                           bladdergreen                    #867e36
 
-=item bladder green                           bladdergreen                    #867e36
+	blaze                                   blaze                           #ab4e52
 
-=item blaze                                   blaze                           #ab4e52
+	blaze                                   blaze                           #9e4732
 
-=item blaze                                   blaze                           #9e4732
+	bleu de lyons                           bleudelyons                     #00416a
 
-=item bleu de lyons                           bleudelyons                     #00416a
+	bleu de lyons                           bleudelyons                     #436b95
 
-=item bleu de lyons                           bleudelyons                     #436b95
+	bleu d'orient                           bleudorient                     #0067a5
 
-=item bleu d'orient                           bleudorient                     #0067a5
+	bleu louise                             bleulouise                      #317873
 
-=item bleu louise                             bleulouise                      #317873
+	bleu louise                             bleulouise                      #367588
 
-=item bleu louise                             bleulouise                      #367588
+	bleu passé                              bleupass                        #91a3b0
 
-=item bleu passé                              bleupass                        #91a3b0
+	bleu passé                              bleupass                        #536878
 
-=item bleu passé                              bleupass                        #536878
+	bleu passé                              bleupass                        #81878b
 
-=item bleu passé                              bleupass                        #81878b
+	blond                                   blond                           #c19a6b
 
-=item blond                                   blond                           #c19a6b
+	blond                                   blond                           #a18f60
 
-=item blond                                   blond                           #a18f60
+	blondine                                blondine                        #7e6d5a
 
-=item blondine                                blondine                        #7e6d5a
+	blonket                                 blonket                         #b4bcc0
 
-=item blonket                                 blonket                         #b4bcc0
+	blood red                               bloodred                        #bc3f4a
 
-=item blood red                               bloodred                        #bc3f4a
+	blood red                               bloodred                        #ab4e52
 
-=item blood red                               bloodred                        #ab4e52
+	blossom                                 blossom                         #dea5a4
 
-=item blossom                                 blossom                         #dea5a4
+	blue ashes                              blueashes                       #436b95
 
-=item blue ashes                              blueashes                       #436b95
+	blue aster                              blueaster                       #436b95
 
-=item blue aster                              blueaster                       #436b95
+	bluebell                                bluebell                        #436b95
 
-=item bluebell                                bluebell                        #436b95
+	bluebell                                bluebell                        #00304e
 
-=item bluebell                                bluebell                        #00304e
+	blue bice                               bluebice                        #436b95
 
-=item blue bice                               bluebice                        #436b95
+	blue bird, bluebird                     bluebirdbluebird                #436b95
 
-=item blue bird, bluebird                     bluebirdbluebird                #436b95
+	blue devil                              bluedevil                       #4c516d
 
-=item blue devil                              bluedevil                       #4c516d
+	blue fox                                bluefox                         #5c504f
 
-=item blue fox                                bluefox                         #5c504f
+	blue grass                              bluegrass                       #004b49
 
-=item blue grass                              bluegrass                       #004b49
+	blue haze                               bluehaze                        #555555
 
-=item blue haze                               bluehaze                        #555555
+	bluejay                                 bluejay                         #00416a
 
-=item bluejay                                 bluejay                         #00416a
+	bluejay                                 bluejay                         #00304e
 
-=item bluejay                                 bluejay                         #00304e
+	blue jewel                              bluejewel                       #007791
 
-=item blue jewel                              bluejewel                       #007791
+	blue lavender                           bluelavender                    #8c92ac
 
-=item blue lavender                           bluelavender                    #8c92ac
+	blue lotus                              bluelotus                       #70a3cc
 
-=item blue lotus                              bluelotus                       #70a3cc
+	blue ochre                              blueochre                       #5e716a
 
-=item blue ochre                              blueochre                       #5e716a
+	blue ochre                              blueochre                       #536878
 
-=item blue ochre                              blueochre                       #536878
+	blue orchid                             blueorchid                      #536878
 
-=item blue orchid                             blueorchid                      #536878
+	blue sapphire                           bluesapphire                    #367588
 
-=item blue sapphire                           bluesapphire                    #367588
+	blue spruce                             bluespruce                      #3b7861
 
-=item blue spruce                             bluespruce                      #3b7861
+	blue spruce                             bluespruce                      #5e716a
 
-=item blue spruce                             bluespruce                      #5e716a
+	bluet                                   bluet                           #436b95
 
-=item bluet                                   bluet                           #436b95
+	blue turquoise                          blueturquoise                   #66ada4
 
-=item blue turquoise                          blueturquoise                   #66ada4
+	blue turquoise                          blueturquoise                   #66aabc
 
-=item blue turquoise                          blueturquoise                   #66aabc
+	blue untramarine ash                    blueuntramarineash              #436b95
 
-=item blue untramarine ash                    blueuntramarineash              #436b95
+	blue verditer                           blueverditer                    #436b95
 
-=item blue verditer                           blueverditer                    #436b95
+	blunket                                 blunket                         #b4bcc0
 
-=item blunket                                 blunket                         #b4bcc0
+	blush                                   blush                           #d9a6a9
 
-=item blush                                   blush                           #d9a6a9
+	blush                                   blush                           #a67b5b
 
-=item blush                                   blush                           #a67b5b
+	blush rose                              blushrose                       #905d5d
 
-=item blush rose                              blushrose                       #905d5d
+	boa                                     boa                             #8a9a5b
 
-=item boa                                     boa                             #8a9a5b
+	boa                                     boa                             #dadfb7
 
-=item boa                                     boa                             #dadfb7
+	boa                                     boa                             #93c592
 
-=item boa                                     boa                             #93c592
+	bobolink                                bobolink                        #7e6d5a
 
-=item bobolink                                bobolink                        #7e6d5a
+	bois de rose                            boisderose                      #905d5d
 
-=item bois de rose                            boisderose                      #905d5d
+	bokhara                                 bokhara                         #673147
 
-=item bokhara                                 bokhara                         #673147
+	bole                                    bole                            #79443b
 
-=item bole                                    bole                            #79443b
+	bole armoniack                          bolearmoniack                   #79443b
 
-=item bole armoniack                          bolearmoniack                   #79443b
+	bolus                                   bolus                           #79443b
 
-=item bolus                                   bolus                           #79443b
+	bombay                                  bombay                          #80461b
 
-=item bombay                                  bombay                          #80461b
+	bombay                                  bombay                          #6f4e37
 
-=item bombay                                  bombay                          #6f4e37
+	bone brown                              bonebrown                       #6c541e
 
-=item bone brown                              bonebrown                       #6c541e
+	bone brown                              bonebrown                       #3b3121
 
-=item bone brown                              bonebrown                       #3b3121
+	bonfire                                 bonfire                         #bc3f4a
 
-=item bonfire                                 bonfire                         #bc3f4a
+	bonito                                  bonito                          #5b504f
 
-=item bonito                                  bonito                          #5b504f
+	bonnie blue                             bonnieblue                      #00a1c2
 
-=item bonnie blue                             bonnieblue                      #00a1c2
+	boreal                                  boreal                          #79443b
 
-=item boreal                                  boreal                          #79443b
+	bosphorus                               bosphorus                       #3a4b47
 
-=item bosphorus                               bosphorus                       #3a4b47
+	botticelli                              botticelli                      #702963
 
-=item botticelli                              botticelli                      #702963
+	bottle green                            bottlegreen                     #3a4b47
 
-=item bottle green                            bottlegreen                     #3a4b47
+	bottle green                            bottlegreen                     #004b49
 
-=item bottle green                            bottlegreen                     #004b49
+	bougainville                            bougainville                    #86608e
 
-=item bougainville                            bougainville                    #86608e
+	bougainville                            bougainville                    #915c83
 
-=item bougainville                            bougainville                    #915c83
+	boulevard                               boulevard                       #5b504f
 
-=item boulevard                               boulevard                       #5b504f
+	bouquet green                           bouquetgreen                    #6aab8e
 
-=item bouquet green                           bouquetgreen                    #6aab8e
+	bourgeon                                bourgeon                        #8a9a5b
 
-=item bourgeon                                bourgeon                        #8a9a5b
+	box green                               boxgreen                        #8a9a5b
 
-=item box green                               boxgreen                        #8a9a5b
+	bracken                                 bracken                         #6c541e
 
-=item bracken                                 bracken                         #6c541e
+	bracken                                 bracken                         #3b3121
 
-=item bracken                                 bracken                         #3b3121
+	bramble                                 bramble                         #2f2140
 
-=item bramble                                 bramble                         #2f2140
+	bran                                    bran                            #a67b5b
 
-=item bran                                    bran                            #a67b5b
+	bran                                    bran                            #c19a6b
 
-=item bran                                    bran                            #c19a6b
+	brass                                   brass                           #c9ae5d
 
-=item brass                                   brass                           #c9ae5d
+	brazen yellow                           brazenyellow                    #c9ae5d
 
-=item brazen yellow                           brazenyellow                    #c9ae5d
+	brazil brown                            brazilbrown                     #43302e
 
-=item brazil brown                            brazilbrown                     #43302e
+	brazil [red]                            brazilred                       #9e4732
 
-=item brazil [red]                            brazilred                       #9e4732
+	brazilwood                              brazilwood                      #ab4e52
 
-=item brazilwood                              brazilwood                      #ab4e52
+	brazilwood                              brazilwood                      #905d5d
 
-=item brazilwood                              brazilwood                      #905d5d
+	bremen blue                             bremenblue                      #317873
 
-=item bremen blue                             bremenblue                      #317873
+	bremen green                            bremengreen                     #679267
 
-=item bremen green                            bremengreen                     #679267
+	brewster green                          brewstergreen                   #4a5d23
 
-=item brewster green                          brewstergreen                   #4a5d23
+	briar                                   briar                           #80461b
 
-=item briar                                   briar                           #80461b
+	briar                                   briar                           #6f4e37
 
-=item briar                                   briar                           #6f4e37
+	briarwood                               briarwood                       #3e322c
 
-=item briarwood                               briarwood                       #3e322c
+	brickdust                               brickdust                       #841b2d
 
-=item brickdust                               brickdust                       #841b2d
+	brick red                               brickred                        #80461b
 
-=item brick red                               brickred                        #80461b
+	brick red                               brickred                        #6f4e37
 
-=item brick red                               brickred                        #6f4e37
+	bridal rose                             bridalrose                      #c08081
 
-=item bridal rose                             bridalrose                      #c08081
+	brigand                                 brigand                         #bc3f4a
 
-=item brigand                                 brigand                         #bc3f4a
+	brigand                                 brigand                         #ab4e52
 
-=item brigand                                 brigand                         #ab4e52
+	brigand                                 brigand                         #d9603b
 
-=item brigand                                 brigand                         #d9603b
+	brigand                                 brigand                         #cb6d51
 
-=item brigand                                 brigand                         #cb6d51
+	brimstone [yellow]                      brimstoneyellow                 #eae679
 
-=item brimstone [yellow]                      brimstoneyellow                 #eae679
+	brittany                                brittany                        #367588
 
-=item brittany                                brittany                        #367588
+	brittany                                brittany                        #436b95
 
-=item brittany                                brittany                        #436b95
+	brittany                                brittany                        #536878
 
-=item brittany                                brittany                        #536878
+	broccoli brown                          broccolibrown                   #5b504f
 
-=item broccoli brown                          broccolibrown                   #5b504f
+	broncho                                 broncho                         #483c32
 
-=item broncho                                 broncho                         #483c32
+	broncho                                 broncho                         #6c541e
 
-=item broncho                                 broncho                         #6c541e
+	broncho                                 broncho                         #3b3121
 
-=item broncho                                 broncho                         #3b3121
+	bronze                                  bronze                          #826644
 
-=item bronze                                  bronze                          #826644
+	bronze brown                            bronzebrown                     #5b504f
 
-=item bronze brown                            bronzebrown                     #5b504f
+	bronze clair                            bronzeclair                     #ae9b82
 
-=item bronze clair                            bronzeclair                     #ae9b82
+	bronze green                            bronzegreen                     #515744
 
-=item bronze green                            bronzegreen                     #515744
+	bronze lustre                           bronzelustre                    #5b5842
 
-=item bronze lustre                           bronzelustre                    #5b5842
+	bronze nude                             bronzenude                      #6c541e
 
-=item bronze nude                             bronzenude                      #6c541e
+	bronze red                              bronzered                       #ab4e52
 
-=item bronze red                              bronzered                       #ab4e52
+	bronzesheen                             bronzesheen                     #5b5842
 
-=item bronzesheen                             bronzesheen                     #5b5842
+	bronze yellow                           bronzeyellow                    #d99058
 
-=item bronze yellow                           bronzeyellow                    #d99058
+	bronze yellow                           bronzeyellow                    #be8a3d
 
-=item bronze yellow                           bronzeyellow                    #be8a3d
+	brown bay                               brownbay                        #635147
 
-=item brown bay                               brownbay                        #635147
+	brown bread                             brownbread                      #80461b
 
-=item brown bread                             brownbread                      #80461b
+	brown bread                             brownbread                      #6f4e37
 
-=item brown bread                             brownbread                      #6f4e37
+	brown madder                            brownmadder                     #79443b
 
-=item brown madder                            brownmadder                     #79443b
+	brown ochre                             brownochre                      #d99058
 
-=item brown ochre                             brownochre                      #d99058
+	brown pink                              brownpink                       #be8a3d
 
-=item brown pink                              brownpink                       #be8a3d
+	brown pink                              brownpink                       #996515
 
-=item brown pink                              brownpink                       #996515
+	brown red                               brownred                        #79443b
 
-=item brown red                               brownred                        #79443b
+	brown stone                             brownstone                      #635147
 
-=item brown stone                             brownstone                      #635147
+	brownstone                              brownstone                      #635147
 
-=item brownstone                              brownstone                      #635147
+	brown sugar                             brownsugar                      #6f4e37
 
-=item brown sugar                             brownsugar                      #6f4e37
+	brown sugar                             brownsugar                      #635147
 
-=item brown sugar                             brownsugar                      #635147
+	brown sugar                             brownsugar                      #826644
 
-=item brown sugar                             brownsugar                      #826644
+	brown sugar                             brownsugar                      #7e6d5a
 
-=item brown sugar                             brownsugar                      #7e6d5a
+	bruges                                  bruges                          #004958
 
-=item bruges                                  bruges                          #004958
+	bruges                                  bruges                          #36454f
 
-=item bruges                                  bruges                          #36454f
+	brushwood                               brushwood                       #635147
 
-=item brushwood                               brushwood                       #635147
+	brussels brown                          brusselsbrown                   #6f4e37
 
-=item brussels brown                          brusselsbrown                   #6f4e37
+	brussels brown                          brusselsbrown                   #635147
 
-=item brussels brown                          brusselsbrown                   #635147
+	brussels brown                          brusselsbrown                   #826644
 
-=item brussels brown                          brusselsbrown                   #826644
+	brussels brown                          brusselsbrown                   #7e6d5a
 
-=item brussels brown                          brusselsbrown                   #7e6d5a
+	buccaneer                               buccaneer                       #bc3f4a
 
-=item buccaneer                               buccaneer                       #bc3f4a
+	buccaneer                               buccaneer                       #ab4e52
 
-=item buccaneer                               buccaneer                       #ab4e52
+	buccaneer                               buccaneer                       #aa381e
 
-=item buccaneer                               buccaneer                       #aa381e
+	buccaneer                               buccaneer                       #9e4732
 
-=item buccaneer                               buccaneer                       #9e4732
+	buckskin                                buckskin                        #977f73
 
-=item buckskin                                buckskin                        #977f73
+	buckskin                                buckskin                        #958070
 
-=item buckskin                                buckskin                        #958070
+	buckthorn berries                       buckthornberries                #eaa221
 
-=item buckthorn berries                       buckthornberries                #eaa221
+	buckthorn berries                       buckthornberries                #e3a857
 
-=item buckthorn berries                       buckthornberries                #e3a857
+	buckthorn brown                         buckthornbrown                  #be8a3d
 
-=item buckthorn brown                         buckthornbrown                  #be8a3d
+	buckthorn brown                         buckthornbrown                  #996515
 
-=item buckthorn brown                         buckthornbrown                  #996515
+	buckthorn brown                         buckthornbrown                  #c19a6b
 
-=item buckthorn brown                         buckthornbrown                  #c19a6b
+	buckthorn brown                         buckthornbrown                  #826644
 
-=item buckthorn brown                         buckthornbrown                  #826644
+	buckthorn brown                         buckthornbrown                  #ab9144
 
-=item buckthorn brown                         buckthornbrown                  #ab9144
+	buckthorn brown                         buckthornbrown                  #a18f60
 
-=item buckthorn brown                         buckthornbrown                  #a18f60
+	buckthorn brown                         buckthornbrown                  #967117
 
-=item buckthorn brown                         buckthornbrown                  #967117
+	buddha                                  buddha                          #bc3f4a
 
-=item buddha                                  buddha                          #bc3f4a
+	buddha                                  buddha                          #ab4e52
 
-=item buddha                                  buddha                          #ab4e52
+	bud green                               budgreen                        #44944a
 
-=item bud green                               budgreen                        #44944a
+	buff                                    buff                            #e3a857
 
-=item buff                                    buff                            #e3a857
+	buffalo                                 buffalo                         #826644
 
-=item buffalo                                 buffalo                         #826644
+	bulgare                                 bulgare                         #905d5d
 
-=item bulgare                                 bulgare                         #905d5d
+	bunny                                   bunny                           #826644
 
-=item bunny                                   bunny                           #826644
+	bure                                    bure                            #996515
 
-=item bure                                    bure                            #996515
+	bure                                    bure                            #c19a6b
 
-=item bure                                    bure                            #c19a6b
+	bure                                    bure                            #826644
 
-=item bure                                    bure                            #826644
+	burel                                   burel                           #6f4e37
 
-=item burel                                   burel                           #6f4e37
+	burgundy                                burgundy                        #50404d
 
-=item burgundy                                burgundy                        #50404d
+	burgundy                                burgundy                        #291e29
 
-=item burgundy                                burgundy                        #291e29
+	burgundy violet                         burgundyviolet                  #875692
 
-=item burgundy violet                         burgundyviolet                  #875692
+	burlwood                                burlwood                        #958070
 
-=item burlwood                                burlwood                        #958070
+	burlwood                                burlwood                        #ae9b82
 
-=item burlwood                                burlwood                        #ae9b82
+	burma                                   burma                           #ae6938
 
-=item burma                                   burma                           #ae6938
+	burmese gold                            burmesegold                     #cb6d51
 
-=item burmese gold                            burmesegold                     #cb6d51
+	burmese ruby                            burmeseruby                     #722f37
 
-=item burmese ruby                            burmeseruby                     #722f37
+	burn blue                               burnblue                        #bcd4e6
 
-=item burn blue                               burnblue                        #bcd4e6
+	burn blue                               burnblue                        #91a3b0
 
-=item burn blue                               burnblue                        #91a3b0
+	burn blue                               burnblue                        #c0c8e1
 
-=item burn blue                               burnblue                        #c0c8e1
+	burn blue                               burnblue                        #8c92ac
 
-=item burn blue                               burnblue                        #8c92ac
+	burnished gold                          burnishedgold                   #be8a3d
 
-=item burnished gold                          burnishedgold                   #be8a3d
+	burnished gold                          burnishedgold                   #996515
 
-=item burnished gold                          burnishedgold                   #996515
+	burnished gold                          burnishedgold                   #c19a6b
 
-=item burnished gold                          burnishedgold                   #c19a6b
+	burnished gold                          burnishedgold                   #ab9144
 
-=item burnished gold                          burnishedgold                   #ab9144
+	burnished gold                          burnishedgold                   #967117
 
-=item burnished gold                          burnishedgold                   #967117
+	burnous                                 burnous                         #fad6a5
 
-=item burnous                                 burnous                         #fad6a5
+	burnt                                   burnt                           #a18f60
 
-=item burnt                                   burnt                           #a18f60
+	burnt almond                            burntalmond                     #6f4e37
 
-=item burnt almond                            burntalmond                     #6f4e37
+	burnt carmine                           burntcarmine                    #841b2d
 
-=item burnt carmine                           burntcarmine                    #841b2d
+	burnt carmine                           burntcarmine                    #ab4e52
 
-=item burnt carmine                           burntcarmine                    #ab4e52
+	burnt coral                             burntcoral                      #cb6d51
 
-=item burnt coral                             burntcoral                      #cb6d51
+	burnt crimson lake                      burntcrimsonlake                #841b2d
 
-=item burnt crimson lake                      burntcrimsonlake                #841b2d
+	burnt crimson lake                      burntcrimsonlake                #ab4e52
 
-=item burnt crimson lake                      burntcrimsonlake                #ab4e52
+	burnt italian earth                     burntitalianearth               #9e4732
 
-=item burnt italian earth                     burntitalianearth               #9e4732
+	burnt italian ochre                     burntitalianochre               #9e4732
 
-=item burnt italian ochre                     burntitalianochre               #9e4732
+	burnt lake                              burntlake                       #841b2d
 
-=item burnt lake                              burntlake                       #841b2d
+	burnt lake                              burntlake                       #ab4e52
 
-=item burnt lake                              burntlake                       #ab4e52
+	burnt ochre                             burntochre                      #cb6d51
 
-=item burnt ochre                             burntochre                      #cb6d51
+	burnt orange                            burntorange                     #cb6d51
 
-=item burnt orange                            burntorange                     #cb6d51
+	burnt roman ochre                       burntromanochre                 #ed872d
 
-=item burnt roman ochre                       burntromanochre                 #ed872d
+	burnt rose                              burntrose                       #56070c
 
-=item burnt rose                              burntrose                       #56070c
+	burnt rose                              burntrose                       #79443b
 
-=item burnt rose                              burntrose                       #79443b
+	burnt russet                            burntrusset                     #722f37
 
-=item burnt russet                            burntrusset                     #722f37
+	burnt russet                            burntrusset                     #79443b
 
-=item burnt russet                            burntrusset                     #79443b
+	burnt sienna                            burntsienna                     #9e4732
 
-=item burnt sienna                            burntsienna                     #9e4732
+	burnt terre verte                       burntterreverte                 #6f4e37
 
-=item burnt terre verte                       burntterreverte                 #6f4e37
+	burnt umber                             burntumber                      #6f4e37
 
-=item burnt umber                             burntumber                      #6f4e37
+	buttercup [yellow]                      buttercupyellow                 #c2b280
 
-=item buttercup [yellow]                      buttercupyellow                 #c2b280
+	butterfly                               butterfly                       #b9b459
 
-=item butterfly                               butterfly                       #b9b459
+	butternut                               butternut                       #6c541e
 
-=item butternut                               butternut                       #6c541e
+	butterscotch                            butterscotch                    #6f4e37
 
-=item butterscotch                            butterscotch                    #6f4e37
+	butterscotch                            butterscotch                    #826644
 
-=item butterscotch                            butterscotch                    #826644
+	byron                                   byron                           #483c32
 
-=item byron                                   byron                           #483c32
+	byzantine                               byzantine                       #ce4676
 
-=item byzantine                               byzantine                       #ce4676
+	byzantium                               byzantium                       #702963
 
-=item byzantium                               byzantium                       #702963
+	byzantium                               byzantium                       #5d3954
 
-=item byzantium                               byzantium                       #5d3954
+	cabaret                                 cabaret                         #6aab8e
 
-=item cabaret                                 cabaret                         #6aab8e
+	cabbage green                           cabbagegreen                    #7d8984
 
-=item cabbage green                           cabbagegreen                    #7d8984
+	cacao                                   cacao                           #826644
 
-=item cacao                                   cacao                           #826644
+	cacao brown                             cacaobrown                      #80461b
 
-=item cacao brown                             cacaobrown                      #80461b
+	cacha                                   cacha                           #6f4e37
 
-=item cacha                                   cacha                           #6f4e37
+	cachou                                  cachou                          #6f4e37
 
-=item cachou                                  cachou                          #6f4e37
+	cactus                                  cactus                          #355e3b
 
-=item cactus                                  cactus                          #355e3b
+	cadet                                   cadet                           #536878
 
-=item cadet                                   cadet                           #536878
+	cadet blue                              cadetblue                       #436b95
 
-=item cadet blue                              cadetblue                       #436b95
+	cadet grey                              cadetgrey                       #81878b
 
-=item cadet grey                              cadetgrey                       #81878b
+	cadmium carmine                         cadmiumcarmine                  #bc3f4a
 
-=item cadmium carmine                         cadmiumcarmine                  #bc3f4a
+	cadmium green                           cadmiumgreen                    #007959
 
-=item cadmium green                           cadmiumgreen                    #007959
+	cadmium lemon                           cadmiumlemon                    #dcd300
 
-=item cadmium lemon                           cadmiumlemon                    #dcd300
+	cadmium lemon                           cadmiumlemon                    #e9e450
 
-=item cadmium lemon                           cadmiumlemon                    #e9e450
+	cadmium orange                          cadmiumorange                   #ed872d
 
-=item cadmium orange                          cadmiumorange                   #ed872d
+	cadmium purple                          cadmiumpurple                   #841b2d
 
-=item cadmium purple                          cadmiumpurple                   #841b2d
+	cadmium purple                          cadmiumpurple                   #ab4e52
 
-=item cadmium purple                          cadmiumpurple                   #ab4e52
+	cadmium vermilion                       cadmiumvermilion                #bc3f4a
 
-=item cadmium vermilion                       cadmiumvermilion                #bc3f4a
+	cadmium vermilion                       cadmiumvermilion                #ab4e52
 
-=item cadmium vermilion                       cadmiumvermilion                #ab4e52
+	cadmium yellow                          cadmiumyellow                   #ed872d
 
-=item cadmium yellow                          cadmiumyellow                   #ed872d
+	cadmium yellow                          cadmiumyellow                   #d99058
 
-=item cadmium yellow                          cadmiumyellow                   #d99058
+	cadmium yellow                          cadmiumyellow                   #eaa221
 
-=item cadmium yellow                          cadmiumyellow                   #eaa221
+	cadmium yellow                          cadmiumyellow                   #e3a857
 
-=item cadmium yellow                          cadmiumyellow                   #e3a857
+	caen stone                              caenstone                       #fad6a5
 
-=item caen stone                              caenstone                       #fad6a5
+	caeruleum                               caeruleum                       #0085a1
 
-=item caeruleum                               caeruleum                       #0085a1
+	caeruleum                               caeruleum                       #00a1c2
 
-=item caeruleum                               caeruleum                       #00a1c2
+	café-au-lait                            cafaulait                       #977f73
 
-=item café-au-lait                            cafaulait                       #977f73
+	café-au-lait                            cafaulait                       #a67b5b
 
-=item café-au-lait                            cafaulait                       #a67b5b
+	café-au-lait                            cafaulait                       #958070
 
-=item café-au-lait                            cafaulait                       #958070
+	café crème                              cafcrme                         #a67b5b
 
-=item café crème                              cafcrme                         #a67b5b
+	café crème                              cafcrme                         #6f4e37
 
-=item café crème                              cafcrme                         #6f4e37
+	café crème                              cafcrme                         #826644
 
-=item café crème                              cafcrme                         #826644
+	café noir                               cafnoir                         #483c32
 
-=item café noir                               cafnoir                         #483c32
+	cairo                                   cairo                           #00416a
 
-=item cairo                                   cairo                           #00416a
+	calabash                                calabash                        #826644
 
-=item calabash                                calabash                        #826644
+	calabash                                calabash                        #967117
 
-=item calabash                                calabash                        #967117
+	calamine blue                           calamineblue                    #66aabc
 
-=item calamine blue                           calamineblue                    #66aabc
+	caldera                                 caldera                         #79443b
 
-=item caldera                                 caldera                         #79443b
+	caledonian brown                        caledonianbrown                 #80461b
 
-=item caledonian brown                        caledonianbrown                 #80461b
+	caliaturwood                            caliaturwood                    #ab4e52
 
-=item caliaturwood                            caliaturwood                    #ab4e52
+	california color                        californiacolor                 #6f4e37
 
-=item california color                        californiacolor                 #6f4e37
+	california green                        californiagreen                 #a18f60
 
-=item california green                        californiagreen                 #a18f60
+	calla green                             callagreen                      #8a9a5b
 
-=item calla green                             callagreen                      #8a9a5b
+	calliste green                          callistegreen                   #7e9f2e
 
-=item calliste green                          callistegreen                   #7e9f2e
+	calliste green                          callistegreen                   #8a9a5b
 
-=item calliste green                          callistegreen                   #8a9a5b
+	cambridge blue                          cambridgeblue                   #66ada4
 
-=item cambridge blue                          cambridgeblue                   #66ada4
+	cambridge red                           cambridgered                    #ab4e52
 
-=item cambridge red                           cambridgered                    #ab4e52
+	cambridge red                           cambridgered                    #905d5d
 
-=item cambridge red                           cambridgered                    #905d5d
+	camel                                   camel                           #5b504f
 
-=item camel                                   camel                           #5b504f
+	camellia                                camellia                        #bc3f4a
 
-=item camellia                                camellia                        #bc3f4a
+	camellia                                camellia                        #ab4e52
 
-=item camellia                                camellia                        #ab4e52
+	camels hair or camel's hair             camelshairorcamelshair          #7e6d5a
 
-=item camels hair or camel's hair             camelshairorcamelshair          #7e6d5a
+	cameo blue                              cameoblue                       #66ada4
 
-=item cameo blue                              cameoblue                       #66ada4
+	cameo brown                             cameobrown                      #905d5d
 
-=item cameo brown                             cameobrown                      #905d5d
+	cameo brown                             cameobrown                      #a87c6d
 
-=item cameo brown                             cameobrown                      #a87c6d
+	cameo brown                             cameobrown                      #79443b
 
-=item cameo brown                             cameobrown                      #79443b
+	cameo brown                             cameobrown                      #674c47
 
-=item cameo brown                             cameobrown                      #674c47
+	cameo green                             cameogreen                      #93c592
 
-=item cameo green                             cameogreen                      #93c592
+	cameo green                             cameogreen                      #6aab8e
 
-=item cameo green                             cameogreen                      #6aab8e
+	cameo green                             cameogreen                      #8da399
 
-=item cameo green                             cameogreen                      #8da399
+	cameo pink                              cameopink                       #c3a6b1
 
-=item cameo pink                              cameopink                       #c3a6b1
+	cameo yellow                            cameoyellow                     #f3e5ab
 
-=item cameo yellow                            cameoyellow                     #f3e5ab
+	campanula                               campanula                       #604e97
 
-=item campanula                               campanula                       #604e97
+	campanula                               campanula                       #604e81
 
-=item campanula                               campanula                       #604e81
+	campanula blue                          campanulablue                   #8791bf
 
-=item campanula blue                          campanulablue                   #8791bf
+	campanula blue                          campanulablue                   #6c79b8
 
-=item campanula blue                          campanulablue                   #6c79b8
+	campanula blue                          campanulablue                   #7e73b8
 
-=item campanula blue                          campanulablue                   #7e73b8
+	campanula purple                        campanulapurple                 #836479
 
-=item campanula purple                        campanulapurple                 #836479
+	campanula violet                        campanulaviolet                 #836479
 
-=item campanula violet                        campanulaviolet                 #836479
+	camérier                                camrier                         #563c5c
 
-=item camérier                                camrier                         #563c5c
+	camwood                                 camwood                         #ab4e52
 
-=item camwood                                 camwood                         #ab4e52
+	canard                                  canard                          #004b49
 
-=item canard                                  canard                          #004b49
+	canard                                  canard                          #004958
 
-=item canard                                  canard                          #004958
+	canary-bird green                       canarybirdgreen                 #ab9144
 
-=item canary-bird green                       canarybirdgreen                 #ab9144
+	canary green                            canarygreen                     #ab9144
 
-=item canary green                            canarygreen                     #ab9144
+	canary [yellow]                         canaryyellow                    #c9ae5d
 
-=item canary [yellow]                         canaryyellow                    #c9ae5d
+	candida                                 candida                         #af868e
 
-=item candida                                 candida                         #af868e
+	candy pink                              candypink                       #e4717a
 
-=item candy pink                              candypink                       #e4717a
+	candy pink                              candypink                       #f88379
 
-=item candy pink                              candypink                       #f88379
+	candy pink                              candypink                       #e66761
 
-=item candy pink                              candypink                       #e66761
+	canna                                   canna                           #cb6d51
 
-=item canna                                   canna                           #cb6d51
+	canna                                   canna                           #9e4732
 
-=item canna                                   canna                           #9e4732
+	canna                                   canna                           #b4745e
 
-=item canna                                   canna                           #b4745e
+	canna                                   canna                           #79443b
 
-=item canna                                   canna                           #79443b
+	cannon                                  cannon                          #1a2421
 
-=item cannon                                  cannon                          #1a2421
+	canterbury                              canterbury                      #604e97
 
-=item canterbury                              canterbury                      #604e97
+	canton [blue]                           cantonblue                      #00304e
 
-=item canton [blue]                           cantonblue                      #00304e
+	canton jade                             cantonjade                      #317873
 
-=item canton jade                             cantonjade                      #317873
+	canyon                                  canyon                          #722f37
 
-=item canyon                                  canyon                          #722f37
+	canyon                                  canyon                          #673147
 
-=item canyon                                  canyon                          #673147
+	cappagh                                 cappagh                         #6f4e37
 
-=item cappagh                                 cappagh                         #6f4e37
+	cappah brown                            cappahbrown                     #6f4e37
 
-=item cappah brown                            cappahbrown                     #6f4e37
+	capri                                   capri                           #007791
 
-=item capri                                   capri                           #007791
+	caprice                                 caprice                         #870074
 
-=item caprice                                 caprice                         #870074
+	caprice                                 caprice                         #d6cadd
 
-=item caprice                                 caprice                         #d6cadd
+	capucine                                capucine                        #c9ae5d
 
-=item capucine                                capucine                        #c9ae5d
+	capucine buff                           capucinebuff                    #fad6a5
 
-=item capucine buff                           capucinebuff                    #fad6a5
+	capucine lake                           capucinelake                    #f88379
 
-=item capucine lake                           capucinelake                    #f88379
+	capucine lake                           capucinelake                    #cb6d51
 
-=item capucine lake                           capucinelake                    #cb6d51
+	capucine lake                           capucinelake                    #ed872d
 
-=item capucine lake                           capucinelake                    #ed872d
+	capucine lake                           capucinelake                    #d99058
 
-=item capucine lake                           capucinelake                    #d99058
+	capucine madder                         capucinemadder                  #d99058
 
-=item capucine madder                         capucinemadder                  #d99058
+	capucine orange                         capucineorange                  #d99058
 
-=item capucine orange                         capucineorange                  #d99058
+	capucine red                            capucinered                     #ffb7a5
 
-=item capucine red                            capucinered                     #ffb7a5
+	capucine red                            capucinered                     #d9603b
 
-=item capucine red                            capucinered                     #d9603b
+	capucine yellow                         capucineyellow                  #d99058
 
-=item capucine yellow                         capucineyellow                  #d99058
+	caput mortuum                           caputmortuum                    #79443b
 
-=item caput mortuum                           caputmortuum                    #79443b
+	caraibe                                 caraibe                         #6f4e37
 
-=item caraibe                                 caraibe                         #6f4e37
+	caraibe                                 caraibe                         #635147
 
-=item caraibe                                 caraibe                         #635147
+	caraibe                                 caraibe                         #826644
 
-=item caraibe                                 caraibe                         #826644
+	caraibe                                 caraibe                         #7e6d5a
 
-=item caraibe                                 caraibe                         #7e6d5a
+	caramel                                 caramel                         #ae6938
 
-=item caramel                                 caramel                         #ae6938
+	caramel                                 caramel                         #a67b5b
 
-=item caramel                                 caramel                         #a67b5b
+	carbuncle                               carbuncle                       #43302e
 
-=item carbuncle                               carbuncle                       #43302e
+	cardinal [red]                          cardinalred                     #be0032
 
-=item cardinal [red]                          cardinalred                     #be0032
+	carmine                                 carmine                         #be0032
 
-=item carmine                                 carmine                         #be0032
+	carmine                                 carmine                         #bc3f4a
 
-=item carmine                                 carmine                         #bc3f4a
+	carmine lake                            carminelake                     #be0032
 
-=item carmine lake                            carminelake                     #be0032
+	carmine lake                            carminelake                     #bc3f4a
 
-=item carmine lake                            carminelake                     #bc3f4a
+	carnation                               carnation                       #f3e5ab
 
-=item carnation                               carnation                       #f3e5ab
+	carnation                               carnation                       #c2b280
 
-=item carnation                               carnation                       #c2b280
+	carnation [red]                         carnationred                    #ab4e52
 
-=item carnation [red]                         carnationred                    #ab4e52
+	carnation rose                          carnationrose                   #ea9399
 
-=item carnation rose                          carnationrose                   #ea9399
+	carnelian                               carnelian                       #b4745e
 
-=item carnelian                               carnelian                       #b4745e
+	carnelian red                           carnelianred                    #cb6d51
 
-=item carnelian red                           carnelianred                    #cb6d51
+	carnival red                            carnivalred                     #bc3f4a
 
-=item carnival red                            carnivalred                     #bc3f4a
+	carob brown                             carobbrown                      #6f4e37
 
-=item carob brown                             carobbrown                      #6f4e37
+	caroubier                               caroubier                       #6f4e37
 
-=item caroubier                               caroubier                       #6f4e37
+	carrara green                           carraragreen                    #1b4d3e
 
-=item carrara green                           carraragreen                    #1b4d3e
+	carrot red                              carrotred                       #ed872d
 
-=item carrot red                              carrotred                       #ed872d
+	carrot red                              carrotred                       #d99058
 
-=item carrot red                              carrotred                       #d99058
+	carthamus red                           carthamusred                    #be0032
 
-=item carthamus red                           carthamusred                    #be0032
+	carthamus rose                          carthamusrose                   #be0032
 
-=item carthamus rose                          carthamusrose                   #be0032
+	cartouche                               cartouche                       #6f4e37
 
-=item cartouche                               cartouche                       #6f4e37
+	cartridge buff                          cartridgebuff                   #f3e5ab
 
-=item cartridge buff                          cartridgebuff                   #f3e5ab
+	cartridge buff                          cartridgebuff                   #c2b280
 
-=item cartridge buff                          cartridgebuff                   #c2b280
+	cascade                                 cascade                         #66ada4
 
-=item cascade                                 cascade                         #66ada4
+	cashew                                  cashew                          #6f4e37
 
-=item cashew                                  cashew                          #6f4e37
+	cashew lake                             cashewlake                      #6f4e37
 
-=item cashew lake                             cashewlake                      #6f4e37
+	cashew nut                              cashewnut                       #635147
 
-=item cashew nut                              cashewnut                       #635147
+	cashoo                                  cashoo                          #6f4e37
 
-=item cashoo                                  cashoo                          #6f4e37
+	casino pink                             casinopink                      #b3446c
 
-=item casino pink                             casinopink                      #b3446c
+	cassel brown                            casselbrown                     #6f4e37
 
-=item cassel brown                            casselbrown                     #6f4e37
+	cassel earth                            casselearth                     #6f4e37
 
-=item cassel earth                            casselearth                     #6f4e37
+	cassel yellow                           casselyellow                    #fada5e
 
-=item cassel yellow                           casselyellow                    #fada5e
+	cassel yellow                           casselyellow                    #d4af37
 
-=item cassel yellow                           casselyellow                    #d4af37
+	cassel yellow                           casselyellow                    #f8de7e
 
-=item cassel yellow                           casselyellow                    #f8de7e
+	cassel yellow                           casselyellow                    #c9ae5d
 
-=item cassel yellow                           casselyellow                    #c9ae5d
+	casserole                               casserole                       #79443b
 
-=item casserole                               casserole                       #79443b
+	castaneous                              castaneous                      #635147
 
-=item castaneous                              castaneous                      #635147
+	castellon                               castellon                       #79443b
 
-=item castellon                               castellon                       #79443b
+	castile earth                           castileearth                    #6f4e37
 
-=item castile earth                           castileearth                    #6f4e37
+	castilian brown                         castilianbrown                  #79443b
 
-=item castilian brown                         castilianbrown                  #79443b
+	castilian red                           castilianred                    #be0032
 
-=item castilian red                           castilianred                    #be0032
+	castor                                  castor                          #5b504f
 
-=item castor                                  castor                          #5b504f
+	castor grey                             castorgrey                      #4e5755
 
-=item castor grey                             castorgrey                      #4e5755
+	catalpa                                 catalpa                         #796878
 
-=item catalpa                                 catalpa                         #796878
+	catawba                                 catawba                         #3f1728
 
-=item catawba                                 catawba                         #3f1728
+	catawba                                 catawba                         #2e1d21
 
-=item catawba                                 catawba                         #2e1d21
+	cate                                    cate                            #6f4e37
 
-=item cate                                    cate                            #6f4e37
+	catechu                                 catechu                         #6f4e37
 
-=item catechu                                 catechu                         #6f4e37
+	cathay                                  cathay                          #ae6938
 
-=item cathay                                  cathay                          #ae6938
+	cathay                                  cathay                          #996515
 
-=item cathay                                  cathay                          #996515
+	cathedral                               cathedral                       #2f2140
 
-=item cathedral                               cathedral                       #2f2140
+	cathedral blue                          cathedralblue                   #436b95
 
-=item cathedral blue                          cathedralblue                   #436b95
+	cathedral blue                          cathedralblue                   #4e5180
 
-=item cathedral blue                          cathedralblue                   #4e5180
+	cattail                                 cattail                         #483c32
 
-=item cattail                                 cattail                         #483c32
+	cattleya                                cattleya                        #86608e
 
-=item cattleya                                cattleya                        #86608e
+	caucasia                                caucasia                        #7e6d5a
 
-=item caucasia                                caucasia                        #7e6d5a
+	cauldron                                cauldron                        #722f37
 
-=item cauldron                                cauldron                        #722f37
+	cauldron                                cauldron                        #882d17
 
-=item cauldron                                cauldron                        #882d17
+	cauldron                                cauldron                        #79443b
 
-=item cauldron                                cauldron                        #79443b
+	cavalry                                 cavalry                         #e3a857
 
-=item cavalry                                 cavalry                         #e3a857
+	cedar                                   cedar                           #674c47
 
-=item cedar                                   cedar                           #674c47
+	cedarbark                               cedarbark                       #905d5d
 
-=item cedarbark                               cedarbark                       #905d5d
+	cedarbark                               cedarbark                       #79443b
 
-=item cedarbark                               cedarbark                       #79443b
+	cedar green                             cedargreen                      #4a5d23
 
-=item cedar green                             cedargreen                      #4a5d23
+	cedar wood                              cedarwood                       #79443b
 
-=item cedar wood                              cedarwood                       #79443b
+	cedre                                   cedre                           #4a5d23
 
-=item cedre                                   cedre                           #4a5d23
+	celadon green                           celadongreen                    #8f9779
 
-=item celadon green                           celadongreen                    #8f9779
+	celandine green                         celandinegreen                  #5e716a
 
-=item celandine green                         celandinegreen                  #5e716a
+	celest                                  celest                          #536878
 
-=item celest                                  celest                          #536878
+	celest                                  celest                          #8c92ac
 
-=item celest                                  celest                          #8c92ac
+	celestial                               celestial                       #436b95
 
-=item celestial                               celestial                       #436b95
+	celestial blue                          celestialblue                   #91a3b0
 
-=item celestial blue                          celestialblue                   #91a3b0
+	cellini                                 cellini                         #870074
 
-=item cellini                                 cellini                         #870074
+	cellini                                 cellini                         #ce4676
 
-=item cellini                                 cellini                         #ce4676
+	cement                                  cement                          #848482
 
-=item cement                                  cement                          #848482
+	cendrillon                              cendrillon                      #3a4b47
 
-=item cendrillon                              cendrillon                      #3a4b47
+	cendrillon                              cendrillon                      #51585e
 
-=item cendrillon                              cendrillon                      #51585e
+	centennial brown                        centennialbrown                 #996515
 
-=item centennial brown                        centennialbrown                 #996515
+	centennial brown                        centennialbrown                 #c19a6b
 
-=item centennial brown                        centennialbrown                 #c19a6b
+	centennial brown                        centennialbrown                 #826644
 
-=item centennial brown                        centennialbrown                 #826644
+	centre blue                             centreblue                      #436b95
 
-=item centre blue                             centreblue                      #436b95
+	ceramic                                 ceramic                         #436b95
 
-=item ceramic                                 ceramic                         #436b95
+	ceres                                   ceres                           #d99058
 
-=item ceres                                   ceres                           #d99058
+	cerise                                  cerise                          #ab4e52
 
-=item cerise                                  cerise                          #ab4e52
+	cerro green                             cerrogreen                      #8a9a5b
 
-=item cerro green                             cerrogreen                      #8a9a5b
+	cerro green                             cerrogreen                      #4a5d23
 
-=item cerro green                             cerrogreen                      #4a5d23
+	certosa                                 certosa                         #98943e
 
-=item certosa                                 certosa                         #98943e
+	certosa                                 certosa                         #867e36
 
-=item certosa                                 certosa                         #867e36
+	certosa                                 certosa                         #8a9a5b
 
-=item certosa                                 certosa                         #8a9a5b
+	cerulean                                cerulean                        #70a3cc
 
-=item cerulean                                cerulean                        #70a3cc
+	cerulean                                cerulean                        #8791bf
 
-=item cerulean                                cerulean                        #8791bf
+	cerulean blue                           ceruleanblue                    #0085a1
 
-=item cerulean blue                           ceruleanblue                    #0085a1
+	cerulean blue                           ceruleanblue                    #00a1c2
 
-=item cerulean blue                           ceruleanblue                    #00a1c2
+	ceylon blue                             ceylonblue                      #004958
 
-=item ceylon blue                             ceylonblue                      #004958
+	chaetura black                          chaeturablack                   #222222
 
-=item chaetura black                          chaeturablack                   #222222
+	chaetura drab                           chaeturadrab                    #555555
 
-=item chaetura drab                           chaeturadrab                    #555555
+	chalcedony yellow                       chalcedonyyellow                #eae679
 
-=item chalcedony yellow                       chalcedonyyellow                #eae679
+	chalet red                              chaletred                       #905d5d
 
-=item chalet red                              chaletred                       #905d5d
+	chamois                                 chamois                         #c2b280
 
-=item chamois                                 chamois                         #c2b280
+	chamois skin                            chamoisskin                     #c2b280
 
-=item chamois skin                            chamoisskin                     #c2b280
+	chamoline                               chamoline                       #be8a3d
 
-=item chamoline                               chamoline                       #be8a3d
+	chamoline                               chamoline                       #996515
 
-=item chamoline                               chamoline                       #996515
+	chamoline                               chamoline                       #c19a6b
 
-=item chamoline                               chamoline                       #c19a6b
+	chamoline                               chamoline                       #826644
 
-=item chamoline                               chamoline                       #826644
+	chamoline                               chamoline                       #ab9144
 
-=item chamoline                               chamoline                       #ab9144
+	chamoline                               chamoline                       #a18f60
 
-=item chamoline                               chamoline                       #a18f60
+	chamoline                               chamoline                       #967117
 
-=item chamoline                               chamoline                       #967117
+	champagne                               champagne                       #fad6a5
 
-=item champagne                               champagne                       #fad6a5
+	champagne                               champagne                       #ae9b82
 
-=item champagne                               champagne                       #ae9b82
+	champagne                               champagne                       #c2b280
 
-=item champagne                               champagne                       #c2b280
+	champagne                               champagne                       #bfb8a5
 
-=item champagne                               champagne                       #bfb8a5
+	chantilly                               chantilly                       #6aab8e
 
-=item chantilly                               chantilly                       #6aab8e
+	charcoal grey                           charcoalgrey                    #555555
 
-=item charcoal grey                           charcoalgrey                    #555555
+	chardon                                 chardon                         #673147
 
-=item chardon                                 chardon                         #673147
+	charles x                               charlesx                        #673147
 
-=item charles x                               charlesx                        #673147
+	chartreuse                              chartreuse                      #e9e450
 
-=item chartreuse                              chartreuse                      #e9e450
+	chartreuse                              chartreuse                      #beb72e
 
-=item chartreuse                              chartreuse                      #beb72e
+	chartreuse                              chartreuse                      #eae679
 
-=item chartreuse                              chartreuse                      #eae679
+	chartreuse                              chartreuse                      #b9b459
 
-=item chartreuse                              chartreuse                      #b9b459
+	chartreuse green                        chartreusegreen                 #98943e
 
-=item chartreuse green                        chartreusegreen                 #98943e
+	chartreuse yellow                       chartreuseyellow                #eae679
 
-=item chartreuse yellow                       chartreuseyellow                #eae679
+	chartreuse yellow                       chartreuseyellow                #b9b459
 
-=item chartreuse yellow                       chartreuseyellow                #b9b459
+	chasseur                                chasseur                        #173620
 
-=item chasseur                                chasseur                        #173620
+	chatemuc                                chatemuc                        #ab4e52
 
-=item chatemuc                                chatemuc                        #ab4e52
+	chatenay pink                           chatenaypink                    #f4c2c2
 
-=item chatenay pink                           chatenaypink                    #f4c2c2
+	chatenay pink                           chatenaypink                    #d9a6a9
 
-=item chatenay pink                           chatenaypink                    #d9a6a9
+	chaudron                                chaudron                        #cb6d51
 
-=item chaudron                                chaudron                        #cb6d51
+	chaudron                                chaudron                        #9e4732
 
-=item chaudron                                chaudron                        #9e4732
+	chaudron                                chaudron                        #b4745e
 
-=item chaudron                                chaudron                        #b4745e
+	chaudron                                chaudron                        #79443b
 
-=item chaudron                                chaudron                        #79443b
+	checkerberry                            checkerberry                    #be0032
 
-=item checkerberry                            checkerberry                    #be0032
+	chemic blue                             chemicblue                      #004958
 
-=item chemic blue                             chemicblue                      #004958
+	chemic green                            chemicgreen                     #317873
 
-=item chemic green                            chemicgreen                     #317873
+	cherokee                                cherokee                        #cb6d51
 
-=item cherokee                                cherokee                        #cb6d51
+	cherry                                  cherry                          #e25822
 
-=item cherry                                  cherry                          #e25822
+	cherry bloom                            cherrybloom                     #f88379
 
-=item cherry bloom                            cherrybloom                     #f88379
+	cherry blossom                          cherryblossom                   #ab4e52
 
-=item cherry blossom                          cherryblossom                   #ab4e52
+	cherry red                              cherryred                       #e25822
 
-=item cherry red                              cherryred                       #e25822
+	cherub                                  cherub                          #d9a6a9
 
-=item cherub                                  cherub                          #d9a6a9
+	chessylite blue                         chessyliteblue                  #436b95
 
-=item chessylite blue                         chessyliteblue                  #436b95
+	chestnut                                chestnut                        #635147
 
-=item chestnut                                chestnut                        #635147
+	chevreuse                               chevreuse                       #905d5d
 
-=item chevreuse                               chevreuse                       #905d5d
+	chevreuse                               chevreuse                       #79443b
 
-=item chevreuse                               chevreuse                       #79443b
+	chianti                                 chianti                         #841b2d
 
-=item chianti                                 chianti                         #841b2d
+	chickadee gray                          chickadeegray                   #57554c
 
-=item chickadee gray                          chickadeegray                   #57554c
+	chicle                                  chicle                          #635147
 
-=item chicle                                  chicle                          #635147
+	chicory                                 chicory                         #8c92ac
 
-=item chicory                                 chicory                         #8c92ac
+	chicory blue                            chicoryblue                     #dadfb7
 
-=item chicory blue                            chicoryblue                     #dadfb7
+	chicory blue                            chicoryblue                     #8c92ac
 
-=item chicory blue                            chicoryblue                     #8c92ac
+	chimney red                             chimneyred                      #841b2d
 
-=item chimney red                             chimneyred                      #841b2d
+	chimney red                             chimneyred                      #ab4e52
 
-=item chimney red                             chimneyred                      #ab4e52
+	china blue                              chinablue                       #436b95
 
-=item china blue                              chinablue                       #436b95
+	china blue                              chinablue                       #536878
 
-=item china blue                              chinablue                       #536878
+	china rose                              chinarose                       #a8516e
 
-=item china rose                              chinarose                       #a8516e
+	chinchilla                              chinchilla                      #848482
 
-=item chinchilla                              chinchilla                      #848482
+	chin-chin blue                          chinchinblue                    #536878
 
-=item chin-chin blue                          chinchinblue                    #536878
+	chinese gold                            chinesegold                     #ae6938
 
-=item chinese gold                            chinesegold                     #ae6938
+	chinese green                           chinesegreen                    #93c592
 
-=item chinese green                           chinesegreen                    #93c592
+	chinese green                           chinesegreen                    #6aab8e
 
-=item chinese green                           chinesegreen                    #6aab8e
+	chinese green                           chinesegreen                    #1b4d3e
 
-=item chinese green                           chinesegreen                    #1b4d3e
+	chinese green                           chinesegreen                    #004b49
 
-=item chinese green                           chinesegreen                    #004b49
+	chinese lake                            chineselake                     #be0032
 
-=item chinese lake                            chineselake                     #be0032
+	chinese lake                            chineselake                     #bc3f4a
 
-=item chinese lake                            chineselake                     #bc3f4a
+	chinese orange                          chineseorange                   #ffb7a5
 
-=item chinese orange                          chineseorange                   #ffb7a5
+	chinese orange                          chineseorange                   #d9603b
 
-=item chinese orange                          chineseorange                   #d9603b
+	chinese red                             chinesered                      #aa381e
 
-=item chinese red                             chinesered                      #aa381e
+	chinese red                             chinesered                      #9e4732
 
-=item chinese red                             chinesered                      #9e4732
+	chinese red                             chinesered                      #882d17
 
-=item chinese red                             chinesered                      #882d17
+	chinese rouge                           chineserouge                    #be0032
 
-=item chinese rouge                           chineserouge                    #be0032
+	chinese vermilion                       chinesevermilion                #be0032
 
-=item chinese vermilion                       chinesevermilion                #be0032
+	chinese violet                          chineseviolet                   #86608e
 
-=item chinese violet                          chineseviolet                   #86608e
+	chinese yellow                          chineseyellow                   #fada5e
 
-=item chinese yellow                          chineseyellow                   #fada5e
+	chinese yellow                          chineseyellow                   #d4af37
 
-=item chinese yellow                          chineseyellow                   #d4af37
+	chinese yellow                          chineseyellow                   #f8de7e
 
-=item chinese yellow                          chineseyellow                   #f8de7e
+	chinese yellow                          chineseyellow                   #c9ae5d
 
-=item chinese yellow                          chineseyellow                   #c9ae5d
+	chinese yellow                          chineseyellow                   #e3a857
 
-=item chinese yellow                          chineseyellow                   #e3a857
+	ch'ing                                  ching                           #00a1c2
 
-=item ch'ing                                  ching                           #00a1c2
+	chinook                                 chinook                         #9e4732
 
-=item chinook                                 chinook                         #9e4732
+	chip                                    chip                            #8c8767
 
-=item chip                                    chip                            #8c8767
+	chip                                    chip                            #8a8776
 
-=item chip                                    chip                            #8a8776
+	chipmunk                                chipmunk                        #996515
 
-=item chipmunk                                chipmunk                        #996515
+	chippendale                             chippendale                     #3e322c
 
-=item chippendale                             chippendale                     #3e322c
+	chiswick                                chiswick                        #00304e
 
-=item chiswick                                chiswick                        #00304e
+	chocolate                               chocolate                       #3e322c
 
-=item chocolate                               chocolate                       #3e322c
+	chocolate brown                         chocolatebrown                  #3e322c
 
-=item chocolate brown                         chocolatebrown                  #3e322c
+	chocolate maroon                        chocolatemaroon                 #722f37
 
-=item chocolate maroon                        chocolatemaroon                 #722f37
+	chrome citron                           chromecitron                    #f8de7e
 
-=item chrome citron                           chromecitron                    #f8de7e
+	chrome green                            chromegreen                     #007959
 
-=item chrome green                            chromegreen                     #007959
+	chrome green                            chromegreen                     #3b7861
 
-=item chrome green                            chromegreen                     #3b7861
+	chrome lemon                            chromelemon                     #f8de7e
 
-=item chrome lemon                            chromelemon                     #f8de7e
+	chrome orange                           chromeorange                    #e25822
 
-=item chrome orange                           chromeorange                    #e25822
+	chrome orange                           chromeorange                    #f38400
 
-=item chrome orange                           chromeorange                    #f38400
+	chrome primrose                         chromeprimrose                  #e9e450
 
-=item chrome primrose                         chromeprimrose                  #e9e450
+	chrome primrose                         chromeprimrose                  #eae679
 
-=item chrome primrose                         chromeprimrose                  #eae679
+	chrome scarlet                          chromescarlet                   #d9603b
 
-=item chrome scarlet                          chromescarlet                   #d9603b
+	chromium green                          chromiumgreen                   #8a9a5b
 
-=item chromium green                          chromiumgreen                   #8a9a5b
+	chromium oxide                          chromiumoxide                   #679267
 
-=item chromium oxide                          chromiumoxide                   #679267
+	chrysanthemum                           chrysanthemum                   #841b2d
 
-=item chrysanthemum                           chrysanthemum                   #841b2d
+	chrysanthemum                           chrysanthemum                   #722f37
 
-=item chrysanthemum                           chrysanthemum                   #722f37
+	chrysocollo                             chrysocollo                     #679267
 
-=item chrysocollo                             chrysocollo                     #679267
+	chrysolite green                        chrysolitegreen                 #b9b459
 
-=item chrysolite green                        chrysolitegreen                 #b9b459
+	chrysolite green                        chrysolitegreen                 #b9b57d
 
-=item chrysolite green                        chrysolitegreen                 #b9b57d
+	chrysolite green                        chrysolitegreen                 #8a9a5b
 
-=item chrysolite green                        chrysolitegreen                 #8a9a5b
+	chrysopraise [green]                    chrysopraisegreen               #3eb489
 
-=item chrysopraise [green]                    chrysopraisegreen               #3eb489
+	chrysopraise [green]                    chrysopraisegreen               #6aab8e
 
-=item chrysopraise [green]                    chrysopraisegreen               #6aab8e
+	chukker brown                           chukkerbrown                    #635147
 
-=item chukker brown                           chukkerbrown                    #635147
+	chukker brown                           chukkerbrown                    #7e6d5a
 
-=item chukker brown                           chukkerbrown                    #7e6d5a
+	chutney                                 chutney                         #79443b
 
-=item chutney                                 chutney                         #79443b
+	cigarette                               cigarette                       #6f4e37
 
-=item cigarette                               cigarette                       #6f4e37
+	cinder [grey]                           cindergrey                      #8b8589
 
-=item cinder [grey]                           cindergrey                      #8b8589
+	cineraria                               cineraria                       #ce4676
 
-=item cineraria                               cineraria                       #ce4676
+	cinereous                               cinereous                       #b9b8b5
 
-=item cinereous                               cinereous                       #b9b8b5
+	cinnamon                                cinnamon                        #a67b5b
 
-=item cinnamon                                cinnamon                        #a67b5b
+	cinnamon                                cinnamon                        #c19a6b
 
-=item cinnamon                                cinnamon                        #c19a6b
+	cinnamon brown                          cinnamonbrown                   #6f4e37
 
-=item cinnamon brown                          cinnamonbrown                   #6f4e37
+	cinnamon brown                          cinnamonbrown                   #826644
 
-=item cinnamon brown                          cinnamonbrown                   #826644
+	cinnamon pink                           cinnamonpink                    #a87c6d
 
-=item cinnamon pink                           cinnamonpink                    #a87c6d
+	circassian                              circassian                      #6f4e37
 
-=item circassian                              circassian                      #6f4e37
+	citrine                                 citrine                         #867e36
 
-=item citrine                                 citrine                         #867e36
+	citronelle                              citronelle                      #e9e450
 
-=item citronelle                              citronelle                      #e9e450
+	citronelle                              citronelle                      #beb72e
 
-=item citronelle                              citronelle                      #beb72e
+	citronelle                              citronelle                      #eae679
 
-=item citronelle                              citronelle                      #eae679
+	citronelle                              citronelle                      #b9b459
 
-=item citronelle                              citronelle                      #b9b459
+	citron green                            citrongreen                     #b9b459
 
-=item citron green                            citrongreen                     #b9b459
+	citron green                            citrongreen                     #b9b57d
 
-=item citron green                            citrongreen                     #b9b57d
+	citron [yellow]                         citronyellow                    #f8de7e
 
-=item citron [yellow]                         citronyellow                    #f8de7e
+	citrus                                  citrus                          #eae679
 
-=item citrus                                  citrus                          #eae679
+	civette green                           civettegreen                    #355e3b
 
-=item civette green                           civettegreen                    #355e3b
+	clair de lune                           clairdelune                     #8da399
 
-=item clair de lune                           clairdelune                     #8da399
+	claret cup                              claretcup                       #915f6d
 
-=item claret cup                              claretcup                       #915f6d
+	claret lees                             claretlees                      #673147
 
-=item claret lees                             claretlees                      #673147
+	claret [red]                            claretred                       #ab4e52
 
-=item claret [red]                            claretred                       #ab4e52
+	claver                                  claver                          #915c83
 
-=item claver                                  claver                          #915c83
+	clay                                    clay                            #996515
 
-=item clay                                    clay                            #996515
+	clay                                    clay                            #c19a6b
 
-=item clay                                    clay                            #c19a6b
+	clay                                    clay                            #826644
 
-=item clay                                    clay                            #826644
+	clay bank                               claybank                        #ae6938
 
-=item clay bank                               claybank                        #ae6938
+	clay drab                               claydrab                        #826644
 
-=item clay drab                               claydrab                        #826644
+	clay drab                               claydrab                        #967117
 
-=item clay drab                               claydrab                        #967117
+	clematis                                clematis                        #604e97
 
-=item clematis                                clematis                        #604e97
+	cleopatra                               cleopatra                       #00a1c2
 
-=item cleopatra                               cleopatra                       #00a1c2
+	clochette                               clochette                       #4e5180
 
-=item clochette                               clochette                       #4e5180
+	clochette                               clochette                       #604e81
 
-=item clochette                               clochette                       #604e81
+	cloisonné                               cloisonn                        #00a1c2
 
-=item cloisonné                               cloisonn                        #00a1c2
+	cloisonné                               cloisonn                        #30267a
 
-=item cloisonné                               cloisonn                        #30267a
+	cloud                                   cloud                           #536878
 
-=item cloud                                   cloud                           #536878
+	cloud grey                              cloudgrey                       #8b8589
 
-=item cloud grey                              cloudgrey                       #8b8589
+	cloud grey                              cloudgrey                       #848482
 
-=item cloud grey                              cloudgrey                       #848482
+	cloudy amber                            cloudyamber                     #c2b280
 
-=item cloudy amber                            cloudyamber                     #c2b280
+	cloudy amber                            cloudyamber                     #a18f60
 
-=item cloudy amber                            cloudyamber                     #a18f60
+	clove                                   clove                           #6f4e37
 
-=item clove                                   clove                           #6f4e37
+	clove brown                             clovebrown                      #5b504f
 
-=item clove brown                             clovebrown                      #5b504f
+	clove pink                              clovepink                       #722f37
 
-=item clove pink                              clovepink                       #722f37
+	clover                                  clover                          #915c83
 
-=item clover                                  clover                          #915c83
+	cobalt blue                             cobaltblue                      #007791
 
-=item cobalt blue                             cobaltblue                      #007791
+	cobalt glass                            cobaltglass                     #00416a
 
-=item cobalt glass                            cobaltglass                     #00416a
+	cobalt glass                            cobaltglass                     #436b95
 
-=item cobalt glass                            cobaltglass                     #436b95
+	cobalt green                            cobaltgreen                     #679267
 
-=item cobalt green                            cobaltgreen                     #679267
+	cobalt red                              cobaltred                       #ce4676
 
-=item cobalt red                              cobaltred                       #ce4676
+	cobalt red                              cobaltred                       #b3446c
 
-=item cobalt red                              cobaltred                       #b3446c
+	cobalt ultramarine                      cobaltultramarine               #007791
 
-=item cobalt ultramarine                      cobaltultramarine               #007791
+	cobalt violet                           cobaltviolet                    #86608e
 
-=item cobalt violet                           cobaltviolet                    #86608e
+	cobalt yellow                           cobaltyellow                    #fada5e
 
-=item cobalt yellow                           cobaltyellow                    #fada5e
+	cobalt yellow                           cobaltyellow                    #d4af37
 
-=item cobalt yellow                           cobaltyellow                    #d4af37
+	cobblestone                             cobblestone                     #555555
 
-=item cobblestone                             cobblestone                     #555555
+	cobweb                                  cobweb                          #ae9b82
 
-=item cobweb                                  cobweb                          #ae9b82
+	coccineous                              coccineous                      #be0032
 
-=item coccineous                              coccineous                      #be0032
+	cocher                                  cocher                          #6c541e
 
-=item cocher                                  cocher                          #6c541e
+	cochin                                  cochin                          #6f4e37
 
-=item cochin                                  cochin                          #6f4e37
+	cochineal                               cochineal                       #be0032
 
-=item cochineal                               cochineal                       #be0032
+	cockatoo                                cockatoo                        #f8de7e
 
-=item cockatoo                                cockatoo                        #f8de7e
+	cocoa                                   cocoa                           #6f4e37
 
-=item cocoa                                   cocoa                           #6f4e37
+	cocoa brown                             cocoabrown                      #6f4e37
 
-=item cocoa brown                             cocoabrown                      #6f4e37
+	cocobala                                cocobala                        #905d5d
 
-=item cocobala                                cocobala                        #905d5d
+	cocobala                                cocobala                        #674c47
 
-=item cocobala                                cocobala                        #674c47
+	coconut                                 coconut                         #635147
 
-=item coconut                                 coconut                         #635147
+	coconut brown                           coconutbrown                    #6f4e37
 
-=item coconut brown                           coconutbrown                    #6f4e37
+	cod grey                                codgrey                         #5b5842
 
-=item cod grey                                codgrey                         #5b5842
+	cod grey                                codgrey                         #57554c
 
-=item cod grey                                codgrey                         #57554c
+	coeruleum                               coeruleum                       #0085a1
 
-=item coeruleum                               coeruleum                       #0085a1
+	coeruleum                               coeruleum                       #00a1c2
 
-=item coeruleum                               coeruleum                       #00a1c2
+	coffee                                  coffee                          #6f4e37
 
-=item coffee                                  coffee                          #6f4e37
+	cognac                                  cognac                          #6f4e37
 
-=item cognac                                  cognac                          #6f4e37
+	colcothar                               colcothar                       #79443b
 
-=item colcothar                               colcothar                       #79443b
+	colewort green                          colewortgreen                   #7d8984
 
-=item colewort green                          colewortgreen                   #7d8984
+	colibri                                 colibri                         #317873
 
-=item colibri                                 colibri                         #317873
+	collie                                  collie                          #7e6d5a
 
-=item collie                                  collie                          #7e6d5a
+	cologne brown                           colognebrown                    #6f4e37
 
-=item cologne brown                           colognebrown                    #6f4e37
+	cologne earth                           cologneearth                    #6f4e37
 
-=item cologne earth                           cologneearth                    #6f4e37
+	cologne yellow                          cologneyellow                   #d4af37
 
-=item cologne yellow                          cologneyellow                   #d4af37
+	colonial                                colonial                        #00416a
 
-=item colonial                                colonial                        #00416a
+	colonial                                colonial                        #00304e
 
-=item colonial                                colonial                        #00304e
+	colonial                                colonial                        #272458
 
-=item colonial                                colonial                        #272458
+	colonial                                colonial                        #4e5180
 
-=item colonial                                colonial                        #4e5180
+	colonial buff                           colonialbuff                    #f8de7e
 
-=item colonial buff                           colonialbuff                    #f8de7e
+	colonial buff                           colonialbuff                    #f3e5ab
 
-=item colonial buff                           colonialbuff                    #f3e5ab
+	colonial yellow                         colonialyellow                  #c9ae5d
 
-=item colonial yellow                         colonialyellow                  #c9ae5d
+	columbia                                columbia                        #0067a5
 
-=item columbia                                columbia                        #0067a5
+	columbia blue                           columbiablue                    #91a3b0
 
-=item columbia blue                           columbiablue                    #91a3b0
+	columbian red                           columbianred                    #79443b
 
-=item columbian red                           columbianred                    #79443b
+	columbine blue                          columbineblue                   #4e5180
 
-=item columbine blue                          columbineblue                   #4e5180
+	columbine blue                          columbineblue                   #604e81
 
-=item columbine blue                          columbineblue                   #604e81
+	columbine red                           columbinered                    #673147
 
-=item columbine red                           columbinered                    #673147
+	comet                                   comet                           #00304e
 
-=item comet                                   comet                           #00304e
+	commelina blue                          commelinablue                   #436b95
 
-=item commelina blue                          commelinablue                   #436b95
+	commodore                               commodore                       #30267a
 
-=item commodore                               commodore                       #30267a
+	como                                    como                            #367588
 
-=item como                                    como                            #367588
+	conch shell                             conchshell                      #f88379
 
-=item conch shell                             conchshell                      #f88379
+	concord                                 concord                         #2f2140
 
-=item concord                                 concord                         #2f2140
+	condor                                  condor                          #826644
 
-=item condor                                  condor                          #826644
+	confetti                                confetti                        #e4717a
 
-=item confetti                                confetti                        #e4717a
+	confetti                                confetti                        #ab4e52
 
-=item confetti                                confetti                        #ab4e52
+	congo [brown]                           congobrown                      #483c32
 
-=item congo [brown]                           congobrown                      #483c32
+	congo pink                              congopink                       #b4745e
 
-=item congo pink                              congopink                       #b4745e
+	continental blue                        continentalblue                 #50404d
 
-=item continental blue                        continentalblue                 #50404d
+	continental blue                        continentalblue                 #242124
 
-=item continental blue                        continentalblue                 #242124
+	cookie                                  cookie                          #6f4e37
 
-=item cookie                                  cookie                          #6f4e37
+	coolie                                  coolie                          #4e5180
 
-=item coolie                                  coolie                          #4e5180
+	coolie                                  coolie                          #252440
 
-=item coolie                                  coolie                          #252440
+	copenhagen [blue]                       copenhagenblue                  #536878
 
-=item copenhagen [blue]                       copenhagenblue                  #536878
+	copenhagen [blue]                       copenhagenblue                  #4c516d
 
-=item copenhagen [blue]                       copenhagenblue                  #4c516d
+	copper                                  copper                          #b4745e
 
-=item copper                                  copper                          #b4745e
+	copper blue                             copperblue                      #436b95
 
-=item copper blue                             copperblue                      #436b95
+	copper brown                            copperbrown                     #80461b
 
-=item copper brown                            copperbrown                     #80461b
+	copper green                            coppergreen                     #679267
 
-=item copper green                            coppergreen                     #679267
+	copperleaf                              copperleaf                      #79443b
 
-=item copperleaf                              copperleaf                      #79443b
+	copper lustre                           copperlustre                    #80461b
 
-=item copper lustre                           copperlustre                    #80461b
+	copper red                              copperred                       #b4745e
 
-=item copper red                              copperred                       #b4745e
+	copper rose                             copperrose                      #ab4e52
 
-=item copper rose                             copperrose                      #ab4e52
+	copper yellow                           copperyellow                    #c9ae5d
 
-=item copper yellow                           copperyellow                    #c9ae5d
+	copra                                   copra                           #5c504f
 
-=item copra                                   copra                           #5c504f
+	coptic                                  coptic                          #79443b
 
-=item coptic                                  coptic                          #79443b
+	coquelicot                              coquelicot                      #be0032
 
-=item coquelicot                              coquelicot                      #be0032
+	coquelicot                              coquelicot                      #e25822
 
-=item coquelicot                              coquelicot                      #e25822
+	coquette                                coquette                        #f88379
 
-=item coquette                                coquette                        #f88379
+	coquette                                coquette                        #d9a6a9
 
-=item coquette                                coquette                        #d9a6a9
+	coralbell                               coralbell                       #ab4e52
 
-=item coralbell                               coralbell                       #ab4e52
+	coralbell                               coralbell                       #cb6d51
 
-=item coralbell                               coralbell                       #cb6d51
+	coral blush                             coralblush                      #f88379
 
-=item coral blush                             coralblush                      #f88379
+	coral blush                             coralblush                      #e66761
 
-=item coral blush                             coralblush                      #e66761
+	coral blush                             coralblush                      #cb6d51
 
-=item coral blush                             coralblush                      #cb6d51
+	coral pink                              coralpink                       #d9a6a9
 
-=item coral pink                              coralpink                       #d9a6a9
+	coral [red]                             coralred                        #e4717a
 
-=item coral [red]                             coralred                        #e4717a
+	coral sands                             coralsands                      #d9a6a9
 
-=item coral sands                             coralsands                      #d9a6a9
+	coral sands                             coralsands                      #c7ada3
 
-=item coral sands                             coralsands                      #c7ada3
+	corcir                                  corcir                          #a8516e
 
-=item corcir                                  corcir                          #a8516e
+	cordova                                 cordova                         #79443b
 
-=item cordova                                 cordova                         #79443b
+	cordovan                                cordovan                        #483c32
 
-=item cordovan                                cordovan                        #483c32
+	cordovan                                cordovan                        #222222
 
-=item cordovan                                cordovan                        #222222
+	corial                                  corial                          #d9a6a9
 
-=item corial                                  corial                          #d9a6a9
+	corial                                  corial                          #a87c6d
 
-=item corial                                  corial                          #a87c6d
+	corinth                                 corinth                         #915f6d
 
-=item corinth                                 corinth                         #915f6d
+	corinthian pink                         corinthianpink                  #dea5a4
 
-=item corinthian pink                         corinthianpink                  #dea5a4
+	corinthian pink                         corinthianpink                  #ad8884
 
-=item corinthian pink                         corinthianpink                  #ad8884
+	corinthian purple                       corinthianpurple                #673147
 
-=item corinthian purple                       corinthianpurple                #673147
+	corinthian purple                       corinthianpurple                #915f6d
 
-=item corinthian purple                       corinthianpurple                #915f6d
+	corinthian red                          corinthianred                   #905d5d
 
-=item corinthian red                          corinthianred                   #905d5d
+	cork                                    cork                            #a67b5b
 
-=item cork                                    cork                            #a67b5b
+	cork                                    cork                            #a8516e
 
-=item cork                                    cork                            #a8516e
+	corker                                  corker                          #a8516e
 
-=item corker                                  corker                          #a8516e
+	corkur                                  corkur                          #a8516e
 
-=item corkur                                  corkur                          #a8516e
+	corn                                    corn                            #c9ae5d
 
-=item corn                                    corn                            #c9ae5d
+	cornelian red                           cornelianred                    #b4745e
 
-=item cornelian red                           cornelianred                    #b4745e
+	cornflower [blue]                       cornflowerblue                  #4e5180
 
-=item cornflower [blue]                       cornflowerblue                  #4e5180
+	cornhusk                                cornhusk                        #fad6a5
 
-=item cornhusk                                cornhusk                        #fad6a5
+	cornhusk                                cornhusk                        #c19a6b
 
-=item cornhusk                                cornhusk                        #c19a6b
+	cornsilk                                cornsilk                        #f8de7e
 
-=item cornsilk                                cornsilk                        #f8de7e
+	coromandel                              coromandel                      #79443b
 
-=item coromandel                              coromandel                      #79443b
+	coronation                              coronation                      #5d3954
 
-=item coronation                              coronation                      #5d3954
+	coronation                              coronation                      #673147
 
-=item coronation                              coronation                      #673147
+	corsage green                           corsagegreen                    #6aab8e
 
-=item corsage green                           corsagegreen                    #6aab8e
+	corsage green                           corsagegreen                    #66ada4
 
-=item corsage green                           corsagegreen                    #66ada4
+	corsair                                 corsair                         #00304e
 
-=item corsair                                 corsair                         #00304e
+	corsican blue                           corsicanblue                    #4e5180
 
-=item corsican blue                           corsicanblue                    #4e5180
+	corsican blue                           corsicanblue                    #252440
 
-=item corsican blue                           corsicanblue                    #252440
+	corsican blue                           corsicanblue                    #2f2140
 
-=item corsican blue                           corsicanblue                    #2f2140
+	corydalis green                         corydalisgreen                  #8f9779
 
-=item corydalis green                         corydalisgreen                  #8f9779
+	cosmos                                  cosmos                          #c17e91
 
-=item cosmos                                  cosmos                          #c17e91
+	cossack                                 cossack                         #5e716a
 
-=item cossack                                 cossack                         #5e716a
+	cossack green                           cossackgreen                    #355e3b
 
-=item cossack green                           cossackgreen                    #355e3b
+	cosse green                             cossegreen                      #8a9a5b
 
-=item cosse green                             cossegreen                      #8a9a5b
+	cotch                                   cotch                           #6f4e37
 
-=item cotch                                   cotch                           #6f4e37
+	cotinga purple                          cotingapurple                   #602f6b
 
-=item cotinga purple                          cotingapurple                   #602f6b
+	cotinga purple                          cotingapurple                   #563c5c
 
-=item cotinga purple                          cotingapurple                   #563c5c
+	cotinga purple                          cotingapurple                   #702963
 
-=item cotinga purple                          cotingapurple                   #702963
+	cotinga purple                          cotingapurple                   #5d3954
 
-=item cotinga purple                          cotingapurple                   #5d3954
+	cotrine                                 cotrine                         #be8a3d
 
-=item cotrine                                 cotrine                         #be8a3d
+	cotrine                                 cotrine                         #c19a6b
 
-=item cotrine                                 cotrine                         #c19a6b
+	courge green                            courgegreen                     #98943e
 
-=item courge green                            courgegreen                     #98943e
+	courge green                            courgegreen                     #867e36
 
-=item courge green                            courgegreen                     #867e36
+	courge green                            courgegreen                     #8a9a5b
 
-=item courge green                            courgegreen                     #8a9a5b
+	cowboy                                  cowboy                          #6f4e37
 
-=item cowboy                                  cowboy                          #6f4e37
+	cowboy                                  cowboy                          #635147
 
-=item cowboy                                  cowboy                          #635147
+	cowboy                                  cowboy                          #826644
 
-=item cowboy                                  cowboy                          #826644
+	cowboy                                  cowboy                          #7e6d5a
 
-=item cowboy                                  cowboy                          #7e6d5a
+	cowslip                                 cowslip                         #ed872d
 
-=item cowslip                                 cowslip                         #ed872d
+	cowslip                                 cowslip                         #d99058
 
-=item cowslip                                 cowslip                         #d99058
+	crabapple                               crabapple                       #cb6d51
 
-=item crabapple                               crabapple                       #cb6d51
+	cracker                                 cracker                         #c19a6b
 
-=item cracker                                 cracker                         #c19a6b
+	crag                                    crag                            #57554c
 
-=item crag                                    crag                            #57554c
+	crane                                   crane                           #8b8589
 
-=item crane                                   crane                           #8b8589
+	crash                                   crash                           #c2b280
 
-=item crash                                   crash                           #c2b280
+	crash                                   crash                           #a18f60
 
-=item crash                                   crash                           #a18f60
+	crash                                   crash                           #967117
 
-=item crash                                   crash                           #967117
+	crash                                   crash                           #8c8767
 
-=item crash                                   crash                           #8c8767
+	crawshay red                            crawshayred                     #9e4732
 
-=item crawshay red                            crawshayred                     #9e4732
+	crawshay red                            crawshayred                     #80461b
 
-=item crawshay red                            crawshayred                     #80461b
+	crayon blue                             crayonblue                      #536878
 
-=item crayon blue                             crayonblue                      #536878
+	cream                                   cream                           #f3e5ab
 
-=item cream                                   cream                           #f3e5ab
+	cream beige                             creambeige                      #a87c6d
 
-=item cream beige                             creambeige                      #a87c6d
+	cream beige                             creambeige                      #a67b5b
 
-=item cream beige                             creambeige                      #a67b5b
+	cream beige                             creambeige                      #958070
 
-=item cream beige                             creambeige                      #958070
+	cream buff                              creambuff                       #f3e5ab
 
-=item cream buff                              creambuff                       #f3e5ab
+	cream buff                              creambuff                       #c2b280
 
-=item cream buff                              creambuff                       #c2b280
+	creole                                  creole                          #ae6938
 
-=item creole                                  creole                          #ae6938
+	creole                                  creole                          #a67b5b
 
-=item creole                                  creole                          #a67b5b
+	cress green                             cressgreen                      #8a9a5b
 
-=item cress green                             cressgreen                      #8a9a5b
+	cresson                                 cresson                         #8a9a5b
 
-=item cresson                                 cresson                         #8a9a5b
+	crevette                                crevette                        #f88379
 
-=item crevette                                crevette                        #f88379
+	crimson lake                            crimsonlake                     #ab4e52
 
-=item crimson lake                            crimsonlake                     #ab4e52
+	crimson madder                          crimsonmadder                   #be0032
 
-=item crimson madder                          crimsonmadder                   #be0032
+	crimson maple                           crimsonmaple                    #56070c
 
-=item crimson maple                           crimsonmaple                    #56070c
+	croceus                                 croceus                         #d99058
 
-=item croceus                                 croceus                         #d99058
+	croceus                                 croceus                         #e3a857
 
-=item croceus                                 croceus                         #e3a857
+	crocreal                                crocreal                        #d99058
 
-=item crocreal                                crocreal                        #d99058
+	crocreal                                crocreal                        #e3a857
 
-=item crocreal                                crocreal                        #e3a857
+	crocus                                  crocus                          #d99058
 
-=item crocus                                  crocus                          #d99058
+	crocus                                  crocus                          #e3a857
 
-=item crocus                                  crocus                          #e3a857
+	crocus                                  crocus                          #aa8a9e
 
-=item crocus                                  crocus                          #aa8a9e
+	crocus                                  crocus                          #836479
 
-=item crocus                                  crocus                          #836479
+	crocus martis                           crocusmartis                    #79443b
 
-=item crocus martis                           crocusmartis                    #79443b
+	crostil                                 crostil                         #a8516e
 
-=item crostil                                 crostil                         #a8516e
+	crotal                                  crotal                          #a8516e
 
-=item crotal                                  crotal                          #a8516e
+	crottle                                 crottle                         #a8516e
 
-=item crottle                                 crottle                         #a8516e
+	crowshay red                            crowshayred                     #9e4732
 
-=item crowshay red                            crowshayred                     #9e4732
+	crowshay red                            crowshayred                     #80461b
 
-=item crowshay red                            crowshayred                     #80461b
+	cruiser                                 cruiser                         #555555
 
-=item cruiser                                 cruiser                         #555555
+	crushed berry                           crushedberry                    #905d5d
 
-=item crushed berry                           crushedberry                    #905d5d
+	crushed strawberry                      crushedstrawberry               #e4717a
 
-=item crushed strawberry                      crushedstrawberry               #e4717a
+	crushed violets                         crushedviolets                  #796878
 
-=item crushed violets                         crushedviolets                  #796878
+	crystal grey                            crystalgrey                     #8b8589
 
-=item crystal grey                            crystalgrey                     #8b8589
+	crystal palace blue                     crystalpalaceblue               #00304e
 
-=item crystal palace blue                     crystalpalaceblue               #00304e
+	crystal palace green                    crystalpalacegreen              #57554c
 
-=item crystal palace green                    crystalpalacegreen              #57554c
+	crystals of venus                       crystalsofvenus                 #679267
 
-=item crystals of venus                       crystalsofvenus                 #679267
+	cub                                     cub                             #57554c
 
-=item cub                                     cub                             #57554c
+	cuba                                    cuba                            #722f37
 
-=item cuba                                    cuba                            #722f37
+	cuba                                    cuba                            #79443b
 
-=item cuba                                    cuba                            #79443b
+	cuban sand                              cubansand                       #ae9b82
 
-=item cuban sand                              cubansand                       #ae9b82
+	cudbear                                 cudbear                         #a8516e
 
-=item cudbear                                 cudbear                         #a8516e
+	cuir                                    cuir                            #c19a6b
 
-=item cuir                                    cuir                            #c19a6b
+	cuisse de nymphe                        cuissedenymphe                  #f3e5ab
 
-=item cuisse de nymphe                        cuissedenymphe                  #f3e5ab
+	cullen earth                            cullenearth                     #6f4e37
 
-=item cullen earth                            cullenearth                     #6f4e37
+	cupid pink                              cupidpink                       #d9a6a9
 
-=item cupid pink                              cupidpink                       #d9a6a9
+	cupreous                                cupreous                        #f8de7e
 
-=item cupreous                                cupreous                        #f8de7e
+	curcuma                                 curcuma                         #f8de7e
 
-=item curcuma                                 curcuma                         #f8de7e
+	currant [red]                           currantred                      #bc3f4a
 
-=item currant [red]                           currantred                      #bc3f4a
+	cutch                                   cutch                           #6f4e37
 
-=item cutch                                   cutch                           #6f4e37
+	cuyahoga red                            cuyahogared                     #722f37
 
-=item cuyahoga red                            cuyahogared                     #722f37
+	cyan blue                               cyanblue                        #317873
 
-=item cyan blue                               cyanblue                        #317873
+	cyan blue                               cyanblue                        #367588
 
-=item cyan blue                               cyanblue                        #367588
+	cyanine blue                            cyanineblue                     #00a1c2
 
-=item cyanine blue                            cyanineblue                     #00a1c2
+	cyanine blue                            cyanineblue                     #4e5180
 
-=item cyanine blue                            cyanineblue                     #4e5180
+	cyanine blue                            cyanineblue                     #252440
 
-=item cyanine blue                            cyanineblue                     #252440
+	cyclamen                                cyclamen                        #341731
 
-=item cyclamen                                cyclamen                        #341731
+	cygnet                                  cygnet                          #673147
 
-=item cygnet                                  cygnet                          #673147
+	cypress [green]                         cypressgreen                    #4a5d23
 
-=item cypress [green]                         cypressgreen                    #4a5d23
+	cypress green                           cypressgreen                    #44944a
 
-=item cypress green                           cypressgreen                    #44944a
+	cyprus earth                            cyprusearth                     #826644
 
-=item cyprus earth                            cyprusearth                     #826644
+	cyprus earth                            cyprusearth                     #4b3621
 
-=item cyprus earth                            cyprusearth                     #4b3621
+	cyprus umber                            cyprusumber                     #826644
 
-=item cyprus umber                            cyprusumber                     #826644
+	cyprus umber                            cyprusumber                     #4b3621
 
-=item cyprus umber                            cyprusumber                     #4b3621
+	daffodile [yellow]                      daffodileyellow                 #e3a857
 
-=item daffodile [yellow]                      daffodileyellow                 #e3a857
+	daffodil yellow                         daffodilyellow                  #ed872d
 
-=item daffodil yellow                         daffodilyellow                  #ed872d
+	daffodil yellow                         daffodilyellow                  #d99058
 
-=item daffodil yellow                         daffodilyellow                  #d99058
+	daffodil yellow                         daffodilyellow                  #eaa221
 
-=item daffodil yellow                         daffodilyellow                  #eaa221
+	daffodil yellow                         daffodilyellow                  #e3a857
 
-=item daffodil yellow                         daffodilyellow                  #e3a857
+	dagestan                                dagestan                        #00304e
 
-=item dagestan                                dagestan                        #00304e
+	dahlia                                  dahlia                          #86608e
 
-=item dahlia                                  dahlia                          #86608e
+	dahlia carmine                          dahliacarmine                   #673147
 
-=item dahlia carmine                          dahliacarmine                   #673147
+	dahlia mauve                            dahliamauve                     #915c83
 
-=item dahlia mauve                            dahliamauve                     #915c83
+	dahlia purple                           dahliapurple                    #673147
 
-=item dahlia purple                           dahliapurple                    #673147
+	dahlia purple                           dahliapurple                    #38152c
 
-=item dahlia purple                           dahliapurple                    #38152c
+	damascen                                damascen                        #604e81
 
-=item damascen                                damascen                        #604e81
+	damascen                                damascen                        #2f2140
 
-=item damascen                                damascen                        #2f2140
+	damask                                  damask                          #905d5d
 
-=item damask                                  damask                          #905d5d
+	damonico                                damonico                        #f88379
 
-=item damonico                                damonico                        #f88379
+	damonico                                damonico                        #cb6d51
 
-=item damonico                                damonico                        #cb6d51
+	damonico                                damonico                        #ed872d
 
-=item damonico                                damonico                        #ed872d
+	damonico                                damonico                        #d99058
 
-=item damonico                                damonico                        #d99058
+	damson                                  damson                          #604e81
 
-=item damson                                  damson                          #604e81
+	damson                                  damson                          #2f2140
 
-=item damson                                  damson                          #2f2140
+	danaë                                   dana                            #ed872d
 
-=item danaë                                   dana                            #ed872d
+	danaë                                   dana                            #d99058
 
-=item danaë                                   dana                            #d99058
+	danaë                                   dana                            #536878
 
-=item danaë                                   dana                            #536878
+	dandelion                               dandelion                       #fada5e
 
-=item dandelion                               dandelion                       #fada5e
+	dante                                   dante                           #50404d
 
-=item dante                                   dante                           #50404d
+	dante                                   dante                           #5d3954
 
-=item dante                                   dante                           #5d3954
+	dante                                   dante                           #673147
 
-=item dante                                   dante                           #673147
+	danube green                            danubegreen                     #355e3b
 
-=item danube green                            danubegreen                     #355e3b
+	danube green                            danubegreen                     #3a4b47
 
-=item danube green                            danubegreen                     #3a4b47
+	daphne                                  daphne                          #436b95
 
-=item daphne                                  daphne                          #436b95
+	daphne pink                             daphnepink                      #915f6d
 
-=item daphne pink                             daphnepink                      #915f6d
+	daphne red                              daphnered                       #a8516e
 
-=item daphne red                              daphnered                       #a8516e
+	daphne red                              daphnered                       #915f6d
 
-=item daphne red                              daphnered                       #915f6d
+	dark beaver                             darkbeaver                      #6f4e37
 
-=item dark beaver                             darkbeaver                      #6f4e37
+	dark beaver                             darkbeaver                      #635147
 
-=item dark beaver                             darkbeaver                      #635147
+	dark cardinal                           darkcardinal                    #722f37
 
-=item dark cardinal                           darkcardinal                    #722f37
+	dark gobelin blue                       darkgobelinblue                 #367588
 
-=item dark gobelin blue                       darkgobelinblue                 #367588
+	dark gobelin blue                       darkgobelinblue                 #536878
 
-=item dark gobelin blue                       darkgobelinblue                 #536878
+	dark wedgwood [blue]                    darkwedgwoodblue                #4e5180
 
-=item dark wedgwood [blue]                    darkwedgwoodblue                #4e5180
+	dark wedgwood [blue]                    darkwedgwoodblue                #4c516d
 
-=item dark wedgwood [blue]                    darkwedgwoodblue                #4c516d
+	date                                    date                            #483c32
 
-=item date                                    date                            #483c32
+	datura                                  datura                          #86608e
 
-=item datura                                  datura                          #86608e
+	dauphine                                dauphine                        #ad8884
 
-=item dauphine                                dauphine                        #ad8884
+	davy's grey                             davysgrey                       #555555
 
-=item davy's grey                             davysgrey                       #555555
+	dawn                                    dawn                            #dea5a4
 
-=item dawn                                    dawn                            #dea5a4
+	dawn grey                               dawngrey                        #848482
 
-=item dawn grey                               dawngrey                        #848482
+	daybreak                                daybreak                        #8c82b6
 
-=item daybreak                                daybreak                        #8c82b6
+	daybreak                                daybreak                        #b695c0
 
-=item daybreak                                daybreak                        #b695c0
+	daytona                                 daytona                         #8e8279
 
-=item daytona                                 daytona                         #8e8279
+	débutante pink                          dbutantepink                    #dea5a4
 
-=item débutante pink                          dbutantepink                    #dea5a4
+	dead carnations                         deadcarnations                  #a8516e
 
-=item dead carnations                         deadcarnations                  #a8516e
+	dead leaf                               deadleaf                        #be6516
 
-=item dead leaf                               deadleaf                        #be6516
+	dead leaf                               deadleaf                        #ae6938
 
-=item dead leaf                               deadleaf                        #ae6938
+	dead leaf                               deadleaf                        #80461b
 
-=item dead leaf                               deadleaf                        #80461b
+	deauville sand                          deauvillesand                   #977f73
 
-=item deauville sand                          deauvillesand                   #977f73
+	deauville sand                          deauvillesand                   #958070
 
-=item deauville sand                          deauvillesand                   #958070
+	deep brunswick green                    deepbrunswickgreen              #1b4d3e
 
-=item deep brunswick green                    deepbrunswickgreen              #1b4d3e
+	deep chrome green                       deepchromegreen                 #355e3b
 
-=item deep chrome green                       deepchromegreen                 #355e3b
+	deep chrome yellow                      deepchromeyellow                #e3a857
 
-=item deep chrome yellow                      deepchromeyellow                #e3a857
+	deep stone                              deepstone                       #ab9144
 
-=item deep stone                              deepstone                       #ab9144
+	deep stone                              deepstone                       #a18f60
 
-=item deep stone                              deepstone                       #a18f60
+	deep stone                              deepstone                       #967117
 
-=item deep stone                              deepstone                       #967117
+	deer                                    deer                            #7e6d5a
 
-=item deer                                    deer                            #7e6d5a
+	delft blue                              delftblue                       #4c516d
 
-=item delft blue                              delftblue                       #4c516d
+	della robbia                            dellarobbia                     #545aa7
 
-=item della robbia                            dellarobbia                     #545aa7
+	del monte                               delmonte                        #796878
 
-=item del monte                               delmonte                        #796878
+	delphinium                              delphinium                      #4997d0
 
-=item delphinium                              delphinium                      #4997d0
+	delphinium                              delphinium                      #0067a5
 
-=item delphinium                              delphinium                      #0067a5
+	delphinium                              delphinium                      #70a3cc
 
-=item delphinium                              delphinium                      #70a3cc
+	de'medici                               demedici                        #673147
 
-=item de'medici                               demedici                        #673147
+	denmark                                 denmark                         #536878
 
-=item denmark                                 denmark                         #536878
+	denver                                  denver                          #848482
 
-=item denver                                  denver                          #848482
+	derby blue                              derbyblue                       #2f2140
 
-=item derby blue                              derbyblue                       #2f2140
+	desert                                  desert                          #c19a6b
 
-=item desert                                  desert                          #c19a6b
+	devil's red                             devilsred                       #bc3f4a
 
-=item devil's red                             devilsred                       #bc3f4a
+	devil's red                             devilsred                       #ab4e52
 
-=item devil's red                             devilsred                       #ab4e52
+	devon [brown]                           devonbrown                      #905d5d
 
-=item devon [brown]                           devonbrown                      #905d5d
+	dewey red                               deweyred                        #bc3f4a
 
-=item dewey red                               deweyred                        #bc3f4a
+	dewey red                               deweyred                        #ab4e52
 
-=item dewey red                               deweyred                        #ab4e52
+	dewkiss                                 dewkiss                         #5e716a
 
-=item dewkiss                                 dewkiss                         #5e716a
+	diadem                                  diadem                          #aa98a9
 
-=item diadem                                  diadem                          #aa98a9
+	diana                                   diana                           #70a3cc
 
-=item diana                                   diana                           #70a3cc
+	dianthus                                dianthus                        #ab4e52
 
-=item dianthus                                dianthus                        #ab4e52
+	dianthus                                dianthus                        #905d5d
 
-=item dianthus                                dianthus                        #905d5d
+	diavolo                                 diavolo                         #905d5d
 
-=item diavolo                                 diavolo                         #905d5d
+	digitalis                               digitalis                       #796878
 
-=item digitalis                               digitalis                       #796878
+	di palito                               dipalito                        #e3a857
 
-=item di palito                               dipalito                        #e3a857
+	directoire blue                         directoireblue                  #00a1c2
 
-=item directoire blue                         directoireblue                  #00a1c2
+	directoire blue                         directoireblue                  #0067a5
 
-=item directoire blue                         directoireblue                  #0067a5
+	distilled green                         distilledgreen                  #679267
 
-=item distilled green                         distilledgreen                  #679267
+	diva blue                               divablue                        #0067a5
 
-=item diva blue                               divablue                        #0067a5
+	diva blue                               divablue                        #436b95
 
-=item diva blue                               divablue                        #436b95
+	doe                                     doe                             #a67b5b
 
-=item doe                                     doe                             #a67b5b
+	doe                                     doe                             #958070
 
-=item doe                                     doe                             #958070
+	doe                                     doe                             #c19a6b
 
-=item doe                                     doe                             #c19a6b
+	doe                                     doe                             #ae9b82
 
-=item doe                                     doe                             #ae9b82
+	doe-skin brown                          doeskinbrown                    #a87c6d
 
-=item doe-skin brown                          doeskinbrown                    #a87c6d
+	doge                                    doge                            #ab4e52
 
-=item doge                                    doge                            #ab4e52
+	dogwood                                 dogwood                         #a67b5b
 
-=item dogwood                                 dogwood                         #a67b5b
+	dogwood                                 dogwood                         #6f4e37
 
-=item dogwood                                 dogwood                         #6f4e37
+	dogwood                                 dogwood                         #826644
 
-=item dogwood                                 dogwood                         #826644
+	dolly pink                              dollypink                       #ab4e52
 
-=item dolly pink                              dollypink                       #ab4e52
+	domingo                                 domingo                         #79443b
 
-=item domingo                                 domingo                         #79443b
+	domingo brown                           domingobrown                    #422518
 
-=item domingo brown                           domingobrown                    #422518
+	dorado                                  dorado                          #c19a6b
 
-=item dorado                                  dorado                          #c19a6b
+	doubloon                                doubloon                        #d99058
 
-=item doubloon                                doubloon                        #d99058
+	dove                                    dove                            #555555
 
-=item dove                                    dove                            #555555
+	dove                                    dove                            #673147
 
-=item dove                                    dove                            #673147
+	dove grey                               dovegrey                        #8b8589
 
-=item dove grey                               dovegrey                        #8b8589
+	dover grey                              dovergrey                       #555555
 
-=item dover grey                              dovergrey                       #555555
+	dozer                                   dozer                           #00304e
 
-=item dozer                                   dozer                           #00304e
+	drab                                    drab                            #967117
 
-=item drab                                    drab                            #967117
+	drabolive                               drabolive                       #5b5842
 
-=item drabolive                               drabolive                       #5b5842
+	dragonfly                               dragonfly                       #004958
 
-=item dragonfly                               dragonfly                       #004958
+	dragon's blood                          dragonsblood                    #905d5d
 
-=item dragon's blood                          dragonsblood                    #905d5d
+	dragon's blood                          dragonsblood                    #b4745e
 
-=item dragon's blood                          dragonsblood                    #b4745e
+	dragon's blood                          dragonsblood                    #a87c6d
 
-=item dragon's blood                          dragonsblood                    #a87c6d
+	drake                                   drake                           #004958
 
-=item drake                                   drake                           #004958
+	drake's-neck green                      drakesneckgreen                 #004958
 
-=item drake's-neck green                      drakesneckgreen                 #004958
+	dregs of wine                           dregsofwine                     #722f37
 
-=item dregs of wine                           dregsofwine                     #722f37
+	dregs of wine                           dregsofwine                     #56070c
 
-=item dregs of wine                           dregsofwine                     #56070c
+	dregs of wine                           dregsofwine                     #3e1d1e
 
-=item dregs of wine                           dregsofwine                     #3e1d1e
+	dresden blue                            dresdenblue                     #436b95
 
-=item dresden blue                            dresdenblue                     #436b95
+	dresden brown                           dresdenbrown                    #826644
 
-=item dresden brown                           dresdenbrown                    #826644
+	dresden brown                           dresdenbrown                    #967117
 
-=item dresden brown                           dresdenbrown                    #967117
+	dresden brown                           dresdenbrown                    #6c541e
 
-=item dresden brown                           dresdenbrown                    #6c541e
+	dryad                                   dryad                           #5e716a
 
-=item dryad                                   dryad                           #5e716a
+	dry rose                                dryrose                         #905d5d
 
-=item dry rose                                dryrose                         #905d5d
+	dry rose                                dryrose                         #79443b
 
-=item dry rose                                dryrose                         #79443b
+	du barry                                dubarry                         #f88379
 
-=item du barry                                dubarry                         #f88379
+	duck blue                               duckblue                        #007791
 
-=item duck blue                               duckblue                        #007791
+	duck green                              duckgreen                       #004b49
 
-=item duck green                              duckgreen                       #004b49
+	duckling                                duckling                        #004958
 
-=item duckling                                duckling                        #004958
+	duckling                                duckling                        #36454f
 
-=item duckling                                duckling                        #36454f
+	duck-wing                               duckwing                        #4c516d
 
-=item duck-wing                               duckwing                        #4c516d
+	du gueslin                              dugueslin                       #00304e
 
-=item du gueslin                              dugueslin                       #00304e
+	du gueslin                              dugueslin                       #252440
 
-=item du gueslin                              dugueslin                       #252440
+	du gueslin                              dugueslin                       #4c516d
 
-=item du gueslin                              dugueslin                       #4c516d
+	dumont's blue                           dumontsblue                     #00416a
 
-=item dumont's blue                           dumontsblue                     #00416a
+	dumont's blue                           dumontsblue                     #436b95
 
-=item dumont's blue                           dumontsblue                     #436b95
+	dune                                    dune                            #8c8767
 
-=item dune                                    dune                            #8c8767
+	durango                                 durango                         #6f4e37
 
-=item durango                                 durango                         #6f4e37
+	dusk                                    dusk                            #5d555b
 
-=item dusk                                    dusk                            #5d555b
+	dust                                    dust                            #967117
 
-=item dust                                    dust                            #967117
+	dusty green                             dustygreen                      #8c8767
 
-=item dusty green                             dustygreen                      #8c8767
+	dutch azure                             dutchazure                      #00416a
 
-=item dutch azure                             dutchazure                      #00416a
+	dutch azure                             dutchazure                      #436b95
 
-=item dutch azure                             dutchazure                      #436b95
+	dutch blue                              dutchblue                       #536878
 
-=item dutch blue                              dutchblue                       #536878
+	dutch orange                            dutchorange                     #eaa221
 
-=item dutch orange                            dutchorange                     #eaa221
+	dutch orange                            dutchorange                     #e3a857
 
-=item dutch orange                            dutchorange                     #e3a857
+	dutch pink                              dutchpink                       #fada5e
 
-=item dutch pink                              dutchpink                       #fada5e
+	dutch pink                              dutchpink                       #d4af37
 
-=item dutch pink                              dutchpink                       #d4af37
+	dutch pink                              dutchpink                       #f8de7e
 
-=item dutch pink                              dutchpink                       #f8de7e
+	dutch pink                              dutchpink                       #c9ae5d
 
-=item dutch pink                              dutchpink                       #c9ae5d
+	dutch scarlet                           dutchscarlet                    #be0032
 
-=item dutch scarlet                           dutchscarlet                    #be0032
+	dutch vermilion                         dutchvermilion                  #e25822
 
-=item dutch vermilion                         dutchvermilion                  #e25822
+	dutch ware blue                         dutchwareblue                   #4c516d
 
-=item dutch ware blue                         dutchwareblue                   #4c516d
+	dyer's broom                            dyersbroom                      #eae679
 
-=item dyer's broom                            dyersbroom                      #eae679
+	dyer's broom                            dyersbroom                      #b9b459
 
-=item dyer's broom                            dyersbroom                      #b9b459
+	dyer's greenwood                        dyersgreenwood                  #eae679
 
-=item dyer's greenwood                        dyersgreenwood                  #eae679
+	dyer's greenwood                        dyersgreenwood                  #b9b459
 
-=item dyer's greenwood                        dyersgreenwood                  #b9b459
+	dyer's saffron                          dyerssaffron                    #be0032
 
-=item dyer's saffron                          dyerssaffron                    #be0032
+	eagle                                   eagle                           #5b504f
 
-=item eagle                                   eagle                           #5b504f
+	eau-de-javel green                      eaudejavelgreen                 #b9b459
 
-=item eau-de-javel green                      eaudejavelgreen                 #b9b459
+	eau-de-nile                             eaudenile                       #8a9a5b
 
-=item eau-de-nile                             eaudenile                       #8a9a5b
+	eau-de-nile                             eaudenile                       #dadfb7
 
-=item eau-de-nile                             eaudenile                       #dadfb7
+	eau-de-nile                             eaudenile                       #93c592
 
-=item eau-de-nile                             eaudenile                       #93c592
+	eburnean                                eburnean                        #f3e5ab
 
-=item eburnean                                eburnean                        #f3e5ab
+	ecclesiastic                            ecclesiastic                    #870074
 
-=item ecclesiastic                            ecclesiastic                    #870074
+	ecclesiastic                            ecclesiastic                    #9e4f88
 
-=item ecclesiastic                            ecclesiastic                    #9e4f88
+	ecru                                    ecru                            #f3e5ab
 
-=item ecru                                    ecru                            #f3e5ab
+	ecru                                    ecru                            #c2b280
 
-=item ecru                                    ecru                            #c2b280
+	eden green                              edengreen                       #44944a
 
-=item eden green                              edengreen                       #44944a
+	eden green                              edengreen                       #679267
 
-=item eden green                              edengreen                       #679267
+	eggplant                                eggplant                        #291e29
 
-=item eggplant                                eggplant                        #291e29
+	eggplant                                eggplant                        #242124
 
-=item eggplant                                eggplant                        #242124
+	eggshell blue                           eggshellblue                    #8da399
 
-=item eggshell blue                           eggshellblue                    #8da399
+	eggshell blue                           eggshellblue                    #66ada4
 
-=item eggshell blue                           eggshellblue                    #66ada4
+	eggshell green                          eggshellgreen                   #8da399
 
-=item eggshell green                          eggshellgreen                   #8da399
+	eggshell green                          eggshellgreen                   #66ada4
 
-=item eggshell green                          eggshellgreen                   #66ada4
+	eglantine                               eglantine                       #ce4676
 
-=item eglantine                               eglantine                       #ce4676
+	egypt                                   egypt                           #0067a5
 
-=item egypt                                   egypt                           #0067a5
+	egyptian                                egyptian                        #905d5d
 
-=item egyptian                                egyptian                        #905d5d
+	egyptian blue                           egyptianblue                    #00a1c2
 
-=item egyptian blue                           egyptianblue                    #00a1c2
+	egyptian blue                           egyptianblue                    #0067a5
 
-=item egyptian blue                           egyptianblue                    #0067a5
+	egyptian brown                          egyptianbrown                   #483c32
 
-=item egyptian brown                          egyptianbrown                   #483c32
+	egyptian green                          egyptiangreen                   #3b7861
 
-=item egyptian green                          egyptiangreen                   #3b7861
+	egyptian red                            egyptianred                     #722f37
 
-=item egyptian red                            egyptianred                     #722f37
+	egyptian red                            egyptianred                     #882d17
 
-=item egyptian red                            egyptianred                     #882d17
+	eifel                                   eifel                           #905d5d
 
-=item eifel                                   eifel                           #905d5d
+	eifel                                   eifel                           #79443b
 
-=item eifel                                   eifel                           #79443b
+	elderberry                              elderberry                      #2f2140
 
-=item elderberry                              elderberry                      #2f2140
+	eldorado                                eldorado                        #ae6938
 
-=item eldorado                                eldorado                        #ae6938
+	electric [blue]                         electricblue                    #536878
 
-=item electric [blue]                         electricblue                    #536878
+	electric green                          electricgreen                   #536878
 
-=item electric green                          electricgreen                   #536878
+	elephant green                          elephantgreen                   #173620
 
-=item elephant green                          elephantgreen                   #173620
+	elephant skin                           elephantskin                    #5b504f
 
-=item elephant skin                           elephantskin                    #5b504f
+	elf                                     elf                             #6aab8e
 
-=item elf                                     elf                             #6aab8e
+	elf                                     elf                             #8da399
 
-=item elf                                     elf                             #8da399
+	elfin green                             elfingreen                      #6aab8e
 
-=item elfin green                             elfingreen                      #6aab8e
+	elk                                     elk                             #483c32
 
-=item elk                                     elk                             #483c32
+	elm green                               elmgreen                        #4a5d23
 
-=item elm green                               elmgreen                        #4a5d23
+	elmwood                                 elmwood                         #ae9b82
 
-=item elmwood                                 elmwood                         #ae9b82
+	elmwood                                 elmwood                         #967117
 
-=item elmwood                                 elmwood                         #967117
+	email                                   email                           #317873
 
-=item email                                   email                           #317873
+	email                                   email                           #367588
 
-=item email                                   email                           #367588
+	ember                                   ember                           #ab4e52
 
-=item ember                                   ember                           #ab4e52
+	emberglow                               emberglow                       #ab4e52
 
-=item emberglow                               emberglow                       #ab4e52
+	emberglow                               emberglow                       #e66761
 
-=item emberglow                               emberglow                       #e66761
+	emberglow                               emberglow                       #cb6d51
 
-=item emberglow                               emberglow                       #cb6d51
+	emerald green                           emeraldgreen                    #679267
 
-=item emerald green                           emeraldgreen                    #679267
+	emerald green                           emeraldgreen                    #3eb489
 
-=item emerald green                           emeraldgreen                    #3eb489
+	emeraude                                emeraude                        #679267
 
-=item emeraude                                emeraude                        #679267
+	emeraude                                emeraude                        #007959
 
-=item emeraude                                emeraude                        #007959
+	emeraude                                emeraude                        #3b7861
 
-=item emeraude                                emeraude                        #3b7861
+	eminence                                eminence                        #563c5c
 
-=item eminence                                eminence                        #563c5c
+	emperor green                           emperorgreen                    #3eb489
 
-=item emperor green                           emperorgreen                    #3eb489
+	empire                                  empire                          #007959
 
-=item empire                                  empire                          #007959
+	empire blue                             empireblue                      #436b95
 
-=item empire blue                             empireblue                      #436b95
+	empire green                            empiregreen                     #355e3b
 
-=item empire green                            empiregreen                     #355e3b
+	empire green                            empiregreen                     #3a4b47
 
-=item empire green                            empiregreen                     #3a4b47
+	empire yellow                           empireyellow                    #fada5e
 
-=item empire yellow                           empireyellow                    #fada5e
+	empire yellow                           empireyellow                    #f8de7e
 
-=item empire yellow                           empireyellow                    #f8de7e
+	enamel blue                             enamelblue                      #00416a
 
-=item enamel blue                             enamelblue                      #00416a
+	enamel blue                             enamelblue                      #436b95
 
-=item enamel blue                             enamelblue                      #436b95
+	endive                                  endive                          #e9e450
 
-=item endive                                  endive                          #e9e450
+	endive                                  endive                          #eae679
 
-=item endive                                  endive                          #eae679
+	endive blue                             endiveblue                      #91a3b0
 
-=item endive blue                             endiveblue                      #91a3b0
+	endive blue                             endiveblue                      #aa98a9
 
-=item endive blue                             endiveblue                      #aa98a9
+	english blue                            englishblue                     #436b95
 
-=item english blue                            englishblue                     #436b95
+	english green                           englishgreen                    #7e9f2e
 
-=item english green                           englishgreen                    #7e9f2e
+	english green                           englishgreen                    #44944a
 
-=item english green                           englishgreen                    #44944a
+	english green                           englishgreen                    #1b4d3e
 
-=item english green                           englishgreen                    #1b4d3e
+	english grey                            englishgrey                     #57554c
 
-=item english grey                            englishgrey                     #57554c
+	english inde                            englishinde                     #50404d
 
-=item english inde                            englishinde                     #50404d
+	english ivy                             englishivy                      #355e3b
 
-=item english ivy                             englishivy                      #355e3b
+	english oak                             englishoak                      #6f4e37
 
-=item english oak                             englishoak                      #6f4e37
+	english ochre                           englishochre                    #e3a857
 
-=item english ochre                           englishochre                    #e3a857
+	english pink                            englishpink                     #fada5e
 
-=item english pink                            englishpink                     #fada5e
+	english pink                            englishpink                     #d4af37
 
-=item english pink                            englishpink                     #d4af37
+	english pink                            englishpink                     #f8de7e
 
-=item english pink                            englishpink                     #f8de7e
+	english pink                            englishpink                     #c9ae5d
 
-=item english pink                            englishpink                     #c9ae5d
+	english red                             englishred                      #bc3f4a
 
-=item english red                             englishred                      #bc3f4a
+	english red                             englishred                      #ab4e52
 
-=item english red                             englishred                      #ab4e52
+	english red                             englishred                      #d9603b
 
-=item english red                             englishred                      #d9603b
+	english red                             englishred                      #cb6d51
 
-=item english red                             englishred                      #cb6d51
+	english red                             englishred                      #9e4732
 
-=item english red                             englishred                      #9e4732
+	english red                             englishred                      #80461b
 
-=item english red                             englishred                      #80461b
+	english red                             englishred                      #79443b
 
-=item english red                             englishred                      #79443b
+	english vermilion                       englishvermilion                #bc3f4a
 
-=item english vermilion                       englishvermilion                #bc3f4a
+	english violet                          englishviolet                   #563c5c
 
-=item english violet                          englishviolet                   #563c5c
+	ensign                                  ensign                          #00304e
 
-=item ensign                                  ensign                          #00304e
+	epinauche                               epinauche                       #3a4b47
 
-=item epinauche                               epinauche                       #3a4b47
+	epsom                                   epsom                           #8a9a5b
 
-=item epsom                                   epsom                           #8a9a5b
+	erin                                    erin                            #3b7861
 
-=item erin                                    erin                            #3b7861
+	erlau green                             erlaugreen                      #679267
 
-=item erlau green                             erlaugreen                      #679267
+	escadre                                 escadre                         #536878
 
-=item escadre                                 escadre                         #536878
+	eschel                                  eschel                          #00416a
 
-=item eschel                                  eschel                          #00416a
+	eschel                                  eschel                          #436b95
 
-=item eschel                                  eschel                          #436b95
+	eskimo                                  eskimo                          #79443b
 
-=item eskimo                                  eskimo                          #79443b
+	esthetic grey                           estheticgrey                    #7d8984
 
-=item esthetic grey                           estheticgrey                    #7d8984
+	etain blue                              etainblue                       #c7e6d7
 
-=item etain blue                              etainblue                       #c7e6d7
+	etain blue                              etainblue                       #bcd4e6
 
-=item etain blue                              etainblue                       #bcd4e6
+	etain blue                              etainblue                       #c7e6d7
 
-=item etain blue                              etainblue                       #c7e6d7
+	etain blue                              etainblue                       #96ded1
 
-=item etain blue                              etainblue                       #96ded1
+	etain blue                              etainblue                       #9cd1dc
 
-=item etain blue                              etainblue                       #9cd1dc
+	etain blue                              etainblue                       #bcd4e6
 
-=item etain blue                              etainblue                       #bcd4e6
+	etang                                   etang                           #8da399
 
-=item etang                                   etang                           #8da399
+	etang                                   etang                           #b2beb5
 
-=item etang                                   etang                           #b2beb5
+	ether                                   ether                           #66aabc
 
-=item ether                                   ether                           #66aabc
+	ethereal blue                           etherealblue                    #70a3cc
 
-=item ethereal blue                           etherealblue                    #70a3cc
+	ethereal blue                           etherealblue                    #8791bf
 
-=item ethereal blue                           etherealblue                    #8791bf
+	eton blue                               etonblue                        #66ada4
 
-=item eton blue                               etonblue                        #66ada4
+	etruscan                                etruscan                        #79443b
 
-=item etruscan                                etruscan                        #79443b
+	etruscan                                etruscan                        #6f4e37
 
-=item etruscan                                etruscan                        #6f4e37
+	etruscan red                            etruscanred                     #b4745e
 
-=item etruscan red                            etruscanred                     #b4745e
+	eucalyptus [green]                      eucalyptusgreen                 #c2b280
 
-=item eucalyptus [green]                      eucalyptusgreen                 #c2b280
+	eucalyptus [green]                      eucalyptusgreen                 #8f9779
 
-=item eucalyptus [green]                      eucalyptusgreen                 #8f9779
+	eugenia red                             eugeniared                      #ab4e52
 
-=item eugenia red                             eugeniared                      #ab4e52
+	eugenie                                 eugenie                         #796878
 
-=item eugenie                                 eugenie                         #796878
+	eupatorium purple                       eupatoriumpurple                #915c83
 
-=item eupatorium purple                       eupatoriumpurple                #915c83
+	eureka red                              eurekared                       #722f37
 
-=item eureka red                              eurekared                       #722f37
+	eve green                               evegreen                        #e9e450
 
-=item eve green                               evegreen                        #e9e450
+	eve green                               evegreen                        #83d37d
 
-=item eve green                               evegreen                        #83d37d
+	eve green                               evegreen                        #44944a
 
-=item eve green                               evegreen                        #44944a
+	evenglow                                evenglow                        #8f817f
 
-=item evenglow                                evenglow                        #8f817f
+	eventide                                eventide                        #9690ab
 
-=item eventide                                eventide                        #9690ab
+	everglade                               everglade                       #222222
 
-=item everglade                               everglade                       #222222
+	evergreen                               evergreen                       #355e3b
 
-=item evergreen                               evergreen                       #355e3b
+	evêque                                  evque                           #563c5c
 
-=item evêque                                  evque                           #563c5c
+	faded rose                              fadedrose                       #905d5d
 
-=item faded rose                              fadedrose                       #905d5d
+	faience                                 faience                         #007791
 
-=item faience                                 faience                         #007791
+	faience                                 faience                         #367588
 
-=item faience                                 faience                         #367588
+	fairway                                 fairway                         #1a2421
 
-=item fairway                                 fairway                         #1a2421
+	fairy green                             fairygreen                      #679267
 
-=item fairy green                             fairygreen                      #679267
+	fakir                                   fakir                           #fad6a5
 
-=item fakir                                   fakir                           #fad6a5
+	falcon                                  falcon                          #3e322c
 
-=item falcon                                  falcon                          #3e322c
+	fallow                                  fallow                          #c19a6b
 
-=item fallow                                  fallow                          #c19a6b
+	fandango                                fandango                        #ce4676
 
-=item fandango                                fandango                        #ce4676
+	faon                                    faon                            #977f73
 
-=item faon                                    faon                            #977f73
+	faon                                    faon                            #6f4e37
 
-=item faon                                    faon                            #6f4e37
+	faon                                    faon                            #958070
 
-=item faon                                    faon                            #958070
+	faon                                    faon                            #635147
 
-=item faon                                    faon                            #635147
+	fashion gray                            fashiongray                     #555555
 
-=item fashion gray                            fashiongray                     #555555
+	fawn [brown]                            fawnbrown                       #977f73
 
-=item fawn [brown]                            fawnbrown                       #977f73
+	fawn [brown]                            fawnbrown                       #6f4e37
 
-=item fawn [brown]                            fawnbrown                       #6f4e37
+	fawn [brown]                            fawnbrown                       #958070
 
-=item fawn [brown]                            fawnbrown                       #958070
+	fawn [brown]                            fawnbrown                       #635147
 
-=item fawn [brown]                            fawnbrown                       #635147
+	feldspar                                feldspar                        #6aab8e
 
-=item feldspar                                feldspar                        #6aab8e
+	fern                                    fern                            #8a9a5b
 
-=item fern                                    fern                            #8a9a5b
+	fernambucowood                          fernambucowood                  #ab4e52
 
-=item fernambucowood                          fernambucowood                  #ab4e52
+	fernambucowood                          fernambucowood                  #905d5d
 
-=item fernambucowood                          fernambucowood                  #905d5d
+	fern green                              ferngreen                       #8a9a5b
 
-=item fern green                              ferngreen                       #8a9a5b
+	fern green                              ferngreen                       #8f9779
 
-=item fern green                              ferngreen                       #8f9779
+	ferruginous                             ferruginous                     #9e4732
 
-=item ferruginous                             ferruginous                     #9e4732
+	ferruginous                             ferruginous                     #80461b
 
-=item ferruginous                             ferruginous                     #80461b
+	feuille                                 feuille                         #6f4e37
 
-=item feuille                                 feuille                         #6f4e37
+	feuille morte                           feuillemorte                    #be6516
 
-=item feuille morte                           feuillemorte                    #be6516
+	feuille morte                           feuillemorte                    #ae6938
 
-=item feuille morte                           feuillemorte                    #ae6938
+	feuille morte                           feuillemorte                    #80461b
 
-=item feuille morte                           feuillemorte                    #80461b
+	feulamort                               feulamort                       #be6516
 
-=item feulamort                               feulamort                       #be6516
+	feulamort                               feulamort                       #ae6938
 
-=item feulamort                               feulamort                       #ae6938
+	feulamort                               feulamort                       #80461b
 
-=item feulamort                               feulamort                       #80461b
+	fez                                     fez                             #be0032
 
-=item fez                                     fez                             #be0032
+	field's orange vermilion                fieldsorangevermilion           #d9603b
 
-=item field's orange vermilion                fieldsorangevermilion           #d9603b
+	fiery red                               fieryred                        #e25822
 
-=item fiery red                               fieryred                        #e25822
+	fiesta                                  fiesta                          #e4717a
 
-=item fiesta                                  fiesta                          #e4717a
+	fieulamort                              fieulamort                      #be6516
 
-=item fieulamort                              fieulamort                      #be6516
+	fieulamort                              fieulamort                      #ae6938
 
-=item fieulamort                              fieulamort                      #ae6938
+	fieulamort                              fieulamort                      #80461b
 
-=item fieulamort                              fieulamort                      #80461b
+	filbert [brown]                         filbertbrown                    #a67b5b
 
-=item filbert [brown]                         filbertbrown                    #a67b5b
+	filbert [brown]                         filbertbrown                    #996515
 
-=item filbert [brown]                         filbertbrown                    #996515
+	filemot                                 filemot                         #be6516
 
-=item filemot                                 filemot                         #be6516
+	filemot                                 filemot                         #ae6938
 
-=item filemot                                 filemot                         #ae6938
+	filemot                                 filemot                         #80461b
 
-=item filemot                                 filemot                         #80461b
+	fillemot                                fillemot                        #be6516
 
-=item fillemot                                fillemot                        #be6516
+	fillemot                                fillemot                        #ae6938
 
-=item fillemot                                fillemot                        #ae6938
+	fillemot                                fillemot                        #80461b
 
-=item fillemot                                fillemot                        #80461b
+	firecracker                             firecracker                     #e25822
 
-=item firecracker                             firecracker                     #e25822
+	firefly                                 firefly                         #bc3f4a
 
-=item firefly                                 firefly                         #bc3f4a
+	firefly                                 firefly                         #ab4e52
 
-=item firefly                                 firefly                         #ab4e52
+	fire red                                firered                         #e25822
 
-=item fire red                                firered                         #e25822
+	fire scarlet                            firescarlet                     #be0032
 
-=item fire scarlet                            firescarlet                     #be0032
+	fireweed                                fireweed                        #602f6b
 
-=item fireweed                                fireweed                        #602f6b
+	fir [green]                             firgreen                        #355e3b
 
-=item fir [green]                             firgreen                        #355e3b
+	fir [green]                             firgreen                        #173620
 
-=item fir [green]                             firgreen                        #173620
+	fir [green]                             firgreen                        #3a4b47
 
-=item fir [green]                             firgreen                        #3a4b47
+	firmament                               firmament                       #536878
 
-=item firmament                               firmament                       #536878
+	firmament blue                          firmamentblue                   #66aabc
 
-=item firmament blue                          firmamentblue                   #66aabc
+	fish grey                               fishgrey                        #5b5842
 
-=item fish grey                               fishgrey                        #5b5842
+	fish grey                               fishgrey                        #57554c
 
-=item fish grey                               fishgrey                        #57554c
+	flag                                    flag                            #2f2140
 
-=item flag                                    flag                            #2f2140
+	flame blue                              flameblue                       #4e5180
 
-=item flame blue                              flameblue                       #4e5180
+	flame blue                              flameblue                       #4c516d
 
-=item flame blue                              flameblue                       #4c516d
+	flame orange                            flameorange                     #e25822
 
-=item flame orange                            flameorange                     #e25822
+	flame [scarlet]                         flamescarlet                    #e25822
 
-=item flame [scarlet]                         flamescarlet                    #e25822
+	flaming maple                           flamingmaple                    #be0032
 
-=item flaming maple                           flamingmaple                    #be0032
+	flaming maple                           flamingmaple                    #bc3f4a
 
-=item flaming maple                           flamingmaple                    #bc3f4a
+	flaming maple                           flamingmaple                    #841b2d
 
-=item flaming maple                           flamingmaple                    #841b2d
+	flaming maple                           flamingmaple                    #ab4e52
 
-=item flaming maple                           flamingmaple                    #ab4e52
+	flamingo                                flamingo                        #cb6d51
 
-=item flamingo                                flamingo                        #cb6d51
+	flammeous                               flammeous                       #d9603b
 
-=item flammeous                               flammeous                       #d9603b
+	flash                                   flash                           #bc3f4a
 
-=item flash                                   flash                           #bc3f4a
+	flash                                   flash                           #ab4e52
 
-=item flash                                   flash                           #ab4e52
+	flash                                   flash                           #aa381e
 
-=item flash                                   flash                           #aa381e
+	flash                                   flash                           #9e4732
 
-=item flash                                   flash                           #9e4732
+	flax                                    flax                            #c2b280
 
-=item flax                                    flax                            #c2b280
+	flaxen                                  flaxen                          #c2b280
 
-=item flaxen                                  flaxen                          #c2b280
+	flaxflower blossom                      flaxflowerblossom               #536878
 
-=item flaxflower blossom                      flaxflowerblossom               #536878
+	flaxflower blue                         flaxflowerblue                  #436b95
 
-=item flaxflower blue                         flaxflowerblue                  #436b95
+	flaxflower blue                         flaxflowerblue                  #8791bf
 
-=item flaxflower blue                         flaxflowerblue                  #8791bf
+	flea                                    flea                            #722f37
 
-=item flea                                    flea                            #722f37
+	flemish blue                            flemishblue                     #36454f
 
-=item flemish blue                            flemishblue                     #36454f
+	flesh                                   flesh                           #fad6a5
 
-=item flesh                                   flesh                           #fad6a5
+	flesh                                   flesh                           #bfb8a5
 
-=item flesh                                   flesh                           #bfb8a5
+	flesh blond                             fleshblond                      #d9a6a9
 
-=item flesh blond                             fleshblond                      #d9a6a9
+	flesh blond                             fleshblond                      #c7ada3
 
-=item flesh blond                             fleshblond                      #c7ada3
+	flesh blond                             fleshblond                      #c2ac99
 
-=item flesh blond                             fleshblond                      #c2ac99
+	flesh ochre                             fleshochre                      #9e4732
 
-=item flesh ochre                             fleshochre                      #9e4732
+	fleur-de-lys                            fleurdelys                      #86608e
 
-=item fleur-de-lys                            fleurdelys                      #86608e
+	flint                                   flint                           #222222
 
-=item flint                                   flint                           #222222
+	flint grey                              flintgrey                       #848482
 
-=item flint grey                              flintgrey                       #848482
+	flirt                                   flirt                           #ab4e52
 
-=item flirt                                   flirt                           #ab4e52
+	florence brown                          florencebrown                   #905d5d
 
-=item florence brown                          florencebrown                   #905d5d
+	florence earth                          florenceearth                   #79443b
 
-=item florence earth                          florenceearth                   #79443b
+	florentine                              florentine                      #e25822
 
-=item florentine                              florentine                      #e25822
+	florentine lake                         florentinelake                  #be0032
 
-=item florentine lake                         florentinelake                  #be0032
+	florentine lake                         florentinelake                  #bc3f4a
 
-=item florentine lake                         florentinelake                  #bc3f4a
+	florida gold                            floridagold                     #eaa221
 
-=item florida gold                            floridagold                     #eaa221
+	florida gold                            floridagold                     #e3a857
 
-=item florida gold                            floridagold                     #e3a857
+	floss flower blue                       flossflowerblue                 #aa98a9
 
-=item floss flower blue                       flossflowerblue                 #aa98a9
+	flower de luce green                    flowerdelucegreen               #355e3b
 
-=item flower de luce green                    flowerdelucegreen               #355e3b
+	fluorite green                          fluoritegreen                   #679267
 
-=item fluorite green                          fluoritegreen                   #679267
+	fluorite violet                         fluoriteviolet                  #563c5c
 
-=item fluorite violet                         fluoriteviolet                  #563c5c
+	fluorite violet                         fluoriteviolet                  #301934
 
-=item fluorite violet                         fluoriteviolet                  #301934
+	fog                                     fog                             #b9b8b5
 
-=item fog                                     fog                             #b9b8b5
+	foliage brown                           foliagebrown                    #be6516
 
-=item foliage brown                           foliagebrown                    #be6516
+	foliage brown                           foliagebrown                    #ae6938
 
-=item foliage brown                           foliagebrown                    #ae6938
+	foliage brown                           foliagebrown                    #80461b
 
-=item foliage brown                           foliagebrown                    #80461b
+	foliage green                           foliagegreen                    #8a9a5b
 
-=item foliage green                           foliagegreen                    #8a9a5b
+	folimort                                folimort                        #be6516
 
-=item folimort                                folimort                        #be6516
+	folimort                                folimort                        #ae6938
 
-=item folimort                                folimort                        #ae6938
+	folimort                                folimort                        #80461b
 
-=item folimort                                folimort                        #80461b
+	folkstone                               folkstone                       #ae9b82
 
-=item folkstone                               folkstone                       #ae9b82
+	folly                                   folly                           #be0032
 
-=item folly                                   folly                           #be0032
+	folly                                   folly                           #bc3f4a
 
-=item folly                                   folly                           #bc3f4a
+	fontainebleau                           fontainebleau                   #905d5d
 
-=item fontainebleau                           fontainebleau                   #905d5d
+	forest                                  forest                          #3a4b47
 
-=item forest                                  forest                          #3a4b47
+	forest green                            forestgreen                     #4a5d23
 
-=item forest green                            forestgreen                     #4a5d23
+	forest of dean red                      forestofdeanred                 #9e4732
 
-=item forest of dean red                      forestofdeanred                 #9e4732
+	forest of dean red                      forestofdeanred                 #80461b
 
-=item forest of dean red                      forestofdeanred                 #80461b
+	forget-me-not [blue]                    forgetmenotblue                 #91a3b0
 
-=item forget-me-not [blue]                    forgetmenotblue                 #91a3b0
+	forget-me-not [blue]                    forgetmenotblue                 #536878
 
-=item forget-me-not [blue]                    forgetmenotblue                 #536878
+	formosa                                 formosa                         #d99058
 
-=item formosa                                 formosa                         #d99058
+	formosa                                 formosa                         #a67b5b
 
-=item formosa                                 formosa                         #a67b5b
+	forsythia                               forsythia                       #e3a857
 
-=item forsythia                               forsythia                       #e3a857
+	fox                                     fox                             #826644
 
-=item fox                                     fox                             #826644
+	fox                                     fox                             #967117
 
-=item fox                                     fox                             #967117
+	fox                                     fox                             #6c541e
 
-=item fox                                     fox                             #6c541e
+	foxglove                                foxglove                        #604e97
 
-=item foxglove                                foxglove                        #604e97
+	foxglove                                foxglove                        #604e81
 
-=item foxglove                                foxglove                        #604e81
+	fox trot                                foxtrot                         #66ada4
 
-=item fox trot                                foxtrot                         #66ada4
+	fragonard                               fragonard                       #ab4e52
 
-=item fragonard                               fragonard                       #ab4e52
+	france                                  france                          #00304e
 
-=item france                                  france                          #00304e
+	france rose                             francerose                      #e4717a
 
-=item france rose                             francerose                      #e4717a
+	france rose                             francerose                      #282022
 
-=item france rose                             francerose                      #282022
+	freedom                                 freedom                         #00304e
 
-=item freedom                                 freedom                         #00304e
+	freestone                               freestone                       #fad6a5
 
-=item freestone                               freestone                       #fad6a5
+	french beige                            frenchbeige                     #a67b5b
 
-=item french beige                            frenchbeige                     #a67b5b
+	french berries                          frenchberries                   #eaa221
 
-=item french berries                          frenchberries                   #eaa221
+	french berries                          frenchberries                   #e3a857
 
-=item french berries                          frenchberries                   #e3a857
+	french blue                             frenchblue                      #0067a5
 
-=item french blue                             frenchblue                      #0067a5
+	french blue                             frenchblue                      #545aa7
 
-=item french blue                             frenchblue                      #545aa7
+	french green                            frenchgreen                     #679267
 
-=item french green                            frenchgreen                     #679267
+	french green                            frenchgreen                     #3b7861
 
-=item french green                            frenchgreen                     #3b7861
+	french grey                             frenchgrey                      #b2beb5
 
-=item french grey                             frenchgrey                      #b2beb5
+	french grey                             frenchgrey                      #b9b8b5
 
-=item french grey                             frenchgrey                      #b9b8b5
+	french lilac                            frenchlilac                     #86608e
 
-=item french lilac                            frenchlilac                     #86608e
+	french lilac                            frenchlilac                     #796878
 
-=item french lilac                            frenchlilac                     #796878
+	french maroon                           frenchmaroon                    #905d5d
 
-=item french maroon                           frenchmaroon                    #905d5d
+	french nude                             frenchnude                      #977f73
 
-=item french nude                             frenchnude                      #977f73
+	french nude                             frenchnude                      #a67b5b
 
-=item french nude                             frenchnude                      #a67b5b
+	french nude                             frenchnude                      #958070
 
-=item french nude                             frenchnude                      #958070
+	french ochre                            frenchochre                     #e3a857
 
-=item french ochre                            frenchochre                     #e3a857
+	french pink                             frenchpink                      #fad6a5
 
-=item french pink                             frenchpink                      #fad6a5
+	french pink                             frenchpink                      #c9ae5d
 
-=item french pink                             frenchpink                      #c9ae5d
+	french purple                           frenchpurple                    #a8516e
 
-=item french purple                           frenchpurple                    #a8516e
+	french scarlet                          frenchscarlet                   #be0032
 
-=item french scarlet                          frenchscarlet                   #be0032
+	french ultramarine                      frenchultramarine               #0067a5
 
-=item french ultramarine                      frenchultramarine               #0067a5
+	french ultramarine                      frenchultramarine               #545aa7
 
-=item french ultramarine                      frenchultramarine               #545aa7
+	french vermilion                        frenchvermilion                 #e25822
 
-=item french vermilion                        frenchvermilion                 #e25822
+	[french] veronese green                 frenchveronesegreen             #007959
 
-=item [french] veronese green                 frenchveronesegreen             #007959
+	[french] veronese green                 frenchveronesegreen             #3b7861
 
-=item [french] veronese green                 frenchveronesegreen             #3b7861
+	french white                            frenchwhite                     #bfb9bd
 
-=item french white                            frenchwhite                     #bfb9bd
+	french white                            frenchwhite                     #e8ccd7
 
-=item french white                            frenchwhite                     #e8ccd7
+	french yellow                           frenchyellow                    #ae6938
 
-=item french yellow                           frenchyellow                    #ae6938
+	french yellow                           frenchyellow                    #996515
 
-=item french yellow                           frenchyellow                    #996515
+	french yellow                           frenchyellow                    #a67b5b
 
-=item french yellow                           frenchyellow                    #a67b5b
+	friar                                   friar                           #635147
 
-=item friar                                   friar                           #635147
+	friar                                   friar                           #3e322c
 
-=item friar                                   friar                           #3e322c
+	frost grey                              frostgrey                       #848482
 
-=item frost grey                              frostgrey                       #848482
+	frosty green                            frostygreen                     #3a4b47
 
-=item frosty green                            frostygreen                     #3a4b47
+	fuchsia                                 fuchsia                         #870074
 
-=item fuchsia                                 fuchsia                         #870074
+	fudge                                   fudge                           #6f4e37
 
-=item fudge                                   fudge                           #6f4e37
+	fujiyama                                fujiyama                        #79443b
 
-=item fujiyama                                fujiyama                        #79443b
+	fuscous                                 fuscous                         #5b504f
 
-=item fuscous                                 fuscous                         #5b504f
+	fustet                                  fustet                          #fada5e
 
-=item fustet                                  fustet                          #fada5e
+	fustet                                  fustet                          #d4af37
 
-=item fustet                                  fustet                          #d4af37
+	fustic                                  fustic                          #c9ae5d
 
-=item fustic                                  fustic                          #c9ae5d
+	fustic                                  fustic                          #c2b280
 
-=item fustic                                  fustic                          #c2b280
+	gage green                              gagegreen                       #8f9779
 
-=item gage green                              gagegreen                       #8f9779
+	gaiety                                  gaiety                          #e4717a
 
-=item gaiety                                  gaiety                          #e4717a
+	galleon                                 galleon                         #3e322c
 
-=item galleon                                 galleon                         #3e322c
+	gallstone                               gallstone                       #d4af37
 
-=item gallstone                               gallstone                       #d4af37
+	gambia                                  gambia                          #6f4e37
 
-=item gambia                                  gambia                          #6f4e37
+	gamboge                                 gamboge                         #d4af37
 
-=item gamboge                                 gamboge                         #d4af37
+	gardenia green                          gardeniagreen                   #3a4b47
 
-=item gardenia green                          gardeniagreen                   #3a4b47
+	gargoyle                                gargoyle                        #555555
 
-=item gargoyle                                gargoyle                        #555555
+	garland green                           garlandgreen                    #4a5d23
 
-=item garland green                           garlandgreen                    #4a5d23
+	garland green                           garlandgreen                    #355e3b
 
-=item garland green                           garlandgreen                    #355e3b
+	garnet                                  garnet                          #722f37
 
-=item garnet                                  garnet                          #722f37
+	garnet brown                            garnetbrown                     #722f37
 
-=item garnet brown                            garnetbrown                     #722f37
+	garnet brown                            garnetbrown                     #79443b
 
-=item garnet brown                            garnetbrown                     #79443b
+	garnet red                              garnetred                       #841b2d
 
-=item garnet red                              garnetred                       #841b2d
+	garnet red                              garnetred                       #722f37
 
-=item garnet red                              garnetred                       #722f37
+	garter blue                             garterblue                      #4c516d
 
-=item garter blue                             garterblue                      #4c516d
+	gaude                                   gaude                           #eae679
 
-=item gaude                                   gaude                           #eae679
+	gaude                                   gaude                           #b9b459
 
-=item gaude                                   gaude                           #b9b459
+	gaude lake                              gaudelake                       #f8de7e
 
-=item gaude lake                              gaudelake                       #f8de7e
+	gaudy green                             gaudygreen                      #8a9a5b
 
-=item gaudy green                             gaudygreen                      #8a9a5b
+	gaudy green                             gaudygreen                      #4a5d23
 
-=item gaudy green                             gaudygreen                      #4a5d23
+	gay green                               gaygreen                        #8a9a5b
 
-=item gay green                               gaygreen                        #8a9a5b
+	gazelle [brown]                         gazellebrown                    #635147
 
-=item gazelle [brown]                         gazellebrown                    #635147
+	gazelle [brown]                         gazellebrown                    #7e6d5a
 
-=item gazelle [brown]                         gazellebrown                    #7e6d5a
+	geisha                                  geisha                          #915c83
 
-=item geisha                                  geisha                          #915c83
+	geisha                                  geisha                          #a8516e
 
-=item geisha                                  geisha                          #a8516e
+	geisha                                  geisha                          #915f6d
 
-=item geisha                                  geisha                          #915f6d
+	gendarme [blue]                         gendarmeblue                    #317873
 
-=item gendarme [blue]                         gendarmeblue                    #317873
+	gendarme [blue]                         gendarmeblue                    #367588
 
-=item gendarme [blue]                         gendarmeblue                    #367588
+	generall                                generall                        #fada5e
 
-=item generall                                generall                        #fada5e
+	generall                                generall                        #d4af37
 
-=item generall                                generall                        #d4af37
+	generall                                generall                        #f8de7e
 
-=item generall                                generall                        #f8de7e
+	generall                                generall                        #c9ae5d
 
-=item generall                                generall                        #c9ae5d
+	genestrole                              genestrole                      #eae679
 
-=item genestrole                              genestrole                      #eae679
+	genestrole                              genestrole                      #b9b459
 
-=item genestrole                              genestrole                      #b9b459
+	genet                                   genet                           #eae679
 
-=item genet                                   genet                           #eae679
+	genet                                   genet                           #b9b459
 
-=item genet                                   genet                           #b9b459
+	geneva blue                             genevablue                      #4c516d
 
-=item geneva blue                             genevablue                      #4c516d
+	genista                                 genista                         #d99058
 
-=item genista                                 genista                         #d99058
+	genoa blue                              genoablue                       #536878
 
-=item genoa blue                              genoablue                       #536878
+	gentian                                 gentian                         #436b95
 
-=item gentian                                 gentian                         #436b95
+	gentian                                 gentian                         #8791bf
 
-=item gentian                                 gentian                         #8791bf
+	gentian blue                            gentianblue                     #4e5180
 
-=item gentian blue                            gentianblue                     #4e5180
+	genuine ultramarine [blue]              genuineultramarineblue          #00a1c2
 
-=item genuine ultramarine [blue]              genuineultramarineblue          #00a1c2
+	genuine ultramarine [blue]              genuineultramarineblue          #0067a5
 
-=item genuine ultramarine [blue]              genuineultramarineblue          #0067a5
+	geranium                                geranium                        #bc3f4a
 
-=item geranium                                geranium                        #bc3f4a
+	geranium lake                           geraniumlake                    #be0032
 
-=item geranium lake                           geraniumlake                    #be0032
+	geranium petal                          geraniumpetal                   #be0032
 
-=item geranium petal                          geraniumpetal                   #be0032
+	geranium pink                           geraniumpink                    #e4717a
 
-=item geranium pink                           geraniumpink                    #e4717a
+	ghent                                   ghent                           #00304e
 
-=item ghent                                   ghent                           #00304e
+	giallolini                              giallolini                      #f8de7e
 
-=item giallolini                              giallolini                      #f8de7e
+	giallolini                              giallolini                      #c9ae5d
 
-=item giallolini                              giallolini                      #c9ae5d
+	giallolini                              giallolini                      #f3e5ab
 
-=item giallolini                              giallolini                      #f3e5ab
+	giallolini                              giallolini                      #c2b280
 
-=item giallolini                              giallolini                      #c2b280
+	giallolino                              giallolino                      #f8de7e
 
-=item giallolino                              giallolino                      #f8de7e
+	giallolino                              giallolino                      #c9ae5d
 
-=item giallolino                              giallolino                      #c9ae5d
+	giallolino                              giallolino                      #f3e5ab
 
-=item giallolino                              giallolino                      #f3e5ab
+	giallolino                              giallolino                      #c2b280
 
-=item giallolino                              giallolino                      #c2b280
+	gigas                                   gigas                           #86608e
 
-=item gigas                                   gigas                           #86608e
+	gild                                    gild                            #eaa221
 
-=item gild                                    gild                            #eaa221
+	gild                                    gild                            #e3a857
 
-=item gild                                    gild                            #e3a857
+	gilded                                  gilded                          #eaa221
 
-=item gilded                                  gilded                          #eaa221
+	gilded                                  gilded                          #e3a857
 
-=item gilded                                  gilded                          #e3a857
+	gilt                                    gilt                            #eaa221
 
-=item gilt                                    gilt                            #eaa221
+	gilt                                    gilt                            #e3a857
 
-=item gilt                                    gilt                            #e3a857
+	gingeline                               gingeline                       #80461b
 
-=item gingeline                               gingeline                       #80461b
+	gingeoline                              gingeoline                      #80461b
 
-=item gingeoline                              gingeoline                      #80461b
+	ginger                                  ginger                          #80461b
 
-=item ginger                                  ginger                          #80461b
+	gingerline                              gingerline                      #80461b
 
-=item gingerline                              gingerline                      #80461b
+	gingerspice                             gingerspice                     #79443b
 
-=item gingerspice                             gingerspice                     #79443b
+	gingioline                              gingioline                      #80461b
 
-=item gingioline                              gingioline                      #80461b
+	giraffe                                 giraffe                         #ae6938
 
-=item giraffe                                 giraffe                         #ae6938
+	giraffe                                 giraffe                         #a67b5b
 
-=item giraffe                                 giraffe                         #a67b5b
+	glacier                                 glacier                         #36454f
 
-=item glacier                                 glacier                         #36454f
+	glacier blue                            glacierblue                     #536878
 
-=item glacier blue                            glacierblue                     #536878
+	gladiolus                               gladiolus                       #bc3f4a
 
-=item gladiolus                               gladiolus                       #bc3f4a
+	glaïeul                                 glaeul                          #ad8884
 
-=item glaïeul                                 glaeul                          #ad8884
+	glaïeul                                 glaeul                          #c48379
 
-=item glaïeul                                 glaeul                          #c48379
+	glass green                             glassgreen                      #c9dc89
 
-=item glass green                             glassgreen                      #c9dc89
+	glass grey                              glassgrey                       #b4bcc0
 
-=item glass grey                              glassgrey                       #b4bcc0
+	glaucous                                glaucous                        #dadfb7
 
-=item glaucous                                glaucous                        #dadfb7
+	glaucous-blue                           glaucousblue                    #536878
 
-=item glaucous-blue                           glaucousblue                    #536878
+	glaucous-green                          glaucousgreen                   #c7e6d7
 
-=item glaucous-green                          glaucousgreen                   #c7e6d7
+	glaucous-grey                           glaucousgrey                    #b4bcc0
 
-=item glaucous-grey                           glaucousgrey                    #b4bcc0
+	glaucous-grey                           glaucousgrey                    #b9b8b5
 
-=item glaucous-grey                           glaucousgrey                    #b9b8b5
+	glint o'gold                            glintogold                      #c9ae5d
 
-=item glint o'gold                            glintogold                      #c9ae5d
+	gloaming                                gloaming                        #ad8884
 
-=item gloaming                                gloaming                        #ad8884
+	glory                                   glory                           #272458
 
-=item glory                                   glory                           #272458
+	glory                                   glory                           #32174d
 
-=item glory                                   glory                           #32174d
+	gloxinia                                gloxinia                        #602f6b
 
-=item gloxinia                                gloxinia                        #602f6b
+	gmelin's blue                           gmelinsblue                     #0067a5
 
-=item gmelin's blue                           gmelinsblue                     #0067a5
+	gmelin's blue                           gmelinsblue                     #545aa7
 
-=item gmelin's blue                           gmelinsblue                     #545aa7
+	gnaphalium green                        gnaphaliumgreen                 #8da399
 
-=item gnaphalium green                        gnaphaliumgreen                 #8da399
+	goat                                    goat                            #5b504f
 
-=item goat                                    goat                            #5b504f
+	gobelin blue                            gobelinblue                     #536878
 
-=item gobelin blue                            gobelinblue                     #536878
+	gobelin blue                            gobelinblue                     #367588
 
-=item gobelin blue                            gobelinblue                     #367588
+	gobelin blue                            gobelinblue                     #536878
 
-=item gobelin blue                            gobelinblue                     #536878
+	gobelin green                           gobelingreen                    #3b7861
 
-=item gobelin green                           gobelingreen                    #3b7861
+	gobelin scarlet                         gobelinscarlet                  #be0032
 
-=item gobelin scarlet                         gobelinscarlet                  #be0032
+	gold                                    gold                            #967117
 
-=item gold                                    gold                            #967117
+	gold bronze                             goldbronze                      #635147
 
-=item gold bronze                             goldbronze                      #635147
+	gold bronze                             goldbronze                      #7e6d5a
 
-=item gold bronze                             goldbronze                      #7e6d5a
+	gold brown                              goldbrown                       #80461b
 
-=item gold brown                              goldbrown                       #80461b
+	gold earth                              goldearth                       #e3a857
 
-=item gold earth                              goldearth                       #e3a857
+	golden                                  golden                          #c19a6b
 
-=item golden                                  golden                          #c19a6b
+	golden                                  golden                          #a18f60
 
-=item golden                                  golden                          #a18f60
+	golden                                  golden                          #967117
 
-=item golden                                  golden                          #967117
+	golden brown                            goldenbrown                     #80461b
 
-=item golden brown                            goldenbrown                     #80461b
+	golden chestnut                         goldenchestnut                  #6f4e37
 
-=item golden chestnut                         goldenchestnut                  #6f4e37
+	golden coral                            goldencoral                     #f88379
 
-=item golden coral                            goldencoral                     #f88379
+	golden corn                             goldencorn                      #e3a857
 
-=item golden corn                             goldencorn                      #e3a857
+	golden feather                          goldenfeather                   #fada5e
 
-=item golden feather                          goldenfeather                   #fada5e
+	golden feather                          goldenfeather                   #d4af37
 
-=item golden feather                          goldenfeather                   #d4af37
+	golden feather                          goldenfeather                   #f8de7e
 
-=item golden feather                          goldenfeather                   #f8de7e
+	golden feather                          goldenfeather                   #c9ae5d
 
-=item golden feather                          goldenfeather                   #c9ae5d
+	golden glow                             goldenglow                      #e3a857
 
-=item golden glow                             goldenglow                      #e3a857
+	golden glow                             goldenglow                      #d4af37
 
-=item golden glow                             goldenglow                      #d4af37
+	golden green                            goldengreen                     #c2b280
 
-=item golden green                            goldengreen                     #c2b280
+	golden green                            goldengreen                     #a18f60
 
-=item golden green                            goldengreen                     #a18f60
+	golden ochre                            goldenochre                     #d99058
 
-=item golden ochre                            goldenochre                     #d99058
+	golden poppy                            goldenpoppy                     #e25822
 
-=item golden poppy                            goldenpoppy                     #e25822
+	golden rod                              goldenrod                       #d4af37
 
-=item golden rod                              goldenrod                       #d4af37
+	golden wheat                            goldenwheat                     #e3a857
 
-=item golden wheat                            goldenwheat                     #e3a857
+	golden yellow                           goldenyellow                    #eaa221
 
-=item golden yellow                           goldenyellow                    #eaa221
+	golden yellow                           goldenyellow                    #e3a857
 
-=item golden yellow                           goldenyellow                    #e3a857
+	golden yellow                           goldenyellow                    #be8a3d
 
-=item golden yellow                           goldenyellow                    #be8a3d
+	golden yellow                           goldenyellow                    #996515
 
-=item golden yellow                           goldenyellow                    #996515
+	gold leaf                               goldleaf                        #d99058
 
-=item gold leaf                               goldleaf                        #d99058
+	gold leaf                               goldleaf                        #be8a3d
 
-=item gold leaf                               goldleaf                        #be8a3d
+	gold ochre                              goldochre                       #d99058
 
-=item gold ochre                              goldochre                       #d99058
+	gold yellow                             goldyellow                      #eaa221
 
-=item gold yellow                             goldyellow                      #eaa221
+	gold yellow                             goldyellow                      #e3a857
 
-=item gold yellow                             goldyellow                      #e3a857
+	golf green                              golfgreen                       #355e3b
 
-=item golf green                              golfgreen                       #355e3b
+	golf [red]                              golfred                         #bc3f4a
 
-=item golf [red]                              golfred                         #bc3f4a
+	golf [red]                              golfred                         #ab4e52
 
-=item golf [red]                              golfred                         #ab4e52
+	gooseberry                              gooseberry                      #673147
 
-=item gooseberry                              gooseberry                      #673147
+	gooseberry green                        gooseberrygreen                 #679267
 
-=item gooseberry green                        gooseberrygreen                 #679267
+	goose grey                              goosegrey                       #483c32
 
-=item goose grey                              goosegrey                       #483c32
+	gorevan                                 gorevan                         #6f4e37
 
-=item gorevan                                 gorevan                         #6f4e37
+	goura                                   goura                           #50404d
 
-=item goura                                   goura                           #50404d
+	goya                                    goya                            #bc3f4a
 
-=item goya                                    goya                            #bc3f4a
+	grain                                   grain                           #fad6a5
 
-=item grain                                   grain                           #fad6a5
+	grain                                   grain                           #c19a6b
 
-=item grain                                   grain                           #c19a6b
+	grain                                   grain                           #ae9b82
 
-=item grain                                   grain                           #ae9b82
+	grain                                   grain                           #be0032
 
-=item grain                                   grain                           #be0032
+	grain in grain                          grainingrain                    #be0032
 
-=item grain in grain                          grainingrain                    #be0032
+	granada                                 granada                         #43302e
 
-=item granada                                 granada                         #43302e
+	granada                                 granada                         #3e322c
 
-=item granada                                 granada                         #3e322c
+	granat                                  granat                          #be0032
 
-=item granat                                  granat                          #be0032
+	granat                                  granat                          #e25822
 
-=item granat                                  granat                          #e25822
+	granatflower                            granatflower                    #be0032
 
-=item granatflower                            granatflower                    #be0032
+	granatflower                            granatflower                    #e25822
 
-=item granatflower                            granatflower                    #e25822
+	granite                                 granite                         #8b8589
 
-=item granite                                 granite                         #8b8589
+	granite blue                            graniteblue                     #b9b8b5
 
-=item granite blue                            graniteblue                     #b9b8b5
+	grape                                   grape                           #2f2140
 
-=item grape                                   grape                           #2f2140
+	grape blue                              grapeblue                       #2f2140
 
-=item grape blue                              grapeblue                       #2f2140
+	grapefruit                              grapefruit                      #b9b459
 
-=item grapefruit                              grapefruit                      #b9b459
+	grape green                             grapegreen                      #867e36
 
-=item grape green                             grapegreen                      #867e36
+	grapejuice                              grapejuice                      #602f6b
 
-=item grapejuice                              grapejuice                      #602f6b
+	grapenuts                               grapenuts                       #6f4e37
 
-=item grapenuts                               grapenuts                       #6f4e37
+	graphite                                graphite                        #50404d
 
-=item graphite                                graphite                        #50404d
+	graphite                                graphite                        #222222
 
-=item graphite                                graphite                        #222222
+	grass green                             grassgreen                      #8a9a5b
 
-=item grass green                             grassgreen                      #8a9a5b
+	grasshopper                             grasshopper                     #8a9a5b
 
-=item grasshopper                             grasshopper                     #8a9a5b
+	gravel                                  gravel                          #ae9b82
 
-=item gravel                                  gravel                          #ae9b82
+	grayn                                   grayn                           #be0032
 
-=item grayn                                   grayn                           #be0032
+	grebe                                   grebe                           #5d555b
 
-=item grebe                                   grebe                           #5d555b
+	grebe                                   grebe                           #555555
 
-=item grebe                                   grebe                           #555555
+	grecian rose                            grecianrose                     #ad8884
 
-=item grecian rose                            grecianrose                     #ad8884
+	grecian rose                            grecianrose                     #c48379
 
-=item grecian rose                            grecianrose                     #c48379
+	green ash                               greenash                        #93c592
 
-=item green ash                               greenash                        #93c592
+	green finch                             greenfinch                      #867e36
 
-=item green finch                             greenfinch                      #867e36
+	green slate                             greenslate                      #5e716a
 
-=item green slate                             greenslate                      #5e716a
+	green slate                             greenslate                      #4e5755
 
-=item green slate                             greenslate                      #4e5755
+	green stone                             greenstone                      #8f9779
 
-=item green stone                             greenstone                      #8f9779
+	grenadine red                           grenadinered                    #cb6d51
 
-=item grenadine red                           grenadinered                    #cb6d51
+	grenat                                  grenat                          #722f37
 
-=item grenat                                  grenat                          #722f37
+	gretna green                            gretnagreen                     #679267
 
-=item gretna green                            gretnagreen                     #679267
+	gretna green                            gretnagreen                     #3b7861
 
-=item gretna green                            gretnagreen                     #3b7861
+	grey 31                                 grey31                          #5b504f
 
-=item grey 31                                 grey31                          #5b504f
+	grey dawn                               greydawn                        #8b8589
 
-=item grey dawn                               greydawn                        #8b8589
+	grey dawn                               greydawn                        #848482
 
-=item grey dawn                               greydawn                        #848482
+	grey drab                               greydrab                        #8c8767
 
-=item grey drab                               greydrab                        #8c8767
+	greyn                                   greyn                           #be0032
 
-=item greyn                                   greyn                           #be0032
+	grey stone                              greystone                       #8a8776
 
-=item grey stone                              greystone                       #8a8776
+	grey ultramarine ash                    greyultramarineash              #b2beb5
 
-=item grey ultramarine ash                    greyultramarineash              #b2beb5
+	gridelin                                gridelin                        #a8516e
 
-=item gridelin                                gridelin                        #a8516e
+	griffin                                 griffin                         #555555
 
-=item griffin                                 griffin                         #555555
+	gris-de-lin                             grisdelin                       #a8516e
 
-=item gris-de-lin                             grisdelin                       #a8516e
+	grotto [blue]                           grottoblue                      #007791
 
-=item grotto [blue]                           grottoblue                      #007791
+	grouse                                  grouse                          #635147
 
-=item grouse                                  grouse                          #635147
+	grouse                                  grouse                          #7e6d5a
 
-=item grouse                                  grouse                          #7e6d5a
+	guignet's green                         guignetsgreen                   #004b49
 
-=item guignet's green                         guignetsgreen                   #004b49
+	guimet's blue                           guimetsblue                     #0067a5
 
-=item guimet's blue                           guimetsblue                     #0067a5
+	guimet's blue                           guimetsblue                     #545aa7
 
-=item guimet's blue                           guimetsblue                     #545aa7
+	guinea green                            guineagreen                     #007a74
 
-=item guinea green                            guineagreen                     #007a74
+	guinea hen                              guineahen                       #555555
 
-=item guinea hen                              guineahen                       #555555
+	gull                                    gull                            #848482
 
-=item gull                                    gull                            #848482
+	gull grey                               gullgrey                        #8b8589
 
-=item gull grey                               gullgrey                        #8b8589
+	gunmetal                                gunmetal                        #555555
 
-=item gunmetal                                gunmetal                        #555555
+	gypsy                                   gypsy                           #80461b
 
-=item gypsy                                   gypsy                           #80461b
+	gypsy red                               gypsyred                        #ab4e52
 
-=item gypsy red                               gypsyred                        #ab4e52
+	haematite red                           haematitered                    #722f37
 
-=item haematite red                           haematitered                    #722f37
+	haematite red                           haematitered                    #905d5d
 
-=item haematite red                           haematitered                    #905d5d
+	haematite red                           haematitered                    #543d3f
 
-=item haematite red                           haematitered                    #543d3f
+	hair brown                              hairbrown                       #5b504f
 
-=item hair brown                              hairbrown                       #5b504f
+	hair brown                              hairbrown                       #555555
 
-=item hair brown                              hairbrown                       #555555
+	hamadan                                 hamadan                         #967117
 
-=item hamadan                                 hamadan                         #967117
+	hamburg lake                            hamburglake                     #be0032
 
-=item hamburg lake                            hamburglake                     #be0032
+	hamburg lake                            hamburglake                     #bc3f4a
 
-=item hamburg lake                            hamburglake                     #bc3f4a
+	hampstead brown                         hampsteadbrown                  #674c47
 
-=item hampstead brown                         hampsteadbrown                  #674c47
+	hankow                                  hankow                          #00304e
 
-=item hankow                                  hankow                          #00304e
+	hankow                                  hankow                          #252440
 
-=item hankow                                  hankow                          #252440
+	hankow                                  hankow                          #4c516d
 
-=item hankow                                  hankow                          #4c516d
+	harbor blue                             harborblue                      #51585e
 
-=item harbor blue                             harborblue                      #51585e
+	harlem blue                             harlemblue                      #2e8495
 
-=item harlem blue                             harlemblue                      #2e8495
+	harlem blue                             harlemblue                      #436b95
 
-=item harlem blue                             harlemblue                      #436b95
+	harlequin                               harlequin                       #44944a
 
-=item harlequin                               harlequin                       #44944a
+	harrison red                            harrisonred                     #be0032
 
-=item harrison red                            harrisonred                     #be0032
+	harvard crimson                         harvardcrimson                  #ab4e52
 
-=item harvard crimson                         harvardcrimson                  #ab4e52
+	harvest                                 harvest                         #ae6938
 
-=item harvest                                 harvest                         #ae6938
+	harvest                                 harvest                         #a67b5b
 
-=item harvest                                 harvest                         #a67b5b
+	hathi gray                              hathigray                       #7d8984
 
-=item hathi gray                              hathigray                       #7d8984
+	hathor                                  hathor                          #00a1c2
 
-=item hathor                                  hathor                          #00a1c2
+	hathor                                  hathor                          #0067a5
 
-=item hathor                                  hathor                          #0067a5
+	havana rose                             havanarose                      #905d5d
 
-=item havana rose                             havanarose                      #905d5d
+	hay                                     hay                             #b9b57d
 
-=item hay                                     hay                             #b9b57d
+	hazel                                   hazel                           #a67b5b
 
-=item hazel                                   hazel                           #a67b5b
+	hazel                                   hazel                           #996515
 
-=item hazel                                   hazel                           #996515
+	hazelnut                                hazelnut                        #a67b5b
 
-=item hazelnut                                hazelnut                        #a67b5b
+	hazelnut                                hazelnut                        #996515
 
-=item hazelnut                                hazelnut                        #996515
+	hazy blue                               hazyblue                        #93c592
 
-=item hazy blue                               hazyblue                        #93c592
+	hazy blue                               hazyblue                        #6aab8e
 
-=item hazy blue                               hazyblue                        #6aab8e
+	hazy blue                               hazyblue                        #8da399
 
-=item hazy blue                               hazyblue                        #8da399
+	heather                                 heather                         #915f6d
 
-=item heather                                 heather                         #915f6d
+	hebe                                    hebe                            #ab4e52
 
-=item hebe                                    hebe                            #ab4e52
+	heliotrope                              heliotrope                      #5d3954
 
-=item heliotrope                              heliotrope                      #5d3954
+	heliotrope grey                         heliotropegrey                  #aa98a9
 
-=item heliotrope grey                         heliotropegrey                  #aa98a9
+	heliotrope grey                         heliotropegrey                  #796878
 
-=item heliotrope grey                         heliotropegrey                  #796878
+	heliotrope grey                         heliotropegrey                  #8b8589
 
-=item heliotrope grey                         heliotropegrey                  #8b8589
+	hellebore green                         helleboregreen                  #4a5d23
 
-=item hellebore green                         helleboregreen                  #4a5d23
+	hellebore green                         helleboregreen                  #8a9a5b
 
-=item hellebore green                         helleboregreen                  #8a9a5b
+	hellebore green                         helleboregreen                  #8f9779
 
-=item hellebore green                         helleboregreen                  #8f9779
+	hellebore green                         helleboregreen                  #4a5d23
 
-=item hellebore green                         helleboregreen                  #4a5d23
+	hellebore green                         helleboregreen                  #515744
 
-=item hellebore green                         helleboregreen                  #515744
+	hellebore red                           helleborered                    #a8516e
 
-=item hellebore red                           helleborered                    #a8516e
+	helvetia blue                           helvetiablue                    #00416a
 
-=item helvetia blue                           helvetiablue                    #00416a
+	hemlock                                 hemlock                         #1a2421
 
-=item hemlock                                 hemlock                         #1a2421
+	hemp                                    hemp                            #8c8767
 
-=item hemp                                    hemp                            #8c8767
+	henna                                   henna                           #882d17
 
-=item henna                                   henna                           #882d17
+	hepatica                                hepatica                        #86608e
 
-=item hepatica                                hepatica                        #86608e
+	hermosa pink                            hermosapink                     #ea9399
 
-=item hermosa pink                            hermosapink                     #ea9399
+	hermosa pink                            hermosapink                     #dea5a4
 
-=item hermosa pink                            hermosapink                     #dea5a4
+	heron                                   heron                           #536878
 
-=item heron                                   heron                           #536878
+	hibernian green                         hiberniangreen                  #355e3b
 
-=item hibernian green                         hiberniangreen                  #355e3b
+	highland green                          highlandgreen                   #1e2321
 
-=item highland green                          highlandgreen                   #1e2321
+	hindu                                   hindu                           #3e322c
 
-=item hindu                                   hindu                           #3e322c
+	hispano                                 hispano                         #80461b
 
-=item hispano                                 hispano                         #80461b
+	hockey                                  hockey                          #be0032
 
-=item hockey                                  hockey                          #be0032
+	holland blue                            hollandblue                     #00304e
 
-=item holland blue                            hollandblue                     #00304e
+	holly berry                             hollyberry                      #bc3f4a
 
-=item holly berry                             hollyberry                      #bc3f4a
+	holly berry                             hollyberry                      #ab4e52
 
-=item holly berry                             hollyberry                      #ab4e52
+	holly green                             hollygreen                      #4a5d23
 
-=item holly green                             hollygreen                      #4a5d23
+	holly green                             hollygreen                      #00622d
 
-=item holly green                             hollygreen                      #00622d
+	holly green                             hollygreen                      #355e3b
 
-=item holly green                             hollygreen                      #355e3b
+	hollyhock                               hollyhock                       #78184a
 
-=item hollyhock                               hollyhock                       #78184a
+	hollywood                               hollywood                       #841b2d
 
-=item hollywood                               hollywood                       #841b2d
+	hollywood                               hollywood                       #ab4e52
 
-=item hollywood                               hollywood                       #ab4e52
+	homage blue                             homageblue                      #252440
 
-=item homage blue                             homageblue                      #252440
+	honey beige                             honeybeige                      #c19a6b
 
-=item honey beige                             honeybeige                      #c19a6b
+	honey bird                              honeybird                       #239eba
 
-=item honey bird                              honeybird                       #239eba
+	honeydew                                honeydew                        #f88379
 
-=item honeydew                                honeydew                        #f88379
+	honeydew                                honeydew                        #d99058
 
-=item honeydew                                honeydew                        #d99058
+	honeysuckle                             honeysuckle                     #c19a6b
 
-=item honeysuckle                             honeysuckle                     #c19a6b
+	honeysweet                              honeysweet                      #c9ae5d
 
-=item honeysweet                              honeysweet                      #c9ae5d
+	honeysweet                              honeysweet                      #c2b280
 
-=item honeysweet                              honeysweet                      #c2b280
+	honey [yellow]                          honeyyellow                     #a18f60
 
-=item honey [yellow]                          honeyyellow                     #a18f60
+	hopi                                    hopi                            #a67b5b
 
-=item hopi                                    hopi                            #a67b5b
+	horace vernet's blue                    horacevernetsblue               #30267a
 
-=item horace vernet's blue                    horacevernetsblue               #30267a
+	horizon [blue]                          horizonblue                     #dfede8
 
-=item horizon [blue]                          horizonblue                     #dfede8
+	horsechestnut                           horsechestnut                   #3e322c
 
-=item horsechestnut                           horsechestnut                   #3e322c
+	hortense violet                         hortenseviolet                  #86608e
 
-=item hortense violet                         hortenseviolet                  #86608e
+	hortensia                               hortensia                       #563c5c
 
-=item hortensia                               hortensia                       #563c5c
+	hortensia                               hortensia                       #301934
 
-=item hortensia                               hortensia                       #301934
+	hortensia                               hortensia                       #50404d
 
-=item hortensia                               hortensia                       #50404d
+	hortensia                               hortensia                       #291e29
 
-=item hortensia                               hortensia                       #291e29
+	huckleberry                             huckleberry                     #2f2140
 
-=item huckleberry                             huckleberry                     #2f2140
+	hudson seal                             hudsonseal                      #555555
 
-=item hudson seal                             hudsonseal                      #555555
+	hudson seal                             hudsonseal                      #222222
 
-=item hudson seal                             hudsonseal                      #222222
+	hummingbird                             hummingbird                     #317873
 
-=item hummingbird                             hummingbird                     #317873
+	hungarian blue                          hungarianblue                   #436b95
 
-=item hungarian blue                          hungarianblue                   #436b95
+	hungarian green                         hungariangreen                  #679267
 
-=item hungarian green                         hungariangreen                  #679267
+	hunter [green]                          huntergreen                     #173620
 
-=item hunter [green]                          huntergreen                     #173620
+	hunter's green                          huntersgreen                    #173620
 
-=item hunter's green                          huntersgreen                    #173620
+	huron                                   huron                           #317873
 
-=item huron                                   huron                           #317873
+	hussar                                  hussar                          #536878
 
-=item hussar                                  hussar                          #536878
+	hyacinth                                hyacinth                        #8c82b6
 
-=item hyacinth                                hyacinth                        #8c82b6
+	hyacinth                                hyacinth                        #86608e
 
-=item hyacinth                                hyacinth                        #86608e
+	hyacinth blue                           hyacinthblue                    #272458
 
-=item hyacinth blue                           hyacinthblue                    #272458
+	hyacinth red                            hyacinthred                     #b4745e
 
-=item hyacinth red                            hyacinthred                     #b4745e
+	hyacinth violet                         hyacinthviolet                  #602f6b
 
-=item hyacinth violet                         hyacinthviolet                  #602f6b
+	hydrangea blue                          hydrangeablue                   #536878
 
-=item hydrangea blue                          hydrangeablue                   #536878
+	hydrangea blue                          hydrangeablue                   #8c92ac
 
-=item hydrangea blue                          hydrangeablue                   #8c92ac
+	hydrangea pink                          hydrangeapink                   #dea5a4
 
-=item hydrangea pink                          hydrangeapink                   #dea5a4
+	hydrangea red                           hydrangeared                    #905d5d
 
-=item hydrangea red                           hydrangeared                    #905d5d
+	hydro                                   hydro                           #536878
 
-=item hydro                                   hydro                           #536878
+	hypermic red                            hypermicred                     #be0032
 
-=item hypermic red                            hypermicred                     #be0032
+	hyssop violet                           hyssopviolet                    #796878
 
-=item hyssop violet                           hyssopviolet                    #796878
+	ibis pink                               ibispink                        #f88379
 
-=item ibis pink                               ibispink                        #f88379
+	ibis pink                               ibispink                        #d9a6a9
 
-=item ibis pink                               ibispink                        #d9a6a9
+	ibis red                                ibisred                         #43302e
 
-=item ibis red                                ibisred                         #43302e
+	iceberg                                 iceberg                         #536878
 
-=item iceberg                                 iceberg                         #536878
+	immenssee                               immenssee                       #5e716a
 
-=item immenssee                               immenssee                       #5e716a
+	imperial                                imperial                        #602f6b
 
-=item imperial                                imperial                        #602f6b
+	imperial                                imperial                        #563c5c
 
-=item imperial                                imperial                        #563c5c
+	imperial                                imperial                        #702963
 
-=item imperial                                imperial                        #702963
+	imperial                                imperial                        #5d3954
 
-=item imperial                                imperial                        #5d3954
+	imperial blue                           imperialblue                    #00416a
 
-=item imperial blue                           imperialblue                    #00416a
+	imperial green                          imperialgreen                   #679267
 
-=item imperial green                          imperialgreen                   #679267
+	imperial green                          imperialgreen                   #3eb489
 
-=item imperial green                          imperialgreen                   #3eb489
+	imperial jade                           imperialjade                    #355e3b
 
-=item imperial jade                           imperialjade                    #355e3b
+	imperial purple                         imperialpurple                  #554c69
 
-=item imperial purple                         imperialpurple                  #554c69
+	imperial stone                          imperialstone                   #967117
 
-=item imperial stone                          imperialstone                   #967117
+	imperial yellow                         imperialyellow                  #e3a857
 
-=item imperial yellow                         imperialyellow                  #e3a857
+	inca gold                               incagold                        #e3a857
 
-=item inca gold                               incagold                        #e3a857
+	indebaudias                             indebaudias                     #50404d
 
-=item indebaudias                             indebaudias                     #50404d
+	inde blue                               indeblue                        #50404d
 
-=item inde blue                               indeblue                        #50404d
+	independence                            independence                    #2f2140
 
-=item independence                            independence                    #2f2140
+	india ink                               indiaink                        #555555
 
-=item india ink                               indiaink                        #555555
+	indian                                  indian                          #ae6938
 
-=item indian                                  indian                          #ae6938
+	indiana                                 indiana                         #ce4676
 
-=item indiana                                 indiana                         #ce4676
+	indian blue                             indianblue                      #50404d
 
-=item indian blue                             indianblue                      #50404d
+	indian brown                            indianbrown                     #483c32
 
-=item indian brown                            indianbrown                     #483c32
+	indian brown                            indianbrown                     #6c541e
 
-=item indian brown                            indianbrown                     #6c541e
+	indian brown                            indianbrown                     #3b3121
 
-=item indian brown                            indianbrown                     #3b3121
+	indian buff                             indianbuff                      #c19a6b
 
-=item indian buff                             indianbuff                      #c19a6b
+	indian lake                             indianlake                      #a8516e
 
-=item indian lake                             indianlake                      #a8516e
+	indian orange                           indianorange                    #e25822
 
-=item indian orange                           indianorange                    #e25822
+	indian pink                             indianpink                      #a87c6d
 
-=item indian pink                             indianpink                      #a87c6d
+	indian purple                           indianpurple                    #673147
 
-=item indian purple                           indianpurple                    #673147
+	indian red                              indianred                       #79443b
 
-=item indian red                              indianred                       #79443b
+	indian red                              indianred                       #882d17
 
-=item indian red                              indianred                       #882d17
+	indian saffron                          indiansaffron                   #f8de7e
 
-=item indian saffron                          indiansaffron                   #f8de7e
+	indian tan                              indiantan                       #996515
 
-=item indian tan                              indiantan                       #996515
+	indian tan                              indiantan                       #c19a6b
 
-=item indian tan                              indiantan                       #c19a6b
+	indian tan                              indiantan                       #826644
 
-=item indian tan                              indiantan                       #826644
+	indian turquoise                        indianturquoise                 #317873
 
-=item indian turquoise                        indianturquoise                 #317873
+	indian yellow                           indianyellow                    #eaa221
 
-=item indian yellow                           indianyellow                    #eaa221
+	indian yellow                           indianyellow                    #e3a857
 
-=item indian yellow                           indianyellow                    #e3a857
+	india red                               indiared                        #56070c
 
-=item india red                               indiared                        #56070c
+	india spice                             indiaspice                      #a67b5b
 
-=item india spice                             indiaspice                      #a67b5b
+	india tan                               indiatan                        #6f4e37
 
-=item india tan                               indiatan                        #6f4e37
+	indico                                  indico                          #50404d
 
-=item indico                                  indico                          #50404d
+	indico carmine                          indicocarmine                   #007791
 
-=item indico carmine                          indicocarmine                   #007791
+	indigo                                  indigo                          #50404d
 
-=item indigo                                  indigo                          #50404d
+	indigo carmine                          indigocarmine                   #007791
 
-=item indigo carmine                          indigocarmine                   #007791
+	indigo extract                          indigoextract                   #007791
 
-=item indigo extract                          indigoextract                   #007791
+	indo                                    indo                            #536878
 
-=item indo                                    indo                            #536878
+	infanta                                 infanta                         #436b95
 
-=item infanta                                 infanta                         #436b95
+	infantry                                infantry                        #536878
 
-=item infantry                                infantry                        #536878
+	infernal blue                           infernalblue                    #252440
 
-=item infernal blue                           infernalblue                    #252440
+	ingenue                                 ingenue                         #dadfb7
 
-=item ingenue                                 ingenue                         #dadfb7
+	ingenue                                 ingenue                         #8f9779
 
-=item ingenue                                 ingenue                         #8f9779
+	ink black                               inkblack                        #51585e
 
-=item ink black                               inkblack                        #51585e
+	ink blue                                inkblue                         #36454f
 
-=item ink blue                                inkblue                         #36454f
+	intense blue                            intenseblue                     #4e5180
 
-=item intense blue                            intenseblue                     #4e5180
+	intense blue                            intenseblue                     #252440
 
-=item intense blue                            intenseblue                     #252440
+	international                           international                   #536878
 
-=item international                           international                   #536878
+	invisible green                         invisiblegreen                  #004b49
 
-=item invisible green                         invisiblegreen                  #004b49
+	invisible green                         invisiblegreen                  #1a2421
 
-=item invisible green                         invisiblegreen                  #1a2421
+	ionian blue                             ionianblue                      #36454f
 
-=item ionian blue                             ionianblue                      #36454f
+	ionian blue                             ionianblue                      #202830
 
-=item ionian blue                             ionianblue                      #202830
+	iris                                    iris                            #91a3b0
 
-=item iris                                    iris                            #91a3b0
+	iris                                    iris                            #aa98a9
 
-=item iris                                    iris                            #aa98a9
+	irisglow                                irisglow                        #8b8589
 
-=item irisglow                                irisglow                        #8b8589
+	iris green                              irisgreen                       #355e3b
 
-=item iris green                              irisgreen                       #355e3b
+	iris green                              irisgreen                       #679267
 
-=item iris green                              irisgreen                       #679267
+	iris mauve                              irismauve                       #ecd5c5
 
-=item iris mauve                              irismauve                       #ecd5c5
+	iris mauve                              irismauve                       #c7ada3
 
-=item iris mauve                              irismauve                       #c7ada3
+	iris mauve                              irismauve                       #c2ac99
 
-=item iris mauve                              irismauve                       #c2ac99
+	iron                                    iron                            #483c32
 
-=item iron                                    iron                            #483c32
+	iron                                    iron                            #222222
 
-=item iron                                    iron                            #222222
+	iron blue                               ironblue                        #555555
 
-=item iron blue                               ironblue                        #555555
+	iron brown                              ironbrown                       #483c32
 
-=item iron brown                              ironbrown                       #483c32
+	iron brown                              ironbrown                       #222222
 
-=item iron brown                              ironbrown                       #222222
+	iron buff                               ironbuff                        #c19a6b
 
-=item iron buff                               ironbuff                        #c19a6b
+	iron buff                               ironbuff                        #c2b280
 
-=item iron buff                               ironbuff                        #c2b280
+	iron crocus                             ironcrocus                      #79443b
 
-=item iron crocus                             ironcrocus                      #79443b
+	iron grey                               irongrey                        #555555
 
-=item iron grey                               irongrey                        #555555
+	iron minium                             ironminium                      #905d5d
 
-=item iron minium                             ironminium                      #905d5d
+	iron minium                             ironminium                      #674c47
 
-=item iron minium                             ironminium                      #674c47
+	iron oxide red                          ironoxidered                    #882d17
 
-=item iron oxide red                          ironoxidered                    #882d17
+	iron oxide red                          ironoxidered                    #80461b
 
-=item iron oxide red                          ironoxidered                    #80461b
+	iron red                                ironred                         #882d17
 
-=item iron red                                ironred                         #882d17
+	iron saffron                            ironsaffron                     #79443b
 
-=item iron saffron                            ironsaffron                     #79443b
+	iron yellow                             ironyellow                      #ed872d
 
-=item iron yellow                             ironyellow                      #ed872d
+	iron yellow                             ironyellow                      #d99058
 
-=item iron yellow                             ironyellow                      #d99058
+	isabella                                isabella                        #c19a6b
 
-=item isabella                                isabella                        #c19a6b
+	isabella                                isabella                        #826644
 
-=item isabella                                isabella                        #826644
+	isabella                                isabella                        #a18f60
 
-=item isabella                                isabella                        #a18f60
+	isabella                                isabella                        #967117
 
-=item isabella                                isabella                        #967117
+	ispahan                                 ispahan                         #36454f
 
-=item ispahan                                 ispahan                         #36454f
+	italian blue                            italianblue                     #0085a1
 
-=item italian blue                            italianblue                     #0085a1
+	italian blue                            italianblue                     #007791
 
-=item italian blue                            italianblue                     #007791
+	italian lake                            italianlake                     #e3a857
 
-=item italian lake                            italianlake                     #e3a857
+	italian ochre                           italianochre                    #ae6938
 
-=item italian ochre                           italianochre                    #ae6938
+	italian ochre                           italianochre                    #a67b5b
 
-=item italian ochre                           italianochre                    #a67b5b
+	italian pink                            italianpink                     #fada5e
 
-=item italian pink                            italianpink                     #fada5e
+	italian pink                            italianpink                     #d4af37
 
-=item italian pink                            italianpink                     #d4af37
+	italian pink                            italianpink                     #f8de7e
 
-=item italian pink                            italianpink                     #f8de7e
+	italian pink                            italianpink                     #c9ae5d
 
-=item italian pink                            italianpink                     #c9ae5d
+	italian straw                           italianstraw                    #f3e5ab
 
-=item italian straw                           italianstraw                    #f3e5ab
+	italian straw                           italianstraw                    #c2b280
 
-=item italian straw                           italianstraw                    #c2b280
+	ivory brown                             ivorybrown                      #6c541e
 
-=item ivory brown                             ivorybrown                      #6c541e
+	ivory brown                             ivorybrown                      #3b3121
 
-=item ivory brown                             ivorybrown                      #3b3121
+	ivory white                             ivorywhite                      #f3e5ab
 
-=item ivory white                             ivorywhite                      #f3e5ab
+	ivory [yellow]                          ivoryyellow                     #f3e5ab
 
-=item ivory [yellow]                          ivoryyellow                     #f3e5ab
+	ivy [green]                             ivygreen                        #665d1e
 
-=item ivy [green]                             ivygreen                        #665d1e
+	ivy [green]                             ivygreen                        #5b5842
 
-=item ivy [green]                             ivygreen                        #5b5842
+	jacaranda brown                         jacarandabrown                  #483c32
 
-=item jacaranda brown                         jacarandabrown                  #483c32
+	jacinthe                                jacinthe                        #d99058
 
-=item jacinthe                                jacinthe                        #d99058
+	jack rabbit                             jackrabbit                      #555555
 
-=item jack rabbit                             jackrabbit                      #555555
+	jack rose                               jackrose                        #be0032
 
-=item jack rose                               jackrose                        #be0032
+	jacqueminot                             jacqueminot                     #ab4e52
 
-=item jacqueminot                             jacqueminot                     #ab4e52
+	jadesheen                               jadesheen                       #679267
 
-=item jadesheen                               jadesheen                       #679267
+	jadesheen                               jadesheen                       #355e3b
 
-=item jadesheen                               jadesheen                       #355e3b
+	jadesheen                               jadesheen                       #5e716a
 
-=item jadesheen                               jadesheen                       #5e716a
+	jaffa orange                            jaffaorange                     #cb6d51
 
-=item jaffa orange                            jaffaorange                     #cb6d51
+	jaffa orange                            jaffaorange                     #d99058
 
-=item jaffa orange                            jaffaorange                     #d99058
+	jaffi                                   jaffi                           #57554c
 
-=item jaffi                                   jaffi                           #57554c
+	jalapa                                  jalapa                          #80461b
 
-=item jalapa                                  jalapa                          #80461b
+	japan blue                              japanblue                       #00304e
 
-=item japan blue                              japanblue                       #00304e
+	japan earth                             japanearth                      #6f4e37
 
-=item japan earth                             japanearth                      #6f4e37
+	japanese blue                           japaneseblue                    #5e716a
 
-=item japanese blue                           japaneseblue                    #5e716a
+	japanese green                          japanesegreen                   #5e716a
 
-=item japanese green                          japanesegreen                   #5e716a
+	japanese red                            japanesered                     #882d17
 
-=item japanese red                            japanesered                     #882d17
+	japanese yellow                         japaneseyellow                  #ffb7a5
 
-=item japanese yellow                         japaneseyellow                  #ffb7a5
+	japanese yellow                         japaneseyellow                  #d9603b
 
-=item japanese yellow                         japaneseyellow                  #d9603b
+	japan rose                              japanrose                       #d9a6a9
 
-=item japan rose                              japanrose                       #d9a6a9
+	japan rose                              japanrose                       #d99058
 
-=item japan rose                              japanrose                       #d99058
+	japonica                                japonica                        #905d5d
 
-=item japonica                                japonica                        #905d5d
+	jasmine                                 jasmine                         #fada5e
 
-=item jasmine                                 jasmine                         #fada5e
+	jasmine                                 jasmine                         #f8de7e
 
-=item jasmine                                 jasmine                         #f8de7e
+	jasper                                  jasper                          #1a2421
 
-=item jasper                                  jasper                          #1a2421
+	jasper green                            jaspergreen                     #3b7861
 
-=item jasper green                            jaspergreen                     #3b7861
+	jasper pink                             jasperpink                      #f88379
 
-=item jasper pink                             jasperpink                      #f88379
+	jasper red                              jasperred                       #ab4e52
 
-=item jasper red                              jasperred                       #ab4e52
+	java                                    java                            #422518
 
-=item java                                    java                            #422518
+	java brown                              javabrown                       #3e322c
 
-=item java brown                              javabrown                       #3e322c
+	javel green                             javelgreen                      #b9b459
 
-=item javel green                             javelgreen                      #b9b459
+	jay [blue]                              jayblue                         #436b95
 
-=item jay [blue]                              jayblue                         #436b95
+	jean bart                               jeanbart                        #2f2140
 
-=item jean bart                               jeanbart                        #2f2140
+	jew's pitch                             jewspitch                       #483c32
 
-=item jew's pitch                             jewspitch                       #483c32
+	jockey                                  jockey                          #ab4e52
 
-=item jockey                                  jockey                          #ab4e52
+	jonquil [yellow]                        jonquilyellow                   #fbc97f
 
-=item jonquil [yellow]                        jonquilyellow                   #fbc97f
+	jonquil [yellow]                        jonquilyellow                   #e3a857
 
-=item jonquil [yellow]                        jonquilyellow                   #e3a857
+	jonquil [yellow]                        jonquilyellow                   #fad6a5
 
-=item jonquil [yellow]                        jonquilyellow                   #fad6a5
+	jonquil [yellow]                        jonquilyellow                   #f8de7e
 
-=item jonquil [yellow]                        jonquilyellow                   #f8de7e
+	jonquil [yellow]                        jonquilyellow                   #c9ae5d
 
-=item jonquil [yellow]                        jonquilyellow                   #c9ae5d
+	josephine                               josephine                       #a67b5b
 
-=item josephine                               josephine                       #a67b5b
+	jouvence blue                           jouvenceblue                    #317873
 
-=item jouvence blue                           jouvenceblue                    #317873
+	jouvence blue                           jouvenceblue                    #367588
 
-=item jouvence blue                           jouvenceblue                    #367588
+	judee                                   judee                           #796878
 
-=item judee                                   judee                           #796878
+	jungle green                            junglegreen                     #1c352d
 
-=item jungle green                            junglegreen                     #1c352d
+	jungle green                            junglegreen                     #1a2421
 
-=item jungle green                            junglegreen                     #1a2421
+	juniper                                 juniper                         #3a4b47
 
-=item juniper                                 juniper                         #3a4b47
+	kabistan                                kabistan                        #3a4b47
 
-=item kabistan                                kabistan                        #3a4b47
+	kaffa                                   kaffa                           #674c47
 
-=item kaffa                                   kaffa                           #674c47
+	kaiser brown                            kaiserbrown                     #80461b
 
-=item kaiser brown                            kaiserbrown                     #80461b
+	kangaroo                                kangaroo                        #57554c
 
-=item kangaroo                                kangaroo                        #57554c
+	kara                                    kara                            #317873
 
-=item kara                                    kara                            #317873
+	kara dagh                               karadagh                        #222222
 
-=item kara dagh                               karadagh                        #222222
+	kasha-beige                             kashabeige                      #8a8776
 
-=item kasha-beige                             kashabeige                      #8a8776
+	kasha-beige                             kashabeige                      #848482
 
-=item kasha-beige                             kashabeige                      #848482
+	kashan                                  kashan                          #007791
 
-=item kashan                                  kashan                          #007791
+	kashmir                                 kashmir                         #355e3b
 
-=item kashmir                                 kashmir                         #355e3b
+	kashmir                                 kashmir                         #3b7861
 
-=item kashmir                                 kashmir                         #3b7861
+	kashmir                                 kashmir                         #5e716a
 
-=item kashmir                                 kashmir                         #5e716a
+	kazak                                   kazak                           #79443b
 
-=item kazak                                   kazak                           #79443b
+	kentucky green                          kentuckygreen                   #665d1e
 
-=item kentucky green                          kentuckygreen                   #665d1e
+	kermanshah                              kermanshah                      #635147
 
-=item kermanshah                              kermanshah                      #635147
+	kermes                                  kermes                          #be0032
 
-=item kermes                                  kermes                          #be0032
+	kermes berries                          kermesberries                   #be0032
 
-=item kermes berries                          kermesberries                   #be0032
+	kesseler yellow                         kesseleryellow                  #fada5e
 
-=item kesseler yellow                         kesseleryellow                  #fada5e
+	kesseler yellow                         kesseleryellow                  #d4af37
 
-=item kesseler yellow                         kesseleryellow                  #d4af37
+	kesseler yellow                         kesseleryellow                  #f8de7e
 
-=item kesseler yellow                         kesseleryellow                  #f8de7e
+	kesseler yellow                         kesseleryellow                  #c9ae5d
 
-=item kesseler yellow                         kesseleryellow                  #c9ae5d
+	kettledrum                              kettledrum                      #79443b
 
-=item kettledrum                              kettledrum                      #79443b
+	khaki                                   khaki                           #c19a6b
 
-=item khaki                                   khaki                           #c19a6b
+	khaki                                   khaki                           #826644
 
-=item khaki                                   khaki                           #826644
+	khiva                                   khiva                           #9e4732
 
-=item khiva                                   khiva                           #9e4732
+	kildare green                           kildaregreen                    #8a9a5b
 
-=item kildare green                           kildaregreen                    #8a9a5b
+	killarney [green]                       killarneygreen                  #679267
 
-=item killarney [green]                       killarneygreen                  #679267
+	killarney [green]                       killarneygreen                  #3b7861
 
-=item killarney [green]                       killarneygreen                  #3b7861
+	kinema red                              kinemared                       #bc3f4a
 
-=item kinema red                              kinemared                       #bc3f4a
+	kingfisher                              kingfisher                      #00304e
 
-=item kingfisher                              kingfisher                      #00304e
+	king's blue                             kingsblue                       #70a3cc
 
-=item king's blue                             kingsblue                       #70a3cc
+	king's blue                             kingsblue                       #00416a
 
-=item king's blue                             kingsblue                       #00416a
+	king's blue                             kingsblue                       #436b95
 
-=item king's blue                             kingsblue                       #436b95
+	king's blue                             kingsblue                       #436b95
 
-=item king's blue                             kingsblue                       #436b95
+	king's yellow                           kingsyellow                     #fada5e
 
-=item king's yellow                           kingsyellow                     #fada5e
+	king's yellow                           kingsyellow                     #d4af37
 
-=item king's yellow                           kingsyellow                     #d4af37
+	king's yellow                           kingsyellow                     #f8de7e
 
-=item king's yellow                           kingsyellow                     #f8de7e
+	king's yellow                           kingsyellow                     #c9ae5d
 
-=item king's yellow                           kingsyellow                     #c9ae5d
+	kirchberger green                       kirchbergergreen                #3eb489
 
-=item kirchberger green                       kirchbergergreen                #3eb489
+	kis kilim                               kiskilim                        #6f4e37
 
-=item kis kilim                               kiskilim                        #6f4e37
+	kobe                                    kobe                            #882d17
 
-=item kobe                                    kobe                            #882d17
+	kolinsky                                kolinsky                        #422518
 
-=item kolinsky                                kolinsky                        #422518
+	korea                                   korea                           #9e4732
 
-=item korea                                   korea                           #9e4732
+	korea                                   korea                           #79443b
 
-=item korea                                   korea                           #79443b
+	kork                                    kork                            #a8516e
 
-=item kork                                    kork                            #a8516e
+	korkir                                  korkir                          #a8516e
 
-=item korkir                                  korkir                          #a8516e
+	kremlin                                 kremlin                         #004b49
 
-=item kremlin                                 kremlin                         #004b49
+	kronberg's green                        kronbergsgreen                  #4a5d23
 
-=item kronberg's green                        kronbergsgreen                  #4a5d23
+	kurdistan                               kurdistan                       #36454f
 
-=item kurdistan                               kurdistan                       #36454f
+	kurdistan                               kurdistan                       #202428
 
-=item kurdistan                               kurdistan                       #202428
+	kurdistan                               kurdistan                       #50404d
 
-=item kurdistan                               kurdistan                       #50404d
+	kurdistan                               kurdistan                       #242124
 
-=item kurdistan                               kurdistan                       #242124
+	kyoto                                   kyoto                           #f88379
 
-=item kyoto                                   kyoto                           #f88379
+	kyoto                                   kyoto                           #ed872d
 
-=item kyoto                                   kyoto                           #ed872d
+	kyoto                                   kyoto                           #d99058
 
-=item kyoto                                   kyoto                           #d99058
+	labrador                                labrador                        #00304e
 
-=item labrador                                labrador                        #00304e
+	labrador                                labrador                        #36454f
 
-=item labrador                                labrador                        #36454f
+	lac lake                                laclake                         #a8516e
 
-=item lac lake                                laclake                         #a8516e
+	lacquer red                             lacquerred                      #9e4732
 
-=item lacquer red                             lacquerred                      #9e4732
+	laelia pink                             laeliapink                      #c17e91
 
-=item laelia pink                             laeliapink                      #c17e91
+	laelia pink                             laeliapink                      #af868e
 
-=item laelia pink                             laeliapink                      #af868e
+	la france pink                          lafrancepink                    #dea5a4
 
-=item la france pink                          lafrancepink                    #dea5a4
+	lagoon                                  lagoon                          #66ada4
 
-=item lagoon                                  lagoon                          #66ada4
+	lake                                    lake                            #be0032
 
-=item lake                                    lake                            #be0032
+	lake                                    lake                            #bc3f4a
 
-=item lake                                    lake                            #bc3f4a
+	lake blue                               lakeblue                        #317873
 
-=item lake blue                               lakeblue                        #317873
+	lama                                    lama                            #483c32
 
-=item lama                                    lama                            #483c32
+	lambert's blue                          lambertsblue                    #436b95
 
-=item lambert's blue                          lambertsblue                    #436b95
+	lapis                                   lapis                           #317873
 
-=item lapis                                   lapis                           #317873
+	lariat                                  lariat                          #a67b5b
 
-=item lariat                                  lariat                          #a67b5b
+	lariat                                  lariat                          #c19a6b
 
-=item lariat                                  lariat                          #c19a6b
+	lark                                    lark                            #c2b280
 
-=item lark                                    lark                            #c2b280
+	lark                                    lark                            #a18f60
 
-=item lark                                    lark                            #a18f60
+	lark                                    lark                            #967117
 
-=item lark                                    lark                            #967117
+	larkspur                                larkspur                        #367588
 
-=item larkspur                                larkspur                        #367588
+	latericeous                             latericeous                     #80461b
 
-=item latericeous                             latericeous                     #80461b
+	latericeous                             latericeous                     #6f4e37
 
-=item latericeous                             latericeous                     #6f4e37
+	lateritious                             lateritious                     #80461b
 
-=item lateritious                             lateritious                     #80461b
+	lateritious                             lateritious                     #6f4e37
 
-=item lateritious                             lateritious                     #6f4e37
+	latoun                                  latoun                          #c9ae5d
 
-=item latoun                                  latoun                          #c9ae5d
+	latten                                  latten                          #c9ae5d
 
-=item latten                                  latten                          #c9ae5d
+	laundry blue                            laundryblue                     #00416a
 
-=item laundry blue                            laundryblue                     #00416a
+	laundry blue                            laundryblue                     #436b95
 
-=item laundry blue                            laundryblue                     #436b95
+	laurel green                            laurelgreen                     #867e36
 
-=item laurel green                            laurelgreen                     #867e36
+	laurel oak                              laureloak                       #79443b
 
-=item laurel oak                              laureloak                       #79443b
+	laurel pink                             laurelpink                      #e4717a
 
-=item laurel pink                             laurelpink                      #e4717a
+	laurel pink                             laurelpink                      #ab4e52
 
-=item laurel pink                             laurelpink                      #ab4e52
+	lava                                    lava                            #222222
 
-=item lava                                    lava                            #222222
+	la vallière                             lavallire                       #796878
 
-=item la vallière                             lavallire                       #796878
+	lavender                                lavender                        #aa98a9
 
-=item lavender                                lavender                        #aa98a9
+	lawn green                              lawngreen                       #8a9a5b
 
-=item lawn green                              lawngreen                       #8a9a5b
+	lead                                    lead                            #5d555b
 
-=item lead                                    lead                            #5d555b
+	lead                                    lead                            #555555
 
-=item lead                                    lead                            #555555
+	lead grey                               leadgrey                        #8c8767
 
-=item lead grey                               leadgrey                        #8c8767
+	lead ochre                              leadochre                       #f3e5ab
 
-=item lead ochre                              leadochre                       #f3e5ab
+	leadville                               leadville                       #5d555b
 
-=item leadville                               leadville                       #5d555b
+	leaf mold                               leafmold                        #422518
 
-=item leaf mold                               leafmold                        #422518
+	leaf red                                leafred                         #be0032
 
-=item leaf red                                leafred                         #be0032
+	leather                                 leather                         #ae6938
 
-=item leather                                 leather                         #ae6938
+	leather brown                           leatherbrown                    #6f4e37
 
-=item leather brown                           leatherbrown                    #6f4e37
+	leather lake                            leatherlake                     #be6516
 
-=item leather lake                            leatherlake                     #be6516
+	leather lake                            leatherlake                     #ae6938
 
-=item leather lake                            leatherlake                     #ae6938
+	leather lake                            leatherlake                     #80461b
 
-=item leather lake                            leatherlake                     #80461b
+	leek green                              leekgreen                       #867e36
 
-=item leek green                              leekgreen                       #867e36
+	leek green                              leekgreen                       #8a9a5b
 
-=item leek green                              leekgreen                       #8a9a5b
+	leghorn                                 leghorn                         #f3e5ab
 
-=item leghorn                                 leghorn                         #f3e5ab
+	leghorn                                 leghorn                         #c2b280
 
-=item leghorn                                 leghorn                         #c2b280
+	legion blue                             legionblue                      #00304e
 
-=item legion blue                             legionblue                      #00304e
+	leitch's blue                           leitchsblue                     #00a1c2
 
-=item leitch's blue                           leitchsblue                     #00a1c2
+	leithner's blue                         leithnersblue                   #007791
 
-=item leithner's blue                         leithnersblue                   #007791
+	lemmian earth                           lemmianearth                    #79443b
 
-=item lemmian earth                           lemmianearth                    #79443b
+	lemnian ruddle                          lemnianruddle                   #79443b
 
-=item lemnian ruddle                          lemnianruddle                   #79443b
+	lemnos                                  lemnos                          #79443b
 
-=item lemnos                                  lemnos                          #79443b
+	lemon chrome                            lemonchrome                     #fada5e
 
-=item lemon chrome                            lemonchrome                     #fada5e
+	lemon yellow                            lemonyellow                     #fada5e
 
-=item lemon yellow                            lemonyellow                     #fada5e
+	lemon yellow                            lemonyellow                     #d4af37
 
-=item lemon yellow                            lemonyellow                     #d4af37
+	lemon yellow                            lemonyellow                     #f8de7e
 
-=item lemon yellow                            lemonyellow                     #f8de7e
+	lemon yellow                            lemonyellow                     #c9ae5d
 
-=item lemon yellow                            lemonyellow                     #c9ae5d
+	lettuce green                           lettucegreen                    #8a9a5b
 
-=item lettuce green                           lettucegreen                    #8a9a5b
+	levant red                              levantred                       #ab4e52
 
-=item levant red                              levantred                       #ab4e52
+	leyden blue                             leydenblue                      #007791
 
-=item leyden blue                             leydenblue                      #007791
+	liberia                                 liberia                         #3e322c
 
-=item liberia                                 liberia                         #3e322c
+	liberty                                 liberty                         #0067a5
 
-=item liberty                                 liberty                         #0067a5
+	liberty                                 liberty                         #545aa7
 
-=item liberty                                 liberty                         #545aa7
+	liberty blue                            libertyblue                     #4e5180
 
-=item liberty blue                            libertyblue                     #4e5180
+	liberty green                           libertygreen                    #8a9a5b
 
-=item liberty green                           libertygreen                    #8a9a5b
+	lichen                                  lichen                          #515744
 
-=item lichen                                  lichen                          #515744
+	lichen green                            lichengreen                     #b2beb5
 
-=item lichen green                            lichengreen                     #b2beb5
+	lido                                    lido                            #967117
 
-=item lido                                    lido                            #967117
+	lierre                                  lierre                          #665d1e
 
-=item lierre                                  lierre                          #665d1e
+	lierre                                  lierre                          #5b5842
 
-=item lierre                                  lierre                          #5b5842
+	light blue 1                            lightblue1                      #dadfb7
 
-=item light blue 1                            lightblue1                      #dadfb7
+	light blue 2, light blue 3              lightblue2lightblue3            #c7e6d7
 
-=item light blue 2, light blue 3              lightblue2lightblue3            #c7e6d7
+	light blue 2, light blue 3              lightblue2lightblue3            #bcd4e6
 
-=item light blue 2, light blue 3              lightblue2lightblue3            #bcd4e6
+	light blue 4                            lightblue4                      #bcd4e6
 
-=item light blue 4                            lightblue4                      #bcd4e6
+	light blue 6                            lightblue6                      #91a3b0
 
-=item light blue 6                            lightblue6                      #91a3b0
+	light blue,, light blue 5               lightbluelightblue5             #c7e6d7
 
-=item light blue,, light blue 5               lightbluelightblue5             #c7e6d7
+	light brunswick green                   lightbrunswickgreen             #355e3b
 
-=item light brunswick green                   lightbrunswickgreen             #355e3b
+	light chrome green                      lightchromegreen                #355e3b
 
-=item light chrome green                      lightchromegreen                #355e3b
+	light chrome yellow                     lightchromeyellow               #d4af37
 
-=item light chrome yellow                     lightchromeyellow               #d4af37
+	light grège                             lightgrge                       #8a8776
 
-=item light grège                             lightgrge                       #8a8776
+	light gunmetal                          lightgunmetal                   #555555
 
-=item light gunmetal                          lightgunmetal                   #555555
+	light red                               lightred                        #cb6d51
 
-=item light red                               lightred                        #cb6d51
+	light stone                             lightstone                      #c2b280
 
-=item light stone                             lightstone                      #c2b280
+	light stone                             lightstone                      #a18f60
 
-=item light stone                             lightstone                      #a18f60
+	light wedgwood [blue]                   lightwedgwoodblue               #536878
 
-=item light wedgwood [blue]                   lightwedgwoodblue               #536878
+	lilac                                   lilac                           #dea5a4
 
-=item lilac                                   lilac                           #dea5a4
+	lilac                                   lilac                           #ad8884
 
-=item lilac                                   lilac                           #ad8884
+	lilac                                   lilac                           #aa98a9
 
-=item lilac                                   lilac                           #aa98a9
+	lilaceous                               lilaceous                       #dea5a4
 
-=item lilaceous                               lilaceous                       #dea5a4
+	lilaceous                               lilaceous                       #ad8884
 
-=item lilaceous                               lilaceous                       #ad8884
+	lilac gray                              lilacgray                       #c2ac99
 
-=item lilac gray                              lilacgray                       #c2ac99
+	lilac gray                              lilacgray                       #bfb8a5
 
-=item lilac gray                              lilacgray                       #bfb8a5
+	lilas                                   lilas                           #dea5a4
 
-=item lilas                                   lilas                           #dea5a4
+	lilas                                   lilas                           #ad8884
 
-=item lilas                                   lilas                           #ad8884
+	lilium                                  lilium                          #86608e
 
-=item lilium                                  lilium                          #86608e
+	lilium                                  lilium                          #915c83
 
-=item lilium                                  lilium                          #915c83
+	lily green                              lilygreen                       #8a9a5b
 
-=item lily green                              lilygreen                       #8a9a5b
+	lily green                              lilygreen                       #4e5755
 
-=item lily green                              lilygreen                       #4e5755
+	limawood                                limawood                        #ab4e52
 
-=item limawood                                limawood                        #ab4e52
+	limawood                                limawood                        #905d5d
 
-=item limawood                                limawood                        #905d5d
+	lime blue                               limeblue                        #436b95
 
-=item lime blue                               limeblue                        #436b95
+	lime green                              limegreen                       #b9b57d
 
-=item lime green                              limegreen                       #b9b57d
+	lime green                              limegreen                       #867e36
 
-=item lime green                              limegreen                       #867e36
+	limestone                               limestone                       #5b504f
 
-=item limestone                               limestone                       #5b504f
+	limestone                               limestone                       #555555
 
-=item limestone                               limestone                       #555555
+	lime [yellow]                           limeyellow                      #c9ae5d
 
-=item lime [yellow]                           limeyellow                      #c9ae5d
+	lime [yellow]                           limeyellow                      #c2b280
 
-=item lime [yellow]                           limeyellow                      #c2b280
+	limoges                                 limoges                         #0067a5
 
-=item limoges                                 limoges                         #0067a5
+	limoges                                 limoges                         #436b95
 
-=item limoges                                 limoges                         #436b95
+	lincoln green                           lincolngreen                    #4a5d23
 
-=item lincoln green                           lincolngreen                    #4a5d23
+	lincoln red                             lincolnred                      #be0032
 
-=item lincoln red                             lincolnred                      #be0032
+	linden green                            lindengreen                     #b9b459
 
-=item linden green                            lindengreen                     #b9b459
+	linden yellow                           lindenyellow                    #b9b459
 
-=item linden yellow                           lindenyellow                    #b9b459
+	linoleum brown                          linoleumbrown                   #826644
 
-=item linoleum brown                          linoleumbrown                   #826644
+	lint                                    lint                            #8c8767
 
-=item lint                                    lint                            #8c8767
+	lint-white                              lintwhite                       #f3e5ab
 
-=item lint-white                              lintwhite                       #f3e5ab
+	lint-white                              lintwhite                       #c2b280
 
-=item lint-white                              lintwhite                       #c2b280
+	lion                                    lion                            #c19a6b
 
-=item lion                                    lion                            #c19a6b
+	lion                                    lion                            #826644
 
-=item lion                                    lion                            #826644
+	lion tawny                              liontawny                       #c19a6b
 
-=item lion tawny                              liontawny                       #c19a6b
+	lion tawny                              liontawny                       #826644
 
-=item lion tawny                              liontawny                       #826644
+	liqueur green                           liqueurgreen                    #eae679
 
-=item liqueur green                           liqueurgreen                    #eae679
+	liqueur green                           liqueurgreen                    #b9b459
 
-=item liqueur green                           liqueurgreen                    #b9b459
+	liseran purple                          liseranpurple                   #9e4f88
 
-=item liseran purple                          liseranpurple                   #9e4f88
+	litho purple                            lithopurple                     #86608e
 
-=item litho purple                            lithopurple                     #86608e
+	litho purple                            lithopurple                     #563c5c
 
-=item litho purple                            lithopurple                     #563c5c
+	litho purple                            lithopurple                     #796878
 
-=item litho purple                            lithopurple                     #796878
+	liver                                   liver                           #674c47
 
-=item liver                                   liver                           #674c47
+	liver brown                             liverbrown                      #674c47
 
-=item liver brown                             liverbrown                      #674c47
+	liver maroon                            livermaroon                     #674c47
 
-=item liver maroon                            livermaroon                     #674c47
+	livid                                   livid                           #5d555b
 
-=item livid                                   livid                           #5d555b
+	livid                                   livid                           #555555
 
-=item livid                                   livid                           #555555
+	livid brown                             lividbrown                      #905d5d
 
-=item livid brown                             lividbrown                      #905d5d
+	livid pink                              lividpink                       #c4aead
 
-=item livid pink                              lividpink                       #c4aead
+	livid purple                            lividpurple                     #836479
 
-=item livid purple                            lividpurple                     #836479
+	livid violet                            lividviolet                     #ad8884
 
-=item livid violet                            lividviolet                     #ad8884
+	lizard bronze                           lizardbronze                    #867e36
 
-=item lizard bronze                           lizardbronze                    #867e36
+	lizard [green]                          lizardgreen                     #3b7861
 
-=item lizard [green]                          lizardgreen                     #3b7861
+	loam                                    loam                            #5b504f
 
-=item loam                                    loam                            #5b504f
+	lobelia [blue]                          lobeliablue                     #604e97
 
-=item lobelia [blue]                          lobeliablue                     #604e97
+	lobelia violet                          lobeliaviolet                   #796878
 
-=item lobelia violet                          lobeliaviolet                   #796878
+	lobster                                 lobster                         #aa381e
 
-=item lobster                                 lobster                         #aa381e
+	lobster                                 lobster                         #9e4732
 
-=item lobster                                 lobster                         #9e4732
+	locarno green                           locarnogreen                    #3b7861
 
-=item locarno green                           locarnogreen                    #3b7861
+	loganberry                              loganberry                      #563c5c
 
-=item loganberry                              loganberry                      #563c5c
+	log cabin                               logcabin                        #5b504f
 
-=item log cabin                               logcabin                        #5b504f
+	logwood                                 logwood                         #291e29
 
-=item logwood                                 logwood                         #291e29
+	logwood                                 logwood                         #242124
 
-=item logwood                                 logwood                         #242124
+	logwood blue                            logwoodblue                     #51585e
 
-=item logwood blue                            logwoodblue                     #51585e
+	lo-kao                                  lokao                           #93c592
 
-=item lo-kao                                  lokao                           #93c592
+	lo-kao                                  lokao                           #6aab8e
 
-=item lo-kao                                  lokao                           #6aab8e
+	london brown                            londonbrown                     #43302e
 
-=item london brown                            londonbrown                     #43302e
+	london smoke                            londonsmoke                     #222222
 
-=item london smoke                            londonsmoke                     #222222
+	long beach                              longbeach                       #c19a6b
 
-=item long beach                              longbeach                       #c19a6b
+	longchamps                              longchamps                      #a67b5b
 
-=item longchamps                              longchamps                      #a67b5b
+	longchamps                              longchamps                      #958070
 
-=item longchamps                              longchamps                      #958070
+	lotus                                   lotus                           #c08081
 
-=item lotus                                   lotus                           #c08081
+	lotus                                   lotus                           #ad8884
 
-=item lotus                                   lotus                           #ad8884
+	lotus                                   lotus                           #c48379
 
-=item lotus                                   lotus                           #c48379
+	louis philippe                          louisphilippe                   #8791bf
 
-=item louis philippe                          louisphilippe                   #8791bf
+	loutre                                  loutre                          #6c541e
 
-=item loutre                                  loutre                          #6c541e
+	loutre                                  loutre                          #3b3121
 
-=item loutre                                  loutre                          #3b3121
+	louvain                                 louvain                         #536878
 
-=item louvain                                 louvain                         #536878
+	louvain                                 louvain                         #51585e
 
-=item louvain                                 louvain                         #51585e
+	love bird                               lovebird                        #7e9f2e
 
-=item love bird                               lovebird                        #7e9f2e
+	love-in-a-mist                          loveinamist                     #66aabc
 
-=item love-in-a-mist                          loveinamist                     #66aabc
+	lucerne blue                            lucerneblue                     #8791bf
 
-=item lucerne blue                            lucerneblue                     #8791bf
+	luciole                                 luciole                         #81878b
 
-=item luciole                                 luciole                         #81878b
+	lucky stone                             luckystone                      #91a3b0
 
-=item lucky stone                             luckystone                      #91a3b0
+	lumiere blue                            lumiereblue                     #66ada4
 
-=item lumiere blue                            lumiereblue                     #66ada4
+	lumiere green                           lumieregreen                    #c9dc89
 
-=item lumiere green                           lumieregreen                    #c9dc89
+	lupine                                  lupine                          #70a3cc
 
-=item lupine                                  lupine                          #70a3cc
+	lupine                                  lupine                          #8791bf
 
-=item lupine                                  lupine                          #8791bf
+	luteous                                 luteous                         #eae679
 
-=item luteous                                 luteous                         #eae679
+	luteous                                 luteous                         #b9b459
 
-=item luteous                                 luteous                         #b9b459
+	luxor                                   luxor                           #545aa7
 
-=item luxor                                   luxor                           #545aa7
+	lyons blue                              lyonsblue                       #0067a5
 
-=item lyons blue                              lyonsblue                       #0067a5
+	macaroon                                macaroon                        #c19a6b
 
-=item macaroon                                macaroon                        #c19a6b
+	madder                                  madder                          #bc3f4a
 
-=item madder                                  madder                          #bc3f4a
+	madder                                  madder                          #ab4e52
 
-=item madder                                  madder                          #ab4e52
+	madder                                  madder                          #d9603b
 
-=item madder                                  madder                          #d9603b
+	madder                                  madder                          #cb6d51
 
-=item madder                                  madder                          #cb6d51
+	madder blue                             madderblue                      #9690ab
 
-=item madder blue                             madderblue                      #9690ab
+	madder blue                             madderblue                      #554c69
 
-=item madder blue                             madderblue                      #554c69
+	madder brown                            madderbrown                     #79443b
 
-=item madder brown                            madderbrown                     #79443b
+	madder carmine                          maddercarmine                   #ab4e52
 
-=item madder carmine                          maddercarmine                   #ab4e52
+	madder carmine                          maddercarmine                   #a8516e
 
-=item madder carmine                          maddercarmine                   #a8516e
+	madder indian red                       madderindianred                 #79443b
 
-=item madder indian red                       madderindianred                 #79443b
+	madder lake                             madderlake                      #bc3f4a
 
-=item madder lake                             madderlake                      #bc3f4a
+	madder lake                             madderlake                      #b3446c
 
-=item madder lake                             madderlake                      #b3446c
+	madder pink                             madderpink                      #b3446c
 
-=item madder pink                             madderpink                      #b3446c
+	madder red                              madderred                       #bc3f4a
 
-=item madder red                              madderred                       #bc3f4a
+	madder red                              madderred                       #ab4e52
 
-=item madder red                              madderred                       #ab4e52
+	madder red                              madderred                       #d9603b
 
-=item madder red                              madderred                       #d9603b
+	madder red                              madderred                       #cb6d51
 
-=item madder red                              madderred                       #cb6d51
+	madder violet                           madderviolet                    #563c5c
 
-=item madder violet                           madderviolet                    #563c5c
+	madeline blue                           madelineblue                    #4c516d
 
-=item madeline blue                           madelineblue                    #4c516d
+	madonna                                 madonna                         #436b95
 
-=item madonna                                 madonna                         #436b95
+	madonna                                 madonna                         #536878
 
-=item madonna                                 madonna                         #536878
+	madrid                                  madrid                          #635147
 
-=item madrid                                  madrid                          #635147
+	madrid                                  madrid                          #7e6d5a
 
-=item madrid                                  madrid                          #7e6d5a
+	madura                                  madura                          #826644
 
-=item madura                                  madura                          #826644
+	magenta                                 magenta                         #78184a
 
-=item magenta                                 magenta                         #78184a
+	magenta rose                            magentarose                     #78184a
 
-=item magenta rose                            magentarose                     #78184a
+	magnolia                                magnolia                        #c08081
 
-=item magnolia                                magnolia                        #c08081
+	magnolia                                magnolia                        #905d5d
 
-=item magnolia                                magnolia                        #905d5d
+	magnolia                                magnolia                        #c48379
 
-=item magnolia                                magnolia                        #c48379
+	mahogany                                mahogany                        #79443b
 
-=item mahogany                                mahogany                        #79443b
+	mahogany brown                          mahoganybrown                   #79443b
 
-=item mahogany brown                          mahoganybrown                   #79443b
+	mahogany red                            mahoganyred                     #79443b
 
-=item mahogany red                            mahoganyred                     #79443b
+	maiden's blush                          maidensblush                    #a87c6d
 
-=item maiden's blush                          maidensblush                    #a87c6d
+	maintenon                               maintenon                       #cb6d51
 
-=item maintenon                               maintenon                       #cb6d51
+	maise                                   maise                           #e3a857
 
-=item maise                                   maise                           #e3a857
+	maise                                   maise                           #fad6a5
 
-=item maise                                   maise                           #fad6a5
+	maise                                   maise                           #c9ae5d
 
-=item maise                                   maise                           #c9ae5d
+	majolica                                majolica                        #00304e
 
-=item majolica                                majolica                        #00304e
+	majolica blue                           majolicablue                    #00304e
 
-=item majolica blue                           majolicablue                    #00304e
+	majolica blue                           majolicablue                    #252440
 
-=item majolica blue                           majolicablue                    #252440
+	majolica blue                           majolicablue                    #4c516d
 
-=item majolica blue                           majolicablue                    #4c516d
+	majolica earth                          majolicaearth                   #882d17
 
-=item majolica earth                          majolicaearth                   #882d17
+	malabar                                 malabar                         #6f4e37
 
-=item malabar                                 malabar                         #6f4e37
+	malacca                                 malacca                         #c19a6b
 
-=item malacca                                 malacca                         #c19a6b
+	malacca                                 malacca                         #c2b280
 
-=item malacca                                 malacca                         #c2b280
+	malachite green                         malachitegreen                  #679267
 
-=item malachite green                         malachitegreen                  #679267
+	malaga                                  malaga                          #722f37
 
-=item malaga                                  malaga                          #722f37
+	malaga                                  malaga                          #56070c
 
-=item malaga                                  malaga                          #56070c
+	malay                                   malay                           #6f4e37
 
-=item malay                                   malay                           #6f4e37
+	mallard                                 mallard                         #004958
 
-=item mallard                                 mallard                         #004958
+	mallow pink                             mallowpink                      #d597ae
 
-=item mallow pink                             mallowpink                      #d597ae
+	mallow purple                           mallowpurple                    #a8516e
 
-=item mallow purple                           mallowpurple                    #a8516e
+	mallow red                              mallowred                       #a8516e
 
-=item mallow red                              mallowred                       #a8516e
+	malmaison                               malmaison                       #f8de7e
 
-=item malmaison                               malmaison                       #f8de7e
+	malmaison                               malmaison                       #c9ae5d
 
-=item malmaison                               malmaison                       #c9ae5d
+	malmaison rose                          malmaisonrose                   #ce4676
 
-=item malmaison rose                          malmaisonrose                   #ce4676
+	malmaison rose                          malmaisonrose                   #b3446c
 
-=item malmaison rose                          malmaisonrose                   #b3446c
+	manchu                                  manchu                          #6f4e37
 
-=item manchu                                  manchu                          #6f4e37
+	mandalay                                mandalay                        #635147
 
-=item mandalay                                mandalay                        #635147
+	mandalay                                mandalay                        #3e322c
 
-=item mandalay                                mandalay                        #3e322c
+	mandarin orange                         mandarinorange                  #ed872d
 
-=item mandarin orange                         mandarinorange                  #ed872d
+	mandarin red                            mandarinred                     #d9603b
 
-=item mandarin red                            mandarinred                     #d9603b
+	manganese brown                         manganesebrown                  #6f4e37
 
-=item manganese brown                         manganesebrown                  #6f4e37
+	manganese velvet brown                  manganesevelvetbrown            #826644
 
-=item manganese velvet brown                  manganesevelvetbrown            #826644
+	manganese velvet brown                  manganesevelvetbrown            #4b3621
 
-=item manganese velvet brown                  manganesevelvetbrown            #4b3621
+	manganese violet                        manganeseviolet                 #875692
 
-=item manganese violet                        manganeseviolet                 #875692
+	mango                                   mango                           #ae6938
 
-=item mango                                   mango                           #ae6938
+	mango                                   mango                           #a67b5b
 
-=item mango                                   mango                           #a67b5b
+	manila                                  manila                          #c19a6b
 
-=item manila                                  manila                          #c19a6b
+	manon                                   manon                           #958070
 
-=item manon                                   manon                           #958070
+	manzanita                               manzanita                       #79443b
 
-=item manzanita                               manzanita                       #79443b
+	maple                                   maple                           #c2b280
 
-=item maple                                   maple                           #c2b280
+	maple sugar                             maplesugar                      #826644
 
-=item maple sugar                             maplesugar                      #826644
+	maracaibo                               maracaibo                       #422518
 
-=item maracaibo                               maracaibo                       #422518
+	marathon                                marathon                        #ed872d
 
-=item marathon                                marathon                        #ed872d
+	marble green                            marblegreen                     #1e2321
 
-=item marble green                            marblegreen                     #1e2321
+	marguerite yellow                       margueriteyellow                #dadfb7
 
-=item marguerite yellow                       margueriteyellow                #dadfb7
+	marie antoinette                        marieantoinette                 #ad8884
 
-=item marie antoinette                        marieantoinette                 #ad8884
+	marie antoinette                        marieantoinette                 #905d5d
 
-=item marie antoinette                        marieantoinette                 #905d5d
+	marine [blue]                           marineblue                      #00304e
 
-=item marine [blue]                           marineblue                      #00304e
+	marine [blue]                           marineblue                      #4e5180
 
-=item marine [blue]                           marineblue                      #4e5180
+	marine [blue]                           marineblue                      #252440
 
-=item marine [blue]                           marineblue                      #252440
+	marine corps                            marinecorps                     #4c516d
 
-=item marine corps                            marinecorps                     #4c516d
+	marine green                            marinegreen                     #1b4d3e
 
-=item marine green                            marinegreen                     #1b4d3e
+	marine green                            marinegreen                     #3a4b47
 
-=item marine green                            marinegreen                     #3a4b47
+	maris                                   maris                           #3a4b47
 
-=item maris                                   maris                           #3a4b47
+	maris                                   maris                           #004b49
 
-=item maris                                   maris                           #004b49
+	marmora                                 marmora                         #317873
 
-=item marmora                                 marmora                         #317873
+	marocain                                marocain                        #635147
 
-=item marocain                                marocain                        #635147
+	marone                                  marone                          #635147
 
-=item marone                                  marone                          #635147
+	maroon                                  maroon                          #722f37
 
-=item maroon                                  maroon                          #722f37
+	maroon                                  maroon                          #56070c
 
-=item maroon                                  maroon                          #56070c
+	maroon                                  maroon                          #3e1d1e
 
-=item maroon                                  maroon                          #3e1d1e
+	marron                                  marron                          #635147
 
-=item marron                                  marron                          #635147
+	marrone                                 marrone                         #635147
 
-=item marrone                                 marrone                         #635147
+	marron glacé                            marronglac                      #6f4e37
 
-=item marron glacé                            marronglac                      #6f4e37
+	marsala                                 marsala                         #79443b
 
-=item marsala                                 marsala                         #79443b
+	mars brown                              marsbrown                       #6f4e37
 
-=item mars brown                              marsbrown                       #6f4e37
+	marsh rose                              marshrose                       #905d5d
 
-=item marsh rose                              marshrose                       #905d5d
+	mars orange                             marsorange                      #cb6d51
 
-=item mars orange                             marsorange                      #cb6d51
+	mars red                                marsred                         #9e4732
 
-=item mars red                                marsred                         #9e4732
+	mars violet                             marsviolet                      #56070c
 
-=item mars violet                             marsviolet                      #56070c
+	mars yellow                             marsyellow                      #ed872d
 
-=item mars yellow                             marsyellow                      #ed872d
+	mars yellow                             marsyellow                      #d99058
 
-=item mars yellow                             marsyellow                      #d99058
+	martinique                              martinique                      #ae6938
 
-=item martinique                              martinique                      #ae6938
+	martinique                              martinique                      #a67b5b
 
-=item martinique                              martinique                      #a67b5b
+	martius yellow                          martiusyellow                   #eae679
 
-=item martius yellow                          martiusyellow                   #eae679
+	marygold                                marygold                        #ed872d
 
-=item marygold                                marygold                        #ed872d
+	mascara                                 mascara                         #79443b
 
-=item mascara                                 mascara                         #79443b
+	mascot                                  mascot                          #36454f
 
-=item mascot                                  mascot                          #36454f
+	mascot                                  mascot                          #202830
 
-=item mascot                                  mascot                          #202830
+	mascot                                  mascot                          #252440
 
-=item mascot                                  mascot                          #252440
+	mascot                                  mascot                          #4c516d
 
-=item mascot                                  mascot                          #4c516d
+	massicot [yellow]                       massicotyellow                  #f3e5ab
 
-=item massicot [yellow]                       massicotyellow                  #f3e5ab
+	mast colour                             mastcolour                      #ae6938
 
-=item mast colour                             mastcolour                      #ae6938
+	mastic                                  mastic                          #967117
 
-=item mastic                                  mastic                          #967117
+	matelot                                 matelot                         #00416a
 
-=item matelot                                 matelot                         #00416a
+	matrix                                  matrix                          #317873
 
-=item matrix                                  matrix                          #317873
+	mauve blush                             mauveblush                      #c2ac99
 
-=item mauve blush                             mauveblush                      #c2ac99
+	mauve blush                             mauveblush                      #ae9b82
 
-=item mauve blush                             mauveblush                      #ae9b82
+	mauve blush                             mauveblush                      #bfb8a5
 
-=item mauve blush                             mauveblush                      #bfb8a5
+	mauve castor                            mauvecastor                     #5c504f
 
-=item mauve castor                            mauvecastor                     #5c504f
+	mauve dust                              mauvedust                       #5c504f
 
-=item mauve dust                              mauvedust                       #5c504f
+	mauveglow                               mauveglow                       #ad8884
 
-=item mauveglow                               mauveglow                       #ad8884
+	mauverose                               mauverose                       #722f37
 
-=item mauverose                               mauverose                       #722f37
+	mauve taupe                             mauvetaupe                      #5c504f
 
-=item mauve taupe                             mauvetaupe                      #5c504f
+	mauvette                                mauvette                        #aa98a9
 
-=item mauvette                                mauvette                        #aa98a9
+	mauvewood                               mauvewood                       #79443b
 
-=item mauvewood                               mauvewood                       #79443b
+	mauvewood                               mauvewood                       #674c47
 
-=item mauvewood                               mauvewood                       #674c47
+	mavis                                   mavis                           #ae9b82
 
-=item mavis                                   mavis                           #ae9b82
+	maya                                    maya                            #ae6938
 
-=item maya                                    maya                            #ae6938
+	maya                                    maya                            #a67b5b
 
-=item maya                                    maya                            #a67b5b
+	mayfair tan                             mayfairtan                      #a67b5b
 
-=item mayfair tan                             mayfairtan                      #a67b5b
+	mayfair tan                             mayfairtan                      #c19a6b
 
-=item mayfair tan                             mayfairtan                      #c19a6b
+	mayfair tan                             mayfairtan                      #826644
 
-=item mayfair tan                             mayfairtan                      #826644
+	mayflower                               mayflower                       #ab4e52
 
-=item mayflower                               mayflower                       #ab4e52
+	mazarine blue                           mazarineblue                    #272458
 
-=item mazarine blue                           mazarineblue                    #272458
+	meadowbrook                             meadowbrook                     #3a4b47
 
-=item meadowbrook                             meadowbrook                     #3a4b47
+	meadowbrook                             meadowbrook                     #004b49
 
-=item meadowbrook                             meadowbrook                     #004b49
+	meadowgrass                             meadowgrass                     #355e3b
 
-=item meadowgrass                             meadowgrass                     #355e3b
+	meadowgrass                             meadowgrass                     #3a4b47
 
-=item meadowgrass                             meadowgrass                     #3a4b47
+	meadow [green]                          meadowgreen                     #355e3b
 
-=item meadow [green]                          meadowgreen                     #355e3b
+	meadowlark                              meadowlark                      #7e6d5a
 
-=item meadowlark                              meadowlark                      #7e6d5a
+	meadowpink                              meadowpink                      #a8516e
 
-=item meadowpink                              meadowpink                      #a8516e
+	meadowpink                              meadowpink                      #915f6d
 
-=item meadowpink                              meadowpink                      #915f6d
+	meadowsweet                             meadowsweet                     #905d5d
 
-=item meadowsweet                             meadowsweet                     #905d5d
+	meadow violet                           meadowviolet                    #875692
 
-=item meadow violet                           meadowviolet                    #875692
+	meadow violet                           meadowviolet                    #9e4f88
 
-=item meadow violet                           meadowviolet                    #9e4f88
+	mecca                                   mecca                           #79443b
 
-=item mecca                                   mecca                           #79443b
+	mecca                                   mecca                           #6f4e37
 
-=item mecca                                   mecca                           #6f4e37
+	medal bronze                            medalbronze                     #826644
 
-=item medal bronze                            medalbronze                     #826644
+	medal bronze                            medalbronze                     #967117
 
-=item medal bronze                            medalbronze                     #967117
+	medici blue                             mediciblue                      #81878b
 
-=item medici blue                             mediciblue                      #81878b
+	mediterranian                           mediterranian                   #317873
 
-=item mediterranian                           mediterranian                   #317873
+	medium chrome green                     mediumchromegreen               #355e3b
 
-=item medium chrome green                     mediumchromegreen               #355e3b
+	medium chrome green                     mediumchromegreen               #1b4d3e
 
-=item medium chrome green                     mediumchromegreen               #1b4d3e
+	meerschaum                              meerschaum                      #ae9b82
 
-=item meerschaum                              meerschaum                      #ae9b82
+	mehal                                   mehal                           #6f4e37
 
-=item mehal                                   mehal                           #6f4e37
+	melilot                                 melilot                         #915c83
 
-=item melilot                                 melilot                         #915c83
+	meline                                  meline                          #c9ae5d
 
-=item meline                                  meline                          #c9ae5d
+	mello-mauve                             mellomauve                      #ad8884
 
-=item mello-mauve                             mellomauve                      #ad8884
+	mellowglow                              mellowglow                      #e3a857
 
-=item mellowglow                              mellowglow                      #e3a857
+	melon                                   melon                           #f88379
 
-=item melon                                   melon                           #f88379
+	mephisto                                mephisto                        #ab4e52
 
-=item mephisto                                mephisto                        #ab4e52
+	merida                                  merida                          #a67b5b
 
-=item merida                                  merida                          #a67b5b
+	merida                                  merida                          #c19a6b
 
-=item merida                                  merida                          #c19a6b
+	merida                                  merida                          #826644
 
-=item merida                                  merida                          #826644
+	merle                                   merle                           #004958
 
-=item merle                                   merle                           #004958
+	mermaid                                 mermaid                         #8f9779
 
-=item mermaid                                 mermaid                         #8f9779
+	mesa                                    mesa                            #6f4e37
 
-=item mesa                                    mesa                            #6f4e37
+	metal                                   metal                           #b9b8b5
 
-=item metal                                   metal                           #b9b8b5
+	metal brown                             metalbrown                      #79443b
 
-=item metal brown                             metalbrown                      #79443b
+	metal brown                             metalbrown                      #674c47
 
-=item metal brown                             metalbrown                      #674c47
+	metallic green                          metallicgreen                   #665d1e
 
-=item metallic green                          metallicgreen                   #665d1e
+	metallic grey                           metallicgrey                    #8b8589
 
-=item metallic grey                           metallicgrey                    #8b8589
+	mexican                                 mexican                         #ae6938
 
-=item mexican                                 mexican                         #ae6938
+	mexican                                 mexican                         #996515
 
-=item mexican                                 mexican                         #996515
+	mexican red                             mexicanred                      #ae6938
 
-=item mexican red                             mexicanred                      #ae6938
+	mexican red                             mexicanred                      #a67b5b
 
-=item mexican red                             mexicanred                      #a67b5b
+	mexico                                  mexico                          #79443b
 
-=item mexico                                  mexico                          #79443b
+	mexico                                  mexico                          #80461b
 
-=item mexico                                  mexico                          #80461b
+	miami sand                              miamisand                       #ae9b82
 
-=item miami sand                              miamisand                       #ae9b82
+	miami sand                              miamisand                       #967117
 
-=item miami sand                              miamisand                       #967117
+	michigan                                michigan                        #004b49
 
-=item michigan                                michigan                        #004b49
+	microcline green                        microclinegreen                 #c7e6d7
 
-=item microcline green                        microclinegreen                 #c7e6d7
+	middle brunswick green                  middlebrunswickgreen            #355e3b
 
-=item middle brunswick green                  middlebrunswickgreen            #355e3b
+	middle stone                            middlestone                     #a18f60
 
-=item middle stone                            middlestone                     #a18f60
+	middy                                   middy                           #00304e
 
-=item middy                                   middy                           #00304e
+	midnight                                midnight                        #50404d
 
-=item midnight                                midnight                        #50404d
+	midnight sun                            midnightsun                     #d9603b
 
-=item midnight sun                            midnightsun                     #d9603b
+	mignon                                  mignon                          #86608e
 
-=item mignon                                  mignon                          #86608e
+	mignonette [green]                      mignonettegreen                 #867e36
 
-=item mignonette [green]                      mignonettegreen                 #867e36
+	mignon green                            mignongreen                     #8a9a5b
 
-=item mignon green                            mignongreen                     #8a9a5b
+	mikado                                  mikado                          #d9603b
 
-=item mikado                                  mikado                          #d9603b
+	mikado                                  mikado                          #ed872d
 
-=item mikado                                  mikado                          #ed872d
+	mikado brown                            mikadobrown                     #6f4e37
 
-=item mikado brown                            mikadobrown                     #6f4e37
+	mikado orange                           mikadoorange                    #d99058
 
-=item mikado orange                           mikadoorange                    #d99058
+	milano blue                             milanoblue                      #536878
 
-=item milano blue                             milanoblue                      #536878
+	milk white                              milkwhite                       #f0ead6
 
-=item milk white                              milkwhite                       #f0ead6
+	milwaukee brick                         milwaukeebrick                  #fad6a5
 
-=item milwaukee brick                         milwaukeebrick                  #fad6a5
+	milwaukee brick                         milwaukeebrick                  #f3e5ab
 
-=item milwaukee brick                         milwaukeebrick                  #f3e5ab
+	mimosa                                  mimosa                          #f8de7e
 
-=item mimosa                                  mimosa                          #f8de7e
+	mindoro                                 mindoro                         #a67b5b
 
-=item mindoro                                 mindoro                         #a67b5b
+	mineral bister                          mineralbister                   #6f4e37
 
-=item mineral bister                          mineralbister                   #6f4e37
+	mineral blue                            mineralblue                     #436b95
 
-=item mineral blue                            mineralblue                     #436b95
+	mineral blue                            mineralblue                     #2e8495
 
-=item mineral blue                            mineralblue                     #2e8495
+	mineral blue                            mineralblue                     #436b95
 
-=item mineral blue                            mineralblue                     #436b95
+	mineral green                           mineralgreen                    #679267
 
-=item mineral green                           mineralgreen                    #679267
+	mineral grey                            mineralgrey                     #b2beb5
 
-=item mineral grey                            mineralgrey                     #b2beb5
+	mineral orange                          mineralorange                   #e25822
 
-=item mineral orange                          mineralorange                   #e25822
+	mineral pitch                           mineralpitch                    #483c32
 
-=item mineral pitch                           mineralpitch                    #483c32
+	mineral purple                          mineralpurple                   #56070c
 
-=item mineral purple                          mineralpurple                   #56070c
+	mineral red                             mineralred                      #905d5d
 
-=item mineral red                             mineralred                      #905d5d
+	mineral rouge                           mineralrouge                    #882d17
 
-=item mineral rouge                           mineralrouge                    #882d17
+	mineral rouge                           mineralrouge                    #80461b
 
-=item mineral rouge                           mineralrouge                    #80461b
+	mineral violet                          mineralviolet                   #875692
 
-=item mineral violet                          mineralviolet                   #875692
+	mineral yellow                          mineralyellow                   #fada5e
 
-=item mineral yellow                          mineralyellow                   #fada5e
+	mineral yellow                          mineralyellow                   #d4af37
 
-=item mineral yellow                          mineralyellow                   #d4af37
+	mineral yellow                          mineralyellow                   #f8de7e
 
-=item mineral yellow                          mineralyellow                   #f8de7e
+	mineral yellow                          mineralyellow                   #c9ae5d
 
-=item mineral yellow                          mineralyellow                   #c9ae5d
+	mineral yellow                          mineralyellow                   #e3a857
 
-=item mineral yellow                          mineralyellow                   #e3a857
+	ming green                              minggreen                       #007959
 
-=item ming green                              minggreen                       #007959
+	miniature pink                          miniaturepink                   #ecd5c5
 
-=item miniature pink                          miniaturepink                   #ecd5c5
+	miniature pink                          miniaturepink                   #c7ada3
 
-=item miniature pink                          miniaturepink                   #c7ada3
+	minium                                  minium                          #e25822
 
-=item minium                                  minium                          #e25822
+	mint                                    mint                            #1b4d3e
 
-=item mint                                    mint                            #1b4d3e
+	mint                                    mint                            #004b49
 
-=item mint                                    mint                            #004b49
+	minuet                                  minuet                          #8c82b6
 
-=item minuet                                  minuet                          #8c82b6
+	mirabelle                               mirabelle                       #d99058
 
-=item mirabelle                               mirabelle                       #d99058
+	mirabelle                               mirabelle                       #e3a857
 
-=item mirabelle                               mirabelle                       #e3a857
+	mirador                                 mirador                         #422518
 
-=item mirador                                 mirador                         #422518
+	mirage                                  mirage                          #c19a6b
 
-=item mirage                                  mirage                          #c19a6b
+	mist blue                               mistblue                        #93c592
 
-=item mist blue                               mistblue                        #93c592
+	mist blue                               mistblue                        #6aab8e
 
-=item mist blue                               mistblue                        #6aab8e
+	mist blue                               mistblue                        #8da399
 
-=item mist blue                               mistblue                        #8da399
+	mist [grey]                             mistgrey                        #8f817f
 
-=item mist [grey]                             mistgrey                        #8f817f
+	mistletoe                               mistletoe                       #8f9779
 
-=item mistletoe                               mistletoe                       #8f9779
+	misty blue                              mistyblue                       #93c592
 
-=item misty blue                              mistyblue                       #93c592
+	misty blue                              mistyblue                       #6aab8e
 
-=item misty blue                              mistyblue                       #6aab8e
+	misty blue                              mistyblue                       #8da399
 
-=item misty blue                              mistyblue                       #8da399
+	misty morn                              mistymorn                       #977f73
 
-=item misty morn                              mistymorn                       #977f73
+	misty morn                              mistymorn                       #958070
 
-=item misty morn                              mistymorn                       #958070
+	mitis green                             mitisgreen                      #3eb489
 
-=item mitis green                             mitisgreen                      #3eb489
+	mittler's green                         mittlersgreen                   #004b49
 
-=item mittler's green                         mittlersgreen                   #004b49
+	moccasin                                moccasin                        #6f4e37
 
-=item moccasin                                moccasin                        #6f4e37
+	mocha                                   mocha                           #3b3121
 
-=item mocha                                   mocha                           #3b3121
+	mocha bisque                            mochabisque                     #6f4e37
 
-=item mocha bisque                            mochabisque                     #6f4e37
+	mode beige                              modebeige                       #967117
 
-=item mode beige                              modebeige                       #967117
+	mohawk                                  mohawk                          #79443b
 
-=item mohawk                                  mohawk                          #79443b
+	mohawk                                  mohawk                          #6f4e37
 
-=item mohawk                                  mohawk                          #6f4e37
+	monaco                                  monaco                          #317873
 
-=item monaco                                  monaco                          #317873
+	monet blue                              monetblue                       #272458
 
-=item monet blue                              monetblue                       #272458
+	monet blue                              monetblue                       #4e5180
 
-=item monet blue                              monetblue                       #4e5180
+	monicon                                 monicon                         #f88379
 
-=item monicon                                 monicon                         #f88379
+	monicon                                 monicon                         #cb6d51
 
-=item monicon                                 monicon                         #cb6d51
+	monicon                                 monicon                         #ed872d
 
-=item monicon                                 monicon                         #ed872d
+	monicon                                 monicon                         #d99058
 
-=item monicon                                 monicon                         #d99058
+	monkey skin                             monkeyskin                      #a87c6d
 
-=item monkey skin                             monkeyskin                      #a87c6d
+	monkshood                               monkshood                       #554c69
 
-=item monkshood                               monkshood                       #554c69
+	monsignor                               monsignor                       #875692
 
-=item monsignor                               monsignor                       #875692
+	monsignor                               monsignor                       #602f6b
 
-=item monsignor                               monsignor                       #602f6b
+	monsoreau                               monsoreau                       #ab4e52
 
-=item monsoreau                               monsoreau                       #ab4e52
+	monte carlo                             montecarlo                      #007a74
 
-=item monte carlo                             montecarlo                      #007a74
+	monte carlo                             montecarlo                      #317873
 
-=item monte carlo                             montecarlo                      #317873
+	montella                                montella                        #3e322c
 
-=item montella                                montella                        #3e322c
+	montella                                montella                        #483c32
 
-=item montella                                montella                        #483c32
+	monterey                                monterey                        #9e4732
 
-=item monterey                                monterey                        #9e4732
+	monticello green                        monticellogreen                 #355e3b
 
-=item monticello green                        monticellogreen                 #355e3b
+	montpellier green                       montpelliergreen                #679267
 
-=item montpellier green                       montpelliergreen                #679267
+	montpellier yellow                      montpellieryellow               #fada5e
 
-=item montpellier yellow                      montpellieryellow               #fada5e
+	montpellier yellow                      montpellieryellow               #d4af37
 
-=item montpellier yellow                      montpellieryellow               #d4af37
+	montpellier yellow                      montpellieryellow               #f8de7e
 
-=item montpellier yellow                      montpellieryellow               #f8de7e
+	montpellier yellow                      montpellieryellow               #c9ae5d
 
-=item montpellier yellow                      montpellieryellow               #c9ae5d
+	moonbeam                                moonbeam                        #b9b8b5
 
-=item moonbeam                                moonbeam                        #b9b8b5
+	moonlight                               moonlight                       #fad6a5
 
-=item moonlight                               moonlight                       #fad6a5
+	moonlight                               moonlight                       #bfb8a5
 
-=item moonlight                               moonlight                       #bfb8a5
+	moonlight blue                          moonlightblue                   #536878
 
-=item moonlight blue                          moonlightblue                   #536878
+	moonmist                                moonmist                        #bfb8a5
 
-=item moonmist                                moonmist                        #bfb8a5
+	moorish red                             moorishred                      #ed872d
 
-=item moorish red                             moorishred                      #ed872d
+	moose                                   moose                           #363527
 
-=item moose                                   moose                           #363527
+	mordoré                                 mordor                          #79443b
 
-=item mordoré                                 mordor                          #79443b
+	mordoré                                 mordor                          #6f4e37
 
-=item mordoré                                 mordor                          #6f4e37
+	morea berries                           moreaberries                    #eaa221
 
-=item morea berries                           moreaberries                    #eaa221
+	morea berries                           moreaberries                    #e3a857
 
-=item morea berries                           moreaberries                    #e3a857
+	morello                                 morello                         #242124
 
-=item morello                                 morello                         #242124
+	moresco                                 moresco                         #ed872d
 
-=item moresco                                 moresco                         #ed872d
+	moresco                                 moresco                         #d99058
 
-=item moresco                                 moresco                         #d99058
+	morillon                                morillon                        #8a9a5b
 
-=item morillon                                morillon                        #8a9a5b
+	morning blue                            morningblue                     #8da399
 
-=item morning blue                            morningblue                     #8da399
+	morning blue                            morningblue                     #b2beb5
 
-=item morning blue                            morningblue                     #b2beb5
+	morning dawning yellow                  morningdawningyellow            #f88379
 
-=item morning dawning yellow                  morningdawningyellow            #f88379
+	morning dawning yellow                  morningdawningyellow            #e66761
 
-=item morning dawning yellow                  morningdawningyellow            #e66761
+	morning dawning yellow                  morningdawningyellow            #cb6d51
 
-=item morning dawning yellow                  morningdawningyellow            #cb6d51
+	morning glory                           morningglory                    #aa8a9e
 
-=item morning glory                           morningglory                    #aa8a9e
+	moroccan                                moroccan                        #722f37
 
-=item moroccan                                moroccan                        #722f37
+	moroccan                                moroccan                        #9e4732
 
-=item moroccan                                moroccan                        #9e4732
+	morocco                                 morocco                         #3e322c
 
-=item morocco                                 morocco                         #3e322c
+	morocco red                             moroccored                      #722f37
 
-=item morocco red                             moroccored                      #722f37
+	morocco red                             moroccored                      #882d17
 
-=item morocco red                             moroccored                      #882d17
+	morocco red                             moroccored                      #79443b
 
-=item morocco red                             moroccored                      #79443b
+	morocco sand                            moroccosand                     #c19a6b
 
-=item morocco sand                            moroccosand                     #c19a6b
+	moro red                                morored                         #79443b
 
-=item moro red                                morored                         #79443b
+	morro                                   morro                           #43302e
 
-=item morro                                   morro                           #43302e
+	morro                                   morro                           #3e322c
 
-=item morro                                   morro                           #3e322c
+	mort d'ore                              mortdore                        #79443b
 
-=item mort d'ore                              mortdore                        #79443b
+	mort d'ore                              mortdore                        #6f4e37
 
-=item mort d'ore                              mortdore                        #6f4e37
+	mosaic blue                             mosaicblue                      #436b95
 
-=item mosaic blue                             mosaicblue                      #436b95
+	mosque                                  mosque                          #80461b
 
-=item mosque                                  mosque                          #80461b
+	moss [green]                            mossgreen                       #867e36
 
-=item moss [green]                            mossgreen                       #867e36
+	moss [green]                            mossgreen                       #8a9a5b
 
-=item moss [green]                            mossgreen                       #8a9a5b
+	moss grey                               mossgrey                        #8c8767
 
-=item moss grey                               mossgrey                        #8c8767
+	moss pink                               mosspink                        #915f6d
 
-=item moss pink                               mosspink                        #915f6d
+	moss rose                               mossrose                        #e4717a
 
-=item moss rose                               mossrose                        #e4717a
+	moss rose                               mossrose                        #c08081
 
-=item moss rose                               mossrose                        #c08081
+	mosul                                   mosul                           #a67b5b
 
-=item mosul                                   mosul                           #a67b5b
+	mosul                                   mosul                           #6f4e37
 
-=item mosul                                   mosul                           #6f4e37
+	mosul                                   mosul                           #826644
 
-=item mosul                                   mosul                           #826644
+	moth [grey]                             mothgrey                        #c2b280
 
-=item moth [grey]                             mothgrey                        #c2b280
+	motmot blue                             motmotblue                      #007791
 
-=item motmot blue                             motmotblue                      #007791
+	motmot green                            motmotgreen                     #679267
 
-=item motmot green                            motmotgreen                     #679267
+	motmot green                            motmotgreen                     #6aab8e
 
-=item motmot green                            motmotgreen                     #6aab8e
+	mountain blue                           mountainblue                    #436b95
 
-=item mountain blue                           mountainblue                    #436b95
+	mountain green                          mountaingreen                   #3a4b47
 
-=item mountain green                          mountaingreen                   #3a4b47
+	mountain green                          mountaingreen                   #679267
 
-=item mountain green                          mountaingreen                   #679267
+	mountain yellow                         mountainyellow                  #e3a857
 
-=item mountain yellow                         mountainyellow                  #e3a857
+	mount vernon green or mt. vernon green  mountvernongreenormtvernongreen #4a5d23
 
-=item mount vernon green or mt. vernon green  mountvernongreenormtvernongreen #4a5d23
+	mouse-dun                               mousedun                        #5b504f
 
-=item mouse-dun                               mousedun                        #5b504f
+	mouse [grey]                            mousegrey                       #5b504f
 
-=item mouse [grey]                            mousegrey                       #5b504f
+	mousse                                  mousse                          #867e36
 
-=item mousse                                  mousse                          #867e36
+	mousse                                  mousse                          #8a9a5b
 
-=item mousse                                  mousse                          #8a9a5b
+	mésange                                 msange                          #8da399
 
-=item mésange                                 msange                          #8da399
+	métallique                              mtallique                       #57554c
 
-=item métallique                              mtallique                       #57554c
+	muffin                                  muffin                          #a67b5b
 
-=item muffin                                  muffin                          #a67b5b
+	muffin                                  muffin                          #996515
 
-=item muffin                                  muffin                          #996515
+	mulberry                                mulberry                        #242124
 
-=item mulberry                                mulberry                        #242124
+	mulberry fruit                          mulberryfruit                   #3f1728
 
-=item mulberry fruit                          mulberryfruit                   #3f1728
+	mulberry fruit                          mulberryfruit                   #2e1d21
 
-=item mulberry fruit                          mulberryfruit                   #2e1d21
+	mulberry purple                         mulberrypurple                  #563c5c
 
-=item mulberry purple                         mulberrypurple                  #563c5c
+	mummy                                   mummy                           #483c32
 
-=item mummy                                   mummy                           #483c32
+	mummy                                   mummy                           #826644
 
-=item mummy                                   mummy                           #826644
+	mummy brown                             mummybrown                      #6f4e37
 
-=item mummy brown                             mummybrown                      #6f4e37
+	mummy brown                             mummybrown                      #635147
 
-=item mummy brown                             mummybrown                      #635147
+	mummy brown                             mummybrown                      #7e6d5a
 
-=item mummy brown                             mummybrown                      #7e6d5a
+	muraille                                muraille                        #6f4e37
 
-=item muraille                                muraille                        #6f4e37
+	murillo                                 murillo                         #436b95
 
-=item murillo                                 murillo                         #436b95
+	murinus                                 murinus                         #5b504f
 
-=item murinus                                 murinus                         #5b504f
+	murrey                                  murrey                          #242124
 
-=item murrey                                  murrey                          #242124
+	muscade                                 muscade                         #a67b5b
 
-=item muscade                                 muscade                         #a67b5b
+	muscovite                               muscovite                       #4e5755
 
-=item muscovite                               muscovite                       #4e5755
+	mushroom                                mushroom                        #5b504f
 
-=item mushroom                                mushroom                        #5b504f
+	musk                                    musk                            #483c32
 
-=item musk                                    musk                            #483c32
+	musketeer                               musketeer                       #00304e
 
-=item musketeer                               musketeer                       #00304e
+	musketeer                               musketeer                       #252440
 
-=item musketeer                               musketeer                       #252440
+	musketeer                               musketeer                       #4c516d
 
-=item musketeer                               musketeer                       #4c516d
+	muskmelon                               muskmelon                       #b4745e
 
-=item muskmelon                               muskmelon                       #b4745e
+	muskmelon                               muskmelon                       #d99058
 
-=item muskmelon                               muskmelon                       #d99058
+	muskrat                                 muskrat                         #3e322c
 
-=item muskrat                                 muskrat                         #3e322c
+	mustang                                 mustang                         #7e6d5a
 
-=item mustang                                 mustang                         #7e6d5a
+	mustard brown                           mustardbrown                    #6f4e37
 
-=item mustard brown                           mustardbrown                    #6f4e37
+	mustard [yellow]                        mustardyellow                   #c9ae5d
 
-=item mustard [yellow]                        mustardyellow                   #c9ae5d
+	mutrie yellow                           mutrieyellow                    #dcd300
 
-=item mutrie yellow                           mutrieyellow                    #dcd300
+	mutrie yellow                           mutrieyellow                    #e9e450
 
-=item mutrie yellow                           mutrieyellow                    #e9e450
+	myosotis blue                           myosotisblue                    #91a3b0
 
-=item myosotis blue                           myosotisblue                    #91a3b0
+	myosotis blue                           myosotisblue                    #536878
 
-=item myosotis blue                           myosotisblue                    #536878
+	myrtle [green]                          myrtlegreen                     #3a4b47
 
-=item myrtle [green]                          myrtlegreen                     #3a4b47
+	myrtle [green]                          myrtlegreen                     #004b49
 
-=item myrtle [green]                          myrtlegreen                     #004b49
+	mytho green                             mythogreen                      #8a9a5b
 
-=item mytho green                             mythogreen                      #8a9a5b
+	mytho green                             mythogreen                      #8f9779
 
-=item mytho green                             mythogreen                      #8f9779
+	nacarat                                 nacarat                         #be0032
 
-=item nacarat                                 nacarat                         #be0032
+	nacarine                                nacarine                        #be0032
 
-=item nacarine                                nacarine                        #be0032
+	naiad                                   naiad                           #6aab8e
 
-=item naiad                                   naiad                           #6aab8e
+	nankeen [yellow]                        nankeenyellow                   #f8de7e
 
-=item nankeen [yellow]                        nankeenyellow                   #f8de7e
+	nankeen [yellow]                        nankeenyellow                   #c9ae5d
 
-=item nankeen [yellow]                        nankeenyellow                   #c9ae5d
+	nankeen [yellow]                        nankeenyellow                   #f3e5ab
 
-=item nankeen [yellow]                        nankeenyellow                   #f3e5ab
+	nankeen [yellow]                        nankeenyellow                   #c2b280
 
-=item nankeen [yellow]                        nankeenyellow                   #c2b280
+	naples red                              naplesred                       #79443b
 
-=item naples red                              naplesred                       #79443b
+	naples red                              naplesred                       #882d17
 
-=item naples red                              naplesred                       #882d17
+	naples yellow                           naplesyellow                    #f8de7e
 
-=item naples yellow                           naplesyellow                    #f8de7e
+	naples yellow                           naplesyellow                    #c9ae5d
 
-=item naples yellow                           naplesyellow                    #c9ae5d
+	naples yellow                           naplesyellow                    #f3e5ab
 
-=item naples yellow                           naplesyellow                    #f3e5ab
+	naples yellow                           naplesyellow                    #c2b280
 
-=item naples yellow                           naplesyellow                    #c2b280
+	napoleon blue                           napoleonblue                    #00416a
 
-=item napoleon blue                           napoleonblue                    #00416a
+	napoli                                  napoli                          #004958
 
-=item napoli                                  napoli                          #004958
+	narcissus                               narcissus                       #d4af37
 
-=item narcissus                               narcissus                       #d4af37
+	narcissus                               narcissus                       #c9ae5d
 
-=item narcissus                               narcissus                       #c9ae5d
+	narrawood                               narrawood                       #ab4e52
 
-=item narrawood                               narrawood                       #ab4e52
+	narva                                   narva                           #3a4b47
 
-=item narva                                   narva                           #3a4b47
+	nasturtium [red]                        nasturtiumred                   #9e4732
 
-=item nasturtium [red]                        nasturtiumred                   #9e4732
+	nasturtium [yellow]                     nasturtiumyellow                #ed872d
 
-=item nasturtium [yellow]                     nasturtiumyellow                #ed872d
+	nasturtium [yellow]                     nasturtiumyellow                #d99058
 
-=item nasturtium [yellow]                     nasturtiumyellow                #d99058
+	nasturtium [yellow]                     nasturtiumyellow                #eaa221
 
-=item nasturtium [yellow]                     nasturtiumyellow                #eaa221
+	nasturtium [yellow]                     nasturtiumyellow                #e3a857
 
-=item nasturtium [yellow]                     nasturtiumyellow                #e3a857
+	natal brown                             natalbrown                      #635147
 
-=item natal brown                             natalbrown                      #635147
+	national [blue]                         nationalblue                    #00416a
 
-=item national [blue]                         nationalblue                    #00416a
+	national [blue]                         nationalblue                    #436b95
 
-=item national [blue]                         nationalblue                    #436b95
+	national grey                           nationalgrey                    #848482
 
-=item national grey                           nationalgrey                    #848482
+	nattier                                 nattier                         #8791bf
 
-=item nattier                                 nattier                         #8791bf
+	natural                                 natural                         #fad6a5
 
-=item natural                                 natural                         #fad6a5
+	natural                                 natural                         #bfb8a5
 
-=item natural                                 natural                         #bfb8a5
+	navaho                                  navaho                          #f38400
 
-=item navaho                                  navaho                          #f38400
+	navaho                                  navaho                          #ed872d
 
-=item navaho                                  navaho                          #ed872d
+	navy 1                                  navy1                           #36454f
 
-=item navy 1                                  navy1                           #36454f
+	navy 2                                  navy2                           #291e29
 
-=item navy 2                                  navy2                           #291e29
+	navy 3                                  navy3                           #36454f
 
-=item navy 3                                  navy3                           #36454f
+	navy 3                                  navy3                           #202830
 
-=item navy 3                                  navy3                           #202830
+	navy blue                               navyblue                        #252440
 
-=item navy blue                               navyblue                        #252440
+	navy blue                               navyblue                        #4c516d
 
-=item navy blue                               navyblue                        #4c516d
+	neapolitan blue                         neapolitanblue                  #4c516d
 
-=item neapolitan blue                         neapolitanblue                  #4c516d
+	neapolitan yellow                       neapolitanyellow                #f8de7e
 
-=item neapolitan yellow                       neapolitanyellow                #f8de7e
+	neapolitan yellow                       neapolitanyellow                #c9ae5d
 
-=item neapolitan yellow                       neapolitanyellow                #c9ae5d
+	neapolitan yellow                       neapolitanyellow                #f3e5ab
 
-=item neapolitan yellow                       neapolitanyellow                #f3e5ab
+	neapolitan yellow                       neapolitanyellow                #c2b280
 
-=item neapolitan yellow                       neapolitanyellow                #c2b280
+	nectar                                  nectar                          #905d5d
 
-=item nectar                                  nectar                          #905d5d
+	nectarine                               nectarine                       #f4c2c2
 
-=item nectarine                               nectarine                       #f4c2c2
+	nectarine                               nectarine                       #d9a6a9
 
-=item nectarine                               nectarine                       #d9a6a9
+	negro                                   negro                           #483c32
 
-=item negro                                   negro                           #483c32
+	negro                                   negro                           #222222
 
-=item negro                                   negro                           #222222
+	neptune [green]                         neptunegreen                    #6aab8e
 
-=item neptune [green]                         neptunegreen                    #6aab8e
+	neptune [green]                         neptunegreen                    #3b7861
 
-=item neptune [green]                         neptunegreen                    #3b7861
+	neutral orange                          neutralorange                   #be6516
 
-=item neutral orange                          neutralorange                   #be6516
+	neutral red                             neutralred                      #722f37
 
-=item neutral red                             neutralred                      #722f37
+	neutral red                             neutralred                      #673147
 
-=item neutral red                             neutralred                      #673147
+	neutral tint                            neutraltint                     #222222
 
-=item neutral tint                            neutraltint                     #222222
+	neuvider green                          neuvidergreen                   #93c592
 
-=item neuvider green                          neuvidergreen                   #93c592
+	neuvider green                          neuvidergreen                   #6aab8e
 
-=item neuvider green                          neuvidergreen                   #6aab8e
+	neuwied blue                            neuwiedblue                     #317873
 
-=item neuwied blue                            neuwiedblue                     #317873
+	neuwieder blue                          neuwiederblue                   #317873
 
-=item neuwieder blue                          neuwiederblue                   #317873
+	neuwieder green                         neuwiedergreen                  #93c592
 
-=item neuwieder green                         neuwiedergreen                  #93c592
+	neuwieder green                         neuwiedergreen                  #6aab8e
 
-=item neuwieder green                         neuwiedergreen                  #6aab8e
+	neva green                              nevagreen                       #7e9f2e
 
-=item neva green                              nevagreen                       #7e9f2e
+	neva green                              nevagreen                       #83d37d
 
-=item neva green                              nevagreen                       #83d37d
+	new blue                                newblue                         #0067a5
 
-=item new blue                                newblue                         #0067a5
+	new blue                                newblue                         #545aa7
 
-=item new blue                                newblue                         #545aa7
+	new bronze                              newbronze                       #6f4e37
 
-=item new bronze                              newbronze                       #6f4e37
+	new bronze                              newbronze                       #635147
 
-=item new bronze                              newbronze                       #635147
+	new bronze                              newbronze                       #826644
 
-=item new bronze                              newbronze                       #826644
+	new bronze                              newbronze                       #7e6d5a
 
-=item new bronze                              newbronze                       #7e6d5a
+	new cocoa                               newcocoa                        #635147
 
-=item new cocoa                               newcocoa                        #635147
+	new hay                                 newhay                          #515744
 
-=item new hay                                 newhay                          #515744
+	newport                                 newport                         #004958
 
-=item newport                                 newport                         #004958
+	new silver                              newsilver                       #f3e5ab
 
-=item new silver                              newsilver                       #f3e5ab
+	new silver                              newsilver                       #c2b280
 
-=item new silver                              newsilver                       #c2b280
+	new silver                              newsilver                       #bfb8a5
 
-=item new silver                              newsilver                       #bfb8a5
+	new silver                              newsilver                       #dadfb7
 
-=item new silver                              newsilver                       #dadfb7
+	new silver                              newsilver                       #848482
 
-=item new silver                              newsilver                       #848482
+	niagara                                 niagara                         #66aabc
 
-=item niagara                                 niagara                         #66aabc
+	niagara green                           niagaragreen                    #66ada4
 
-=item niagara green                           niagaragreen                    #66ada4
+	nicaraguawood                           nicaraguawood                   #ab4e52
 
-=item nicaraguawood                           nicaraguawood                   #ab4e52
+	nicaraguawood                           nicaraguawood                   #905d5d
 
-=item nicaraguawood                           nicaraguawood                   #905d5d
+	nice                                    nice                            #536878
 
-=item nice                                    nice                            #536878
+	nightshade                              nightshade                      #2f2140
 
-=item nightshade                              nightshade                      #2f2140
+	nightshade                              nightshade                      #50404d
 
-=item nightshade                              nightshade                      #50404d
+	nikko                                   nikko                           #436b95
 
-=item nikko                                   nikko                           #436b95
+	nikko                                   nikko                           #536878
 
-=item nikko                                   nikko                           #536878
+	nile blue                               nileblue                        #66ada4
 
-=item nile blue                               nileblue                        #66ada4
+	nile [green]                            nilegreen                       #8a9a5b
 
-=item nile [green]                            nilegreen                       #8a9a5b
+	nile [green]                            nilegreen                       #8f9779
 
-=item nile [green]                            nilegreen                       #8f9779
+	nile [green]                            nilegreen                       #93c592
 
-=item nile [green]                            nilegreen                       #93c592
+	nimbus                                  nimbus                          #848482
 
-=item nimbus                                  nimbus                          #848482
+	nippon                                  nippon                          #00304e
 
-=item nippon                                  nippon                          #00304e
+	noisette                                noisette                        #a67b5b
 
-=item noisette                                noisette                        #a67b5b
+	noisette                                noisette                        #996515
 
-=item noisette                                noisette                        #996515
+	nomad brown                             nomadbrown                      #422518
 
-=item nomad brown                             nomadbrown                      #422518
+	norfolk                                 norfolk                         #3e322c
 
-=item norfolk                                 norfolk                         #3e322c
+	normandy                                normandy                        #00304e
 
-=item normandy                                normandy                        #00304e
+	normandy                                normandy                        #252440
 
-=item normandy                                normandy                        #252440
+	normandy                                normandy                        #4c516d
 
-=item normandy                                normandy                        #4c516d
+	normandy blue                           normandyblue                    #8da399
 
-=item normandy blue                           normandyblue                    #8da399
+	nougat                                  nougat                          #958070
 
-=item nougat                                  nougat                          #958070
+	nougat                                  nougat                          #ae9b82
 
-=item nougat                                  nougat                          #ae9b82
+	nubian                                  nubian                          #222222
 
-=item nubian                                  nubian                          #222222
+	nude                                    nude                            #c2ac99
 
-=item nude                                    nude                            #c2ac99
+	nude                                    nude                            #fad6a5
 
-=item nude                                    nude                            #fad6a5
+	nude                                    nude                            #c19a6b
 
-=item nude                                    nude                            #c19a6b
+	nude                                    nude                            #ae9b82
 
-=item nude                                    nude                            #ae9b82
+	nugget                                  nugget                          #d99058
 
-=item nugget                                  nugget                          #d99058
+	nugget                                  nugget                          #be8a3d
 
-=item nugget                                  nugget                          #be8a3d
+	nuncio                                  nuncio                          #86608e
 
-=item nuncio                                  nuncio                          #86608e
+	nuremberg red                           nurembergred                    #79443b
 
-=item nuremberg red                           nurembergred                    #79443b
+	nuremberg violet                        nurembergviolet                 #875692
 
-=item nuremberg violet                        nurembergviolet                 #875692
+	nutmeg                                  nutmeg                          #6f4e37
 
-=item nutmeg                                  nutmeg                          #6f4e37
+	nutmeg                                  nutmeg                          #635147
 
-=item nutmeg                                  nutmeg                          #635147
+	nutria                                  nutria                          #57554c
 
-=item nutria                                  nutria                          #57554c
+	nymphea                                 nymphea                         #86608e
 
-=item nymphea                                 nymphea                         #86608e
+	nymph green                             nymphgreen                      #ebe8a4
 
-=item nymph green                             nymphgreen                      #ebe8a4
+	nymph green                             nymphgreen                      #c9dc89
 
-=item nymph green                             nymphgreen                      #c9dc89
+	nymph [pink]                            nymphpink                       #ea9399
 
-=item nymph [pink]                            nymphpink                       #ea9399
+	nymph [pink]                            nymphpink                       #dea5a4
 
-=item nymph [pink]                            nymphpink                       #dea5a4
+	oad                                     oad                             #536878
 
-=item oad                                     oad                             #536878
+	oak [brown]                             oakbrown                        #80461b
 
-=item oak [brown]                             oakbrown                        #80461b
+	oak [brown]                             oakbrown                        #6f4e37
 
-=item oak [brown]                             oakbrown                        #6f4e37
+	oakbuff                                 oakbuff                         #a67b5b
 
-=item oakbuff                                 oakbuff                         #a67b5b
+	oakbuff                                 oakbuff                         #c19a6b
 
-=item oakbuff                                 oakbuff                         #c19a6b
+	oakbuff                                 oakbuff                         #826644
 
-=item oakbuff                                 oakbuff                         #826644
+	oak [green]                             oakgreen                        #867e36
 
-=item oak [green]                             oakgreen                        #867e36
+	oakheart                                oakheart                        #905d5d
 
-=item oakheart                                oakheart                        #905d5d
+	oakheart                                oakheart                        #79443b
 
-=item oakheart                                oakheart                        #79443b
+	oakleaf brown                           oakleafbrown                    #be6516
 
-=item oakleaf brown                           oakleafbrown                    #be6516
+	oakleaf brown                           oakleafbrown                    #ae6938
 
-=item oakleaf brown                           oakleafbrown                    #ae6938
+	oakleaf brown                           oakleafbrown                    #80461b
 
-=item oakleaf brown                           oakleafbrown                    #80461b
+	oakwood                                 oakwood                         #6f4e37
 
-=item oakwood                                 oakwood                         #6f4e37
+	oasis                                   oasis                           #867e36
 
-=item oasis                                   oasis                           #867e36
+	oasis                                   oasis                           #8a9a5b
 
-=item oasis                                   oasis                           #8a9a5b
+	ocean green                             oceangreen                      #93c592
 
-=item ocean green                             oceangreen                      #93c592
+	ocher red                               ocherred                        #905d5d
 
-=item ocher red                               ocherred                        #905d5d
+	ochraceous                              ochraceous                      #e3a857
 
-=item ochraceous                              ochraceous                      #e3a857
+	ochre                                   ochre                           #e3a857
 
-=item ochre                                   ochre                           #e3a857
+	ochre de ru                             ochrederu                       #ae6938
 
-=item ochre de ru                             ochrederu                       #ae6938
+	ochre de ru                             ochrederu                       #996515
 
-=item ochre de ru                             ochrederu                       #996515
+	ochre red                               ochrered                        #9e4732
 
-=item ochre red                               ochrered                        #9e4732
+	oil blue                                oilblue                         #30267a
 
-=item oil blue                                oilblue                         #30267a
+	oil green                               oilgreen                        #679267
 
-=item oil green                               oilgreen                        #679267
+	oil yellow                              oilyellow                       #b9b459
 
-=item oil yellow                              oilyellow                       #b9b459
+	oil yellow                              oilyellow                       #98943e
 
-=item oil yellow                              oilyellow                       #98943e
+	oker de luce                            okerdeluce                      #ae6938
 
-=item oker de luce                            okerdeluce                      #ae6938
+	oker de luce                            okerdeluce                      #996515
 
-=item oker de luce                            okerdeluce                      #996515
+	oker de luke                            okerdeluke                      #ae6938
 
-=item oker de luke                            okerdeluke                      #ae6938
+	oker de luke                            okerdeluke                      #996515
 
-=item oker de luke                            okerdeluke                      #996515
+	oker de rouse                           okerderouse                     #ae6938
 
-=item oker de rouse                           okerderouse                     #ae6938
+	oker de rouse                           okerderouse                     #996515
 
-=item oker de rouse                           okerderouse                     #996515
+	old amethyst                            oldamethyst                     #722f37
 
-=item old amethyst                            oldamethyst                     #722f37
+	old amethyst                            oldamethyst                     #673147
 
-=item old amethyst                            oldamethyst                     #673147
+	old blue                                oldblue                         #91a3b0
 
-=item old blue                                oldblue                         #91a3b0
+	old blue                                oldblue                         #536878
 
-=item old blue                                oldblue                         #536878
+	old blue                                oldblue                         #81878b
 
-=item old blue                                oldblue                         #81878b
+	old bronze                              oldbronze                       #967117
 
-=item old bronze                              oldbronze                       #967117
+	old bronze                              oldbronze                       #867e36
 
-=item old bronze                              oldbronze                       #867e36
+	old burgundy                            oldburgundy                     #3e1d1e
 
-=item old burgundy                            oldburgundy                     #3e1d1e
+	old burgundy                            oldburgundy                     #43302e
 
-=item old burgundy                            oldburgundy                     #43302e
+	old cedar                               oldcedar                        #79443b
 
-=item old cedar                               oldcedar                        #79443b
+	old china                               oldchina                        #536878
 
-=item old china                               oldchina                        #536878
+	old china                               oldchina                        #4c516d
 
-=item old china                               oldchina                        #4c516d
+	old coral                               oldcoral                        #ab4e52
 
-=item old coral                               oldcoral                        #ab4e52
+	olde                                    olde                            #eae679
 
-=item olde                                    olde                            #eae679
+	olde                                    olde                            #b9b459
 
-=item olde                                    olde                            #b9b459
+	old english brown                       oldenglishbrown                 #483c32
 
-=item old english brown                       oldenglishbrown                 #483c32
+	old english brown                       oldenglishbrown                 #6c541e
 
-=item old english brown                       oldenglishbrown                 #6c541e
+	old english brown                       oldenglishbrown                 #3b3121
 
-=item old english brown                       oldenglishbrown                 #3b3121
+	old gold                                oldgold                         #867e36
 
-=item old gold                                oldgold                         #867e36
+	old helio                               oldhelio                        #563c5c
 
-=item old helio                               oldhelio                        #563c5c
+	old ivory                               oldivory                        #c2b280
 
-=item old ivory                               oldivory                        #c2b280
+	old ivory                               oldivory                        #a18f60
 
-=item old ivory                               oldivory                        #a18f60
+	old ivory                               oldivory                        #967117
 
-=item old ivory                               oldivory                        #967117
+	old lavender                            oldlavender                     #242124
 
-=item old lavender                            oldlavender                     #242124
+	old lilac                               oldlilac                        #796878
 
-=item old lilac                               oldlilac                        #796878
+	old lilac                               oldlilac                        #836479
 
-=item old lilac                               oldlilac                        #836479
+	old mauve                               oldmauve                        #50404d
 
-=item old mauve                               oldmauve                        #50404d
+	old mauve                               oldmauve                        #673147
 
-=item old mauve                               oldmauve                        #673147
+	old moss [green]                        oldmossgreen                    #867e36
 
-=item old moss [green]                        oldmossgreen                    #867e36
+	old olive                               oldolive                        #6c541e
 
-=item old olive                               oldolive                        #6c541e
+	old pink                                oldpink                         #a67b5b
 
-=item old pink                                oldpink                         #a67b5b
+	old red                                 oldred                          #841b2d
 
-=item old red                                 oldred                          #841b2d
+	old red                                 oldred                          #ab4e52
 
-=item old red                                 oldred                          #ab4e52
+	old rose                                oldrose                         #905d5d
 
-=item old rose                                oldrose                         #905d5d
+	old roseleaf                            oldroseleaf                     #722f37
 
-=item old roseleaf                            oldroseleaf                     #722f37
+	old silver                              oldsilver                       #848482
 
-=item old silver                              oldsilver                       #848482
+	old wood                                oldwood                         #905d5d
 
-=item old wood                                oldwood                         #905d5d
+	olivaceous                              olivaceous                      #665d1e
 
-=item olivaceous                              olivaceous                      #665d1e
+	olive brown                             olivebrown                      #6c541e
 
-=item olive brown                             olivebrown                      #6c541e
+	olive drab                              olivedrab                       #5b5842
 
-=item olive drab                              olivedrab                       #5b5842
+	olive [green]                           olivegreen                      #665d1e
 
-=item olive [green]                           olivegreen                      #665d1e
+	olive grey                              olivegrey                       #8f9779
 
-=item olive grey                              olivegrey                       #8f9779
+	olive grey                              olivegrey                       #7d8984
 
-=item olive grey                              olivegrey                       #7d8984
+	olivesheen                              olivesheen                      #a18f60
 
-=item olivesheen                              olivesheen                      #a18f60
+	olive terra verte                       oliveterraverte                 #867e36
 
-=item olive terra verte                       oliveterraverte                 #867e36
+	olive wood                              olivewood                       #7e6d5a
 
-=item olive wood                              olivewood                       #7e6d5a
+	olive yellow                            oliveyellow                     #98943e
 
-=item olive yellow                            oliveyellow                     #98943e
+	olive yellow                            oliveyellow                     #867e36
 
-=item olive yellow                            oliveyellow                     #867e36
+	olivine                                 olivine                         #93c592
 
-=item olivine                                 olivine                         #93c592
+	olympia                                 olympia                         #007a74
 
-=item olympia                                 olympia                         #007a74
+	olympia                                 olympia                         #317873
 
-=item olympia                                 olympia                         #317873
+	olympian blue                           olympianblue                    #00416a
 
-=item olympian blue                           olympianblue                    #00416a
+	olympian green                          olympiangreen                   #679267
 
-=item olympian green                          olympiangreen                   #679267
+	olympic                                 olympic                         #36454f
 
-=item olympic                                 olympic                         #36454f
+	olympic blue                            olympicblue                     #007791
 
-=item olympic blue                            olympicblue                     #007791
+	ondine                                  ondine                          #8da399
 
-=item ondine                                  ondine                          #8da399
+	onion-peel                              onionpeel                       #905d5d
 
-=item onion-peel                              onionpeel                       #905d5d
+	onion red                               onionred                        #905d5d
 
-=item onion red                               onionred                        #905d5d
+	onion-skin pink                         onionskinpink                   #d9a6a9
 
-=item onion-skin pink                         onionskinpink                   #d9a6a9
+	onion-skin pink                         onionskinpink                   #d99058
 
-=item onion-skin pink                         onionskinpink                   #d99058
+	onion-skin pink                         onionskinpink                   #a67b5b
 
-=item onion-skin pink                         onionskinpink                   #a67b5b
+	ontario violet                          ontarioviolet                   #8c92ac
 
-=item ontario violet                          ontarioviolet                   #8c92ac
+	oold                                    oold                            #eae679
 
-=item oold                                    oold                            #eae679
+	oold                                    oold                            #b9b459
 
-=item oold                                    oold                            #b9b459
+	opal                                    opal                            #317873
 
-=item opal                                    opal                            #317873
+	opal blue                               opalblue                        #536878
 
-=item opal blue                               opalblue                        #536878
+	opal grey                               opalgrey                        #8f817f
 
-=item opal grey                               opalgrey                        #8f817f
+	opal grey                               opalgrey                        #848482
 
-=item opal grey                               opalgrey                        #848482
+	opaline green                           opalinegreen                    #8ed1b2
 
-=item opaline green                           opalinegreen                    #8ed1b2
+	opal mauve                              opalmauve                       #c1b6b3
 
-=item opal mauve                              opalmauve                       #c1b6b3
+	opaq                                    opaq                            #679267
 
-=item opaq                                    opaq                            #679267
+	opera mauve                             operamauve                      #b784a7
 
-=item opera mauve                             operamauve                      #b784a7
+	opera pink                              operapink                       #f4c2c2
 
-=item opera pink                              operapink                       #f4c2c2
+	opera pink                              operapink                       #d9a6a9
 
-=item opera pink                              operapink                       #d9a6a9
+	opera pink                              operapink                       #ecd5c5
 
-=item opera pink                              operapink                       #ecd5c5
+	opera pink                              operapink                       #c7ada3
 
-=item opera pink                              operapink                       #c7ada3
+	ophelia                                 ophelia                         #915c83
 
-=item ophelia                                 ophelia                         #915c83
+	ophelia                                 ophelia                         #915f6d
 
-=item ophelia                                 ophelia                         #915f6d
+	ophelia                                 ophelia                         #836479
 
-=item ophelia                                 ophelia                         #836479
+	oporto                                  oporto                          #722f37
 
-=item oporto                                  oporto                          #722f37
+	oporto                                  oporto                          #3f1728
 
-=item oporto                                  oporto                          #3f1728
+	orange aurora                           orangeaurora                    #f88379
 
-=item orange aurora                           orangeaurora                    #f88379
+	orange aurora                           orangeaurora                    #e66761
 
-=item orange aurora                           orangeaurora                    #e66761
+	orange aurora                           orangeaurora                    #cb6d51
 
-=item orange aurora                           orangeaurora                    #cb6d51
+	orange lead                             orangelead                      #e25822
 
-=item orange lead                             orangelead                      #e25822
+	orange madder                           orangemadder                    #ed872d
 
-=item orange madder                           orangemadder                    #ed872d
+	orange ochre                            orangeochre                     #ed872d
 
-=item orange ochre                            orangeochre                     #ed872d
+	orange-peel                             orangepeel                      #ed872d
 
-=item orange-peel                             orangepeel                      #ed872d
+	orange rufous                           orangerufous                    #ed872d
 
-=item orange rufous                           orangerufous                    #ed872d
+	orange tawny                            orangetawny                     #cb6d51
 
-=item orange tawny                            orangetawny                     #cb6d51
+	orange vermilion                        orangevermilion                 #d9603b
 
-=item orange vermilion                        orangevermilion                 #d9603b
+	orchadee                                orchadee                        #b784a7
 
-=item orchadee                                orchadee                        #b784a7
+	orchall                                 orchall                         #a8516e
 
-=item orchall                                 orchall                         #a8516e
+	orchid                                  orchid                          #b695c0
 
-=item orchid                                  orchid                          #b695c0
+	orchid                                  orchid                          #aa98a9
 
-=item orchid                                  orchid                          #aa98a9
+	orchid pink                             orchidpink                      #ea9399
 
-=item orchid pink                             orchidpink                      #ea9399
+	orchil                                  orchil                          #ab4e52
 
-=item orchil                                  orchil                          #ab4e52
+	orchil                                  orchil                          #a8516e
 
-=item orchil                                  orchil                          #a8516e
+	orchis                                  orchis                          #905d5d
 
-=item orchis                                  orchis                          #905d5d
+	orient                                  orient                          #dea5a4
 
-=item orient                                  orient                          #dea5a4
+	oriental                                oriental                        #536878
 
-=item oriental                                oriental                        #536878
+	oriental blue                           orientalblue                    #4c516d
 
-=item oriental blue                           orientalblue                    #4c516d
+	oriental blue                           orientalblue                    #0067a5
 
-=item oriental blue                           orientalblue                    #0067a5
+	oriental blue                           orientalblue                    #545aa7
 
-=item oriental blue                           orientalblue                    #545aa7
+	oriental bole                           orientalbole                    #79443b
 
-=item oriental bole                           orientalbole                    #79443b
+	oriental fuchsia                        orientalfuchsia                 #702963
 
-=item oriental fuchsia                        orientalfuchsia                 #702963
+	oriental green                          orientalgreen                   #44944a
 
-=item oriental green                          orientalgreen                   #44944a
+	oriental green                          orientalgreen                   #679267
 
-=item oriental green                          orientalgreen                   #679267
+	oriental pearl                          orientalpearl                   #8a8776
 
-=item oriental pearl                          orientalpearl                   #8a8776
+	oriental pearl                          orientalpearl                   #848482
 
-=item oriental pearl                          orientalpearl                   #848482
+	oriental red                            orientalred                     #bc3f4a
 
-=item oriental red                            orientalred                     #bc3f4a
+	orient [blue]                           orientblue                      #0067a5
 
-=item orient [blue]                           orientblue                      #0067a5
+	orient blue                             orientblue                      #436b95
 
-=item orient blue                             orientblue                      #436b95
+	orient blue                             orientblue                      #536878
 
-=item orient blue                             orientblue                      #536878
+	orient pink                             orientpink                      #d9a6a9
 
-=item orient pink                             orientpink                      #d9a6a9
+	orient red                              orientred                       #bc3f4a
 
-=item orient red                              orientred                       #bc3f4a
+	orient yellow                           orientyellow                    #ed872d
 
-=item orient yellow                           orientyellow                    #ed872d
+	orient yellow                           orientyellow                    #d99058
 
-=item orient yellow                           orientyellow                    #d99058
+	orient yellow                           orientyellow                    #eaa221
 
-=item orient yellow                           orientyellow                    #eaa221
+	orient yellow                           orientyellow                    #e3a857
 
-=item orient yellow                           orientyellow                    #e3a857
+	orient yellow                           orientyellow                    #ab9144
 
-=item orient yellow                           orientyellow                    #ab9144
+	orient yellow                           orientyellow                    #a18f60
 
-=item orient yellow                           orientyellow                    #a18f60
+	oriole                                  oriole                          #ae6938
 
-=item oriole                                  oriole                          #ae6938
+	orion                                   orion                           #00304e
 
-=item orion                                   orion                           #00304e
+	orlean                                  orlean                          #d9a6a9
 
-=item orlean                                  orlean                          #d9a6a9
+	ormond                                  ormond                          #977f73
 
-=item ormond                                  ormond                          #977f73
+	ormond                                  ormond                          #958070
 
-=item ormond                                  ormond                          #958070
+	ormond                                  ormond                          #8e8279
 
-=item ormond                                  ormond                          #8e8279
+	orpiment                                orpiment                        #fada5e
 
-=item orpiment                                orpiment                        #fada5e
+	orpiment                                orpiment                        #d4af37
 
-=item orpiment                                orpiment                        #d4af37
+	orpiment                                orpiment                        #f8de7e
 
-=item orpiment                                orpiment                        #f8de7e
+	orpiment                                orpiment                        #c9ae5d
 
-=item orpiment                                orpiment                        #c9ae5d
+	orpiment orange                         orpimentorange                  #f38400
 
-=item orpiment orange                         orpimentorange                  #f38400
+	orpiment orange                         orpimentorange                  #ed872d
 
-=item orpiment orange                         orpimentorange                  #ed872d
+	orpiment red                            orpimentred                     #eaa221
 
-=item orpiment red                            orpimentred                     #eaa221
+	orpiment red                            orpimentred                     #e3a857
 
-=item orpiment red                            orpimentred                     #e3a857
+	orpin                                   orpin                           #fada5e
 
-=item orpin                                   orpin                           #fada5e
+	orpin                                   orpin                           #d4af37
 
-=item orpin                                   orpin                           #d4af37
+	orpin                                   orpin                           #f8de7e
 
-=item orpin                                   orpin                           #f8de7e
+	orpin                                   orpin                           #c9ae5d
 
-=item orpin                                   orpin                           #c9ae5d
+	orseille                                orseille                        #a8516e
 
-=item orseille                                orseille                        #a8516e
+	otter [brown]                           otterbrown                      #483c32
 
-=item otter [brown]                           otterbrown                      #483c32
+	oural green                             ouralgreen                      #93c592
 
-=item oural green                             ouralgreen                      #93c592
+	oural green                             ouralgreen                      #c7e6d7
 
-=item oural green                             ouralgreen                      #c7e6d7
+	owl                                     owl                             #5b504f
 
-=item owl                                     owl                             #5b504f
+	oxblood [red]                           oxbloodred                      #79443b
 
-=item oxblood [red]                           oxbloodred                      #79443b
+	oxford blue                             oxfordblue                      #291e29
 
-=item oxford blue                             oxfordblue                      #291e29
+	oxford chrome                           oxfordchrome                    #e3a857
 
-=item oxford chrome                           oxfordchrome                    #e3a857
+	oxford ochre                            oxfordochre                     #e3a857
 
-=item oxford ochre                            oxfordochre                     #e3a857
+	oxford yellow                           oxfordyellow                    #e3a857
 
-=item oxford yellow                           oxfordyellow                    #e3a857
+	oxgall                                  oxgall                          #d4af37
 
-=item oxgall                                  oxgall                          #d4af37
+	oxheart                                 oxheart                         #841b2d
 
-=item oxheart                                 oxheart                         #841b2d
+	oxide blue                              oxideblue                       #0085a1
 
-=item oxide blue                              oxideblue                       #0085a1
+	oxide brown                             oxidebrown                      #79443b
 
-=item oxide brown                             oxidebrown                      #79443b
+	oxide purple                            oxidepurple                     #79443b
 
-=item oxide purple                            oxidepurple                     #79443b
+	oxide yellow                            oxideyellow                     #e3a857
 
-=item oxide yellow                            oxideyellow                     #e3a857
+	oyster grey                             oystergrey                      #dadfb7
 
-=item oyster grey                             oystergrey                      #dadfb7
+	oyster [white]                          oysterwhite                     #dadfb7
 
-=item oyster [white]                          oysterwhite                     #dadfb7
+	pablo                                   pablo                           #a67b5b
 
-=item pablo                                   pablo                           #a67b5b
+	pablo                                   pablo                           #c19a6b
 
-=item pablo                                   pablo                           #c19a6b
+	pacific                                 pacific                         #8da399
 
-=item pacific                                 pacific                         #8da399
+	pacific                                 pacific                         #66ada4
 
-=item pacific                                 pacific                         #66ada4
+	paddock                                 paddock                         #004b49
 
-=item paddock                                 paddock                         #004b49
+	pagoda [blue]                           pagodablue                      #004958
 
-=item pagoda [blue]                           pagodablue                      #004958
+	pagoda [blue]                           pagodablue                      #36454f
 
-=item pagoda [blue]                           pagodablue                      #36454f
+	palestine                               palestine                       #796878
 
-=item palestine                               palestine                       #796878
+	palestine                               palestine                       #915f6d
 
-=item palestine                               palestine                       #915f6d
+	palm                                    palm                            #8a9a5b
 
-=item palm                                    palm                            #8a9a5b
+	palmetto                                palmetto                        #8f9779
 
-=item palmetto                                palmetto                        #8f9779
+	palm green                              palmgreen                       #355e3b
 
-=item palm green                              palmgreen                       #355e3b
+	palmleaf                                palmleaf                        #867e36
 
-=item palmleaf                                palmleaf                        #867e36
+	paloma                                  paloma                          #ae6938
 
-=item paloma                                  paloma                          #ae6938
+	paloma                                  paloma                          #a67b5b
 
-=item paloma                                  paloma                          #a67b5b
+	pampas                                  pampas                          #5b504f
 
-=item pampas                                  pampas                          #5b504f
+	pan                                     pan                             #3a4b47
 
-=item pan                                     pan                             #3a4b47
+	pancy green                             pancygreen                      #355e3b
 
-=item pancy green                             pancygreen                      #355e3b
+	pansée                                  panse                           #604e97
 
-=item pansée                                  panse                           #604e97
+	pansy                                   pansy                           #604e97
 
-=item pansy                                   pansy                           #604e97
+	pansy-maroon                            pansymaroon                     #673147
 
-=item pansy-maroon                            pansymaroon                     #673147
+	pansy purple                            pansypurple                     #673147
 
-=item pansy purple                            pansypurple                     #673147
+	pansy violet                            pansyviolet                     #5d3954
 
-=item pansy violet                            pansyviolet                     #5d3954
+	paon                                    paon                            #004958
 
-=item paon                                    paon                            #004958
+	paper white                             paperwhite                      #bfb8a5
 
-=item paper white                             paperwhite                      #bfb8a5
+	paprica                                 paprica                         #e25822
 
-=item paprica                                 paprica                         #e25822
+	papyrus                                 papyrus                         #a67b5b
 
-=item papyrus                                 papyrus                         #a67b5b
+	paradise green                          paradisegreen                   #355e3b
 
-=item paradise green                          paradisegreen                   #355e3b
+	para red                                parared                         #bc3f4a
 
-=item para red                                parared                         #bc3f4a
+	para red                                parared                         #ab4e52
 
-=item para red                                parared                         #ab4e52
+	parchment                               parchment                       #c2b280
 
-=item parchment                               parchment                       #c2b280
+	parchment                               parchment                       #a18f60
 
-=item parchment                               parchment                       #a18f60
+	parchment                               parchment                       #967117
 
-=item parchment                               parchment                       #967117
+	paris green                             parisgreen                      #679267
 
-=item paris green                             parisgreen                      #679267
+	paris green                             parisgreen                      #3eb489
 
-=item paris green                             parisgreen                      #3eb489
+	paris mud                               parismud                        #543d3f
 
-=item paris mud                               parismud                        #543d3f
+	paris red                               parisred                        #e25822
 
-=item paris red                               parisred                        #e25822
+	paris yellow                            parisyellow                     #d4af37
 
-=item paris yellow                            parisyellow                     #d4af37
+	park green                              parkgreen                       #8a9a5b
 
-=item park green                              parkgreen                       #8a9a5b
+	parma red                               parmared                        #bc3f4a
 
-=item parma red                               parmared                        #bc3f4a
+	parma red                               parmared                        #ab4e52
 
-=item parma red                               parmared                        #ab4e52
+	parme                                   parme                           #604e81
 
-=item parme                                   parme                           #604e81
+	parrakeet                               parrakeet                       #8a9a5b
 
-=item parrakeet                               parrakeet                       #8a9a5b
+	parrakeet                               parrakeet                       #3eb489
 
-=item parrakeet                               parrakeet                       #3eb489
+	parroquit green                         parroquitgreen                  #8a9a5b
 
-=item parroquit green                         parroquitgreen                  #8a9a5b
+	parrot green                            parrotgreen                     #8a9a5b
 
-=item parrot green                            parrotgreen                     #8a9a5b
+	partridge                               partridge                       #826644
 
-=item partridge                               partridge                       #826644
+	partridge                               partridge                       #4b3621
 
-=item partridge                               partridge                       #4b3621
+	parula blue                             parulablue                      #536878
 
-=item parula blue                             parulablue                      #536878
+	pastel                                  pastel                          #536878
 
-=item pastel                                  pastel                          #536878
+	pastel blue                             pastelblue                      #536878
 
-=item pastel blue                             pastelblue                      #536878
+	pastel grey                             pastelgrey                      #c2b280
 
-=item pastel grey                             pastelgrey                      #c2b280
+	pastel parchment                        pastelparchment                 #d9a6a9
 
-=item pastel parchment                        pastelparchment                 #d9a6a9
+	pastel parchment                        pastelparchment                 #c7ada3
 
-=item pastel parchment                        pastelparchment                 #c7ada3
+	pastel parchment                        pastelparchment                 #c2ac99
 
-=item pastel parchment                        pastelparchment                 #c2ac99
+	patent yellow                           patentyellow                    #fada5e
 
-=item patent yellow                           patentyellow                    #fada5e
+	patent yellow                           patentyellow                    #d4af37
 
-=item patent yellow                           patentyellow                    #d4af37
+	patent yellow                           patentyellow                    #f8de7e
 
-=item patent yellow                           patentyellow                    #f8de7e
+	patent yellow                           patentyellow                    #c9ae5d
 
-=item patent yellow                           patentyellow                    #c9ae5d
+	patina green                            patinagreen                     #93c592
 
-=item patina green                            patinagreen                     #93c592
+	patina green                            patinagreen                     #679267
 
-=item patina green                            patinagreen                     #679267
+	patriarch                               patriarch                       #602f6b
 
-=item patriarch                               patriarch                       #602f6b
+	patricia                                patricia                        #9e4f88
 
-=item patricia                                patricia                        #9e4f88
+	paul veronese green                     paulveronesegreen               #3eb489
 
-=item paul veronese green                     paulveronesegreen               #3eb489
+	pauncy green                            pauncygreen                     #355e3b
 
-=item pauncy green                            pauncygreen                     #355e3b
+	pavonine                                pavonine                        #004958
 
-=item pavonine                                pavonine                        #004958
+	pawnee                                  pawnee                          #a67b5b
 
-=item pawnee                                  pawnee                          #a67b5b
+	pawnee                                  pawnee                          #958070
 
-=item pawnee                                  pawnee                          #958070
+	pawnee                                  pawnee                          #c19a6b
 
-=item pawnee                                  pawnee                          #c19a6b
+	pawnee                                  pawnee                          #ae9b82
 
-=item pawnee                                  pawnee                          #ae9b82
+	payne's grey                            paynesgrey                      #536878
 
-=item payne's grey                            paynesgrey                      #536878
+	payne's grey                            paynesgrey                      #36454f
 
-=item payne's grey                            paynesgrey                      #36454f
+	peach                                   peach                           #f4c2c2
 
-=item peach                                   peach                           #f4c2c2
+	peach                                   peach                           #d9a6a9
 
-=item peach                                   peach                           #d9a6a9
+	peachbeige                              peachbeige                      #d9a6a9
 
-=item peachbeige                              peachbeige                      #d9a6a9
+	peach bisque                            peachbisque                     #a87c6d
 
-=item peach bisque                            peachbisque                     #a87c6d
+	peach bloom                             peachbloom                      #d9a6a9
 
-=item peach bloom                             peachbloom                      #d9a6a9
+	peach blossom [pink]                    peachblossompink                #ea9399
 
-=item peach blossom [pink]                    peachblossompink                #ea9399
+	peach blossom [pink]                    peachblossompink                #dea5a4
 
-=item peach blossom [pink]                    peachblossompink                #dea5a4
+	peach blossom [red]                     peachblossomred                 #ea9399
 
-=item peach blossom [red]                     peachblossomred                 #ea9399
+	peach blossom [red]                     peachblossomred                 #dea5a4
 
-=item peach blossom [red]                     peachblossomred                 #dea5a4
+	peach blow                              peachblow                       #fad6a5
 
-=item peach blow                              peachblow                       #fad6a5
+	peach blush                             peachblush                      #80461b
 
-=item peach blush                             peachblush                      #80461b
+	peach red                               peachred                        #f88379
 
-=item peach red                               peachred                        #f88379
+	peachwood                               peachwood                       #ab4e52
 
-=item peachwood                               peachwood                       #ab4e52
+	peachwood                               peachwood                       #905d5d
 
-=item peachwood                               peachwood                       #905d5d
+	peacock [blue]                          peacockblue                     #004958
 
-=item peacock [blue]                          peacockblue                     #004958
+	peacock green                           peacockgreen                    #679267
 
-=item peacock green                           peacockgreen                    #679267
+	pea green                               peagreen                        #8a9a5b
 
-=item pea green                               peagreen                        #8a9a5b
+	peanut                                  peanut                          #c2b280
 
-=item peanut                                  peanut                          #c2b280
+	pearl                                   pearl                           #b9b8b5
 
-=item pearl                                   pearl                           #b9b8b5
+	pearl blue                              pearlblue                       #b9b8b5
 
-=item pearl blue                              pearlblue                       #b9b8b5
+	pearlblush                              pearlblush                      #c2ac99
 
-=item pearlblush                              pearlblush                      #c2ac99
+	pearlblush                              pearlblush                      #958070
 
-=item pearlblush                              pearlblush                      #958070
+	pearl gray                              pearlgray                       #bfb8a5
 
-=item pearl gray                              pearlgray                       #bfb8a5
+	pearl white                             pearlwhite                      #b9b8b5
 
-=item pearl white                             pearlwhite                      #b9b8b5
+	peasant                                 peasant                         #252440
 
-=item peasant                                 peasant                         #252440
+	peasant                                 peasant                         #4c516d
 
-=item peasant                                 peasant                         #4c516d
+	peasant blue                            peasantblue                     #536878
 
-=item peasant blue                            peasantblue                     #536878
+	peasant blue                            peasantblue                     #00304e
 
-=item peasant blue                            peasantblue                     #00304e
+	peasant blue                            peasantblue                     #252440
 
-=item peasant blue                            peasantblue                     #252440
+	peasant blue                            peasantblue                     #4c516d
 
-=item peasant blue                            peasantblue                     #4c516d
+	pebble                                  pebble                          #c2b280
 
-=item pebble                                  pebble                          #c2b280
+	pecan                                   pecan                           #ae9b82
 
-=item pecan                                   pecan                           #ae9b82
+	pecan brown                             pecanbrown                      #6f4e37
 
-=item pecan brown                             pecanbrown                      #6f4e37
+	pekinese                                pekinese                        #ae6938
 
-=item pekinese                                pekinese                        #ae6938
+	pekinese                                pekinese                        #a67b5b
 
-=item pekinese                                pekinese                        #a67b5b
+	peking blue                             pekingblue                      #00304e
 
-=item peking blue                             pekingblue                      #00304e
+	pelican                                 pelican                         #555555
 
-=item pelican                                 pelican                         #555555
+	peligot's blue                          peligotsblue                    #317873
 
-=item peligot's blue                          peligotsblue                    #317873
+	pelt                                    pelt                            #5b504f
 
-=item pelt                                    pelt                            #5b504f
+	pencilwood                              pencilwood                      #79443b
 
-=item pencilwood                              pencilwood                      #79443b
+	pencilwood                              pencilwood                      #6f4e37
 
-=item pencilwood                              pencilwood                      #6f4e37
+	penguin                                 penguin                         #848482
 
-=item penguin                                 penguin                         #848482
+	peony                                   peony                           #722f37
 
-=item peony                                   peony                           #722f37
+	peony red                               peonyred                        #841b2d
 
-=item peony red                               peonyred                        #841b2d
+	peony red                               peonyred                        #722f37
 
-=item peony red                               peonyred                        #722f37
+	pepita                                  pepita                          #967117
 
-=item pepita                                  pepita                          #967117
+	peppermint                              peppermint                      #44944a
 
-=item peppermint                              peppermint                      #44944a
+	pepper red                              pepperred                       #ab4e52
 
-=item pepper red                              pepperred                       #ab4e52
+	peridot                                 peridot                         #8a9a5b
 
-=item peridot                                 peridot                         #8a9a5b
+	peridot                                 peridot                         #8f9779
 
-=item peridot                                 peridot                         #8f9779
+	peridot                                 peridot                         #4a5d23
 
-=item peridot                                 peridot                         #4a5d23
+	peridot                                 peridot                         #515744
 
-=item peridot                                 peridot                         #515744
+	perilla                                 perilla                         #9065ca
 
-=item perilla                                 perilla                         #9065ca
+	perilla                                 perilla                         #604e97
 
-=item perilla                                 perilla                         #604e97
+	perilla purple                          perillapurple                   #673147
 
-=item perilla purple                          perillapurple                   #673147
+	perique                                 perique                         #483c32
 
-=item perique                                 perique                         #483c32
+	periwinkle                              periwinkle                      #8c92ac
 
-=item periwinkle                              periwinkle                      #8c92ac
+	periwinkle                              periwinkle                      #4c516d
 
-=item periwinkle                              periwinkle                      #4c516d
+	permanent blue                          permanentblue                   #0067a5
 
-=item permanent blue                          permanentblue                   #0067a5
+	permanent blue                          permanentblue                   #545aa7
 
-=item permanent blue                          permanentblue                   #545aa7
+	permanent red                           permanentred                    #bc3f4a
 
-=item permanent red                           permanentred                    #bc3f4a
+	permanent red                           permanentred                    #ab4e52
 
-=item permanent red                           permanentred                    #ab4e52
+	permanent violet                        permanentviolet                 #875692
 
-=item permanent violet                        permanentviolet                 #875692
+	permanent yellow                        permanentyellow                 #e3a857
 
-=item permanent yellow                        permanentyellow                 #e3a857
+	perma red                               permared                        #bc3f4a
 
-=item perma red                               permared                        #bc3f4a
+	perma red                               permared                        #ab4e52
 
-=item perma red                               permared                        #ab4e52
+	pernambucowood                          pernambucowood                  #ab4e52
 
-=item pernambucowood                          pernambucowood                  #ab4e52
+	pernambucowood                          pernambucowood                  #905d5d
 
-=item pernambucowood                          pernambucowood                  #905d5d
+	perruche                                perruche                        #8a9a5b
 
-=item perruche                                perruche                        #8a9a5b
+	persenche                               persenche                       #9690ab
 
-=item persenche                               persenche                       #9690ab
+	persian blue                            persianblue                     #91a3b0
 
-=item persian blue                            persianblue                     #91a3b0
+	persian blue                            persianblue                     #4c516d
 
-=item persian blue                            persianblue                     #4c516d
+	persian earth                           persianearth                    #882d17
 
-=item persian earth                           persianearth                    #882d17
+	persian green                           persiangreen                    #3a4b47
 
-=item persian green                           persiangreen                    #3a4b47
+	persian lilac                           persianlilac                    #c17e91
 
-=item persian lilac                           persianlilac                    #c17e91
+	persian melon                           persianmelon                    #b4745e
 
-=item persian melon                           persianmelon                    #b4745e
+	persian orange                          persianorange                   #d99058
 
-=item persian orange                          persianorange                   #d99058
+	persian pink                            persianpink                     #a8516e
 
-=item persian pink                            persianpink                     #a8516e
+	persian red                             persianred                      #882d17
 
-=item persian red                             persianred                      #882d17
+	persian rose                            persianrose                     #ce4676
 
-=item persian rose                            persianrose                     #ce4676
+	persian yellow                          persianyellow                   #e25822
 
-=item persian yellow                          persianyellow                   #e25822
+	persian yellow                          persianyellow                   #f38400
 
-=item persian yellow                          persianyellow                   #f38400
+	persimmon                               persimmon                       #80461b
 
-=item persimmon                               persimmon                       #80461b
+	persio                                  persio                          #a8516e
 
-=item persio                                  persio                          #a8516e
+	persis                                  persis                          #a8516e
 
-=item persis                                  persis                          #a8516e
+	peruvian brown                          peruvianbrown                   #ae6938
 
-=item peruvian brown                          peruvianbrown                   #ae6938
+	peruvian brown                          peruvianbrown                   #a67b5b
 
-=item peruvian brown                          peruvianbrown                   #a67b5b
+	peruvian yellow                         peruvianyellow                  #cb6d51
 
-=item peruvian yellow                         peruvianyellow                  #cb6d51
+	pervenche                               pervenche                       #4c516d
 
-=item pervenche                               pervenche                       #4c516d
+	petunia                                 petunia                         #563c5c
 
-=item petunia                                 petunia                         #563c5c
+	petunia [violet]                        petuniaviolet                   #602f6b
 
-=item petunia [violet]                        petuniaviolet                   #602f6b
+	pewke                                   pewke                           #722f37
 
-=item pewke                                   pewke                           #722f37
+	pewter                                  pewter                          #555555
 
-=item pewter                                  pewter                          #555555
+	phantom                                 phantom                         #555555
 
-=item phantom                                 phantom                         #555555
+	phantom red                             phantomred                      #e25822
 
-=item phantom red                             phantomred                      #e25822
+	pharaoh                                 pharaoh                         #4e5180
 
-=item pharaoh                                 pharaoh                         #4e5180
+	pharaoh                                 pharaoh                         #252440
 
-=item pharaoh                                 pharaoh                         #252440
+	pheasant                                pheasant                        #d99058
 
-=item pheasant                                pheasant                        #d99058
+	pheasant                                pheasant                        #a67b5b
 
-=item pheasant                                pheasant                        #a67b5b
+	philamot                                philamot                        #be6516
 
-=item philamot                                philamot                        #be6516
+	philamot                                philamot                        #ae6938
 
-=item philamot                                philamot                        #ae6938
+	philamot                                philamot                        #80461b
 
-=item philamot                                philamot                        #80461b
+	philimot                                philimot                        #be6516
 
-=item philimot                                philimot                        #be6516
+	philimot                                philimot                        #ae6938
 
-=item philimot                                philimot                        #ae6938
+	philimot                                philimot                        #80461b
 
-=item philimot                                philimot                        #80461b
+	philomot                                philomot                        #be6516
 
-=item philomot                                philomot                        #be6516
+	philomot                                philomot                        #ae6938
 
-=item philomot                                philomot                        #ae6938
+	philomot                                philomot                        #80461b
 
-=item philomot                                philomot                        #80461b
+	phlox                                   phlox                           #702963
 
-=item phlox                                   phlox                           #702963
+	phlox                                   phlox                           #673147
 
-=item phlox                                   phlox                           #673147
+	phlox pink                              phloxpink                       #aa98a9
 
-=item phlox pink                              phloxpink                       #aa98a9
+	phlox purple                            phloxpurple                     #9e4f88
 
-=item phlox purple                            phloxpurple                     #9e4f88
+	phyliamort                              phyliamort                      #be6516
 
-=item phyliamort                              phyliamort                      #be6516
+	phyliamort                              phyliamort                      #ae6938
 
-=item phyliamort                              phyliamort                      #ae6938
+	phyliamort                              phyliamort                      #80461b
 
-=item phyliamort                              phyliamort                      #80461b
+	phyllamort                              phyllamort                      #be6516
 
-=item phyllamort                              phyllamort                      #be6516
+	phyllamort                              phyllamort                      #ae6938
 
-=item phyllamort                              phyllamort                      #ae6938
+	phyllamort                              phyllamort                      #80461b
 
-=item phyllamort                              phyllamort                      #80461b
+	piccadilly                              piccadilly                      #79443b
 
-=item piccadilly                              piccadilly                      #79443b
+	piccadilly                              piccadilly                      #674c47
 
-=item piccadilly                              piccadilly                      #674c47
+	piccaninny                              piccaninny                      #483c32
 
-=item piccaninny                              piccaninny                      #483c32
+	piccolpasso red                         piccolpassored                  #79443b
 
-=item piccolpasso red                         piccolpassored                  #79443b
+	pigeon                                  pigeon                          #5d555b
 
-=item pigeon                                  pigeon                          #5d555b
+	pigeon blood                            pigeonblood                     #722f37
 
-=item pigeon blood                            pigeonblood                     #722f37
+	pigeon neck                             pigeonneck                      #555555
 
-=item pigeon neck                             pigeonneck                      #555555
+	pigeon's-breast                         pigeonsbreast                   #905d5d
 
-=item pigeon's-breast                         pigeonsbreast                   #905d5d
+	pigeon's throat                         pigeonsthroat                   #3b7861
 
-=item pigeon's throat                         pigeonsthroat                   #3b7861
+	pigskin                                 pigskin                         #a67b5b
 
-=item pigskin                                 pigskin                         #a67b5b
+	pigskin                                 pigskin                         #6f4e37
 
-=item pigskin                                 pigskin                         #6f4e37
+	pigskin                                 pigskin                         #826644
 
-=item pigskin                                 pigskin                         #826644
+	pilgrim                                 pilgrim                         #555555
 
-=item pilgrim                                 pilgrim                         #555555
+	pilgrim brown                           pilgrimbrown                    #635147
 
-=item pilgrim brown                           pilgrimbrown                    #635147
+	pilgrim brown                           pilgrimbrown                    #3e322c
 
-=item pilgrim brown                           pilgrimbrown                    #3e322c
+	pilot blue                              pilotblue                       #436b95
 
-=item pilot blue                              pilotblue                       #436b95
+	pimento                                 pimento                         #be0032
 
-=item pimento                                 pimento                         #be0032
+	pimlico                                 pimlico                         #554c69
 
-=item pimlico                                 pimlico                         #554c69
+	pinard yellow                           pinardyellow                    #f8de7e
 
-=item pinard yellow                           pinardyellow                    #f8de7e
+	pinchbeck brown                         pinchbeckbrown                  #be8a3d
 
-=item pinchbeck brown                         pinchbeckbrown                  #be8a3d
+	pinchbeck brown                         pinchbeckbrown                  #996515
 
-=item pinchbeck brown                         pinchbeckbrown                  #996515
+	pinchbeck brown                         pinchbeckbrown                  #c19a6b
 
-=item pinchbeck brown                         pinchbeckbrown                  #c19a6b
+	pinchbeck brown                         pinchbeckbrown                  #ab9144
 
-=item pinchbeck brown                         pinchbeckbrown                  #ab9144
+	pinchbeck brown                         pinchbeckbrown                  #967117
 
-=item pinchbeck brown                         pinchbeckbrown                  #967117
+	pineapple                               pineapple                       #f8de7e
 
-=item pineapple                               pineapple                       #f8de7e
+	pineapple                               pineapple                       #c9ae5d
 
-=item pineapple                               pineapple                       #c9ae5d
+	pinecone                                pinecone                        #635147
 
-=item pinecone                                pinecone                        #635147
+	pinecone                                pinecone                        #7e6d5a
 
-=item pinecone                                pinecone                        #7e6d5a
+	pine frost                              pinefrost                       #8da399
 
-=item pine frost                              pinefrost                       #8da399
+	pinegrove                               pinegrove                       #3a4b47
 
-=item pinegrove                               pinegrove                       #3a4b47
+	pineneedle                              pineneedle                      #1b4d3e
 
-=item pineneedle                              pineneedle                      #1b4d3e
+	pineneedle                              pineneedle                      #3a4b47
 
-=item pineneedle                              pineneedle                      #3a4b47
+	pine tree                               pinetree                        #004b49
 
-=item pine tree                               pinetree                        #004b49
+	pink 1                                  pink1                           #c1b6b3
 
-=item pink 1                                  pink1                           #c1b6b3
+	pink 2                                  pink2                           #ead8d7
 
-=item pink 2                                  pink2                           #ead8d7
+	pink 3                                  pink3                           #f9ccca
 
-=item pink 3                                  pink3                           #f9ccca
+	pink 3                                  pink3                           #ead8d7
 
-=item pink 3                                  pink3                           #ead8d7
+	pink 4                                  pink4                           #f9ccca
 
-=item pink 4                                  pink4                           #f9ccca
+	pink 4                                  pink4                           #dea5a4
 
-=item pink 4                                  pink4                           #dea5a4
+	pink 5                                  pink5                           #dea5a4
 
-=item pink 5                                  pink5                           #dea5a4
+	pink coral                              pinkcoral                       #e4717a
 
-=item pink coral                              pinkcoral                       #e4717a
+	pink coral                              pinkcoral                       #f88379
 
-=item pink coral                              pinkcoral                       #f88379
+	pink pearl                              pinkpearl                       #dea5a4
 
-=item pink pearl                              pinkpearl                       #dea5a4
+	piping rock                             pipingrock                      #8a8776
 
-=item piping rock                             pipingrock                      #8a8776
+	piquant green                           piquantgreen                    #8a9a5b
 
-=item piquant green                           piquantgreen                    #8a9a5b
+	pirate                                  pirate                          #bc3f4a
 
-=item pirate                                  pirate                          #bc3f4a
+	pirate                                  pirate                          #d9603b
 
-=item pirate                                  pirate                          #d9603b
+	pistache                                pistache                        #8a9a5b
 
-=item pistache                                pistache                        #8a9a5b
+	pistache                                pistache                        #93c592
 
-=item pistache                                pistache                        #93c592
+	pistachio green                         pistachiogreen                  #8a9a5b
 
-=item pistachio green                         pistachiogreen                  #8a9a5b
+	pistachio green                         pistachiogreen                  #93c592
 
-=item pistachio green                         pistachiogreen                  #93c592
+	pitchpine                               pitchpine                       #3a4b47
 
-=item pitchpine                               pitchpine                       #3a4b47
+	piuree                                  piuree                          #eaa221
 
-=item piuree                                  piuree                          #eaa221
+	piuree                                  piuree                          #e3a857
 
-=item piuree                                  piuree                          #e3a857
+	piuri                                   piuri                           #eaa221
 
-=item piuri                                   piuri                           #eaa221
+	piuri                                   piuri                           #e3a857
 
-=item piuri                                   piuri                           #e3a857
+	pi yu                                   piyu                            #3b7861
 
-=item pi yu                                   piyu                            #3b7861
+	plantation                              plantation                      #79443b
 
-=item plantation                              plantation                      #79443b
+	platina yellow                          platinayellow                   #ae6938
 
-=item platina yellow                          platinayellow                   #ae6938
+	platinum                                platinum                        #848482
 
-=item platinum                                platinum                        #848482
+	plaza grey                              plazagrey                       #bfb8a5
 
-=item plaza grey                              plazagrey                       #bfb8a5
+	pleroma violet                          pleromaviolet                   #86608e
 
-=item pleroma violet                          pleromaviolet                   #86608e
+	plover                                  plover                          #5b504f
 
-=item plover                                  plover                          #5b504f
+	plumbaceous                             plumbaceous                     #5d555b
 
-=item plumbaceous                             plumbaceous                     #5d555b
+	plumbaceous                             plumbaceous                     #555555
 
-=item plumbaceous                             plumbaceous                     #555555
+	plumbago blue                           plumbagoblue                    #aa98a9
 
-=item plumbago blue                           plumbagoblue                    #aa98a9
+	plumbago blue                           plumbagoblue                    #8b8589
 
-=item plumbago blue                           plumbagoblue                    #8b8589
+	plumbago grey                           plumbagogrey                    #aa98a9
 
-=item plumbago grey                           plumbagogrey                    #aa98a9
+	plumbago grey                           plumbagogrey                    #8b8589
 
-=item plumbago grey                           plumbagogrey                    #8b8589
+	plumbago slate                          plumbagoslate                   #5d555b
 
-=item plumbago slate                          plumbagoslate                   #5d555b
+	plumbet                                 plumbet                         #b4bcc0
 
-=item plumbet                                 plumbet                         #b4bcc0
+	plum [purple]                           plumpurple                      #563c5c
 
-=item plum [purple]                           plumpurple                      #563c5c
+	plum purple                             plumpurple                      #2f2140
 
-=item plum purple                             plumpurple                      #2f2140
+	plum violet                             plumviolet                      #722f37
 
-=item plum violet                             plumviolet                      #722f37
+	plum violet                             plumviolet                      #673147
 
-=item plum violet                             plumviolet                      #673147
+	plunket                                 plunket                         #b4bcc0
 
-=item plunket                                 plunket                         #b4bcc0
+	plymouth                                plymouth                        #555555
 
-=item plymouth                                plymouth                        #555555
+	poil d'ours                             poildours                       #555555
 
-=item poil d'ours                             poildours                       #555555
+	poilu                                   poilu                           #81878b
 
-=item poilu                                   poilu                           #81878b
+	poinsettia                              poinsettia                      #be0032
 
-=item poinsettia                              poinsettia                      #be0032
+	poinsettia                              poinsettia                      #bc3f4a
 
-=item poinsettia                              poinsettia                      #bc3f4a
+	pois green                              poisgreen                       #8f9779
 
-=item pois green                              poisgreen                       #8f9779
+	polar bear                              polarbear                       #fad6a5
 
-=item polar bear                              polarbear                       #fad6a5
+	polar bear                              polarbear                       #f0ead6
 
-=item polar bear                              polarbear                       #f0ead6
+	polignac                                polignac                        #ad8884
 
-=item polignac                                polignac                        #ad8884
+	polignac                                polignac                        #a87c6d
 
-=item polignac                                polignac                        #a87c6d
+	polignac                                polignac                        #977f73
 
-=item polignac                                polignac                        #977f73
+	polo green                              pologreen                       #4a5d23
 
-=item polo green                              pologreen                       #4a5d23
+	polo green                              pologreen                       #355e3b
 
-=item polo green                              pologreen                       #355e3b
+	polo tan                                polotan                         #c19a6b
 
-=item polo tan                                polotan                         #c19a6b
+	pomegranate                             pomegranate                     #722f37
 
-=item pomegranate                             pomegranate                     #722f37
+	pomegranate blossom                     pomegranateblossom              #be0032
 
-=item pomegranate blossom                     pomegranateblossom              #be0032
+	pomegranate blossom                     pomegranateblossom              #e25822
 
-=item pomegranate blossom                     pomegranateblossom              #e25822
+	pomegranate purple                      pomegranatepurple               #ab4e52
 
-=item pomegranate purple                      pomegranatepurple               #ab4e52
+	pomegranate purple                      pomegranatepurple               #a8516e
 
-=item pomegranate purple                      pomegranatepurple               #a8516e
+	pomegranate purple                      pomegranatepurple               #a8516e
 
-=item pomegranate purple                      pomegranatepurple               #a8516e
+	pomegranate purple                      pomegranatepurple               #915f6d
 
-=item pomegranate purple                      pomegranatepurple               #915f6d
+	pomona green                            pomonagreen                     #8a9a5b
 
-=item pomona green                            pomonagreen                     #8a9a5b
+	pompadour [green]                       pompadourgreen                  #436b95
 
-=item pompadour [green]                       pompadourgreen                  #436b95
+	pomp and power                          pompandpower                    #86608e
 
-=item pomp and power                          pompandpower                    #86608e
+	pompeian blue                           pompeianblue                    #91a3b0
 
-=item pompeian blue                           pompeianblue                    #91a3b0
+	pompeian red                            pompeianred                     #905d5d
 
-=item pompeian red                            pompeianred                     #905d5d
+	pompeian red                            pompeianred                     #b4745e
 
-=item pompeian red                            pompeianred                     #b4745e
+	pompeian red                            pompeianred                     #a87c6d
 
-=item pompeian red                            pompeianred                     #a87c6d
+	pompeian yellow                         pompeianyellow                  #e3a857
 
-=item pompeian yellow                         pompeianyellow                  #e3a857
+	pompeii                                 pompeii                         #56070c
 
-=item pompeii                                 pompeii                         #56070c
+	pompeii                                 pompeii                         #79443b
 
-=item pompeii                                 pompeii                         #79443b
+	ponceau                                 ponceau                         #be0032
 
-=item ponceau                                 ponceau                         #be0032
+	ponceau                                 ponceau                         #e25822
 
-=item ponceau                                 ponceau                         #e25822
+	ponce de leon                           poncedeleon                     #ed872d
 
-=item ponce de leon                           poncedeleon                     #ed872d
+	pond lily                               pondlily                        #f8de7e
 
-=item pond lily                               pondlily                        #f8de7e
+	pond lily                               pondlily                        #c9ae5d
 
-=item pond lily                               pondlily                        #c9ae5d
+	pongee                                  pongee                          #c19a6b
 
-=item pongee                                  pongee                          #c19a6b
+	pontiff [purple]                        pontiffpurple                   #602f6b
 
-=item pontiff [purple]                        pontiffpurple                   #602f6b
+	pony brown                              ponybrown                       #635147
 
-=item pony brown                              ponybrown                       #635147
+	popcorn                                 popcorn                         #f8de7e
 
-=item popcorn                                 popcorn                         #f8de7e
+	popinjay green                          popinjaygreen                   #8a9a5b
 
-=item popinjay green                          popinjaygreen                   #8a9a5b
+	poplar                                  poplar                          #3a4b47
 
-=item poplar                                  poplar                          #3a4b47
+	poppy [red]                             poppyred                        #be0032
 
-=item poppy [red]                             poppyred                        #be0032
+	poppy [red]                             poppyred                        #e25822
 
-=item poppy [red]                             poppyred                        #e25822
+	porcelain                               porcelain                       #436b95
 
-=item porcelain                               porcelain                       #436b95
+	porcelain blue                          porcelainblue                   #536878
 
-=item porcelain blue                          porcelainblue                   #536878
+	porcelain green                         porcelaingreen                  #317873
 
-=item porcelain green                         porcelaingreen                  #317873
+	porraaceous                             porraaceous                     #8a9a5b
 
-=item porraaceous                             porraaceous                     #8a9a5b
+	porret                                  porret                          #8a9a5b
 
-=item porret                                  porret                          #8a9a5b
+	port                                    port                            #3f1728
 
-=item port                                    port                            #3f1728
+	portable red                            portablered                     #bc3f4a
 
-=item portable red                            portablered                     #bc3f4a
+	portable red                            portablered                     #ab4e52
 
-=item portable red                            portablered                     #ab4e52
+	portable red                            portablered                     #aa381e
 
-=item portable red                            portablered                     #aa381e
+	portable red                            portablered                     #9e4732
 
-=item portable red                            portablered                     #9e4732
+	portugese red or portuguese red         portugeseredorportuguesered     #be0032
 
-=item portugese red or portuguese red         portugeseredorportuguesered     #be0032
+	port wine                               portwine                        #43302e
 
-=item port wine                               portwine                        #43302e
+	post office red                         postofficered                   #aa381e
 
-=item post office red                         postofficered                   #aa381e
+	post office red                         postofficered                   #9e4732
 
-=item post office red                         postofficered                   #9e4732
+	posy green                              posygreen                       #5e716a
 
-=item posy green                              posygreen                       #5e716a
+	poudre                                  poudre                          #91a3b0
 
-=item poudre                                  poudre                          #91a3b0
+	poudre                                  poudre                          #81878b
 
-=item poudre                                  poudre                          #81878b
+	poudre                                  poudre                          #b4bcc0
 
-=item poudre                                  poudre                          #b4bcc0
+	poudre blue                             poudreblue                      #91a3b0
 
-=item poudre blue                             poudreblue                      #91a3b0
+	poudre blue                             poudreblue                      #81878b
 
-=item poudre blue                             poudreblue                      #81878b
+	powder blue                             powderblue                      #91a3b0
 
-=item powder blue                             powderblue                      #91a3b0
+	powder blue                             powderblue                      #81878b
 
-=item powder blue                             powderblue                      #81878b
+	powder blue                             powderblue                      #00416a
 
-=item powder blue                             powderblue                      #00416a
+	powder blue                             powderblue                      #436b95
 
-=item powder blue                             powderblue                      #436b95
+	powdered gold                           powderedgold                    #a18f60
 
-=item powdered gold                           powderedgold                    #a18f60
+	powder pink                             powderpink                      #d9a6a9
 
-=item powder pink                             powderpink                      #d9a6a9
+	prairie                                 prairie                         #c19a6b
 
-=item prairie                                 prairie                         #c19a6b
+	prairie brown                           prairiebrown                    #ae6938
 
-=item prairie brown                           prairiebrown                    #ae6938
+	praline                                 praline                         #6f4e37
 
-=item praline                                 praline                         #6f4e37
+	praline                                 praline                         #635147
 
-=item praline                                 praline                         #635147
+	prawn [pink]                            prawnpink                       #f88379
 
-=item prawn [pink]                            prawnpink                       #f88379
+	prelate                                 prelate                         #604e81
 
-=item prelate                                 prelate                         #604e81
+	primrose green                          primrosegreen                   #ebe8a4
 
-=item primrose green                          primrosegreen                   #ebe8a4
+	primrose yellow                         primroseyellow                  #f8de7e
 
-=item primrose yellow                         primroseyellow                  #f8de7e
+	primrose yellow                         primroseyellow                  #c9ae5d
 
-=item primrose yellow                         primroseyellow                  #c9ae5d
+	primuline yellow                        primulineyellow                 #d4af37
 
-=item primuline yellow                        primulineyellow                 #d4af37
+	prince grey                             princegrey                      #8b8589
 
-=item prince grey                             princegrey                      #8b8589
+	princeton orange                        princetonorange                 #ed872d
 
-=item princeton orange                        princetonorange                 #ed872d
+	priscilla                               priscilla                       #b9b8b5
 
-=item priscilla                               priscilla                       #b9b8b5
+	privet                                  privet                          #515744
 
-=item privet                                  privet                          #515744
+	prout's brown                           proutsbrown                     #6f4e37
 
-=item prout's brown                           proutsbrown                     #6f4e37
+	prout's brown                           proutsbrown                     #635147
 
-=item prout's brown                           proutsbrown                     #635147
+	prout's brown                           proutsbrown                     #826644
 
-=item prout's brown                           proutsbrown                     #826644
+	prout's brown                           proutsbrown                     #7e6d5a
 
-=item prout's brown                           proutsbrown                     #7e6d5a
+	prune                                   prune                           #5d3954
 
-=item prune                                   prune                           #5d3954
+	prunella                                prunella                        #32174d
 
-=item prunella                                prunella                        #32174d
+	prunella                                prunella                        #2f2140
 
-=item prunella                                prunella                        #2f2140
+	prune purple                            prunepurple                     #563c5c
 
-=item prune purple                            prunepurple                     #563c5c
+	prussian brown                          prussianbrown                   #ae6938
 
-=item prussian brown                          prussianbrown                   #ae6938
+	prussian red                            prussianred                     #882d17
 
-=item prussian red                            prussianred                     #882d17
+	prussian red                            prussianred                     #79443b
 
-=item prussian red                            prussianred                     #79443b
+	psyche                                  psyche                          #93c592
 
-=item psyche                                  psyche                          #93c592
+	pâté shell                              ptshell                         #fad6a5
 
-=item pâté shell                              ptshell                         #fad6a5
+	pâté shell                              ptshell                         #c19a6b
 
-=item pâté shell                              ptshell                         #c19a6b
+	puce                                    puce                            #722f37
 
-=item puce                                    puce                            #722f37
+	pueblo                                  pueblo                          #6f4e37
 
-=item pueblo                                  pueblo                          #6f4e37
+	puke                                    puke                            #722f37
 
-=item puke                                    puke                            #722f37
+	pumpkin                                 pumpkin                         #ed872d
 
-=item pumpkin                                 pumpkin                         #ed872d
+	punjab                                  punjab                          #be6516
 
-=item punjab                                  punjab                          #be6516
+	punjab                                  punjab                          #ae6938
 
-=item punjab                                  punjab                          #ae6938
+	puritan grey                            puritangrey                     #81878b
 
-=item puritan grey                            puritangrey                     #81878b
+	puritan grey                            puritangrey                     #848482
 
-=item puritan grey                            puritangrey                     #848482
+	purple aster                            purpleaster                     #86608e
 
-=item purple aster                            purpleaster                     #86608e
+	purple brown                            purplebrown                     #79443b
 
-=item purple brown                            purplebrown                     #79443b
+	purple heather                          purpleheather                   #86608e
 
-=item purple heather                          purpleheather                   #86608e
+	purple lake                             purplelake                      #841b2d
 
-=item purple lake                             purplelake                      #841b2d
+	purple lake                             purplelake                      #ab4e52
 
-=item purple lake                             purplelake                      #ab4e52
+	purple madder                           purplemadder                    #ab4e52
 
-=item purple madder                           purplemadder                    #ab4e52
+	purple madder                           purplemadder                    #722f37
 
-=item purple madder                           purplemadder                    #722f37
+	purple navy                             purplenavy                      #00304e
 
-=item purple navy                             purplenavy                      #00304e
+	purple navy                             purplenavy                      #4e5180
 
-=item purple navy                             purplenavy                      #4e5180
+	purple navy                             purplenavy                      #252440
 
-=item purple navy                             purplenavy                      #252440
+	purple ochre                            purpleochre                     #882d17
 
-=item purple ochre                            purpleochre                     #882d17
+	purple oxide                            purpleoxide                     #79443b
 
-=item purple oxide                            purpleoxide                     #79443b
+	purple rubiate                          purplerubiate                   #ab4e52
 
-=item purple rubiate                          purplerubiate                   #ab4e52
+	purple rubiate                          purplerubiate                   #722f37
 
-=item purple rubiate                          purplerubiate                   #722f37
+	purrea arabica                          purreaarabica                   #eaa221
 
-=item purrea arabica                          purreaarabica                   #eaa221
+	purrea arabica                          purreaarabica                   #e3a857
 
-=item purrea arabica                          purreaarabica                   #e3a857
+	purree                                  purree                          #eaa221
 
-=item purree                                  purree                          #eaa221
+	purree                                  purree                          #e3a857
 
-=item purree                                  purree                          #e3a857
+	putty                                   putty                           #f3e5ab
 
-=item putty                                   putty                           #f3e5ab
+	putty                                   putty                           #c2b280
 
-=item putty                                   putty                           #c2b280
+	pygmalion                               pygmalion                       #996515
 
-=item pygmalion                               pygmalion                       #996515
+	pygmalion                               pygmalion                       #c19a6b
 
-=item pygmalion                               pygmalion                       #c19a6b
+	pygmalion                               pygmalion                       #826644
 
-=item pygmalion                               pygmalion                       #826644
+	pyrethrum yellow                        pyrethrumyellow                 #fada5e
 
-=item pyrethrum yellow                        pyrethrumyellow                 #fada5e
+	pyrethrum yellow                        pyrethrumyellow                 #d4af37
 
-=item pyrethrum yellow                        pyrethrumyellow                 #d4af37
+	pyrethrum yellow                        pyrethrumyellow                 #f8de7e
 
-=item pyrethrum yellow                        pyrethrumyellow                 #f8de7e
+	pyrethrum yellow                        pyrethrumyellow                 #c9ae5d
 
-=item pyrethrum yellow                        pyrethrumyellow                 #c9ae5d
+	pyrite yellow                           pyriteyellow                    #ab9144
 
-=item pyrite yellow                           pyriteyellow                    #ab9144
+	quail                                   quail                           #5b504f
 
-=item quail                                   quail                           #5b504f
+	quail                                   quail                           #555555
 
-=item quail                                   quail                           #555555
+	quaker                                  quaker                          #8b8589
 
-=item quaker                                  quaker                          #8b8589
+	quaker                                  quaker                          #848482
 
-=item quaker                                  quaker                          #848482
+	quaker blue                             quakerblue                      #222222
 
-=item quaker blue                             quakerblue                      #222222
+	quaker drab                             quakerdrab                      #848482
 
-=item quaker drab                             quakerdrab                      #848482
+	quaker green                            quakergreen                     #4a5d23
 
-=item quaker green                            quakergreen                     #4a5d23
+	quaker grey                             quakergrey                      #8c8767
 
-=item quaker grey                             quakergrey                      #8c8767
+	queen anne green                        queenannegreen                  #8f9779
 
-=item queen anne green                        queenannegreen                  #8f9779
+	queen blue                              queenblue                       #436b95
 
-=item queen blue                              queenblue                       #436b95
+	queen's blue                            queensblue                      #436b95
 
-=item queen's blue                            queensblue                      #436b95
+	queen's yellow                          queensyellow                    #f8de7e
 
-=item queen's yellow                          queensyellow                    #f8de7e
+	quercitron                              quercitron                      #f8de7e
 
-=item quercitron                              quercitron                      #f8de7e
+	quercitron lake                         quercitronlake                  #e3a857
 
-=item quercitron lake                         quercitronlake                  #e3a857
+	quimper                                 quimper                         #536878
 
-=item quimper                                 quimper                         #536878
+	quince yellow                           quinceyellow                    #c9ae5d
 
-=item quince yellow                           quinceyellow                    #c9ae5d
+	rabbit                                  rabbit                          #5b504f
 
-=item rabbit                                  rabbit                          #5b504f
+	racquet                                 racquet                         #635147
 
-=item racquet                                 racquet                         #635147
+	racquet                                 racquet                         #7e6d5a
 
-=item racquet                                 racquet                         #7e6d5a
+	raddle                                  raddle                          #79443b
 
-=item raddle                                  raddle                          #79443b
+	radiance                                radiance                        #e4717a
 
-=item radiance                                radiance                        #e4717a
+	radiant yellow                          radiantyellow                   #ed872d
 
-=item radiant yellow                          radiantyellow                   #ed872d
+	radiant yellow                          radiantyellow                   #d99058
 
-=item radiant yellow                          radiantyellow                   #d99058
+	radiant yellow                          radiantyellow                   #eaa221
 
-=item radiant yellow                          radiantyellow                   #eaa221
+	radiant yellow                          radiantyellow                   #e3a857
 
-=item radiant yellow                          radiantyellow                   #e3a857
+	radio                                   radio                           #00304e
 
-=item radio                                   radio                           #00304e
+	radio                                   radio                           #536878
 
-=item radio                                   radio                           #536878
+	radio blue                              radioblue                       #36454f
 
-=item radio blue                              radioblue                       #36454f
+	raffia                                  raffia                          #c19a6b
 
-=item raffia                                  raffia                          #c19a6b
+	raffia                                  raffia                          #c2b280
 
-=item raffia                                  raffia                          #c2b280
+	ragged sailor                           raggedsailor                    #4e5180
 
-=item ragged sailor                           raggedsailor                    #4e5180
+	rail                                    rail                            #555555
 
-=item rail                                    rail                            #555555
+	rainette green                          rainettegreen                   #8a9a5b
 
-=item rainette green                          rainettegreen                   #8a9a5b
+	raisin                                  raisin                          #673147
 
-=item raisin                                  raisin                          #673147
+	raisin black                            raisinblack                     #242124
 
-=item raisin black                            raisinblack                     #242124
+	raisin purple                           raisinpurple                    #702963
 
-=item raisin purple                           raisinpurple                    #702963
+	rambler rose                            ramblerrose                     #e4717a
 
-=item rambler rose                            ramblerrose                     #e4717a
+	rambler rose                            ramblerrose                     #a8516e
 
-=item rambler rose                            ramblerrose                     #a8516e
+	rameau                                  rameau                          #222222
 
-=item rameau                                  rameau                          #222222
+	rameses                                 rameses                         #00416a
 
-=item rameses                                 rameses                         #00416a
+	ramier blue                             ramierblue                      #796878
 
-=item ramier blue                             ramierblue                      #796878
+	rangoon                                 rangoon                         #6f4e37
 
-=item rangoon                                 rangoon                         #6f4e37
+	raphael                                 raphael                         #436b95
 
-=item raphael                                 raphael                         #436b95
+	raphael                                 raphael                         #00304e
 
-=item raphael                                 raphael                         #00304e
+	rapids                                  rapids                          #436b95
 
-=item rapids                                  rapids                          #436b95
+	raspberry                               raspberry                       #722f37
 
-=item raspberry                               raspberry                       #722f37
+	raspberry glacé                         raspberryglac                   #ab4e52
 
-=item raspberry glacé                         raspberryglac                   #ab4e52
+	raspberry glacé                         raspberryglac                   #905d5d
 
-=item raspberry glacé                         raspberryglac                   #905d5d
+	raspberry glacé                         raspberryglac                   #a8516e
 
-=item raspberry glacé                         raspberryglac                   #a8516e
+	raspberry glacé                         raspberryglac                   #915f6d
 
-=item raspberry glacé                         raspberryglac                   #915f6d
+	raspberry red                           raspberryred                    #ab4e52
 
-=item raspberry red                           raspberryred                    #ab4e52
+	rat                                     rat                             #57554c
 
-=item rat                                     rat                             #57554c
+	rattan                                  rattan                          #c9ae5d
 
-=item rattan                                  rattan                          #c9ae5d
+	raw italian earth                       rawitalianearth                 #ae6938
 
-=item raw italian earth                       rawitalianearth                 #ae6938
+	raw italian earth                       rawitalianearth                 #a67b5b
 
-=item raw italian earth                       rawitalianearth                 #a67b5b
+	raw sienna                              rawsienna                       #ae6938
 
-=item raw sienna                              rawsienna                       #ae6938
+	raw sienna                              rawsienna                       #a67b5b
 
-=item raw sienna                              rawsienna                       #a67b5b
+	raw umber                               rawumber                        #826644
 
-=item raw umber                               rawumber                        #826644
+	raw umber                               rawumber                        #4b3621
 
-=item raw umber                               rawumber                        #4b3621
+	raw umber                               rawumber                        #6f4e37
 
-=item raw umber                               rawumber                        #6f4e37
+	récamier                                rcamier                         #dea5a4
 
-=item récamier                                rcamier                         #dea5a4
+	récamier                                rcamier                         #f88379
 
-=item récamier                                rcamier                         #f88379
+	realgar                                 realgar                         #eaa221
 
-=item realgar                                 realgar                         #eaa221
+	realgar                                 realgar                         #e3a857
 
-=item realgar                                 realgar                         #e3a857
+	red banana                              redbanana                       #841b2d
 
-=item red banana                              redbanana                       #841b2d
+	red banana                              redbanana                       #ab4e52
 
-=item red banana                              redbanana                       #ab4e52
+	red bole                                redbole                         #79443b
 
-=item red bole                                redbole                         #79443b
+	red chalk                               redchalk                        #79443b
 
-=item red chalk                               redchalk                        #79443b
+	red cross                               redcross                        #be0032
 
-=item red cross                               redcross                        #be0032
+	red cross                               redcross                        #bc3f4a
 
-=item red cross                               redcross                        #bc3f4a
+	redding                                 redding                         #79443b
 
-=item redding                                 redding                         #79443b
+	reddle                                  reddle                          #79443b
 
-=item reddle                                  reddle                          #79443b
+	red earth                               redearth                        #79443b
 
-=item red earth                               redearth                        #79443b
+	redfeather                              redfeather                      #bc3f4a
 
-=item redfeather                              redfeather                      #bc3f4a
+	redfeather                              redfeather                      #ab4e52
 
-=item redfeather                              redfeather                      #ab4e52
+	red in plates                           redinplates                     #be0032
 
-=item red in plates                           redinplates                     #be0032
+	red lead                                redlead                         #e25822
 
-=item red lead                                redlead                         #e25822
+	red ochre                               redochre                        #79443b
 
-=item red ochre                               redochre                        #79443b
+	red oxide                               redoxide                        #882d17
 
-=item red oxide                               redoxide                        #882d17
+	red oxide                               redoxide                        #80461b
 
-=item red oxide                               redoxide                        #80461b
+	red robin                               redrobin                        #56070c
 
-=item red robin                               redrobin                        #56070c
+	redwood                                 redwood                         #722f37
 
-=item redwood                                 redwood                         #722f37
+	redwood                                 redwood                         #882d17
 
-=item redwood                                 redwood                         #882d17
+	redwood                                 redwood                         #79443b
 
-=item redwood                                 redwood                         #79443b
+	redwood redwood -)                      redwoodredwood                  #ab4e52
 
-=item redwood redwood -)                      redwoodredwood                  #ab4e52
+	redwood redwood -)                      redwoodredwood                  #ab4e52
 
-=item redwood redwood -)                      redwoodredwood                  #ab4e52
+	redwood redwood -)                      redwoodredwood                  #905d5d
 
-=item redwood redwood -)                      redwoodredwood                  #905d5d
+	reed green                              reedgreen                       #c9dc89
 
-=item reed green                              reedgreen                       #c9dc89
+	reed yellow                             reedyellow                      #eae679
 
-=item reed yellow                             reedyellow                      #eae679
+	reed yellow                             reedyellow                      #ebe8a4
 
-=item reed yellow                             reedyellow                      #ebe8a4
+	regal                                   regal                           #272458
 
-=item regal                                   regal                           #272458
+	regal purple                            regalpurple                     #604e97
 
-=item regal purple                            regalpurple                     #604e97
+	regatta                                 regatta                         #0067a5
 
-=item regatta                                 regatta                         #0067a5
+	regatta                                 regatta                         #545aa7
 
-=item regatta                                 regatta                         #545aa7
+	regimental                              regimental                      #4c516d
 
-=item regimental                              regimental                      #4c516d
+	rejane green                            rejanegreen                     #679267
 
-=item rejane green                            rejanegreen                     #679267
+	rembrandt                               rembrandt                       #3e322c
 
-=item rembrandt                               rembrandt                       #3e322c
+	rembrandt's madder                      rembrandtsmadder                #cb6d51
 
-=item rembrandt's madder                      rembrandtsmadder                #cb6d51
+	rembrandt's madder                      rembrandtsmadder                #9e4732
 
-=item rembrandt's madder                      rembrandtsmadder                #9e4732
+	rembrandt's madder                      rembrandtsmadder                #b4745e
 
-=item rembrandt's madder                      rembrandtsmadder                #b4745e
+	rembrandt's madder                      rembrandtsmadder                #79443b
 
-=item rembrandt's madder                      rembrandtsmadder                #79443b
+	renaissance                             renaissance                     #ce4676
 
-=item renaissance                             renaissance                     #ce4676
+	reseda [green]                          resedagreen                     #867e36
 
-=item reseda [green]                          resedagreen                     #867e36
+	resolute                                resolute                        #436b95
 
-=item resolute                                resolute                        #436b95
+	reveree                                 reveree                         #ecd5c5
 
-=item reveree                                 reveree                         #ecd5c5
+	reveree                                 reveree                         #c7ada3
 
-=item reveree                                 reveree                         #c7ada3
+	rhododendron                            rhododendron                    #673147
 
-=item rhododendron                            rhododendron                    #673147
+	rhodonite pink                          rhodonitepink                   #c17e91
 
-=item rhodonite pink                          rhodonitepink                   #c17e91
+	rhone                                   rhone                           #c9dc89
 
-=item rhone                                   rhone                           #c9dc89
+	rhone                                   rhone                           #dadfb7
 
-=item rhone                                   rhone                           #dadfb7
+	rhubarb                                 rhubarb                         #867e36
 
-=item rhubarb                                 rhubarb                         #867e36
+	rifle [green]                           riflegreen                      #31362b
 
-=item rifle [green]                           riflegreen                      #31362b
+	rifle [green]                           riflegreen                      #222222
 
-=item rifle [green]                           riflegreen                      #222222
+	riga                                    riga                            #317873
 
-=item riga                                    riga                            #317873
+	riga blue                               rigablue                        #3a4b47
 
-=item riga blue                               rigablue                        #3a4b47
+	riga blue                               rigablue                        #536878
 
-=item riga blue                               rigablue                        #536878
+	rinnemann's green                       rinnemannsgreen                 #679267
 
-=item rinnemann's green                       rinnemannsgreen                 #679267
+	ripple green                            ripplegreen                     #5e716a
 
-=item ripple green                            ripplegreen                     #5e716a
+	ripple green                            ripplegreen                     #317873
 
-=item ripple green                            ripplegreen                     #317873
+	risigal                                 risigal                         #eaa221
 
-=item risigal                                 risigal                         #eaa221
+	risigal                                 risigal                         #e3a857
 
-=item risigal                                 risigal                         #e3a857
+	rivage green                            rivagegreen                     #8a9a5b
 
-=item rivage green                            rivagegreen                     #8a9a5b
+	rivage green                            rivagegreen                     #93c592
 
-=item rivage green                            rivagegreen                     #93c592
+	riviera                                 riviera                         #0067a5
 
-=item riviera                                 riviera                         #0067a5
+	roan                                    roan                            #79443b
 
-=item roan                                    roan                            #79443b
+	robinhood green                         robinhoodgreen                  #1b4d3e
 
-=item robinhood green                         robinhoodgreen                  #1b4d3e
+	robin's egg blue                        robinseggblue                   #8da399
 
-=item robin's egg blue                        robinseggblue                   #8da399
+	robin's egg blue                        robinseggblue                   #66ada4
 
-=item robin's egg blue                        robinseggblue                   #66ada4
+	rocou                                   rocou                           #d9a6a9
 
-=item rocou                                   rocou                           #d9a6a9
+	rodent                                  rodent                          #555555
 
-=item rodent                                  rodent                          #555555
+	roe                                     roe                             #c19a6b
 
-=item roe                                     roe                             #c19a6b
+	roe                                     roe                             #a18f60
 
-=item roe                                     roe                             #a18f60
+	roma blue                               romablue                        #4c516d
 
-=item roma blue                               romablue                        #4c516d
+	roma blue                               romablue                        #554c69
 
-=item roma blue                               romablue                        #554c69
+	roman earth                             romanearth                      #d99058
 
-=item roman earth                             romanearth                      #d99058
+	romanesque                              romanesque                      #5d3954
 
-=item romanesque                              romanesque                      #5d3954
+	roman green                             romangreen                      #665d1e
 
-=item roman green                             romangreen                      #665d1e
+	roman lake                              romanlake                       #be0032
 
-=item roman lake                              romanlake                       #be0032
+	roman lake                              romanlake                       #bc3f4a
 
-=item roman lake                              romanlake                       #bc3f4a
+	roman ochre                             romanochre                      #d99058
 
-=item roman ochre                             romanochre                      #d99058
+	roman purple                            romanpurple                     #604e81
 
-=item roman purple                            romanpurple                     #604e81
+	roman sepia                             romansepia                      #6f4e37
 
-=item roman sepia                             romansepia                      #6f4e37
+	romantic green                          romanticgreen                   #867e36
 
-=item romantic green                          romanticgreen                   #867e36
+	roman umber                             romanumber                      #826644
 
-=item roman umber                             romanumber                      #826644
+	roman umber                             romanumber                      #4b3621
 
-=item roman umber                             romanumber                      #4b3621
+	roman violet                            romanviolet                     #5d3954
 
-=item roman violet                            romanviolet                     #5d3954
+	romany                                  romany                          #36454f
 
-=item romany                                  romany                          #36454f
+	romany                                  romany                          #202830
 
-=item romany                                  romany                          #202830
+	romany                                  romany                          #252440
 
-=item romany                                  romany                          #252440
+	romany                                  romany                          #4c516d
 
-=item romany                                  romany                          #4c516d
+	romarin                                 romarin                         #3a4b47
 
-=item romarin                                 romarin                         #3a4b47
+	rosalgar                                rosalgar                        #eaa221
 
-=item rosalgar                                rosalgar                        #eaa221
+	rosalgar                                rosalgar                        #e3a857
 
-=item rosalgar                                rosalgar                        #e3a857
+	rosario                                 rosario                         #a67b5b
 
-=item rosario                                 rosario                         #a67b5b
+	rose amber                              roseamber                       #ae6938
 
-=item rose amber                              roseamber                       #ae6938
+	rose amber                              roseamber                       #a67b5b
 
-=item rose amber                              roseamber                       #a67b5b
+	rose ash                                roseash                         #905d5d
 
-=item rose ash                                roseash                         #905d5d
+	rose beige                              rosebeige                       #7e6d5a
 
-=item rose beige                              rosebeige                       #7e6d5a
+	rose beige 2                            rosebeige2                      #a67b5b
 
-=item rose beige 2                            rosebeige2                      #a67b5b
+	rosebisque                              rosebisque                      #a87c6d
 
-=item rosebisque                              rosebisque                      #a87c6d
+	rosebloom                               rosebloom                       #ad8884
 
-=item rosebloom                               rosebloom                       #ad8884
+	rosebloom                               rosebloom                       #c48379
 
-=item rosebloom                               rosebloom                       #c48379
+	rosebloom                               rosebloom                       #b4745e
 
-=item rosebloom                               rosebloom                       #b4745e
+	rosebloom                               rosebloom                       #a87c6d
 
-=item rosebloom                               rosebloom                       #a87c6d
+	rose blush                              roseblush                       #a87c6d
 
-=item rose blush                              roseblush                       #a87c6d
+	rose blush 2                            roseblush2                      #a67b5b
 
-=item rose blush 2                            roseblush2                      #a67b5b
+	rose breath                             rosebreath                      #f9ccca
 
-=item rose breath                             rosebreath                      #f9ccca
+	rose breath                             rosebreath                      #ead8d7
 
-=item rose breath                             rosebreath                      #ead8d7
+	rosebud                                 rosebud                         #de6fa1
 
-=item rosebud                                 rosebud                         #de6fa1
+	rosebud                                 rosebud                         #c17e91
 
-=item rosebud                                 rosebud                         #c17e91
+	rose caroline                           rosecaroline                    #d9a6a9
 
-=item rose caroline                           rosecaroline                    #d9a6a9
+	rose carthame                           rosecarthame                    #be0032
 
-=item rose carthame                           rosecarthame                    #be0032
+	rose castor                             rosecastor                      #8f817f
 
-=item rose castor                             rosecastor                      #8f817f
+	rose cendre                             rosecendre                      #d9a6a9
 
-=item rose cendre                             rosecendre                      #d9a6a9
+	rose d'alma                             rosedalma                       #915f6d
 
-=item rose d'alma                             rosedalma                       #915f6d
+	rose d'althoea                          rosedalthoea                    #ea9399
 
-=item rose d'althoea                          rosedalthoea                    #ea9399
+	rose dawn                               rosedawn                        #d9a6a9
 
-=item rose dawn                               rosedawn                        #d9a6a9
+	rose dawn                               rosedawn                        #a87c6d
 
-=item rose dawn                               rosedawn                        #a87c6d
+	rose de nymphe                          rosedenymphe                    #f3e5ab
 
-=item rose de nymphe                          rosedenymphe                    #f3e5ab
+	rose de provence                        rosedeprovence                  #b3446c
 
-=item rose de provence                        rosedeprovence                  #b3446c
+	rose dorée                              rosedore                        #e4717a
 
-=item rose dorée                              rosedore                        #e4717a
+	rose dorée                              rosedore                        #ab4e52
 
-=item rose dorée                              rosedore                        #ab4e52
+	rosedust                                rosedust                        #905d5d
 
-=item rosedust                                rosedust                        #905d5d
+	rosedust                                rosedust                        #674c47
 
-=item rosedust                                rosedust                        #674c47
+	rose ebony                              roseebony                       #43302e
 
-=item rose ebony                              roseebony                       #43302e
+	rose france                             rosefrance                      #d9a6a9
 
-=item rose france                             rosefrance                      #d9a6a9
+	roseglow                                roseglow                        #a87c6d
 
-=item roseglow                                roseglow                        #a87c6d
+	rose grey                               rosegrey                        #5b504f
 
-=item rose grey                               rosegrey                        #5b504f
+	rose hermosa                            rosehermosa                     #dea5a4
 
-=item rose hermosa                            rosehermosa                     #dea5a4
+	rose hortensia                          rosehortensia                   #a87c6d
 
-=item rose hortensia                          rosehortensia                   #a87c6d
+	rose lake                               roselake                        #9e4732
 
-=item rose lake                               roselake                        #9e4732
+	roseleaf                                roseleaf                        #dea5a4
 
-=item roseleaf                                roseleaf                        #dea5a4
+	roselustre                              roselustre                      #722f37
 
-=item roselustre                              roselustre                      #722f37
+	rose madder                             rosemadder                      #b3446c
 
-=item rose madder                             rosemadder                      #b3446c
+	rose marie                              rosemarie                       #e4717a
 
-=item rose marie                              rosemarie                       #e4717a
+	rosemary                                rosemary                        #836479
 
-=item rosemary                                rosemary                        #836479
+	rose morn                               rosemorn                        #d9a6a9
 
-=item rose morn                               rosemorn                        #d9a6a9
+	rose neyron                             roseneyron                      #bc3f4a
 
-=item rose neyron                             roseneyron                      #bc3f4a
+	rose neyron                             roseneyron                      #b3446c
 
-=item rose neyron                             roseneyron                      #b3446c
+	rose nilsson                            rosenilsson                     #e4717a
 
-=item rose nilsson                            rosenilsson                     #e4717a
+	rose nude                               rosenude                        #d9a6a9
 
-=item rose nude                               rosenude                        #d9a6a9
+	rose nude                               rosenude                        #c7ada3
 
-=item rose nude                               rosenude                        #c7ada3
+	rose nude                               rosenude                        #c2ac99
 
-=item rose nude                               rosenude                        #c2ac99
+	rose oak                                roseoak                         #79443b
 
-=item rose oak                                roseoak                         #79443b
+	rose of picardy                         roseofpicardy                   #ab4e52
 
-=item rose of picardy                         roseofpicardy                   #ab4e52
+	rose of sharon                          roseofsharon                    #ab4e52
 
-=item rose of sharon                          roseofsharon                    #ab4e52
+	rose petal                              rosepetal                       #905d5d
 
-=item rose petal                              rosepetal                       #905d5d
+	rose pink                               rosepink                        #9e4732
 
-=item rose pink                               rosepink                        #9e4732
+	rose-purple                             rosepurple                      #b695c0
 
-=item rose-purple                             rosepurple                      #b695c0
+	rose-purple                             rosepurple                      #b784a7
 
-=item rose-purple                             rosepurple                      #b784a7
+	rose quartz                             rosequartz                      #aa98a9
 
-=item rose quartz                             rosequartz                      #aa98a9
+	rose soirée                             rosesoire                       #e4717a
 
-=item rose soirée                             rosesoire                       #e4717a
+	rosestone                               rosestone                       #977f73
 
-=item rosestone                               rosestone                       #977f73
+	roset                                   roset                           #9e4732
 
-=item roset                                   roset                           #9e4732
+	rosetan                                 rosetan                         #c2ac99
 
-=item rosetan                                 rosetan                         #c2ac99
+	rosetan                                 rosetan                         #958070
 
-=item rosetan                                 rosetan                         #958070
+	rose taupe                              rosetaupe                       #555555
 
-=item rose taupe                              rosetaupe                       #555555
+	rosetta                                 rosetta                         #5c504f
 
-=item rosetta                                 rosetta                         #5c504f
+	rosevale                                rosevale                        #ab4e52
 
-=item rosevale                                rosevale                        #ab4e52
+	rosevale                                rosevale                        #905d5d
 
-=item rosevale                                rosevale                        #905d5d
+	rosewood                                rosewood                        #79443b
 
-=item rosewood                                rosewood                        #79443b
+	roslyn blue                             roslynblue                      #272458
 
-=item roslyn blue                             roslynblue                      #272458
+	roucou                                  roucou                          #d9a6a9
 
-=item roucou                                  roucou                          #d9a6a9
+	rouge de fer                            rougedefer                      #79443b
 
-=item rouge de fer                            rougedefer                      #79443b
+	rouge vegetal                           rougevegetal                    #be0032
 
-=item rouge vegetal                           rougevegetal                    #be0032
+	royal blue                              royalblue                       #00416a
 
-=item royal blue                              royalblue                       #00416a
+	royal blue                              royalblue                       #436b95
 
-=item royal blue                              royalblue                       #436b95
+	royal blue                              royalblue                       #00416a
 
-=item royal blue                              royalblue                       #00416a
+	royal pink                              royalpink                       #e4717a
 
-=item royal pink                              royalpink                       #e4717a
+	royal purple                            royalpurple                     #604e97
 
-=item royal purple                            royalpurple                     #604e97
+	royal yellow                            royalyellow                     #fada5e
 
-=item royal yellow                            royalyellow                     #fada5e
+	royal yellow                            royalyellow                     #d4af37
 
-=item royal yellow                            royalyellow                     #d4af37
+	royal yellow                            royalyellow                     #f8de7e
 
-=item royal yellow                            royalyellow                     #f8de7e
+	royal yellow                            royalyellow                     #c9ae5d
 
-=item royal yellow                            royalyellow                     #c9ae5d
+	rubaiyat                                rubaiyat                        #722f37
 
-=item rubaiyat                                rubaiyat                        #722f37
+	rubber                                  rubber                          #6c541e
 
-=item rubber                                  rubber                          #6c541e
+	rubelite                                rubelite                        #ce4676
 
-=item rubelite                                rubelite                        #ce4676
+	ruben's madder                          rubensmadder                    #9e4732
 
-=item ruben's madder                          rubensmadder                    #9e4732
+	rubient                                 rubient                         #722f37
 
-=item rubient                                 rubient                         #722f37
+	rubrica                                 rubrica                         #79443b
 
-=item rubrica                                 rubrica                         #79443b
+	ruby                                    ruby                            #722f37
 
-=item ruby                                    ruby                            #722f37
+	ruby of arsenic                         rubyofarsenic                   #eaa221
 
-=item ruby of arsenic                         rubyofarsenic                   #eaa221
+	ruby of arsenic                         rubyofarsenic                   #e3a857
 
-=item ruby of arsenic                         rubyofarsenic                   #e3a857
+	ruddle                                  ruddle                          #79443b
 
-=item ruddle                                  ruddle                          #79443b
+	rufous                                  rufous                          #f88379
 
-=item rufous                                  rufous                          #f88379
+	rufous                                  rufous                          #d99058
 
-=item rufous                                  rufous                          #d99058
+	rugby tan                               rugbytan                        #80461b
 
-=item rugby tan                               rugbytan                        #80461b
+	runnymede                               runnymede                       #3b7861
 
-=item runnymede                               runnymede                       #3b7861
+	ru ochre                                ruochre                         #ae6938
 
-=item ru ochre                                ruochre                         #ae6938
+	ru ochre                                ruochre                         #996515
 
-=item ru ochre                                ruochre                         #996515
+	russet brown                            russetbrown                     #80461b
 
-=item russet brown                            russetbrown                     #80461b
+	russet brown                            russetbrown                     #6f4e37
 
-=item russet brown                            russetbrown                     #6f4e37
+	russet green                            russetgreen                     #b9b459
 
-=item russet green                            russetgreen                     #b9b459
+	russet green                            russetgreen                     #98943e
 
-=item russet green                            russetgreen                     #98943e
+	russet green                            russetgreen                     #b9b57d
 
-=item russet green                            russetgreen                     #b9b57d
+	russet green                            russetgreen                     #867e36
 
-=item russet green                            russetgreen                     #867e36
+	russet orange                           russetorange                    #d9603b
 
-=item russet orange                           russetorange                    #d9603b
+	russian blue                            russianblue                     #91a3b0
 
-=item russian blue                            russianblue                     #91a3b0
+	russian blue                            russianblue                     #81878b
 
-=item russian blue                            russianblue                     #81878b
+	russian calf                            russiancalf                     #6f4e37
 
-=item russian calf                            russiancalf                     #6f4e37
+	russian green                           russiangreen                    #679267
 
-=item russian green                           russiangreen                    #679267
+	russian green                           russiangreen                    #355e3b
 
-=item russian green                           russiangreen                    #355e3b
+	russian green                           russiangreen                    #5e716a
 
-=item russian green                           russiangreen                    #5e716a
+	russian grey                            russiangrey                     #8a8776
 
-=item russian grey                            russiangrey                     #8a8776
+	russian grey                            russiangrey                     #848482
 
-=item russian grey                            russiangrey                     #848482
+	russian violet                          russianviolet                   #32174d
 
-=item russian violet                          russianviolet                   #32174d
+	rust                                    rust                            #80461b
 
-=item rust                                    rust                            #80461b
+	rustic brown                            rusticbrown                     #79443b
 
-=item rustic brown                            rusticbrown                     #79443b
+	rustic drab                             rusticdrab                      #967117
 
-=item rustic drab                             rusticdrab                      #967117
+	rut ochre                               rutochre                        #ae6938
 
-=item rut ochre                               rutochre                        #ae6938
+	rut ochre                               rutochre                        #996515
 
-=item rut ochre                               rutochre                        #996515
+	sable                                   sable                           #7e6d5a
 
-=item sable                                   sable                           #7e6d5a
+	saddle                                  saddle                          #635147
 
-=item saddle                                  saddle                          #635147
+	saddle                                  saddle                          #7e6d5a
 
-=item saddle                                  saddle                          #7e6d5a
+	safaran                                 safaran                         #d99058
 
-=item safaran                                 safaran                         #d99058
+	safaran                                 safaran                         #e3a857
 
-=item safaran                                 safaran                         #e3a857
+	safflor                                 safflor                         #be0032
 
-=item safflor                                 safflor                         #be0032
+	safflower red                           safflowerred                    #be0032
 
-=item safflower red                           safflowerred                    #be0032
+	saffor                                  saffor                          #be0032
 
-=item saffor                                  saffor                          #be0032
+	saffron yellow                          saffronyellow                   #d99058
 
-=item saffron yellow                          saffronyellow                   #d99058
+	saffron yellow                          saffronyellow                   #e3a857
 
-=item saffron yellow                          saffronyellow                   #e3a857
+	safrano pink                            safranopink                     #d9a6a9
 
-=item safrano pink                            safranopink                     #d9a6a9
+	sagebrush green                         sagebrushgreen                  #4e5755
 
-=item sagebrush green                         sagebrushgreen                  #4e5755
+	sage drab                               sagedrab                        #515744
 
-=item sage drab                               sagedrab                        #515744
+	sage [green]                            sagegreen                       #8a9a5b
 
-=item sage [green]                            sagegreen                       #8a9a5b
+	sage grey                               sagegrey                        #8c8767
 
-=item sage grey                               sagegrey                        #8c8767
+	sahara                                  sahara                          #6f4e37
 
-=item sahara                                  sahara                          #6f4e37
+	sailor                                  sailor                          #291e29
 
-=item sailor                                  sailor                          #291e29
+	sailor                                  sailor                          #242124
 
-=item sailor                                  sailor                          #242124
+	sailor blue                             sailorblue                      #4e5180
 
-=item sailor blue                             sailorblue                      #4e5180
+	sakkara                                 sakkara                         #5b504f
 
-=item sakkara                                 sakkara                         #5b504f
+	sallow                                  sallow                          #b9b57d
 
-=item sallow                                  sallow                          #b9b57d
+	salmon [pink]                           salmonpink                      #d9a6a9
 
-=item salmon [pink]                           salmonpink                      #d9a6a9
+	salvia                                  salvia                          #be0032
 
-=item salvia                                  salvia                          #be0032
+	salvia blue                             salviablue                      #0067a5
 
-=item salvia blue                             salviablue                      #0067a5
+	samara                                  samara                          #317873
 
-=item samara                                  samara                          #317873
+	samovar                                 samovar                         #c19a6b
 
-=item samovar                                 samovar                         #c19a6b
+	samurai                                 samurai                         #b4745e
 
-=item samurai                                 samurai                         #b4745e
+	sand                                    sand                            #8c8767
 
-=item sand                                    sand                            #8c8767
+	sand                                    sand                            #8a8776
 
-=item sand                                    sand                            #8a8776
+	sandalwood                              sandalwood                      #ab4e52
 
-=item sandalwood                              sandalwood                      #ab4e52
+	sandalwood                              sandalwood                      #977f73
 
-=item sandalwood                              sandalwood                      #977f73
+	sandalwood                              sandalwood                      #6f4e37
 
-=item sandalwood                              sandalwood                      #6f4e37
+	sandalwood                              sandalwood                      #958070
 
-=item sandalwood                              sandalwood                      #958070
+	sandalwood                              sandalwood                      #635147
 
-=item sandalwood                              sandalwood                      #635147
+	sandarach                               sandarach                       #e25822
 
-=item sandarach                               sandarach                       #e25822
+	sandarach                               sandarach                       #eaa221
 
-=item sandarach                               sandarach                       #eaa221
+	sandarach                               sandarach                       #e3a857
 
-=item sandarach                               sandarach                       #e3a857
+	sandaracha                              sandaracha                      #e25822
 
-=item sandaracha                              sandaracha                      #e25822
+	sandaracha                              sandaracha                      #eaa221
 
-=item sandaracha                              sandaracha                      #eaa221
+	sandaracha                              sandaracha                      #e3a857
 
-=item sandaracha                              sandaracha                      #e3a857
+	sand dune                               sanddune                        #967117
 
-=item sand dune                               sanddune                        #967117
+	sander's blue                           sandersblue                     #436b95
 
-=item sander's blue                           sandersblue                     #436b95
+	sanderswood                             sanderswood                     #ab4e52
 
-=item sanderswood                             sanderswood                     #ab4e52
+	sandix                                  sandix                          #e25822
 
-=item sandix                                  sandix                          #e25822
+	sandrift                                sandrift                        #8e8279
 
-=item sandrift                                sandrift                        #8e8279
+	sandstone                               sandstone                       #a87c6d
 
-=item sandstone                               sandstone                       #a87c6d
+	sandstone                               sandstone                       #a67b5b
 
-=item sandstone                               sandstone                       #a67b5b
+	sandstone                               sandstone                       #958070
 
-=item sandstone                               sandstone                       #958070
+	sandust                                 sandust                         #d9a6a9
 
-=item sandust                                 sandust                         #d9a6a9
+	sandy-beige                             sandybeige                      #8e8279
 
-=item sandy-beige                             sandybeige                      #8e8279
+	sandyx                                  sandyx                          #e25822
 
-=item sandyx                                  sandyx                          #e25822
+	sang de boeuf                           sangdeboeuf                     #79443b
 
-=item sang de boeuf                           sangdeboeuf                     #79443b
+	sanguine                                sanguine                        #bc3f4a
 
-=item sanguine                                sanguine                        #bc3f4a
+	sanguine                                sanguine                        #ab4e52
 
-=item sanguine                                sanguine                        #ab4e52
+	sanguineus                              sanguineus                      #841b2d
 
-=item sanguineus                              sanguineus                      #841b2d
+	sanguineus                              sanguineus                      #722f37
 
-=item sanguineus                              sanguineus                      #722f37
+	sanguineus                              sanguineus                      #3f1728
 
-=item sanguineus                              sanguineus                      #3f1728
+	sanguineus                              sanguineus                      #3e1d1e
 
-=item sanguineus                              sanguineus                      #3e1d1e
+	sanguineus                              sanguineus                      #5d3954
 
-=item sanguineus                              sanguineus                      #5d3954
+	sanguineus                              sanguineus                      #673147
 
-=item sanguineus                              sanguineus                      #673147
+	santalwood                              santalwood                      #ab4e52
 
-=item santalwood                              santalwood                      #ab4e52
+	santos                                  santos                          #6f4e37
 
-=item santos                                  santos                          #6f4e37
+	santos                                  santos                          #635147
 
-=item santos                                  santos                          #635147
+	saona                                   saona                           #79443b
 
-=item saona                                   saona                           #79443b
+	sappanwood                              sappanwood                      #ab4e52
 
-=item sappanwood                              sappanwood                      #ab4e52
+	sappanwood                              sappanwood                      #905d5d
 
-=item sappanwood                              sappanwood                      #905d5d
+	sapphire [blue]                         sapphireblue                    #00304e
 
-=item sapphire [blue]                         sapphireblue                    #00304e
+	sappho                                  sappho                          #ad8884
 
-=item sappho                                  sappho                          #ad8884
+	saraband                                saraband                        #905d5d
 
-=item saraband                                saraband                        #905d5d
+	saratoga                                saratoga                        #d99058
 
-=item saratoga                                saratoga                        #d99058
+	saravan                                 saravan                         #80461b
 
-=item saravan                                 saravan                         #80461b
+	saravan                                 saravan                         #6f4e37
 
-=item saravan                                 saravan                         #6f4e37
+	sarouk                                  sarouk                          #635147
 
-=item sarouk                                  sarouk                          #635147
+	satinwood                               satinwood                       #a67b5b
 
-=item satinwood                               satinwood                       #a67b5b
+	satsuma                                 satsuma                         #cb6d51
 
-=item satsuma                                 satsuma                         #cb6d51
+	saturnine red                           saturninered                    #e25822
 
-=item saturnine red                           saturninered                    #e25822
+	saturn red                              saturnred                       #e25822
 
-=item saturn red                              saturnred                       #e25822
+	saul                                    saul                            #4e5755
 
-=item saul                                    saul                            #4e5755
+	saunder's blue                          saundersblue                    #436b95
 
-=item saunder's blue                          saundersblue                    #436b95
+	sauterne                                sauterne                        #c9ae5d
 
-=item sauterne                                sauterne                        #c9ae5d
+	sauterne                                sauterne                        #a67b5b
 
-=item sauterne                                sauterne                        #a67b5b
+	saxe blue                               saxeblue                        #536878
 
-=item saxe blue                               saxeblue                        #536878
+	saxon blue                              saxonblue                       #007791
 
-=item saxon blue                              saxonblue                       #007791
+	saxon blue                              saxonblue                       #004958
 
-=item saxon blue                              saxonblue                       #004958
+	saxon green                             saxongreen                      #317873
 
-=item saxon green                             saxongreen                      #317873
+	saxony blue                             saxonyblue                      #007791
 
-=item saxony blue                             saxonyblue                      #007791
+	saxony blue                             saxonyblue                      #004958
 
-=item saxony blue                             saxonyblue                      #004958
+	saxony blue                             saxonyblue                      #00416a
 
-=item saxony blue                             saxonyblue                      #00416a
+	saxony blue                             saxonyblue                      #436b95
 
-=item saxony blue                             saxonyblue                      #436b95
+	saxony green                            saxonygreen                     #008856
 
-=item saxony green                            saxonygreen                     #008856
+	sayal brown                             sayalbrown                      #ae6938
 
-=item sayal brown                             sayalbrown                      #ae6938
+	sayal brown                             sayalbrown                      #a67b5b
 
-=item sayal brown                             sayalbrown                      #a67b5b
+	sayal brown                             sayalbrown                      #996515
 
-=item sayal brown                             sayalbrown                      #996515
+	scabiosa                                scabiosa                        #796878
 
-=item scabiosa                                scabiosa                        #796878
+	scarab                                  scarab                          #3b7861
 
-=item scarab                                  scarab                          #3b7861
+	scarlet                                 scarlet                         #be0032
 
-=item scarlet                                 scarlet                         #be0032
+	scarlet in grain                        scarletingrain                  #be0032
 
-=item scarlet in grain                        scarletingrain                  #be0032
+	scarlet lake                            scarletlake                     #bc3f4a
 
-=item scarlet lake                            scarletlake                     #bc3f4a
+	scarlet lake                            scarletlake                     #ab4e52
 
-=item scarlet lake                            scarletlake                     #ab4e52
+	scarlet madder                          scarletmadder                   #f88379
 
-=item scarlet madder                          scarletmadder                   #f88379
+	scarlet ochre                           scarletochre                    #882d17
 
-=item scarlet ochre                           scarletochre                    #882d17
+	scarlet red                             scarletred                      #be0032
 
-=item scarlet red                             scarletred                      #be0032
+	scarlet vermilion                       scarletvermilion                #e25822
 
-=item scarlet vermilion                       scarletvermilion                #e25822
+	scheele's green                         scheelesgreen                   #7e9f2e
 
-=item scheele's green                         scheelesgreen                   #7e9f2e
+	scheele's green                         scheelesgreen                   #44944a
 
-=item scheele's green                         scheelesgreen                   #44944a
+	schoenfeld's purple                     schoenfeldspurple               #78184a
 
-=item schoenfeld's purple                     schoenfeldspurple               #78184a
+	schoenfeld's purple                     schoenfeldspurple               #a8516e
 
-=item schoenfeld's purple                     schoenfeldspurple               #a8516e
+	schweinfurt green                       schweinfurtgreen                #3eb489
 
-=item schweinfurt green                       schweinfurtgreen                #3eb489
+	scotch blue                             scotchblue                      #252440
 
-=item scotch blue                             scotchblue                      #252440
+	scotch grey                             scotchgrey                      #8f9779
 
-=item scotch grey                             scotchgrey                      #8f9779
+	scotch grey                             scotchgrey                      #7d8984
 
-=item scotch grey                             scotchgrey                      #7d8984
+	seabird                                 seabird                         #555555
 
-=item seabird                                 seabird                         #555555
+	sea blue                                seablue                         #004b49
 
-=item sea blue                                seablue                         #004b49
+	seacrest                                seacrest                        #93c592
 
-=item seacrest                                seacrest                        #93c592
+	seafoam                                 seafoam                         #3eb489
 
-=item seafoam                                 seafoam                         #3eb489
+	seafoam                                 seafoam                         #6aab8e
 
-=item seafoam                                 seafoam                         #6aab8e
+	seafoam green                           seafoamgreen                    #dadfb7
 
-=item seafoam green                           seafoamgreen                    #dadfb7
+	seafoam yellow                          seafoamyellow                   #dadfb7
 
-=item seafoam yellow                          seafoamyellow                   #dadfb7
+	sea green                               seagreen                        #8a9a5b
 
-=item sea green                               seagreen                        #8a9a5b
+	sea hawk                                seahawk                         #57554c
 
-=item sea hawk                                seahawk                         #57554c
+	seal [brown]                            sealbrown                       #483c32
 
-=item seal [brown]                            sealbrown                       #483c32
+	seaman blue                             seamanblue                      #4c516d
 
-=item seaman blue                             seamanblue                      #4c516d
+	sea mist                                seamist                         #8b8589
 
-=item sea mist                                seamist                         #8b8589
+	sea mist                                seamist                         #848482
 
-=item sea mist                                seamist                         #848482
+	sea moss                                seamoss                         #867e36
 
-=item sea moss                                seamoss                         #867e36
+	sea moss                                seamoss                         #3a4b47
 
-=item sea moss                                seamoss                         #3a4b47
+	sea pink                                seapink                         #ea9399
 
-=item sea pink                                seapink                         #ea9399
+	sea pink                                seapink                         #dea5a4
 
-=item sea pink                                seapink                         #dea5a4
+	seasan not seasand                      seasannotseasand                #c2ac99
 
-=item seasan not seasand                      seasannotseasand                #c2ac99
+	seasan not seasand                      seasannotseasand                #fad6a5
 
-=item seasan not seasand                      seasannotseasand                #fad6a5
+	seasan not seasand                      seasannotseasand                #c19a6b
 
-=item seasan not seasand                      seasannotseasand                #c19a6b
+	seasan not seasand                      seasannotseasand                #ae9b82
 
-=item seasan not seasand                      seasannotseasand                #ae9b82
+	sea shell                               seashell                        #d9a6a9
 
-=item sea shell                               seashell                        #d9a6a9
+	sea shell                               seashell                        #d99058
 
-=item sea shell                               seashell                        #d99058
+	sea shell                               seashell                        #a67b5b
 
-=item sea shell                               seashell                        #a67b5b
+	seashell pink                           seashellpink                    #f4c2c2
 
-=item seashell pink                           seashellpink                    #f4c2c2
+	seashell pink                           seashellpink                    #d9a6a9
 
-=item seashell pink                           seashellpink                    #d9a6a9
+	seaside                                 seaside                         #967117
 
-=item seaside                                 seaside                         #967117
+	seaside                                 seaside                         #977f73
 
-=item seaside                                 seaside                         #977f73
+	seaside                                 seaside                         #958070
 
-=item seaside                                 seaside                         #958070
+	seaside                                 seaside                         #8e8279
 
-=item seaside                                 seaside                         #8e8279
+	seaspray                                seaspray                        #8f9779
 
-=item seaspray                                seaspray                        #8f9779
+	seaspray                                seaspray                        #679267
 
-=item seaspray                                seaspray                        #679267
+	seaspray                                seaspray                        #8da399
 
-=item seaspray                                seaspray                        #8da399
+	sea-water green                         seawatergreen                   #8a9a5b
 
-=item sea-water green                         seawatergreen                   #8a9a5b
+	seaweed green                           seaweedgreen                    #8f9779
 
-=item seaweed green                           seaweedgreen                    #8f9779
+	sedge                                   sedge                           #635147
 
-=item sedge                                   sedge                           #635147
+	seed pearl                              seedpearl                       #f3e5ab
 
-=item seed pearl                              seedpearl                       #f3e5ab
+	seed pearl                              seedpearl                       #c2b280
 
-=item seed pearl                              seedpearl                       #c2b280
+	seered green                            seeredgreen                     #8a9a5b
 
-=item seered green                            seeredgreen                     #8a9a5b
+	seladon green                           seladongreen                    #8f9779
 
-=item seladon green                           seladongreen                    #8f9779
+	seminole                                seminole                        #6f4e37
 
-=item seminole                                seminole                        #6f4e37
+	sepia                                   sepia                           #3b3121
 
-=item sepia                                   sepia                           #3b3121
+	serapi                                  serapi                          #536878
 
-=item serapi                                  serapi                          #536878
+	serpent                                 serpent                         #8da399
 
-=item serpent                                 serpent                         #8da399
+	serpentine                              serpentine                      #6aab8e
 
-=item serpentine                              serpentine                      #6aab8e
+	serpentine green                        serpentinegreen                 #867e36
 
-=item serpentine green                        serpentinegreen                 #867e36
+	service corps                           servicecorps                    #00543d
 
-=item service corps                           servicecorps                    #00543d
+	seville                                 seville                         #32174d
 
-=item seville                                 seville                         #32174d
+	seville orange                          sevilleorange                   #d99058
 
-=item seville orange                          sevilleorange                   #d99058
+	sevres [blue]                           sevresblue                      #0067a5
 
-=item sevres [blue]                           sevresblue                      #0067a5
+	shadow                                  shadow                          #8f817f
 
-=item shadow                                  shadow                          #8f817f
+	shadow green                            shadowgreen                     #8a9a5b
 
-=item shadow green                            shadowgreen                     #8a9a5b
+	shagbark                                shagbark                        #826644
 
-=item shagbark                                shagbark                        #826644
+	shagbark                                shagbark                        #7e6d5a
 
-=item shagbark                                shagbark                        #7e6d5a
+	shale green                             shalegreen                      #679267
 
-=item shale green                             shalegreen                      #679267
+	shamrock                                shamrock                        #44944a
 
-=item shamrock                                shamrock                        #44944a
+	shamrock [green]                        shamrockgreen                   #44944a
 
-=item shamrock [green]                        shamrockgreen                   #44944a
+	shark                                   shark                           #796878
 
-=item shark                                   shark                           #796878
+	shark                                   shark                           #5d555b
 
-=item shark                                   shark                           #5d555b
+	sheepskin                               sheepskin                       #c2b280
 
-=item sheepskin                               sheepskin                       #c2b280
+	sheik                                   sheik                           #ab4e52
 
-=item sheik                                   sheik                           #ab4e52
+	sheik                                   sheik                           #9e4732
 
-=item sheik                                   sheik                           #9e4732
+	shell grey                              shellgrey                       #bfb8a5
 
-=item shell grey                              shellgrey                       #bfb8a5
+	shirvan                                 shirvan                         #3a4b47
 
-=item shirvan                                 shirvan                         #3a4b47
+	shrimp [pink]                           shrimppink                      #f88379
 
-=item shrimp [pink]                           shrimppink                      #f88379
+	shrimp [red]                            shrimpred                       #f88379
 
-=item shrimp [red]                            shrimpred                       #f88379
+	siam                                    siam                            #6f4e37
 
-=item siam                                    siam                            #6f4e37
+	siam                                    siam                            #635147
 
-=item siam                                    siam                            #635147
+	siam                                    siam                            #826644
 
-=item siam                                    siam                            #826644
+	siam                                    siam                            #7e6d5a
 
-=item siam                                    siam                            #7e6d5a
+	siberian brown                          siberianbrown                   #6c541e
 
-=item siberian brown                          siberianbrown                   #6c541e
+	siberien                                siberien                        #3a4b47
 
-=item siberien                                siberien                        #3a4b47
+	sicilian umber                          sicilianumber                   #826644
 
-=item sicilian umber                          sicilianumber                   #826644
+	sicilian umber                          sicilianumber                   #4b3621
 
-=item sicilian umber                          sicilianumber                   #4b3621
+	siderin yellow                          siderinyellow                   #ed872d
 
-=item siderin yellow                          siderinyellow                   #ed872d
+	siderin yellow                          siderinyellow                   #d99058
 
-=item siderin yellow                          siderinyellow                   #d99058
+	siena                                   siena                           #882d17
 
-=item siena                                   siena                           #882d17
+	sienna brown                            siennabrown                     #6f4e37
 
-=item sienna brown                            siennabrown                     #6f4e37
+	sienna yellow                           siennayellow                    #fad6a5
 
-=item sienna yellow                           siennayellow                    #fad6a5
+	sienna yellow                           siennayellow                    #c9ae5d
 
-=item sienna yellow                           siennayellow                    #c9ae5d
+	siennese drab                           siennesedrab                    #977f73
 
-=item siennese drab                           siennesedrab                    #977f73
+	siennese drab                           siennesedrab                    #958070
 
-=item siennese drab                           siennesedrab                    #958070
+	sierra                                  sierra                          #882d17
 
-=item sierra                                  sierra                          #882d17
+	signal red                              signalred                       #be0032
 
-=item signal red                              signalred                       #be0032
+	sil                                     sil                             #e3a857
 
-=item sil                                     sil                             #e3a857
+	silurian gray                           siluriangray                    #dadfb7
 
-=item silurian gray                           siluriangray                    #dadfb7
+	silver fern                             silverfern                      #867e36
 
-=item silver fern                             silverfern                      #867e36
+	silver fern                             silverfern                      #8c8767
 
-=item silver fern                             silverfern                      #8c8767
+	silver green                            silvergreen                     #8f9779
 
-=item silver green                            silvergreen                     #8f9779
+	silverpine                              silverpine                      #5e716a
 
-=item silverpine                              silverpine                      #5e716a
+	silver-wing                             silverwing                      #8b8589
 
-=item silver-wing                             silverwing                      #8b8589
+	sinbad                                  sinbad                          #36454f
 
-=item sinbad                                  sinbad                          #36454f
+	sinbad                                  sinbad                          #202428
 
-=item sinbad                                  sinbad                          #202428
+	sinbad                                  sinbad                          #50404d
 
-=item sinbad                                  sinbad                          #50404d
+	sinbad                                  sinbad                          #242124
 
-=item sinbad                                  sinbad                          #242124
+	sirocco                                 sirocco                         #8c8767
 
-=item sirocco                                 sirocco                         #8c8767
+	siskin green                            siskingreen                     #b9b57d
 
-=item siskin green                            siskingreen                     #b9b57d
+	sistine                                 sistine                         #66aabc
 
-=item sistine                                 sistine                         #66aabc
+	sistine                                 sistine                         #367588
 
-=item sistine                                 sistine                         #367588
+	sistine                                 sistine                         #91a3b0
 
-=item sistine                                 sistine                         #91a3b0
+	sistine                                 sistine                         #536878
 
-=item sistine                                 sistine                         #536878
+	skating                                 skating                         #004958
 
-=item skating                                 skating                         #004958
+	ski                                     ski                             #355e3b
 
-=item ski                                     ski                             #355e3b
+	ski                                     ski                             #3b7861
 
-=item ski                                     ski                             #3b7861
+	skimmed-milk white                      skimmedmilkwhite                #dadfb7
 
-=item skimmed-milk white                      skimmedmilkwhite                #dadfb7
+	skobeloff green                         skobeloffgreen                  #007a74
 
-=item skobeloff green                         skobeloffgreen                  #007a74
+	sky                                     sky                             #70a3cc
 
-=item sky                                     sky                             #70a3cc
+	sky                                     sky                             #8791bf
 
-=item sky                                     sky                             #8791bf
+	sky blue                                skyblue                         #70a3cc
 
-=item sky blue                                skyblue                         #70a3cc
+	sky blue                                skyblue                         #8791bf
 
-=item sky blue                                skyblue                         #8791bf
+	sky colour                              skycolour                       #70a3cc
 
-=item sky colour                              skycolour                       #70a3cc
+	sky colour                              skycolour                       #8791bf
 
-=item sky colour                              skycolour                       #8791bf
+	sky green                               skygreen                        #c9dc89
 
-=item sky green                               skygreen                        #c9dc89
+	slag                                    slag                            #555555
 
-=item slag                                    slag                            #555555
+	slate                                   slate                           #51585e
 
-=item slate                                   slate                           #51585e
+	slate-black                             slateblack                      #222222
 
-=item slate-black                             slateblack                      #222222
+	slate blue                              slateblue                       #536878
 
-=item slate blue                              slateblue                       #536878
+	slate-blue                              slateblue                       #536878
 
-=item slate-blue                              slateblue                       #536878
+	slate [color]                           slatecolor                      #5d555b
 
-=item slate [color]                           slatecolor                      #5d555b
+	slate-green                             slategreen                      #5e716a
 
-=item slate-green                             slategreen                      #5e716a
+	slate-green                             slategreen                      #4e5755
 
-=item slate-green                             slategreen                      #4e5755
+	slate-grey                              slategrey                       #8a8776
 
-=item slate-grey                              slategrey                       #8a8776
+	slate-grey                              slategrey                       #848482
 
-=item slate-grey                              slategrey                       #848482
+	slate-olive                             slateolive                      #4e5755
 
-=item slate-olive                             slateolive                      #4e5755
+	slate-purple                            slatepurple                     #50404d
 
-=item slate-purple                            slatepurple                     #50404d
+	slate-purple                            slatepurple                     #5d3954
 
-=item slate-purple                            slatepurple                     #5d3954
+	slate-violet                            slateviolet                     #905d5d
 
-=item slate-violet                            slateviolet                     #905d5d
+	smalt                                   smalt                           #00416a
 
-=item smalt                                   smalt                           #00416a
+	smalt                                   smalt                           #436b95
 
-=item smalt                                   smalt                           #436b95
+	smalt green                             smaltgreen                      #679267
 
-=item smalt green                             smaltgreen                      #679267
+	smaltino                                smaltino                        #00416a
 
-=item smaltino                                smaltino                        #00416a
+	smaltino                                smaltino                        #436b95
 
-=item smaltino                                smaltino                        #436b95
+	smoke blue                              smokeblue                       #51585e
 
-=item smoke blue                              smokeblue                       #51585e
+	smoke brown                             smokebrown                      #555555
 
-=item smoke brown                             smokebrown                      #555555
+	smoked pearl                            smokedpearl                     #555555
 
-=item smoked pearl                            smokedpearl                     #555555
+	smoke grey                              smokegrey                       #dadfb7
 
-=item smoke grey                              smokegrey                       #dadfb7
+	smoke yellow                            smokeyellow                     #8c8767
 
-=item smoke yellow                            smokeyellow                     #8c8767
+	smoke yellow                            smokeyellow                     #8a8776
 
-=item smoke yellow                            smokeyellow                     #8a8776
+	snapdragon                              snapdragon                      #f8de7e
 
-=item snapdragon                              snapdragon                      #f8de7e
+	snapdragon                              snapdragon                      #c9ae5d
 
-=item snapdragon                              snapdragon                      #c9ae5d
+	snowshoe                                snowshoe                        #eaa221
 
-=item snowshoe                                snowshoe                        #eaa221
+	snowshoe                                snowshoe                        #e3a857
 
-=item snowshoe                                snowshoe                        #e3a857
+	soapstone                               soapstone                       #635147
 
-=item soapstone                               soapstone                       #635147
+	solferino                               solferino                       #a8516e
 
-=item solferino                               solferino                       #a8516e
+	solitaire                               solitaire                       #43302e
 
-=item solitaire                               solitaire                       #43302e
+	solitaire                               solitaire                       #3e322c
 
-=item solitaire                               solitaire                       #3e322c
+	somalis                                 somalis                         #9e4732
 
-=item somalis                                 somalis                         #9e4732
+	somalis                                 somalis                         #79443b
 
-=item somalis                                 somalis                         #79443b
+	sombrero                                sombrero                        #c2b280
 
-=item sombrero                                sombrero                        #c2b280
+	sonora                                  sonora                          #ae6938
 
-=item sonora                                  sonora                          #ae6938
+	sonora                                  sonora                          #a67b5b
 
-=item sonora                                  sonora                          #a67b5b
+	soot brown                              sootbrown                       #635147
 
-=item soot brown                              sootbrown                       #635147
+	soot brown                              sootbrown                       #7e6d5a
 
-=item soot brown                              sootbrown                       #7e6d5a
+	sooty black                             sootyblack                      #222222
 
-=item sooty black                             sootyblack                      #222222
+	sorbier                                 sorbier                         #915f6d
 
-=item sorbier                                 sorbier                         #915f6d
+	sorghum brown                           sorghumbrown                    #977f73
 
-=item sorghum brown                           sorghumbrown                    #977f73
+	sorghum brown                           sorghumbrown                    #958070
 
-=item sorghum brown                           sorghumbrown                    #958070
+	sorolla brown                           sorollabrown                    #80461b
 
-=item sorolla brown                           sorollabrown                    #80461b
+	sorrel                                  sorrel                          #ae6938
 
-=item sorrel                                  sorrel                          #ae6938
+	sorrel                                  sorrel                          #a67b5b
 
-=item sorrel                                  sorrel                          #a67b5b
+	sorrento green                          sorrentogreen                   #317873
 
-=item sorrento green                          sorrentogreen                   #317873
+	souci                                   souci                           #ed872d
 
-=item souci                                   souci                           #ed872d
+	source                                  source                          #679267
 
-=item source                                  source                          #679267
+	source                                  source                          #6aab8e
 
-=item source                                  source                          #6aab8e
+	source                                  source                          #8da399
 
-=item source                                  source                          #8da399
+	spalte                                  spalte                          #483c32
 
-=item spalte                                  spalte                          #483c32
+	spaltum                                 spaltum                         #483c32
 
-=item spaltum                                 spaltum                         #483c32
+	spanish brown                           spanishbrown                    #882d17
 
-=item spanish brown                           spanishbrown                    #882d17
+	spanish cedar                           spanishcedar                    #905d5d
 
-=item spanish cedar                           spanishcedar                    #905d5d
+	spanish cedar                           spanishcedar                    #79443b
 
-=item spanish cedar                           spanishcedar                    #79443b
+	spanish flesh                           spanishflesh                    #f3e5ab
 
-=item spanish flesh                           spanishflesh                    #f3e5ab
+	spanish flesh                           spanishflesh                    #c2b280
 
-=item spanish flesh                           spanishflesh                    #c2b280
+	spanish green                           spanishgreen                    #679267
 
-=item spanish green                           spanishgreen                    #679267
+	spanish ochre                           spanishochre                    #ed872d
 
-=item spanish ochre                           spanishochre                    #ed872d
+	spanish raisin                          spanishraisin                   #43302e
 
-=item spanish raisin                          spanishraisin                   #43302e
+	spanish red                             spanishred                      #be0032
 
-=item spanish red                             spanishred                      #be0032
+	spanish red                             spanishred                      #882d17
 
-=item spanish red                             spanishred                      #882d17
+	spanish red                             spanishred                      #80461b
 
-=item spanish red                             spanishred                      #80461b
+	spanish wine                            spanishwine                     #722f37
 
-=item spanish wine                            spanishwine                     #722f37
+	spanish yellow                          spanishyellow                   #eaa221
 
-=item spanish yellow                          spanishyellow                   #eaa221
+	spanish yellow                          spanishyellow                   #e3a857
 
-=item spanish yellow                          spanishyellow                   #e3a857
+	spark                                   spark                           #be0032
 
-=item spark                                   spark                           #be0032
+	sparrow                                 sparrow                         #5b504f
 
-=item sparrow                                 sparrow                         #5b504f
+	spa-tan                                 spatan                          #ae6938
 
-=item spa-tan                                 spatan                          #ae6938
+	spearmint                               spearmint                       #008856
 
-=item spearmint                               spearmint                       #008856
+	sphinx                                  sphinx                          #7e6d5a
 
-=item sphinx                                  sphinx                          #7e6d5a
+	spice                                   spice                           #ae6938
 
-=item spice                                   spice                           #ae6938
+	spinach green                           spinachgreen                    #8a9a5b
 
-=item spinach green                           spinachgreen                    #8a9a5b
+	spinach green                           spinachgreen                    #4a5d23
 
-=item spinach green                           spinachgreen                    #4a5d23
+	spinel pink                             spinelpink                      #a8516e
 
-=item spinel pink                             spinelpink                      #a8516e
+	spinel red                              spinelred                       #bc3f4a
 
-=item spinel red                              spinelred                       #bc3f4a
+	spinel red                              spinelred                       #b3446c
 
-=item spinel red                              spinelred                       #b3446c
+	sponge                                  sponge                          #967117
 
-=item sponge                                  sponge                          #967117
+	spray                                   spray                           #96ded1
 
-=item spray                                   spray                           #96ded1
+	spring beauty                           springbeauty                    #ce4676
 
-=item spring beauty                           springbeauty                    #ce4676
+	spring beauty                           springbeauty                    #b3446c
 
-=item spring beauty                           springbeauty                    #b3446c
+	spring green                            springgreen                     #8a9a5b
 
-=item spring green                            springgreen                     #8a9a5b
+	spring green                            springgreen                     #93c592
 
-=item spring green                            springgreen                     #93c592
+	springtime                              springtime                      #e4717a
 
-=item springtime                              springtime                      #e4717a
+	sprite                                  sprite                          #00a693
 
-=item sprite                                  sprite                          #00a693
+	sprite                                  sprite                          #66ada4
 
-=item sprite                                  sprite                          #66ada4
+	spruce                                  spruce                          #3a4b47
 
-=item spruce                                  spruce                          #3a4b47
+	spruce                                  spruce                          #1e2321
 
-=item spruce                                  spruce                          #1e2321
+	spruce ochre                            spruceochre                     #ae6938
 
-=item spruce ochre                            spruceochre                     #ae6938
+	spruce ochre                            spruceochre                     #996515
 
-=item spruce ochre                            spruceochre                     #996515
+	spruce yellow                           spruceyellow                    #be8a3d
 
-=item spruce yellow                           spruceyellow                    #be8a3d
+	spruce yellow                           spruceyellow                    #c19a6b
 
-=item spruce yellow                           spruceyellow                    #c19a6b
+	squill blue                             squillblue                      #70a3cc
 
-=item squill blue                             squillblue                      #70a3cc
+	squirrel                                squirrel                        #5d555b
 
-=item squirrel                                squirrel                        #5d555b
+	squirrel                                squirrel                        #555555
 
-=item squirrel                                squirrel                        #555555
+	stag                                    stag                            #826644
 
-=item stag                                    stag                            #826644
+	starch blue                             starchblue                      #00416a
 
-=item starch blue                             starchblue                      #00416a
+	starch blue                             starchblue                      #436b95
 
-=item starch blue                             starchblue                      #436b95
+	stardew                                 stardew                         #536878
 
-=item stardew                                 stardew                         #536878
+	starflower                              starflower                      #c17e91
 
-=item starflower                              starflower                      #c17e91
+	starlight                               starlight                       #91a3b0
 
-=item starlight                               starlight                       #91a3b0
+	starling                                starling                        #5b504f
 
-=item starling                                starling                        #5b504f
+	st. benoit or saint benoit              stbenoitorsaintbenoit           #483c32
 
-=item st. benoit or saint benoit              stbenoitorsaintbenoit           #483c32
+	st. benoit or saint benoit              stbenoitorsaintbenoit           #222222
 
-=item st. benoit or saint benoit              stbenoitorsaintbenoit           #222222
+	steel                                   steel                           #555555
 
-=item steel                                   steel                           #555555
+	steel grey                              steelgrey                       #555555
 
-=item steel grey                              steelgrey                       #555555
+	steeplechase                            steeplechase                    #545aa7
 
-=item steeplechase                            steeplechase                    #545aa7
+	stil de grain brown                     stildegrainbrown                #be8a3d
 
-=item stil de grain brown                     stildegrainbrown                #be8a3d
+	stil de grain brown                     stildegrainbrown                #996515
 
-=item stil de grain brown                     stildegrainbrown                #996515
+	stil de grain yellow                    stildegrainyellow               #fada5e
 
-=item stil de grain yellow                    stildegrainyellow               #fada5e
+	stil de grain yellow                    stildegrainyellow               #d4af37
 
-=item stil de grain yellow                    stildegrainyellow               #d4af37
+	stil de grain yellow                    stildegrainyellow               #f8de7e
 
-=item stil de grain yellow                    stildegrainyellow               #f8de7e
+	stil de grain yellow                    stildegrainyellow               #c9ae5d
 
-=item stil de grain yellow                    stildegrainyellow               #c9ae5d
+	stone blue                              stoneblue                       #436b95
 
-=item stone blue                              stoneblue                       #436b95
+	stone grey                              stonegrey                       #57554c
 
-=item stone grey                              stonegrey                       #57554c
+	storm grey                              stormgrey                       #7d8984
 
-=item storm grey                              stormgrey                       #7d8984
+	strawberry                              strawberry                      #905d5d
 
-=item strawberry                              strawberry                      #905d5d
+	strawberry pink                         strawberrypink                  #e4717a
 
-=item strawberry pink                         strawberrypink                  #e4717a
+	strawberry pink                         strawberrypink                  #f88379
 
-=item strawberry pink                         strawberrypink                  #f88379
+	strawberry pink                         strawberrypink                  #e66761
 
-=item strawberry pink                         strawberrypink                  #e66761
+	straw [yellow]                          strawyellow                     #f3e5ab
 
-=item straw [yellow]                          strawyellow                     #f3e5ab
+	striegau earth                          striegauearth                   #79443b
 
-=item striegau earth                          striegauearth                   #79443b
+	stroller tan                            strollertan                     #6f4e37
 
-=item stroller tan                            strollertan                     #6f4e37
+	strontian yellow                        strontianyellow                 #e9e450
 
-=item strontian yellow                        strontianyellow                 #e9e450
+	stucco                                  stucco                          #977f73
 
-=item stucco                                  stucco                          #977f73
+	stucco                                  stucco                          #958070
 
-=item stucco                                  stucco                          #958070
+	succory blue                            succoryblue                     #dadfb7
 
-=item succory blue                            succoryblue                     #dadfb7
+	sudan                                   sudan                           #a18f60
 
-=item sudan                                   sudan                           #a18f60
+	sudan                                   sudan                           #967117
 
-=item sudan                                   sudan                           #967117
+	sudan                                   sudan                           #8c8767
 
-=item sudan                                   sudan                           #8c8767
+	sudan brown                             sudanbrown                      #80461b
 
-=item sudan brown                             sudanbrown                      #80461b
+	sudan brown                             sudanbrown                      #6f4e37
 
-=item sudan brown                             sudanbrown                      #6f4e37
+	suede                                   suede                           #a67b5b
 
-=item suede                                   suede                           #a67b5b
+	suede                                   suede                           #6f4e37
 
-=item suede                                   suede                           #6f4e37
+	suede                                   suede                           #826644
 
-=item suede                                   suede                           #826644
+	sugar cane                              sugarcane                       #fad6a5
 
-=item sugar cane                              sugarcane                       #fad6a5
+	sugar cane                              sugarcane                       #c19a6b
 
-=item sugar cane                              sugarcane                       #c19a6b
+	sulphate green                          sulphategreen                   #66ada4
 
-=item sulphate green                          sulphategreen                   #66ada4
+	sulphate green                          sulphategreen                   #317873
 
-=item sulphate green                          sulphategreen                   #317873
+	sulphine yellow                         sulphineyellow                  #ab9144
 
-=item sulphine yellow                         sulphineyellow                  #ab9144
+	sulphur                                 sulphur                         #eae679
 
-=item sulphur                                 sulphur                         #eae679
+	sulphur [yellow]                        sulphuryellow                   #eae679
 
-=item sulphur [yellow]                        sulphuryellow                   #eae679
+	sultan                                  sultan                          #ab4e52
 
-=item sultan                                  sultan                          #ab4e52
+	sultana                                 sultana                         #722f37
 
-=item sultana                                 sultana                         #722f37
+	sultana                                 sultana                         #673147
 
-=item sultana                                 sultana                         #673147
+	sumac                                   sumac                           #be8a3d
 
-=item sumac                                   sumac                           #be8a3d
+	sumac                                   sumac                           #996515
 
-=item sumac                                   sumac                           #996515
+	sumac                                   sumac                           #c19a6b
 
-=item sumac                                   sumac                           #c19a6b
+	sumac                                   sumac                           #826644
 
-=item sumac                                   sumac                           #826644
+	sumac                                   sumac                           #ab9144
 
-=item sumac                                   sumac                           #ab9144
+	sumac                                   sumac                           #a18f60
 
-=item sumac                                   sumac                           #a18f60
+	sumac                                   sumac                           #967117
 
-=item sumac                                   sumac                           #967117
+	sunbeam                                 sunbeam                         #c2b280
 
-=item sunbeam                                 sunbeam                         #c2b280
+	sunburn                                 sunburn                         #a67b5b
 
-=item sunburn                                 sunburn                         #a67b5b
+	sunburst                                sunburst                        #ed872d
 
-=item sunburst                                sunburst                        #ed872d
+	sunburst                                sunburst                        #d99058
 
-=item sunburst                                sunburst                        #d99058
+	sundown                                 sundown                         #c19a6b
 
-=item sundown                                 sundown                         #c19a6b
+	sunflower [yellow]                      sunfloweryellow                 #fada5e
 
-=item sunflower [yellow]                      sunfloweryellow                 #fada5e
+	sunglow                                 sunglow                         #e4717a
 
-=item sunglow                                 sunglow                         #e4717a
+	sunglow                                 sunglow                         #ab4e52
 
-=item sunglow                                 sunglow                         #ab4e52
+	sungod                                  sungod                          #e25822
 
-=item sungod                                  sungod                          #e25822
+	sunkiss                                 sunkiss                         #d99058
 
-=item sunkiss                                 sunkiss                         #d99058
+	sunlight                                sunlight                        #c9ae5d
 
-=item sunlight                                sunlight                        #c9ae5d
+	sunni                                   sunni                           #f8de7e
 
-=item sunni                                   sunni                           #f8de7e
+	sunni                                   sunni                           #c9ae5d
 
-=item sunni                                   sunni                           #c9ae5d
+	sunray                                  sunray                          #e3a857
 
-=item sunray                                  sunray                          #e3a857
+	sunrise yellow                          sunriseyellow                   #d9a6a9
 
-=item sunrise yellow                          sunriseyellow                   #d9a6a9
+	sunrise yellow                          sunriseyellow                   #d99058
 
-=item sunrise yellow                          sunriseyellow                   #d99058
+	sunset                                  sunset                          #fad6a5
 
-=item sunset                                  sunset                          #fad6a5
+	sunstone                                sunstone                        #ae6938
 
-=item sunstone                                sunstone                        #ae6938
+	suntan                                  suntan                          #a67b5b
 
-=item suntan                                  suntan                          #a67b5b
+	suntan                                  suntan                          #c19a6b
 
-=item suntan                                  suntan                          #c19a6b
+	suntan                                  suntan                          #826644
 
-=item suntan                                  suntan                          #826644
+	superior                                superior                        #004b49
 
-=item superior                                superior                        #004b49
+	surf green                              surfgreen                       #679267
 
-=item surf green                              surfgreen                       #679267
+	surrey green                            surreygreen                     #8f9779
 
-=item surrey green                            surreygreen                     #8f9779
+	surrey green                            surreygreen                     #8da399
 
-=item surrey green                            surreygreen                     #8da399
+	swamp                                   swamp                           #3a4b47
 
-=item swamp                                   swamp                           #3a4b47
+	swedish green                           swedishgreen                    #7e9f2e
 
-=item swedish green                           swedishgreen                    #7e9f2e
+	swedish green                           swedishgreen                    #44944a
 
-=item swedish green                           swedishgreen                    #44944a
+	sweet briar                             sweetbriar                      #de6fa1
 
-=item sweet briar                             sweetbriar                      #de6fa1
+	sweetmeat                               sweetmeat                       #c19a6b
 
-=item sweetmeat                               sweetmeat                       #c19a6b
+	sweet pea                               sweetpea                        #c7ada3
 
-=item sweet pea                               sweetpea                        #c7ada3
+	sweet william                           sweetwilliam                    #e4717a
 
-=item sweet william                           sweetwilliam                    #e4717a
+	swiss blue                              swissblue                       #536878
 
-=item swiss blue                              swissblue                       #536878
+	swiss rose                              swissrose                       #ab4e52
 
-=item swiss rose                              swissrose                       #ab4e52
+	syrup                                   syrup                           #967117
 
-=item syrup                                   syrup                           #967117
+	syrup                                   syrup                           #6c541e
 
-=item syrup                                   syrup                           #6c541e
+	taffy                                   taffy                           #c19a6b
 
-=item taffy                                   taffy                           #c19a6b
+	talavera                                talavera                        #ae6938
 
-=item talavera                                talavera                        #ae6938
+	tamarach                                tamarach                        #635147
 
-=item tamarach                                tamarach                        #635147
+	tamarach                                tamarach                        #7e6d5a
 
-=item tamarach                                tamarach                        #7e6d5a
+	ta-ming                                 taming                          #eaa221
 
-=item ta-ming                                 taming                          #eaa221
+	ta-ming                                 taming                          #e3a857
 
-=item ta-ming                                 taming                          #e3a857
+	tan                                     tan                             #ae6938
 
-=item tan                                     tan                             #ae6938
+	tanagra                                 tanagra                         #79443b
 
-=item tanagra                                 tanagra                         #79443b
+	tanaura                                 tanaura                         #c2b280
 
-=item tanaura                                 tanaura                         #c2b280
+	tanbark                                 tanbark                         #6f4e37
 
-=item tanbark                                 tanbark                         #6f4e37
+	tangerine                               tangerine                       #cb6d51
 
-=item tangerine                               tangerine                       #cb6d51
+	tangier                                 tangier                         #ed872d
 
-=item tangier                                 tangier                         #ed872d
+	tango pink                              tangopink                       #905d5d
 
-=item tango pink                              tangopink                       #905d5d
+	tansan                                  tansan                          #a67b5b
 
-=item tansan                                  tansan                          #a67b5b
+	tansan                                  tansan                          #c19a6b
 
-=item tansan                                  tansan                          #c19a6b
+	tapestry                                tapestry                        #00304e
 
-=item tapestry                                tapestry                        #00304e
+	tapestry                                tapestry                        #252440
 
-=item tapestry                                tapestry                        #252440
+	tapestry                                tapestry                        #4c516d
 
-=item tapestry                                tapestry                        #4c516d
+	tapestry                                tapestry                        #8b8589
 
-=item tapestry                                tapestry                        #8b8589
+	tapestry red                            tapestryred                     #722f37
 
-=item tapestry red                            tapestryred                     #722f37
+	tapis vert                              tapisvert                       #8a9a5b
 
-=item tapis vert                              tapisvert                       #8a9a5b
+	tarragon                                tarragon                        #8a9a5b
 
-=item tarragon                                tarragon                        #8a9a5b
+	tarragon                                tarragon                        #8f9779
 
-=item tarragon                                tarragon                        #8f9779
+	tarragon                                tarragon                        #679267
 
-=item tarragon                                tarragon                        #679267
+	tarragona                               tarragona                       #882d17
 
-=item tarragona                               tarragona                       #882d17
+	tarragona                               tarragona                       #80461b
 
-=item tarragona                               tarragona                       #80461b
+	tartan green                            tartangreen                     #3a4b47
 
-=item tartan green                            tartangreen                     #3a4b47
+	taupe                                   taupe                           #483c32
 
-=item taupe                                   taupe                           #483c32
+	tawny                                   tawny                           #ae6938
 
-=item tawny                                   tawny                           #ae6938
+	tawny                                   tawny                           #a67b5b
 
-=item tawny                                   tawny                           #a67b5b
+	tawny birch                             tawnybirch                      #a87c6d
 
-=item tawny birch                             tawnybirch                      #a87c6d
+	tawny birch                             tawnybirch                      #a67b5b
 
-=item tawny birch                             tawnybirch                      #a67b5b
+	tawny birch                             tawnybirch                      #958070
 
-=item tawny birch                             tawnybirch                      #958070
+	tea                                     tea                             #8f9779
 
-=item tea                                     tea                             #8f9779
+	tea                                     tea                             #8da399
 
-=item tea                                     tea                             #8da399
+	tea green                               teagreen                        #8f9779
 
-=item tea green                               teagreen                        #8f9779
+	teak [brown]                            teakbrown                       #6f4e37
 
-=item teak [brown]                            teakbrown                       #6f4e37
+	teakwood                                teakwood                        #635147
 
-=item teakwood                                teakwood                        #635147
+	teakwood                                teakwood                        #7e6d5a
 
-=item teakwood                                teakwood                        #7e6d5a
+	teal blue                               tealblue                        #004958
 
-=item teal blue                               tealblue                        #004958
+	teal blue                               tealblue                        #36454f
 
-=item teal blue                               tealblue                        #36454f
+	teal duck                               tealduck                        #004958
 
-=item teal duck                               tealduck                        #004958
+	tea time                                teatime                         #967117
 
-=item tea time                                teatime                         #967117
+	telegraph blue                          telegraphblue                   #796878
 
-=item telegraph blue                          telegraphblue                   #796878
+	tennis                                  tennis                          #ab9144
 
-=item tennis                                  tennis                          #ab9144
+	tennis                                  tennis                          #a18f60
 
-=item tennis                                  tennis                          #a18f60
+	terra cotta                             terracotta                      #be6516
 
-=item terra cotta                             terracotta                      #be6516
+	terra cotta                             terracotta                      #ae6938
 
-=item terra cotta                             terracotta                      #ae6938
+	terra japonica                          terrajaponica                   #6f4e37
 
-=item terra japonica                          terrajaponica                   #6f4e37
+	terra lemnia                            terralemnia                     #79443b
 
-=item terra lemnia                            terralemnia                     #79443b
+	terra merita                            terramerita                     #f8de7e
 
-=item terra merita                            terramerita                     #f8de7e
+	terra orellana                          terraorellana                   #d9a6a9
 
-=item terra orellana                          terraorellana                   #d9a6a9
+	terra orellano                          terraorellano                   #d9a6a9
 
-=item terra orellano                          terraorellano                   #d9a6a9
+	terrapin                                terrapin                        #6f4e37
 
-=item terrapin                                terrapin                        #6f4e37
+	terra pozzuoli                          terrapozzuoli                   #79443b
 
-=item terra pozzuoli                          terrapozzuoli                   #79443b
+	terra rosa                              terrarosa                       #79443b
 
-=item terra rosa                              terrarosa                       #79443b
+	terra siena                             terrasiena                      #ae6938
 
-=item terra siena                             terrasiena                      #ae6938
+	terra siena                             terrasiena                      #a67b5b
 
-=item terra siena                             terrasiena                      #a67b5b
+	terra sigillata                         terrasigillata                  #79443b
 
-=item terra sigillata                         terrasigillata                  #79443b
+	terrasse                                terrasse                        #8a9a5b
 
-=item terrasse                                terrasse                        #8a9a5b
+	terra umber                             terraumber                      #826644
 
-=item terra umber                             terraumber                      #826644
+	terra umber                             terraumber                      #4b3621
 
-=item terra umber                             terraumber                      #4b3621
+	testaceous                              testaceous                      #d99058
 
-=item testaceous                              testaceous                      #d99058
+	testaceous                              testaceous                      #a67b5b
 
-=item testaceous                              testaceous                      #a67b5b
+	thenard's blue                          thenardsblue                    #007791
 
-=item thenard's blue                          thenardsblue                    #007791
+	thistle                                 thistle                         #86608e
 
-=item thistle                                 thistle                         #86608e
+	thistle bloom                           thistlebloom                    #9e4f88
 
-=item thistle bloom                           thistlebloom                    #9e4f88
+	thistletuft                             thistletuft                     #702963
 
-=item thistletuft                             thistletuft                     #702963
+	thrush                                  thrush                          #826644
 
-=item thrush                                  thrush                          #826644
+	thrush                                  thrush                          #7e6d5a
 
-=item thrush                                  thrush                          #7e6d5a
+	thulite pink                            thulitepink                     #de6fa1
 
-=item thulite pink                            thulitepink                     #de6fa1
+	thyme                                   thyme                           #3a4b47
 
-=item thyme                                   thyme                           #3a4b47
+	tiber                                   tiber                           #1b4d3e
 
-=item tiber                                   tiber                           #1b4d3e
+	tiber green                             tibergreen                      #93c592
 
-=item tiber green                             tibergreen                      #93c592
+	tiffin                                  tiffin                          #826644
 
-=item tiffin                                  tiffin                          #826644
+	tigerlily                               tigerlily                       #d9603b
 
-=item tigerlily                               tigerlily                       #d9603b
+	tigerlily                               tigerlily                       #cb6d51
 
-=item tigerlily                               tigerlily                       #cb6d51
+	tile blue                               tileblue                        #367588
 
-=item tile blue                               tileblue                        #367588
+	tile red                                tilered                         #cb6d51
 
-=item tile red                                tilered                         #cb6d51
+	tilleul buff                            tilleulbuff                     #ecd5c5
 
-=item tilleul buff                            tilleulbuff                     #ecd5c5
+	tilleul buff                            tilleulbuff                     #bfb8a5
 
-=item tilleul buff                            tilleulbuff                     #bfb8a5
+	tilleul [green]                         tilleulgreen                    #ebe8a4
 
-=item tilleul [green]                         tilleulgreen                    #ebe8a4
+	tinsel                                  tinsel                          #ab9144
 
-=item tinsel                                  tinsel                          #ab9144
+	tinsel                                  tinsel                          #a18f60
 
-=item tinsel                                  tinsel                          #a18f60
+	tinsel                                  tinsel                          #967117
 
-=item tinsel                                  tinsel                          #967117
+	titania                                 titania                         #5d3954
 
-=item titania                                 titania                         #5d3954
+	titania                                 titania                         #673147
 
-=item titania                                 titania                         #673147
+	titian                                  titian                          #ae6938
 
-=item titian                                  titian                          #ae6938
+	titian gold                             titiangold                      #ae6938
 
-=item titian gold                             titiangold                      #ae6938
+	titmouse blue                           titmouseblue                    #8da399
 
-=item titmouse blue                           titmouseblue                    #8da399
+	toast                                   toast                           #a67b5b
 
-=item toast                                   toast                           #a67b5b
+	toasted almond                          toastedalmond                   #a67b5b
 
-=item toasted almond                          toastedalmond                   #a67b5b
+	toboggan                                toboggan                        #e25822
 
-=item toboggan                                toboggan                        #e25822
+	toboggan                                toboggan                        #f38400
 
-=item toboggan                                toboggan                        #f38400
+	toga                                    toga                            #2f2140
 
-=item toga                                    toga                            #2f2140
+	tokay                                   tokay                           #79443b
 
-=item tokay                                   tokay                           #79443b
+	tokyo                                   tokyo                           #ffb7a5
 
-=item tokyo                                   tokyo                           #ffb7a5
+	tokyo                                   tokyo                           #f88379
 
-=item tokyo                                   tokyo                           #f88379
+	tokyo                                   tokyo                           #ed872d
 
-=item tokyo                                   tokyo                           #ed872d
+	toltec                                  toltec                          #e3a857
 
-=item toltec                                  toltec                          #e3a857
+	tomato [red]                            tomatored                       #9e4732
 
-=item tomato [red]                            tomatored                       #9e4732
+	tommy red                               tommyred                        #bc3f4a
 
-=item tommy red                               tommyred                        #bc3f4a
+	topaz                                   topaz                           #a67b5b
 
-=item topaz                                   topaz                           #a67b5b
+	topaz                                   topaz                           #be8a3d
 
-=item topaz                                   topaz                           #be8a3d
+	topaz                                   topaz                           #c19a6b
 
-=item topaz                                   topaz                           #c19a6b
+	toquet                                  toquet                          #c7ada3
 
-=item toquet                                  toquet                          #c7ada3
+	toreador                                toreador                        #e25822
 
-=item toreador                                toreador                        #e25822
+	torino blue                             torinoblue                      #536878
 
-=item torino blue                             torinoblue                      #536878
+	tortoise                                tortoise                        #80461b
 
-=item tortoise                                tortoise                        #80461b
+	tortoise shell                          tortoiseshell                   #6f4e37
 
-=item tortoise shell                          tortoiseshell                   #6f4e37
+	totem                                   totem                           #9e4732
 
-=item totem                                   totem                           #9e4732
+	tourmaline                              tourmaline                      #66ada4
 
-=item tourmaline                              tourmaline                      #66ada4
+	tourmaline pink                         tourmalinepink                  #915f6d
 
-=item tourmaline pink                         tourmalinepink                  #915f6d
+	tourterelle                             tourterelle                     #967117
 
-=item tourterelle                             tourterelle                     #967117
+	transparent chromium oxide              transparentchromiumoxide        #007959
 
-=item transparent chromium oxide              transparentchromiumoxide        #007959
+	transparent chromium oxide              transparentchromiumoxide        #3b7861
 
-=item transparent chromium oxide              transparentchromiumoxide        #3b7861
+	transparent gold ochre                  transparentgoldochre            #ae6938
 
-=item transparent gold ochre                  transparentgoldochre            #ae6938
+	transparent gold ochre                  transparentgoldochre            #996515
 
-=item transparent gold ochre                  transparentgoldochre            #996515
+	traprock                                traprock                        #555555
 
-=item traprock                                traprock                        #555555
+	travertine                              travertine                      #967117
 
-=item travertine                              travertine                      #967117
+	trentanel                               trentanel                       #eae679
 
-=item trentanel                               trentanel                       #eae679
+	trentanel                               trentanel                       #b9b459
 
-=item trentanel                               trentanel                       #b9b459
+	trianon                                 trianon                         #d9a6a9
 
-=item trianon                                 trianon                         #d9a6a9
+	trianon                                 trianon                         #d99058
 
-=item trianon                                 trianon                         #d99058
+	triton                                  triton                          #1b4d3e
 
-=item triton                                  triton                          #1b4d3e
+	triumph blue                            triumphblue                     #436b95
 
-=item triumph blue                            triumphblue                     #436b95
+	triumph blue                            triumphblue                     #00304e
 
-=item triumph blue                            triumphblue                     #00304e
+	trooper                                 trooper                         #00304e
 
-=item trooper                                 trooper                         #00304e
+	trooper                                 trooper                         #36454f
 
-=item trooper                                 trooper                         #36454f
+	trooper                                 trooper                         #202830
 
-=item trooper                                 trooper                         #202830
+	trotteur tan                            trotteurtan                     #6f4e37
 
-=item trotteur tan                            trotteurtan                     #6f4e37
+	troubador red                           troubadorred                    #bc3f4a
 
-=item troubador red                           troubadorred                    #bc3f4a
+	trublu                                  trublu                          #536878
 
-=item trublu                                  trublu                          #536878
+	tuileries                               tuileries                       #436b95
 
-=item tuileries                               tuileries                       #436b95
+	tulipwood                               tulipwood                       #6f4e37
 
-=item tulipwood                               tulipwood                       #6f4e37
+	tunis                                   tunis                           #36454f
 
-=item tunis                                   tunis                           #36454f
+	tunis                                   tunis                           #202830
 
-=item tunis                                   tunis                           #202830
+	turbith mineral                         turbithmineral                  #f8de7e
 
-=item turbith mineral                         turbithmineral                  #f8de7e
+	turkey blue                             turkeyblue                      #4c516d
 
-=item turkey blue                             turkeyblue                      #4c516d
+	turkey red                              turkeyred                       #ab4e52
 
-=item turkey red                              turkeyred                       #ab4e52
+	turkey umber                            turkeyumber                     #826644
 
-=item turkey umber                            turkeyumber                     #826644
+	turkey umber                            turkeyumber                     #4b3621
 
-=item turkey umber                            turkeyumber                     #4b3621
+	turkish blue                            turkishblue                     #4c516d
 
-=item turkish blue                            turkishblue                     #4c516d
+	turkish crescent red                    turkishcrescentred              #841b2d
 
-=item turkish crescent red                    turkishcrescentred              #841b2d
+	turkish crescent red                    turkishcrescentred              #722f37
 
-=item turkish crescent red                    turkishcrescentred              #722f37
+	turkish red                             turkishred                      #ab4e52
 
-=item turkish red                             turkishred                      #ab4e52
+	turmeric                                turmeric                        #f8de7e
 
-=item turmeric                                turmeric                        #f8de7e
+	turner's yellow                         turnersyellow                   #fada5e
 
-=item turner's yellow                         turnersyellow                   #fada5e
+	turner's yellow                         turnersyellow                   #d4af37
 
-=item turner's yellow                         turnersyellow                   #d4af37
+	turner's yellow                         turnersyellow                   #f8de7e
 
-=item turner's yellow                         turnersyellow                   #f8de7e
+	turner's yellow                         turnersyellow                   #c9ae5d
 
-=item turner's yellow                         turnersyellow                   #c9ae5d
+	turquoise [blue]                        turquoiseblue                   #66ada4
 
-=item turquoise [blue]                        turquoiseblue                   #66ada4
+	turquoise green                         turquoisegreen                  #66ada4
 
-=item turquoise green                         turquoisegreen                  #66ada4
+	turtle                                  turtle                          #6f4e37
 
-=item turtle                                  turtle                          #6f4e37
+	turtledove                              turtledove                      #5c504f
 
-=item turtledove                              turtledove                      #5c504f
+	turtledove                              turtledove                      #555555
 
-=item turtledove                              turtledove                      #555555
+	turtle green                            turtlegreen                     #8a9a5b
 
-=item turtle green                            turtlegreen                     #8a9a5b
+	tuscan                                  tuscan                          #fad6a5
 
-=item tuscan                                  tuscan                          #fad6a5
+	tuscan brown                            tuscanbrown                     #79443b
 
-=item tuscan brown                            tuscanbrown                     #79443b
+	tuscan brown                            tuscanbrown                     #6f4e37
 
-=item tuscan brown                            tuscanbrown                     #6f4e37
+	tuscan red                              tuscanred                       #79443b
 
-=item tuscan red                              tuscanred                       #79443b
+	tuscan tan                              tuscantan                       #a67b5b
 
-=item tuscan tan                              tuscantan                       #a67b5b
+	tuscany                                 tuscany                         #79443b
 
-=item tuscany                                 tuscany                         #79443b
+	tussore                                 tussore                         #f4c2c2
 
-=item tussore                                 tussore                         #f4c2c2
+	tussore                                 tussore                         #d9a6a9
 
-=item tussore                                 tussore                         #d9a6a9
+	twilight [blue]                         twilightblue                    #536878
 
-=item twilight [blue]                         twilightblue                    #536878
+	twine                                   twine                           #8c8767
 
-=item twine                                   twine                           #8c8767
+	twinkle blue                            twinkleblue                     #66aabc
 
-=item twinkle blue                            twinkleblue                     #66aabc
+	tyrian blue                             tyrianblue                      #536878
 
-=item tyrian blue                             tyrianblue                      #536878
+	tyrian blue                             tyrianblue                      #4c516d
 
-=item tyrian blue                             tyrianblue                      #4c516d
+	tyrian pink                             tyrianpink                      #ce4676
 
-=item tyrian pink                             tyrianpink                      #ce4676
+	tyrian violet                           tyrianviolet                    #a8516e
 
-=item tyrian violet                           tyrianviolet                    #a8516e
+	tyrol                                   tyrol                           #826644
 
-=item tyrol                                   tyrol                           #826644
+	tyrolese green                          tyrolesegreen                   #679267
 
-=item tyrolese green                          tyrolesegreen                   #679267
+	tyrolian                                tyrolian                        #1a2421
 
-=item tyrolian                                tyrolian                        #1a2421
+	tyrolite green                          tyrolitegreen                   #66ada4
 
-=item tyrolite green                          tyrolitegreen                   #66ada4
+	tzarine                                 tzarine                         #1e2321
 
-=item tzarine                                 tzarine                         #1e2321
+	ultramarine green                       ultramarinegreen                #1e2321
 
-=item ultramarine green                       ultramarinegreen                #1e2321
+	ultramarine yellow                      ultramarineyellow               #d4af37
 
-=item ultramarine yellow                      ultramarineyellow               #d4af37
+	urania blue                             uraniablue                      #2f2140
 
-=item urania blue                             uraniablue                      #2f2140
+	vagabond green                          vagabondgreen                   #004b49
 
-=item vagabond green                          vagabondgreen                   #004b49
+	valencia                                valencia                        #de6fa1
 
-=item valencia                                valencia                        #de6fa1
+	vanda                                   vanda                           #796878
 
-=item vanda                                   vanda                           #796878
+	vanda                                   vanda                           #836479
 
-=item vanda                                   vanda                           #836479
+	vandyke brown                           vandykebrown                    #6f4e37
 
-=item vandyke brown                           vandykebrown                    #6f4e37
+	vandyke madder                          vandykemadder                   #a8516e
 
-=item vandyke madder                          vandykemadder                   #a8516e
+	vandyke red                             vandykered                      #905d5d
 
-=item vandyke red                             vandykered                      #905d5d
+	vanilla                                 vanilla                         #f3e5ab
 
-=item vanilla                                 vanilla                         #f3e5ab
+	vanilla                                 vanilla                         #c2b280
 
-=item vanilla                                 vanilla                         #c2b280
+	vanity                                  vanity                          #d9a6a9
 
-=item vanity                                  vanity                          #d9a6a9
+	variscite green                         variscitegreen                  #6aab8e
 
-=item variscite green                         variscitegreen                  #6aab8e
+	varley's grey                           varleysgrey                     #796878
 
-=item varley's grey                           varleysgrey                     #796878
+	vassar rose                             vassarrose                      #c08081
 
-=item vassar rose                             vassarrose                      #c08081
+	vassar rose                             vassarrose                      #905d5d
 
-=item vassar rose                             vassarrose                      #905d5d
+	vassar tan                              vassartan                       #80461b
 
-=item vassar tan                              vassartan                       #80461b
+	vassar tan                              vassartan                       #6f4e37
 
-=item vassar tan                              vassartan                       #6f4e37
+	vatican                                 vatican                         #563c5c
 
-=item vatican                                 vatican                         #563c5c
+	vatican                                 vatican                         #301934
 
-=item vatican                                 vatican                         #301934
+	veau d'or                               veaudor                         #fad6a5
 
-=item veau d'or                               veaudor                         #fad6a5
+	veau d'or                               veaudor                         #c19a6b
 
-=item veau d'or                               veaudor                         #c19a6b
+	vegetable red                           vegetablered                    #be0032
 
-=item vegetable red                           vegetablered                    #be0032
+	vegetable rouge                         vegetablerouge                  #be0032
 
-=item vegetable rouge                         vegetablerouge                  #be0032
+	velasquez                               velasquez                       #673147
 
-=item velasquez                               velasquez                       #673147
+	velvet brown                            velvetbrown                     #826644
 
-=item velvet brown                            velvetbrown                     #826644
+	velvet brown                            velvetbrown                     #4b3621
 
-=item velvet brown                            velvetbrown                     #4b3621
+	velvet green                            velvetgreen                     #4a5d23
 
-=item velvet green                            velvetgreen                     #4a5d23
+	venet                                   venet                           #66ada4
 
-=item venet                                   venet                           #66ada4
+	venetian blue                           venetianblue                    #007791
 
-=item venetian blue                           venetianblue                    #007791
+	venetian fuchsia                        venetianfuchsia                 #ce4676
 
-=item venetian fuchsia                        venetianfuchsia                 #ce4676
+	venetian lake                           venetianlake                    #be0032
 
-=item venetian lake                           venetianlake                    #be0032
+	venetian lake                           venetianlake                    #bc3f4a
 
-=item venetian lake                           venetianlake                    #bc3f4a
+	venetian pink                           venetianpink                    #dea5a4
 
-=item venetian pink                           venetianpink                    #dea5a4
+	venetian red                            venetianred                     #882d17
 
-=item venetian red                            venetianred                     #882d17
+	venetian rose                           venetianrose                    #841b2d
 
-=item venetian rose                           venetianrose                    #841b2d
+	venetian rose                           venetianrose                    #ab4e52
 
-=item venetian rose                           venetianrose                    #ab4e52
+	venetian scarlet                        venetianscarlet                 #be0032
 
-=item venetian scarlet                        venetianscarlet                 #be0032
+	venetian yellow                         venetianyellow                  #f8de7e
 
-=item venetian yellow                         venetianyellow                  #f8de7e
+	venetian yellow                         venetianyellow                  #c9ae5d
 
-=item venetian yellow                         venetianyellow                  #c9ae5d
+	venezia                                 venezia                         #317873
 
-=item venezia                                 venezia                         #317873
+	venice berries                          veniceberries                   #eaa221
 
-=item venice berries                          veniceberries                   #eaa221
+	venice berries                          veniceberries                   #e3a857
 
-=item venice berries                          veniceberries                   #e3a857
+	venice [blue]                           veniceblue                      #66ada4
 
-=item venice [blue]                           veniceblue                      #66ada4
+	venice green                            venicegreen                     #66ada4
 
-=item venice green                            venicegreen                     #66ada4
+	venice red                              venicered                       #79443b
 
-=item venice red                              venicered                       #79443b
+	venus                                   venus                           #ab9144
 
-=item venus                                   venus                           #ab9144
+	venus                                   venus                           #a18f60
 
-=item venus                                   venus                           #a18f60
+	verbena                                 verbena                         #915c83
 
-=item verbena                                 verbena                         #915c83
+	verbena [violet]                        verbenaviolet                   #9690ab
 
-=item verbena [violet]                        verbenaviolet                   #9690ab
+	verbena [violet]                        verbenaviolet                   #aa98a9
 
-=item verbena [violet]                        verbenaviolet                   #aa98a9
+	verdant green                           verdantgreen                    #8a9a5b
 
-=item verdant green                           verdantgreen                    #8a9a5b
+	verdet                                  verdet                          #679267
 
-=item verdet                                  verdet                          #679267
+	verde vessie                            verdevessie                     #867e36
 
-=item verde vessie                            verdevessie                     #867e36
+	verd gay                                verdgay                         #8a9a5b
 
-=item verd gay                                verdgay                         #8a9a5b
+	verdigris [green]                       verdigrisgreen                  #679267
 
-=item verdigris [green]                       verdigrisgreen                  #679267
+	verditer green                          verditergreen                   #679267
 
-=item verditer green                          verditergreen                   #679267
+	verdure                                 verdure                         #355e3b
 
-=item verdure                                 verdure                         #355e3b
+	veridine green                          veridinegreen                   #6aab8e
 
-=item veridine green                          veridinegreen                   #6aab8e
+	vernonia purple                         vernoniapurple                  #915f6d
 
-=item vernonia purple                         vernoniapurple                  #915f6d
+	verona brown                            veronabrown                     #6f4e37
 
-=item verona brown                            veronabrown                     #6f4e37
+	verona yellow                           veronayellow                    #fada5e
 
-=item verona yellow                           veronayellow                    #fada5e
+	verona yellow                           veronayellow                    #d4af37
 
-=item verona yellow                           veronayellow                    #d4af37
+	verona yellow                           veronayellow                    #f8de7e
 
-=item verona yellow                           veronayellow                    #f8de7e
+	verona yellow                           veronayellow                    #c9ae5d
 
-=item verona yellow                           veronayellow                    #c9ae5d
+	veronese yellow                         veroneseyellow                  #fada5e
 
-=item veronese yellow                         veroneseyellow                  #fada5e
+	veronese yellow                         veroneseyellow                  #d4af37
 
-=item veronese yellow                         veroneseyellow                  #d4af37
+	veronese yellow                         veroneseyellow                  #f8de7e
 
-=item veronese yellow                         veroneseyellow                  #f8de7e
+	veronese yellow                         veroneseyellow                  #c9ae5d
 
-=item veronese yellow                         veroneseyellow                  #c9ae5d
+	veronica                                veronica                        #604e81
 
-=item veronica                                veronica                        #604e81
+	versailles                              versailles                      #66aabc
 
-=item versailles                              versailles                      #66aabc
+	vert russe                              vertrusse                       #679267
 
-=item vert russe                              vertrusse                       #679267
+	vert russe                              vertrusse                       #355e3b
 
-=item vert russe                              vertrusse                       #355e3b
+	vert russe                              vertrusse                       #5e716a
 
-=item vert russe                              vertrusse                       #5e716a
+	vervain                                 vervain                         #9690ab
 
-=item vervain                                 vervain                         #9690ab
+	vervain                                 vervain                         #aa98a9
 
-=item vervain                                 vervain                         #aa98a9
+	vestal                                  vestal                          #796878
 
-=item vestal                                  vestal                          #796878
+	vestal                                  vestal                          #836479
 
-=item vestal                                  vestal                          #836479
+	veteran                                 veteran                         #36454f
 
-=item veteran                                 veteran                         #36454f
+	vetiver green                           vetivergreen                    #8c8767
 
-=item vetiver green                           vetivergreen                    #8c8767
+	victoria                                victoria                        #563c5c
 
-=item victoria                                victoria                        #563c5c
+	victoria blue                           victoriablue                    #0067a5
 
-=item victoria blue                           victoriablue                    #0067a5
+	victoria green                          victoriagreen                   #6aab8e
 
-=item victoria green                          victoriagreen                   #6aab8e
+	victoria green                          victoriagreen                   #8da399
 
-=item victoria green                          victoriagreen                   #8da399
+	victoria green                          victoriagreen                   #66ada4
 
-=item victoria green                          victoriagreen                   #66ada4
+	victoria lake                           victorialake                    #722f37
 
-=item victoria lake                           victorialake                    #722f37
+	vienna blue                             viennablue                      #007791
 
-=item vienna blue                             viennablue                      #007791
+	vienna brown                            viennabrown                     #635147
 
-=item vienna brown                            viennabrown                     #635147
+	vienna brown                            viennabrown                     #7e6d5a
 
-=item vienna brown                            viennabrown                     #7e6d5a
+	vienna green                            viennagreen                     #3eb489
 
-=item vienna green                            viennagreen                     #3eb489
+	vienna lake                             viennalake                      #be0032
 
-=item vienna lake                             viennalake                      #be0032
+	vienna lake                             viennalake                      #bc3f4a
 
-=item vienna lake                             viennalake                      #bc3f4a
+	vienna smoke                            viennasmoke                     #555555
 
-=item vienna smoke                            viennasmoke                     #555555
+	vineyard                                vineyard                        #722f37
 
-=item vineyard                                vineyard                        #722f37
+	vineyard                                vineyard                        #3f1728
 
-=item vineyard                                vineyard                        #3f1728
+	viola                                   viola                           #86608e
 
-=item viola                                   viola                           #86608e
+	violet-carmine                          violetcarmine                   #5d3954
 
-=item violet-carmine                          violetcarmine                   #5d3954
+	violine                                 violine                         #604e97
 
-=item violine                                 violine                         #604e97
+	violine                                 violine                         #604e81
 
-=item violine                                 violine                         #604e81
+	virgin                                  virgin                          #436b95
 
-=item virgin                                  virgin                          #436b95
+	viridian                                viridian                        #007959
 
-=item viridian                                viridian                        #007959
+	viridian                                viridian                        #3b7861
 
-=item viridian                                viridian                        #3b7861
+	viridine green                          viridinegreen                   #c9dc89
 
-=item viridine green                          viridinegreen                   #c9dc89
+	viridine yellow                         viridineyellow                  #7e9f2e
 
-=item viridine yellow                         viridineyellow                  #7e9f2e
+	vitelline yellow                        vitellineyellow                 #d4af37
 
-=item vitelline yellow                        vitellineyellow                 #d4af37
+	vitellinous                             vitellinous                     #d4af37
 
-=item vitellinous                             vitellinous                     #d4af37
+	vitreous                                vitreous                        #c9dc89
 
-=item vitreous                                vitreous                        #c9dc89
+	wad                                     wad                             #536878
 
-=item wad                                     wad                             #536878
+	wald                                    wald                            #eae679
 
-=item wald                                    wald                            #eae679
+	wald                                    wald                            #b9b459
 
-=item wald                                    wald                            #b9b459
+	wallflower [brown]                      wallflowerbrown                 #722f37
 
-=item wallflower [brown]                      wallflowerbrown                 #722f37
+	wallflower [brown]                      wallflowerbrown                 #79443b
 
-=item wallflower [brown]                      wallflowerbrown                 #79443b
+	wall green                              wallgreen                       #007a74
 
-=item wall green                              wallgreen                       #007a74
+	walnut [brown]                          walnutbrown                     #c19a6b
 
-=item walnut [brown]                          walnutbrown                     #c19a6b
+	warbler green                           warblergreen                    #867e36
 
-=item warbler green                           warblergreen                    #867e36
+	warm sepia                              warmsepia                       #635147
 
-=item warm sepia                              warmsepia                       #635147
+	water blue                              waterblue                       #317873
 
-=item water blue                              waterblue                       #317873
+	water-color                             watercolor                      #66ada4
 
-=item water-color                             watercolor                      #66ada4
+	water cress                             watercress                      #8a9a5b
 
-=item water cress                             watercress                      #8a9a5b
+	waterfall                               waterfall                       #317873
 
-=item waterfall                               waterfall                       #317873
+	water green                             watergreen                      #b9b57d
 
-=item water green                             watergreen                      #b9b57d
+	water green                             watergreen                      #c9dc89
 
-=item water green                             watergreen                      #c9dc89
+	water green                             watergreen                      #dadfb7
 
-=item water green                             watergreen                      #dadfb7
+	water grey                              watergrey                       #8a8776
 
-=item water grey                              watergrey                       #8a8776
+	waterloo                                waterloo                        #4c516d
 
-=item waterloo                                waterloo                        #4c516d
+	watermelon                              watermelon                      #e4717a
 
-=item watermelon                              watermelon                      #e4717a
+	watermelon                              watermelon                      #ab4e52
 
-=item watermelon                              watermelon                      #ab4e52
+	water sprite                            watersprite                     #93c592
 
-=item water sprite                            watersprite                     #93c592
+	watteau                                 watteau                         #70a3cc
 
-=item watteau                                 watteau                         #70a3cc
+	wau                                     wau                             #eae679
 
-=item wau                                     wau                             #eae679
+	wau                                     wau                             #b9b459
 
-=item wau                                     wau                             #b9b459
+	wax brown                               waxbrown                        #826644
 
-=item wax brown                               waxbrown                        #826644
+	wax color                               waxcolor                        #ebe8a4
 
-=item wax color                               waxcolor                        #ebe8a4
+	wax color                               waxcolor                        #b9b57d
 
-=item wax color                               waxcolor                        #b9b57d
+	waxen                                   waxen                           #ebe8a4
 
-=item waxen                                   waxen                           #ebe8a4
+	waxen                                   waxen                           #b9b57d
 
-=item waxen                                   waxen                           #b9b57d
+	wax red                                 waxred                          #b4745e
 
-=item wax red                                 waxred                          #b4745e
+	wax white                               waxwhite                        #ebe8a4
 
-=item wax white                               waxwhite                        #ebe8a4
+	wax white                               waxwhite                        #b9b57d
 
-=item wax white                               waxwhite                        #b9b57d
+	wax yellow                              waxyellow                       #c9ae5d
 
-=item wax yellow                              waxyellow                       #c9ae5d
+	weathered oak                           weatheredoak                    #422518
 
-=item weathered oak                           weatheredoak                    #422518
+	weigelia                                weigelia                        #ab4e52
 
-=item weigelia                                weigelia                        #ab4e52
+	weld                                    weld                            #eae679
 
-=item weld                                    weld                            #eae679
+	weld                                    weld                            #b9b459
 
-=item weld                                    weld                            #b9b459
+	westminster                             westminster                     #30267a
 
-=item westminster                             westminster                     #30267a
+	westminster                             westminster                     #9065ca
 
-=item westminster                             westminster                     #9065ca
+	west point                              westpoint                       #51585e
 
-=item west point                              westpoint                       #51585e
+	wheat                                   wheat                           #e3a857
 
-=item wheat                                   wheat                           #e3a857
+	wheat                                   wheat                           #fad6a5
 
-=item wheat                                   wheat                           #fad6a5
+	whippet                                 whippet                         #6c541e
 
-=item whippet                                 whippet                         #6c541e
+	whirlpool                               whirlpool                       #004958
 
-=item whirlpool                               whirlpool                       #004958
+	white blue                              whiteblue                       #b4bcc0
 
-=item white blue                              whiteblue                       #b4bcc0
+	white jade                              whitejade                       #ecd5c5
 
-=item white jade                              whitejade                       #ecd5c5
+	white jade                              whitejade                       #bfb8a5
 
-=item white jade                              whitejade                       #bfb8a5
+	wield                                   wield                           #eae679
 
-=item wield                                   wield                           #eae679
+	wield                                   wield                           #b9b459
 
-=item wield                                   wield                           #b9b459
+	wigwam                                  wigwam                          #6f4e37
 
-=item wigwam                                  wigwam                          #6f4e37
+	wild aster                              wildaster                       #602f6b
 
-=item wild aster                              wildaster                       #602f6b
+	wild aster                              wildaster                       #702963
 
-=item wild aster                              wildaster                       #702963
+	wild cherry                             wildcherry                      #722f37
 
-=item wild cherry                             wildcherry                      #722f37
+	wild cherry                             wildcherry                      #673147
 
-=item wild cherry                             wildcherry                      #673147
+	wild dove grey                          wilddovegrey                    #5b504f
 
-=item wild dove grey                          wilddovegrey                    #5b504f
+	wild honey                              wildhoney                       #ae6938
 
-=item wild honey                              wildhoney                       #ae6938
+	wild honey                              wildhoney                       #a67b5b
 
-=item wild honey                              wildhoney                       #a67b5b
+	wild iris                               wildiris                        #8b8589
 
-=item wild iris                               wildiris                        #8b8589
+	wild orchid                             wildorchid                      #836479
 
-=item wild orchid                             wildorchid                      #836479
+	wild pigeon                             wildpigeon                      #5b504f
 
-=item wild pigeon                             wildpigeon                      #5b504f
+	wild raspberry                          wildraspberry                   #722f37
 
-=item wild raspberry                          wildraspberry                   #722f37
+	wild raspberry                          wildraspberry                   #673147
 
-=item wild raspberry                          wildraspberry                   #673147
+	wild rose                               wildrose                        #c08081
 
-=item wild rose                               wildrose                        #c08081
+	wild strawberry                         wildstrawberry                  #841b2d
 
-=item wild strawberry                         wildstrawberry                  #841b2d
+	wild strawberry                         wildstrawberry                  #722f37
 
-=item wild strawberry                         wildstrawberry                  #722f37
+	willow                                  willow                          #665d1e
 
-=item willow                                  willow                          #665d1e
+	willow green                            willowgreen                     #867e36
 
-=item willow green                            willowgreen                     #867e36
+	windflower                              windflower                      #915f6d
 
-=item windflower                              windflower                      #915f6d
+	windsor                                 windsor                         #563c5c
 
-=item windsor                                 windsor                         #563c5c
+	windsor blue                            windsorblue                     #4c516d
 
-=item windsor blue                            windsorblue                     #4c516d
+	windsor green                           windsorgreen                    #355e3b
 
-=item windsor green                           windsorgreen                    #355e3b
+	windsor tan                             windsortan                      #ae6938
 
-=item windsor tan                             windsortan                      #ae6938
+	wineberry                               wineberry                       #673147
 
-=item wineberry                               wineberry                       #673147
+	wine dregs                              winedregs                       #722f37
 
-=item wine dregs                              winedregs                       #722f37
+	wine dregs                              winedregs                       #56070c
 
-=item wine dregs                              winedregs                       #56070c
+	wine dregs                              winedregs                       #3e1d1e
 
-=item wine dregs                              winedregs                       #3e1d1e
+	wine lees                               winelees                        #722f37
 
-=item wine lees                               winelees                        #722f37
+	wine lees                               winelees                        #56070c
 
-=item wine lees                               winelees                        #56070c
+	wine lees                               winelees                        #3e1d1e
 
-=item wine lees                               winelees                        #3e1d1e
+	wine yellow                             wineyellow                      #f3e5ab
 
-=item wine yellow                             wineyellow                      #f3e5ab
+	wine yellow                             wineyellow                      #c2b280
 
-=item wine yellow                             wineyellow                      #c2b280
+	winter green                            wintergreen                     #679267
 
-=item winter green                            wintergreen                     #679267
+	wintergreen                             wintergreen                     #355e3b
 
-=item wintergreen                             wintergreen                     #355e3b
+	winter leaf                             winterleaf                      #635147
 
-=item winter leaf                             winterleaf                      #635147
+	wireless                                wireless                        #436b95
 
-=item wireless                                wireless                        #436b95
+	wistaria [blue]                         wistariablue                    #8c82b6
 
-=item wistaria [blue]                         wistariablue                    #8c82b6
+	wistaria blue                           wistariablue                    #8791bf
 
-=item wistaria blue                           wistariablue                    #8791bf
+	wistaria [violet]                       wistariaviolet                  #8c82b6
 
-=item wistaria [violet]                       wistariaviolet                  #8c82b6
+	witchwood                               witchwood                       #6f4e37
 
-=item witchwood                               witchwood                       #6f4e37
+	withered leaf                           witheredleaf                    #be6516
 
-=item withered leaf                           witheredleaf                    #be6516
+	withered leaf                           witheredleaf                    #ae6938
 
-=item withered leaf                           witheredleaf                    #ae6938
+	withered leaf                           witheredleaf                    #80461b
 
-=item withered leaf                           witheredleaf                    #80461b
+	withered rose                           witheredrose                    #905d5d
 
-=item withered rose                           witheredrose                    #905d5d
+	withered rose                           witheredrose                    #79443b
 
-=item withered rose                           witheredrose                    #79443b
+	woad                                    woad                            #536878
 
-=item woad                                    woad                            #536878
+	woald                                   woald                           #eae679
 
-=item woald                                   woald                           #eae679
+	woald                                   woald                           #b9b459
 
-=item woald                                   woald                           #b9b459
+	wod                                     wod                             #eae679
 
-=item wod                                     wod                             #eae679
+	wod                                     wod                             #b9b459
 
-=item wod                                     wod                             #b9b459
+	wode                                    wode                            #536878
 
-=item wode                                    wode                            #536878
+	wold                                    wold                            #eae679
 
-=item wold                                    wold                            #eae679
+	wold                                    wold                            #b9b459
 
-=item wold                                    wold                            #b9b459
+	woodash                                 woodash                         #bfb8a5
 
-=item woodash                                 woodash                         #bfb8a5
+	woodbark                                woodbark                        #7e6d5a
 
-=item woodbark                                woodbark                        #7e6d5a
+	woodbine green                          woodbinegreen                   #8a9a5b
 
-=item woodbine green                          woodbinegreen                   #8a9a5b
+	woodbine green                          woodbinegreen                   #8f9779
 
-=item woodbine green                          woodbinegreen                   #8f9779
+	woodbine green                          woodbinegreen                   #4a5d23
 
-=item woodbine green                          woodbinegreen                   #4a5d23
+	woodbine green                          woodbinegreen                   #515744
 
-=item woodbine green                          woodbinegreen                   #515744
+	woodland brown                          woodlandbrown                   #483c32
 
-=item woodland brown                          woodlandbrown                   #483c32
+	woodland brown                          woodlandbrown                   #222222
 
-=item woodland brown                          woodlandbrown                   #222222
+	woodland green                          woodlandgreen                   #4a5d23
 
-=item woodland green                          woodlandgreen                   #4a5d23
+	woodland rose                           woodlandrose                    #a67b5b
 
-=item woodland rose                           woodlandrose                    #a67b5b
+	wood rose                               woodrose                        #977f73
 
-=item wood rose                               woodrose                        #977f73
+	wood rose                               woodrose                        #958070
 
-=item wood rose                               woodrose                        #958070
+	wood violet                             woodviolet                      #602f6b
 
-=item wood violet                             woodviolet                      #602f6b
+	wren                                    wren                            #363527
 
-=item wren                                    wren                            #363527
+	wren                                    wren                            #57554c
 
-=item wren                                    wren                            #57554c
+	wrought iron                            wroughtiron                     #555555
 
-=item wrought iron                            wroughtiron                     #555555
+	yacht                                   yacht                           #0067a5
 
-=item yacht                                   yacht                           #0067a5
+	yale blue                               yaleblue                        #00416a
 
-=item yale blue                               yaleblue                        #00416a
+	yama                                    yama                            #66ada4
 
-=item yama                                    yama                            #66ada4
+	yellow beige                            yellowbeige                     #c19a6b
 
-=item yellow beige                            yellowbeige                     #c19a6b
+	yellow beige                            yellowbeige                     #826644
 
-=item yellow beige                            yellowbeige                     #826644
+	yellow berries                          yellowberries                   #eaa221
 
-=item yellow berries                          yellowberries                   #eaa221
+	yellow berries                          yellowberries                   #e3a857
 
-=item yellow berries                          yellowberries                   #e3a857
+	yellow brazil wood                      yellowbrazilwood                #c9ae5d
 
-=item yellow brazil wood                      yellowbrazilwood                #c9ae5d
+	yellow brazil wood                      yellowbrazilwood                #c2b280
 
-=item yellow brazil wood                      yellowbrazilwood                #c2b280
+	yellow carmine                          yellowcarmine                   #eaa221
 
-=item yellow carmine                          yellowcarmine                   #eaa221
+	yellow carmine                          yellowcarmine                   #e3a857
 
-=item yellow carmine                          yellowcarmine                   #e3a857
+	yellow daisy                            yellowdaisy                     #fada5e
 
-=item yellow daisy                            yellowdaisy                     #fada5e
+	yellow daisy                            yellowdaisy                     #d4af37
 
-=item yellow daisy                            yellowdaisy                     #d4af37
+	yellow daisy                            yellowdaisy                     #f8de7e
 
-=item yellow daisy                            yellowdaisy                     #f8de7e
+	yellow daisy                            yellowdaisy                     #c9ae5d
 
-=item yellow daisy                            yellowdaisy                     #c9ae5d
+	yellow earth                            yellowearth                     #e3a857
 
-=item yellow earth                            yellowearth                     #e3a857
+	yellow madder                           yellowmadder                    #fada5e
 
-=item yellow madder                           yellowmadder                    #fada5e
+	yellow madder                           yellowmadder                    #d4af37
 
-=item yellow madder                           yellowmadder                    #d4af37
+	yellow madder                           yellowmadder                    #f8de7e
 
-=item yellow madder                           yellowmadder                    #f8de7e
+	yellow madder                           yellowmadder                    #c9ae5d
 
-=item yellow madder                           yellowmadder                    #c9ae5d
+	yellow ochre                            yellowochre                     #e3a857
 
-=item yellow ochre                            yellowochre                     #e3a857
+	yellow realgar                          yellowrealgar                   #fada5e
 
-=item yellow realgar                          yellowrealgar                   #fada5e
+	yellow realgar                          yellowrealgar                   #d4af37
 
-=item yellow realgar                          yellowrealgar                   #d4af37
+	yellow realgar                          yellowrealgar                   #f8de7e
 
-=item yellow realgar                          yellowrealgar                   #f8de7e
+	yellow realgar                          yellowrealgar                   #c9ae5d
 
-=item yellow realgar                          yellowrealgar                   #c9ae5d
+	yellow sienna                           yellowsienna                    #e3a857
 
-=item yellow sienna                           yellowsienna                    #e3a857
+	yellow stone                            yellowstone                     #b9b57d
 
-=item yellow stone                            yellowstone                     #b9b57d
+	yellowstone                             yellowstone                     #a18f60
 
-=item yellowstone                             yellowstone                     #a18f60
+	yellow wash                             yellowwash                      #e3a857
 
-=item yellow wash                             yellowwash                      #e3a857
+	yellow wood                             yellowwood                      #c9ae5d
 
-=item yellow wood                             yellowwood                      #c9ae5d
+	yellow wood                             yellowwood                      #c2b280
 
-=item yellow wood                             yellowwood                      #c2b280
+	yew green                               yewgreen                        #4a5d23
 
-=item yew green                               yewgreen                        #4a5d23
+	yolk yellow                             yolkyellow                      #d4af37
 
-=item yolk yellow                             yolkyellow                      #d4af37
+	yosemite                                yosemite                        #c19a6b
 
-=item yosemite                                yosemite                        #c19a6b
+	yucatan                                 yucatan                         #ae6938
 
-=item yucatan                                 yucatan                         #ae6938
+	yucatan                                 yucatan                         #996515
 
-=item yucatan                                 yucatan                         #996515
+	yucca                                   yucca                           #5e716a
 
-=item yucca                                   yucca                           #5e716a
+	yu chi                                  yuchi                           #1b4d3e
 
-=item yu chi                                  yuchi                           #1b4d3e
+	yvette violet                           yvetteviolet                    #796878
 
-=item yvette violet                           yvetteviolet                    #796878
+	zaffre blue                             zaffreblue                      #00416a
 
-=item zaffre blue                             zaffreblue                      #00416a
+	zaffre blue                             zaffreblue                      #436b95
 
-=item zaffre blue                             zaffreblue                      #436b95
+	zanzibar                                zanzibar                        #43302e
 
-=item zanzibar                                zanzibar                        #43302e
+	zedoary wash                            zedoarywash                     #e3a857
 
-=item zedoary wash                            zedoarywash                     #e3a857
+	zenith [blue]                           zenithblue                      #8791bf
 
-=item zenith [blue]                           zenithblue                      #8791bf
+	zenith [blue]                           zenithblue                      #8c92ac
 
-=item zenith [blue]                           zenithblue                      #8c92ac
+	zephyr                                  zephyr                          #ead8d7
 
-=item zephyr                                  zephyr                          #ead8d7
+	zephyr                                  zephyr                          #c4aead
 
-=item zephyr                                  zephyr                          #c4aead
+	zinc                                    zinc                            #8b8589
 
-=item zinc                                    zinc                            #8b8589
+	zinc                                    zinc                            #848482
 
-=item zinc                                    zinc                            #848482
+	zinc green                              zincgreen                       #679267
 
-=item zinc green                              zincgreen                       #679267
+	zinc orange                             zincorange                      #ed872d
 
-=item zinc orange                             zincorange                      #ed872d
+	zinc orange                             zincorange                      #d99058
 
-=item zinc orange                             zincorange                      #d99058
+	zinc yellow                             zincyellow                      #d4af37
 
-=item zinc yellow                             zincyellow                      #d4af37
+	zinnia                                  zinnia                          #ab4e52
 
-=item zinnia                                  zinnia                          #ab4e52
+	zulu                                    zulu                            #43302e
 
-=item zulu                                    zulu                            #43302e
+	zuni brown                              zunibrown                       #6f4e37
 
-=item zuni brown                              zunibrown                       #6f4e37
-
-
-=back
 
 =cut
 
@@ -13818,10 +13813,10 @@ sub _description {
     return {
           'subtitle' => 'Dictionary of Color',
           'title' => 'NBS/ISCC M',
-          'description' => 'Kenneth L. Kelly and Deanne B. Judd.
-"Color: Universal Language and Dictionary of Names",
-National Bureau of Standards,
-Spec. Publ. 440, Dec. 1976, 189 pages.
+          'description' => '    Kenneth L. Kelly and Deanne B. Judd.
+    "Color: Universal Language and Dictionary of Names",
+    National Bureau of Standards,
+    Spec. Publ. 440, Dec. 1976, 189 pages.
 
 
 Color Name Dictionary: (M) Dictionary of Color

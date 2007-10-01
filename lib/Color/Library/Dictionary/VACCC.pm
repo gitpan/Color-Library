@@ -17,461 +17,456 @@ Color::Library::Dictionary::VACCC - (VACCC) VisiBone Anglo-Centric Color Code
 
 =head1 DESCRIPTION
 
-
 VisiBone Anglo-Centric Color Code
 
 L<http://www.visibone.com/vaccc/>
 
-    Peter Hamer correctly points out that this naming scheme should not be confused with names given to spectral colors, such as those that follow the mnemonic "Roy G. Biv":  Red, Orange, Yellow, Green, Blue, Indigo, Violet.  The distinction is between the physical nature of light and the human perception of if.
+Peter Hamer correctly points out that this naming scheme should not be confused with names given to spectral colors, such as those that follow the mnemonic "Roy G. Biv":  Red, Orange, Yellow, Green, Blue, Indigo, Violet.  The distinction is between the physical nature of light and the human perception of if.
 
-    Humans can't distinguish yellow light from a mixture of red and green light. That's due to the color detection mechanism of the human eye.   The "cones" on the surface of the retina respond differentially to red, green and blue light.  (The "rods" on the other hand are very sensitive to the brightness of light but can't distinguish hues.)   So computer phosphors don't attempt to transmit yellow light at all.  They simulate it by transmitting both red and green.  At least humans can be fooled in this way.
+Humans can't distinguish yellow light from a mixture of red and green light. That's due to the color detection mechanism of the human eye.   The "cones" on the surface of the retina respond differentially to red, green and blue light.  (The "rods" on the other hand are very sensitive to the brightness of light but can't distinguish hues.)   So computer phosphors don't attempt to transmit yellow light at all.  They simulate it by transmitting both red and green.  At least humans can be fooled in this way.
 
-    There's much more to light than the human eye can measure.   Besides the fact that visible light is a narrow subset of all the light coming from the sun, there a whole dimension in the variation of frequency and amplitude to which the eye is "tone deaf".  This dimension is important to astronomers and chemists.  Their instruments measure aspects of light that can reveal, for example, the composition of a star as well as that of a material found at a crime scene.
+There's much more to light than the human eye can measure.   Besides the fact that visible light is a narrow subset of all the light coming from the sun, there a whole dimension in the variation of frequency and amplitude to which the eye is "tone deaf".  This dimension is important to astronomers and chemists.  Their instruments measure aspects of light that can reveal, for example, the composition of a star as well as that of a material found at a crime scene.
 
-    Only when light is "for eyes only," your's or anyone's, can we simplify theory and measurement to varying quantities of red, green and blue.  (Ever use a magnifying glass on your computer screen to see the little dots?   Watch that eyestrain!  Didn't I say a magnfying glass?!)  So the physics of color and the perception of color are different disciplines.
+Only when light is "for eyes only," your's or anyone's, can we simplify theory and measurement to varying quantities of red, green and blue.  (Ever use a magnifying glass on your computer screen to see the little dots?   Watch that eyestrain!  Didn't I say a magnfying glass?!)  So the physics of color and the perception of color are different disciplines.
 
-    Another interesting distinction, "hues" on a computer monitor as well as in the mind of a user, follow a circular series, as named above in the hue list.  Magenta and Pink are as close to each other in perception as Green and Teal.  But the physics of light is linear, a spectrum.   Violet in the color spectrum is the furthest thing from Red.  With real light, there's no such thing as magenta.  The eye, when the red and blue cones are stimulated "sees" magenta, but it doesn't correspond to any frequency of light, the way most other hues do.
+Another interesting distinction, "hues" on a computer monitor as well as in the mind of a user, follow a circular series, as named above in the hue list.  Magenta and Pink are as close to each other in perception as Green and Teal.  But the physics of light is linear, a spectrum.   Violet in the color spectrum is the furthest thing from Red.  With real light, there's no such thing as magenta.  The eye, when the red and blue cones are stimulated "sees" magenta, but it doesn't correspond to any frequency of light, the way most other hues do.
 
-    Incidentally, the distinction between Red, Green, Blue (RGB) and Cyan, Magenta, Yellow (CMY or CMYK when Black is added to the mix) is purely tactical.  Printers use light-absorbing ink and computer monitors use light-transmitting phosphors.  The perfect cyan ink would completely absorb red light and be completely transparent to green and blue.   The tactic of mixing cyan and yellow ink to get green is backwards from mixing red and green light to get yellow.  But the strategy is the same:  fooling human eyeballs by manipulating the red, green and blue light that ultimately hits the retina.
+Incidentally, the distinction between Red, Green, Blue (RGB) and Cyan, Magenta, Yellow (CMY or CMYK when Black is added to the mix) is purely tactical.  Printers use light-absorbing ink and computer monitors use light-transmitting phosphors.  The perfect cyan ink would completely absorb red light and be completely transparent to green and blue.   The tactic of mixing cyan and yellow ink to get green is backwards from mixing red and green light to get yellow.  But the strategy is the same:  fooling human eyeballs by manipulating the red, green and blue light that ultimately hits the retina.
 
 =head1 COLORS
 
-=over 4
+	Azure-Azure-Blue       azureazureblue       #0066ff
 
-=item Azure-Azure-Blue       azureazureblue       #0066ff
+	Azure-Azure-Cyan       azureazurecyan       #0099ff
 
-=item Azure-Azure-Cyan       azureazurecyan       #0099ff
+	Black                  black                #000000
 
-=item Black                  black                #000000
+	Blue                   blue                 #0000ff
 
-=item Blue                   blue                 #0000ff
+	Blue-Blue-Azure        blueblueazure        #0033ff
 
-=item Blue-Blue-Azure        blueblueazure        #0033ff
+	Blue-Blue-Violet       blueblueviolet       #3300ff
 
-=item Blue-Blue-Violet       blueblueviolet       #3300ff
+	Cyan                   cyan                 #00ffff
 
-=item Cyan                   cyan                 #00ffff
+	Cyan-Cyan-Azure        cyancyanazure        #00ccff
 
-=item Cyan-Cyan-Azure        cyancyanazure        #00ccff
+	Cyan-Cyan-Teal         cyancyanteal         #00ffcc
 
-=item Cyan-Cyan-Teal         cyancyanteal         #00ffcc
+	Dark Azure-Blue        darkazureblue        #003399
 
-=item Dark Azure-Blue        darkazureblue        #003399
+	Dark Azure-Cyan        darkazurecyan        #006699
 
-=item Dark Azure-Cyan        darkazurecyan        #006699
+	Dark Blue-Azure        darkblueazure        #0033cc
 
-=item Dark Blue-Azure        darkblueazure        #0033cc
+	Dark Blue-Violet       darkblueviolet       #3300cc
 
-=item Dark Blue-Violet       darkblueviolet       #3300cc
+	Dark Cyan-Azure        darkcyanazure        #0099cc
 
-=item Dark Cyan-Azure        darkcyanazure        #0099cc
+	Dark Cyan-Teal         darkcyanteal         #00cc99
 
-=item Dark Cyan-Teal         darkcyanteal         #00cc99
+	Dark Dull Azure        darkdullazure        #336699
 
-=item Dark Dull Azure        darkdullazure        #336699
+	Dark Dull Blue         darkdullblue         #333399
 
-=item Dark Dull Blue         darkdullblue         #333399
+	Dark Dull Cyan         darkdullcyan         #339999
 
-=item Dark Dull Cyan         darkdullcyan         #339999
+	Dark Dull Green        darkdullgreen        #339933
 
-=item Dark Dull Green        darkdullgreen        #339933
+	Dark Dull Magenta      darkdullmagenta      #993399
 
-=item Dark Dull Magenta      darkdullmagenta      #993399
+	Dark Dull Orange       darkdullorange       #996633
 
-=item Dark Dull Orange       darkdullorange       #996633
+	Dark Dull Pink         darkdullpink         #993366
 
-=item Dark Dull Pink         darkdullpink         #993366
+	Dark Dull Red          darkdullred          #993333
 
-=item Dark Dull Red          darkdullred          #993333
+	Dark Dull Spring       darkdullspring       #669933
 
-=item Dark Dull Spring       darkdullspring       #669933
+	Dark Dull Teal         darkdullteal         #339966
 
-=item Dark Dull Teal         darkdullteal         #339966
+	Dark Dull Violet       darkdullviolet       #663399
 
-=item Dark Dull Violet       darkdullviolet       #663399
+	Dark Dull Yellow       darkdullyellow       #999933
 
-=item Dark Dull Yellow       darkdullyellow       #999933
+	Dark Faded Blue        darkfadedblue        #000099
 
-=item Dark Faded Blue        darkfadedblue        #000099
+	Dark Faded Cyan        darkfadedcyan        #009999
 
-=item Dark Faded Cyan        darkfadedcyan        #009999
+	Dark Faded Green       darkfadedgreen       #009900
 
-=item Dark Faded Green       darkfadedgreen       #009900
+	Dark Faded Magenta     darkfadedmagenta     #990099
 
-=item Dark Faded Magenta     darkfadedmagenta     #990099
+	Dark Faded Red         darkfadedred         #990000
 
-=item Dark Faded Red         darkfadedred         #990000
+	Dark Faded Yellow      darkfadedyellow      #999900
 
-=item Dark Faded Yellow      darkfadedyellow      #999900
+	Dark Gray              darkgray             #666666
 
-=item Dark Gray              darkgray             #666666
+	Dark Green-Spring      darkgreenspring      #33cc00
 
-=item Dark Green-Spring      darkgreenspring      #33cc00
+	Dark Green-Teal        darkgreenteal        #00cc33
 
-=item Dark Green-Teal        darkgreenteal        #00cc33
+	Dark Hard Azure        darkhardazure        #0066cc
 
-=item Dark Hard Azure        darkhardazure        #0066cc
+	Dark Hard Blue         darkhardblue         #0000cc
 
-=item Dark Hard Blue         darkhardblue         #0000cc
+	Dark Hard Cyan         darkhardcyan         #00cccc
 
-=item Dark Hard Cyan         darkhardcyan         #00cccc
+	Dark Hard Green        darkhardgreen        #00cc00
 
-=item Dark Hard Green        darkhardgreen        #00cc00
+	Dark Hard Magenta      darkhardmagenta      #cc00cc
 
-=item Dark Hard Magenta      darkhardmagenta      #cc00cc
+	Dark Hard Orange       darkhardorange       #cc6600
 
-=item Dark Hard Orange       darkhardorange       #cc6600
+	Dark Hard Pink         darkhardpink         #cc0066
 
-=item Dark Hard Pink         darkhardpink         #cc0066
+	Dark Hard Red          darkhardred          #cc0000
 
-=item Dark Hard Red          darkhardred          #cc0000
+	Dark Hard Spring       darkhardspring       #66cc00
 
-=item Dark Hard Spring       darkhardspring       #66cc00
+	Dark Hard Teal         darkhardteal         #00cc66
 
-=item Dark Hard Teal         darkhardteal         #00cc66
+	Dark Hard Violet       darkhardviolet       #6600cc
 
-=item Dark Hard Violet       darkhardviolet       #6600cc
+	Dark Hard Yellow       darkhardyellow       #cccc00
 
-=item Dark Hard Yellow       darkhardyellow       #cccc00
+	Dark Magenta-Pink      darkmagentapink      #cc0099
 
-=item Dark Magenta-Pink      darkmagentapink      #cc0099
+	Dark Magenta-Violet    darkmagentaviolet    #9900cc
 
-=item Dark Magenta-Violet    darkmagentaviolet    #9900cc
+	Dark Orange-Red        darkorangered        #993300
 
-=item Dark Orange-Red        darkorangered        #993300
+	Dark Orange-Yellow     darkorangeyellow     #996600
 
-=item Dark Orange-Yellow     darkorangeyellow     #996600
+	Dark Pink-Magenta      darkpinkmagenta      #990066
 
-=item Dark Pink-Magenta      darkpinkmagenta      #990066
+	Dark Pink-Red          darkpinkred          #990033
 
-=item Dark Pink-Red          darkpinkred          #990033
+	Dark Red-Orange        darkredorange        #cc3300
 
-=item Dark Red-Orange        darkredorange        #cc3300
+	Dark Red-Pink          darkredpink          #cc0033
 
-=item Dark Red-Pink          darkredpink          #cc0033
+	Dark Spring-Green      darkspringgreen      #339900
 
-=item Dark Spring-Green      darkspringgreen      #339900
+	Dark Spring-Yellow     darkspringyellow     #669900
 
-=item Dark Spring-Yellow     darkspringyellow     #669900
+	Dark Teal-Cyan         darktealcyan         #009966
 
-=item Dark Teal-Cyan         darktealcyan         #009966
+	Dark Teal-Green        darktealgreen        #009933
 
-=item Dark Teal-Green        darktealgreen        #009933
+	Dark Violet-Blue       darkvioletblue       #330099
 
-=item Dark Violet-Blue       darkvioletblue       #330099
+	Dark Violet-Magenta    darkvioletmagenta    #660099
 
-=item Dark Violet-Magenta    darkvioletmagenta    #660099
+	Dark Weak Blue         darkweakblue         #333366
 
-=item Dark Weak Blue         darkweakblue         #333366
+	Dark Weak Cyan         darkweakcyan         #336666
 
-=item Dark Weak Cyan         darkweakcyan         #336666
+	Dark Weak Green        darkweakgreen        #336633
 
-=item Dark Weak Green        darkweakgreen        #336633
+	Dark Weak Magenta      darkweakmagenta      #663366
 
-=item Dark Weak Magenta      darkweakmagenta      #663366
+	Dark Weak Red          darkweakred          #663333
 
-=item Dark Weak Red          darkweakred          #663333
+	Dark Weak Yellow       darkweakyellow       #666633
 
-=item Dark Weak Yellow       darkweakyellow       #666633
+	Dark Yellow-Orange     darkyelloworange     #cc9900
 
-=item Dark Yellow-Orange     darkyelloworange     #cc9900
+	Dark Yellow-Spring     darkyellowspring     #99cc00
 
-=item Dark Yellow-Spring     darkyellowspring     #99cc00
+	Green                  green                #00ff00
 
-=item Green                  green                #00ff00
+	Green-Green-Spring     greengreenspring     #33ff00
 
-=item Green-Green-Spring     greengreenspring     #33ff00
+	Green-Green-Teal       greengreenteal       #00ff33
 
-=item Green-Green-Teal       greengreenteal       #00ff33
+	Light Azure-Blue       lightazureblue       #6699ff
 
-=item Light Azure-Blue       lightazureblue       #6699ff
+	Light Azure-Cyan       lightazurecyan       #66ccff
 
-=item Light Azure-Cyan       lightazurecyan       #66ccff
+	Light Blue-Azure       lightblueazure       #3366ff
 
-=item Light Blue-Azure       lightblueazure       #3366ff
+	Light Blue-Violet      lightblueviolet      #6633ff
 
-=item Light Blue-Violet      lightblueviolet      #6633ff
+	Light Cyan-Azure       lightcyanazure       #33ccff
 
-=item Light Cyan-Azure       lightcyanazure       #33ccff
+	Light Cyan-Teal        lightcyanteal        #33ffcc
 
-=item Light Cyan-Teal        lightcyanteal        #33ffcc
+	Light Dull Azure       lightdullazure       #6699cc
 
-=item Light Dull Azure       lightdullazure       #6699cc
+	Light Dull Blue        lightdullblue        #6666cc
 
-=item Light Dull Blue        lightdullblue        #6666cc
+	Light Dull Cyan        lightdullcyan        #66cccc
 
-=item Light Dull Cyan        lightdullcyan        #66cccc
+	Light Dull Green       lightdullgreen       #66cc66
 
-=item Light Dull Green       lightdullgreen       #66cc66
+	Light Dull Magenta     lightdullmagenta     #cc66cc
 
-=item Light Dull Magenta     lightdullmagenta     #cc66cc
+	Light Dull Orange      lightdullorange      #cc9966
 
-=item Light Dull Orange      lightdullorange      #cc9966
+	Light Dull Pink        lightdullpink        #cc6699
 
-=item Light Dull Pink        lightdullpink        #cc6699
+	Light Dull Red         lightdullred         #cc6666
 
-=item Light Dull Red         lightdullred         #cc6666
+	Light Dull Spring      lightdullspring      #99cc66
 
-=item Light Dull Spring      lightdullspring      #99cc66
+	Light Dull Teal        lightdullteal        #66cc99
 
-=item Light Dull Teal        lightdullteal        #66cc99
+	Light Dull Violet      lightdullviolet      #9966cc
 
-=item Light Dull Violet      lightdullviolet      #9966cc
+	Light Dull Yellow      lightdullyellow      #cccc66
 
-=item Light Dull Yellow      lightdullyellow      #cccc66
+	Light Faded Blue       lightfadedblue       #6666ff
 
-=item Light Faded Blue       lightfadedblue       #6666ff
+	Light Faded Cyan       lightfadedcyan       #66ffff
 
-=item Light Faded Cyan       lightfadedcyan       #66ffff
+	Light Faded Green      lightfadedgreen      #66ff66
 
-=item Light Faded Green      lightfadedgreen      #66ff66
+	Light Faded Magenta    lightfadedmagenta    #ff66ff
 
-=item Light Faded Magenta    lightfadedmagenta    #ff66ff
+	Light Faded Red        lightfadedred        #ff6666
 
-=item Light Faded Red        lightfadedred        #ff6666
+	Light Faded Yellow     lightfadedyellow     #ffff66
 
-=item Light Faded Yellow     lightfadedyellow     #ffff66
+	Light Gray             lightgray            #999999
 
-=item Light Gray             lightgray            #999999
+	Light Green-Spring     lightgreenspring     #66ff33
 
-=item Light Green-Spring     lightgreenspring     #66ff33
+	Light Green-Teal       lightgreenteal       #33ff66
 
-=item Light Green-Teal       lightgreenteal       #33ff66
+	Light Hard Azure       lighthardazure       #3399ff
 
-=item Light Hard Azure       lighthardazure       #3399ff
+	Light Hard Blue        lighthardblue        #3333ff
 
-=item Light Hard Blue        lighthardblue        #3333ff
+	Light Hard Cyan        lighthardcyan        #33ffff
 
-=item Light Hard Cyan        lighthardcyan        #33ffff
+	Light Hard Green       lighthardgreen       #33ff33
 
-=item Light Hard Green       lighthardgreen       #33ff33
+	Light Hard Magenta     lighthardmagenta     #ff33ff
 
-=item Light Hard Magenta     lighthardmagenta     #ff33ff
+	Light Hard Orange      lighthardorange      #ff9933
 
-=item Light Hard Orange      lighthardorange      #ff9933
+	Light Hard Pink        lighthardpink        #ff3399
 
-=item Light Hard Pink        lighthardpink        #ff3399
+	Light Hard Red         lighthardred         #ff3333
 
-=item Light Hard Red         lighthardred         #ff3333
+	Light Hard Spring      lighthardspring      #99ff33
 
-=item Light Hard Spring      lighthardspring      #99ff33
+	Light Hard Teal        lighthardteal        #33ff99
 
-=item Light Hard Teal        lighthardteal        #33ff99
+	Light Hard Violet      lighthardviolet      #9933ff
 
-=item Light Hard Violet      lighthardviolet      #9933ff
+	Light Hard Yellow      lighthardyellow      #ffff33
 
-=item Light Hard Yellow      lighthardyellow      #ffff33
+	Light Magenta-Pink     lightmagentapink     #ff33cc
 
-=item Light Magenta-Pink     lightmagentapink     #ff33cc
+	Light Magenta-Violet   lightmagentaviolet   #cc33ff
 
-=item Light Magenta-Violet   lightmagentaviolet   #cc33ff
+	Light Orange-Red       lightorangered       #ff9966
 
-=item Light Orange-Red       lightorangered       #ff9966
+	Light Orange-Yellow    lightorangeyellow    #ffcc66
 
-=item Light Orange-Yellow    lightorangeyellow    #ffcc66
+	Light Pink-Magenta     lightpinkmagenta     #ff66cc
 
-=item Light Pink-Magenta     lightpinkmagenta     #ff66cc
+	Light Pink-Red         lightpinkred         #ff6699
 
-=item Light Pink-Red         lightpinkred         #ff6699
+	Light Red-Orange       lightredorange       #ff6633
 
-=item Light Red-Orange       lightredorange       #ff6633
+	Light Red-Pink         lightredpink         #ff3366
 
-=item Light Red-Pink         lightredpink         #ff3366
+	Light Spring-Green     lightspringgreen     #99ff66
 
-=item Light Spring-Green     lightspringgreen     #99ff66
+	Light Spring-Yellow    lightspringyellow    #ccff66
 
-=item Light Spring-Yellow    lightspringyellow    #ccff66
+	Light Teal-Cyan        lighttealcyan        #66ffcc
 
-=item Light Teal-Cyan        lighttealcyan        #66ffcc
+	Light Teal-Green       lighttealgreen       #66ff99
 
-=item Light Teal-Green       lighttealgreen       #66ff99
+	Light Violet-Blue      lightvioletblue      #9966ff
 
-=item Light Violet-Blue      lightvioletblue      #9966ff
+	Light Violet-Magenta   lightvioletmagenta   #cc66ff
 
-=item Light Violet-Magenta   lightvioletmagenta   #cc66ff
+	Light Weak Blue        lightweakblue        #9999cc
 
-=item Light Weak Blue        lightweakblue        #9999cc
+	Light Weak Cyan        lightweakcyan        #99cccc
 
-=item Light Weak Cyan        lightweakcyan        #99cccc
+	Light Weak Green       lightweakgreen       #99cc99
 
-=item Light Weak Green       lightweakgreen       #99cc99
+	Light Weak Magenta     lightweakmagenta     #cc99cc
 
-=item Light Weak Magenta     lightweakmagenta     #cc99cc
+	Light Weak Red         lightweakred         #cc9999
 
-=item Light Weak Red         lightweakred         #cc9999
+	Light Weak Yellow      lightweakyellow      #cccc99
 
-=item Light Weak Yellow      lightweakyellow      #cccc99
+	Light Yellow-Orange    lightyelloworange    #ffcc33
 
-=item Light Yellow-Orange    lightyelloworange    #ffcc33
+	Light Yellow-Spring    lightyellowspring    #ccff33
 
-=item Light Yellow-Spring    lightyellowspring    #ccff33
+	Magenta                magenta              #ff00ff
 
-=item Magenta                magenta              #ff00ff
+	Magenta-Magenta-Pink   magentamagentapink   #ff00cc
 
-=item Magenta-Magenta-Pink   magentamagentapink   #ff00cc
+	Magenta-Magenta-Violet magentamagentaviolet #cc00ff
 
-=item Magenta-Magenta-Violet magentamagentaviolet #cc00ff
+	Medium Azure-Blue      mediumazureblue      #3366cc
 
-=item Medium Azure-Blue      mediumazureblue      #3366cc
+	Medium Azure-Cyan      mediumazurecyan      #3399cc
 
-=item Medium Azure-Cyan      mediumazurecyan      #3399cc
+	Medium Faded Blue      mediumfadedblue      #3333cc
 
-=item Medium Faded Blue      mediumfadedblue      #3333cc
+	Medium Faded Cyan      mediumfadedcyan      #33cccc
 
-=item Medium Faded Cyan      mediumfadedcyan      #33cccc
+	Medium Faded Green     mediumfadedgreen     #33cc33
 
-=item Medium Faded Green     mediumfadedgreen     #33cc33
+	Medium Faded Magenta   mediumfadedmagenta   #cc33cc
 
-=item Medium Faded Magenta   mediumfadedmagenta   #cc33cc
+	Medium Faded Red       mediumfadedred       #cc3333
 
-=item Medium Faded Red       mediumfadedred       #cc3333
+	Medium Faded Yellow    mediumfadedyellow    #cccc33
 
-=item Medium Faded Yellow    mediumfadedyellow    #cccc33
+	Medium Orange-Red      mediumorangered      #cc6633
 
-=item Medium Orange-Red      mediumorangered      #cc6633
+	Medium Orange-Yellow   mediumorangeyellow   #cc9933
 
-=item Medium Orange-Yellow   mediumorangeyellow   #cc9933
+	Medium Pink-Magenta    mediumpinkmagenta    #cc3399
 
-=item Medium Pink-Magenta    mediumpinkmagenta    #cc3399
+	Medium Pink-Red        mediumpinkred        #cc3366
 
-=item Medium Pink-Red        mediumpinkred        #cc3366
+	Medium Spring-Green    mediumspringgreen    #66cc33
 
-=item Medium Spring-Green    mediumspringgreen    #66cc33
+	Medium Spring-Yellow   mediumspringyellow   #99cc33
 
-=item Medium Spring-Yellow   mediumspringyellow   #99cc33
+	Medium Teal-Cyan       mediumtealcyan       #33cc99
 
-=item Medium Teal-Cyan       mediumtealcyan       #33cc99
+	Medium Teal-Green      mediumtealgreen      #33cc66
 
-=item Medium Teal-Green      mediumtealgreen      #33cc66
+	Medium Violet-Blue     mediumvioletblue     #6633cc
 
-=item Medium Violet-Blue     mediumvioletblue     #6633cc
+	Medium Violet-Magenta  mediumvioletmagenta  #9933cc
 
-=item Medium Violet-Magenta  mediumvioletmagenta  #9933cc
+	Medium Weak Blue       mediumweakblue       #666699
 
-=item Medium Weak Blue       mediumweakblue       #666699
+	Medium Weak Cyan       mediumweakcyan       #669999
 
-=item Medium Weak Cyan       mediumweakcyan       #669999
+	Medium Weak Green      mediumweakgreen      #669966
 
-=item Medium Weak Green      mediumweakgreen      #669966
+	Medium Weak Magenta    mediumweakmagenta    #996699
 
-=item Medium Weak Magenta    mediumweakmagenta    #996699
+	Medium Weak Red        mediumweakred        #996666
 
-=item Medium Weak Red        mediumweakred        #996666
+	Medium Weak Yellow     mediumweakyellow     #999966
 
-=item Medium Weak Yellow     mediumweakyellow     #999966
+	Obscure Dull Azure     obscuredullazure     #003366
 
-=item Obscure Dull Azure     obscuredullazure     #003366
+	Obscure Dull Blue      obscuredullblue      #000066
 
-=item Obscure Dull Blue      obscuredullblue      #000066
+	Obscure Dull Cyan      obscuredullcyan      #006666
 
-=item Obscure Dull Cyan      obscuredullcyan      #006666
+	Obscure Dull Green     obscuredullgreen     #006600
 
-=item Obscure Dull Green     obscuredullgreen     #006600
+	Obscure Dull Magenta   obscuredullmagenta   #660066
 
-=item Obscure Dull Magenta   obscuredullmagenta   #660066
+	Obscure Dull Orange    obscuredullorange    #663300
 
-=item Obscure Dull Orange    obscuredullorange    #663300
+	Obscure Dull Pink      obscuredullpink      #660033
 
-=item Obscure Dull Pink      obscuredullpink      #660033
+	Obscure Dull Red       obscuredullred       #660000
 
-=item Obscure Dull Red       obscuredullred       #660000
+	Obscure Dull Spring    obscuredullspring    #336600
 
-=item Obscure Dull Spring    obscuredullspring    #336600
+	Obscure Dull Teal      obscuredullteal      #006633
 
-=item Obscure Dull Teal      obscuredullteal      #006633
+	Obscure Dull Violet    obscuredullviolet    #330066
 
-=item Obscure Dull Violet    obscuredullviolet    #330066
+	Obscure Dull Yellow    obscuredullyellow    #666600
 
-=item Obscure Dull Yellow    obscuredullyellow    #666600
+	Obscure Gray           obscuregray          #333333
 
-=item Obscure Gray           obscuregray          #333333
+	Obscure Weak Blue      obscureweakblue      #000033
 
-=item Obscure Weak Blue      obscureweakblue      #000033
+	Obscure Weak Cyan      obscureweakcyan      #003333
 
-=item Obscure Weak Cyan      obscureweakcyan      #003333
+	Obscure Weak Green     obscureweakgreen     #003300
 
-=item Obscure Weak Green     obscureweakgreen     #003300
+	Obscure Weak Magenta   obscureweakmagenta   #330033
 
-=item Obscure Weak Magenta   obscureweakmagenta   #330033
+	Obscure Weak Red       obscureweakred       #330000
 
-=item Obscure Weak Red       obscureweakred       #330000
+	Obscure Weak Yellow    obscureweakyellow    #333300
 
-=item Obscure Weak Yellow    obscureweakyellow    #333300
+	Orange-Orange-Red      orangeorangered      #ff6600
 
-=item Orange-Orange-Red      orangeorangered      #ff6600
+	Orange-Orange-Yellow   orangeorangeyellow   #ff9900
 
-=item Orange-Orange-Yellow   orangeorangeyellow   #ff9900
+	Pale Dull Azure        paledullazure        #99ccff
 
-=item Pale Dull Azure        paledullazure        #99ccff
+	Pale Dull Blue         paledullblue         #9999ff
 
-=item Pale Dull Blue         paledullblue         #9999ff
+	Pale Dull Cyan         paledullcyan         #99ffff
 
-=item Pale Dull Cyan         paledullcyan         #99ffff
+	Pale Dull Green        paledullgreen        #99ff99
 
-=item Pale Dull Green        paledullgreen        #99ff99
+	Pale Dull Magenta      paledullmagenta      #ff99ff
 
-=item Pale Dull Magenta      paledullmagenta      #ff99ff
+	Pale Dull Orange       paledullorange       #ffcc99
 
-=item Pale Dull Orange       paledullorange       #ffcc99
+	Pale Dull Pink         paledullpink         #ff99cc
 
-=item Pale Dull Pink         paledullpink         #ff99cc
+	Pale Dull Red          paledullred          #ff9999
 
-=item Pale Dull Red          paledullred          #ff9999
+	Pale Dull Spring       paledullspring       #ccff99
 
-=item Pale Dull Spring       paledullspring       #ccff99
+	Pale Dull Teal         paledullteal         #99ffcc
 
-=item Pale Dull Teal         paledullteal         #99ffcc
+	Pale Dull Violet       paledullviolet       #cc99ff
 
-=item Pale Dull Violet       paledullviolet       #cc99ff
+	Pale Dull Yellow       paledullyellow       #ffff99
 
-=item Pale Dull Yellow       paledullyellow       #ffff99
+	Pale Gray              palegray             #cccccc
 
-=item Pale Gray              palegray             #cccccc
+	Pale Weak Blue         paleweakblue         #ccccff
 
-=item Pale Weak Blue         paleweakblue         #ccccff
+	Pale Weak Cyan         paleweakcyan         #ccffff
 
-=item Pale Weak Cyan         paleweakcyan         #ccffff
+	Pale Weak Green        paleweakgreen        #ccffcc
 
-=item Pale Weak Green        paleweakgreen        #ccffcc
+	Pale Weak Magenta      paleweakmagenta      #ffccff
 
-=item Pale Weak Magenta      paleweakmagenta      #ffccff
+	Pale Weak Red          paleweakred          #ffcccc
 
-=item Pale Weak Red          paleweakred          #ffcccc
+	Pale Weak Yellow       paleweakyellow       #ffffcc
 
-=item Pale Weak Yellow       paleweakyellow       #ffffcc
+	Pink-Pink-Magenta      pinkpinkmagenta      #ff0099
 
-=item Pink-Pink-Magenta      pinkpinkmagenta      #ff0099
+	Pink-Pink-Red          pinkpinkred          #ff0066
 
-=item Pink-Pink-Red          pinkpinkred          #ff0066
+	Red                    red                  #ff0000
 
-=item Red                    red                  #ff0000
+	Red-Red-Orange         redredorange         #ff3300
 
-=item Red-Red-Orange         redredorange         #ff3300
+	Red-Red-Pink           redredpink           #ff0033
 
-=item Red-Red-Pink           redredpink           #ff0033
+	Spring-Spring-Green    springspringgreen    #66ff00
 
-=item Spring-Spring-Green    springspringgreen    #66ff00
+	Spring-Spring-Yellow   springspringyellow   #99ff00
 
-=item Spring-Spring-Yellow   springspringyellow   #99ff00
+	Teal-Teal-Cyan         tealtealcyan         #00ff99
 
-=item Teal-Teal-Cyan         tealtealcyan         #00ff99
+	Teal-Teal-Green        tealtealgreen        #00ff66
 
-=item Teal-Teal-Green        tealtealgreen        #00ff66
+	Violet-Violet-Blue     violetvioletblue     #6600ff
 
-=item Violet-Violet-Blue     violetvioletblue     #6600ff
+	Violet-Violet-Magenta  violetvioletmagenta  #9900ff
 
-=item Violet-Violet-Magenta  violetvioletmagenta  #9900ff
+	White                  white                #ffffff
 
-=item White                  white                #ffffff
+	Yellow                 yellow               #ffff00
 
-=item Yellow                 yellow               #ffff00
+	Yellow-Yellow-Orange   yellowyelloworange   #ffcc00
 
-=item Yellow-Yellow-Orange   yellowyelloworange   #ffcc00
+	Yellow-Yellow-Spring   yellowyellowspring   #ccff00
 
-=item Yellow-Yellow-Spring   yellowyellowspring   #ccff00
-
-
-=back
 
 =cut
 
@@ -704,17 +699,17 @@ sub _description {
 
 [http://www.visibone.com/vaccc/]
 
-    Peter Hamer correctly points out that this naming scheme should not be confused with names given to spectral colors, such as those that follow the mnemonic "Roy G. Biv":  Red, Orange, Yellow, Green, Blue, Indigo, Violet.  The distinction is between the physical nature of light and the human perception of if.
+Peter Hamer correctly points out that this naming scheme should not be confused with names given to spectral colors, such as those that follow the mnemonic "Roy G. Biv":  Red, Orange, Yellow, Green, Blue, Indigo, Violet.  The distinction is between the physical nature of light and the human perception of if.
 
-    Humans can\'t distinguish yellow light from a mixture of red and green light. That\'s due to the color detection mechanism of the human eye.   The "cones" on the surface of the retina respond differentially to red, green and blue light.  (The "rods" on the other hand are very sensitive to the brightness of light but can\'t distinguish hues.)   So computer phosphors don\'t attempt to transmit yellow light at all.  They simulate it by transmitting both red and green.  At least humans can be fooled in this way.
+Humans can\'t distinguish yellow light from a mixture of red and green light. That\'s due to the color detection mechanism of the human eye.   The "cones" on the surface of the retina respond differentially to red, green and blue light.  (The "rods" on the other hand are very sensitive to the brightness of light but can\'t distinguish hues.)   So computer phosphors don\'t attempt to transmit yellow light at all.  They simulate it by transmitting both red and green.  At least humans can be fooled in this way.
 
-    There\'s much more to light than the human eye can measure.   Besides the fact that visible light is a narrow subset of all the light coming from the sun, there a whole dimension in the variation of frequency and amplitude to which the eye is "tone deaf".  This dimension is important to astronomers and chemists.  Their instruments measure aspects of light that can reveal, for example, the composition of a star as well as that of a material found at a crime scene.
+There\'s much more to light than the human eye can measure.   Besides the fact that visible light is a narrow subset of all the light coming from the sun, there a whole dimension in the variation of frequency and amplitude to which the eye is "tone deaf".  This dimension is important to astronomers and chemists.  Their instruments measure aspects of light that can reveal, for example, the composition of a star as well as that of a material found at a crime scene.
 
-    Only when light is "for eyes only," your\'s or anyone\'s, can we simplify theory and measurement to varying quantities of red, green and blue.  (Ever use a magnifying glass on your computer screen to see the little dots?   Watch that eyestrain!  Didn\'t I say a magnfying glass?!)  So the physics of color and the perception of color are different disciplines.
+Only when light is "for eyes only," your\'s or anyone\'s, can we simplify theory and measurement to varying quantities of red, green and blue.  (Ever use a magnifying glass on your computer screen to see the little dots?   Watch that eyestrain!  Didn\'t I say a magnfying glass?!)  So the physics of color and the perception of color are different disciplines.
 
-    Another interesting distinction, "hues" on a computer monitor as well as in the mind of a user, follow a circular series, as named above in the hue list.  Magenta and Pink are as close to each other in perception as Green and Teal.  But the physics of light is linear, a spectrum.   Violet in the color spectrum is the furthest thing from Red.  With real light, there\'s no such thing as magenta.  The eye, when the red and blue cones are stimulated "sees" magenta, but it doesn\'t correspond to any frequency of light, the way most other hues do.
+Another interesting distinction, "hues" on a computer monitor as well as in the mind of a user, follow a circular series, as named above in the hue list.  Magenta and Pink are as close to each other in perception as Green and Teal.  But the physics of light is linear, a spectrum.   Violet in the color spectrum is the furthest thing from Red.  With real light, there\'s no such thing as magenta.  The eye, when the red and blue cones are stimulated "sees" magenta, but it doesn\'t correspond to any frequency of light, the way most other hues do.
 
-    Incidentally, the distinction between Red, Green, Blue (RGB) and Cyan, Magenta, Yellow (CMY or CMYK when Black is added to the mix) is purely tactical.  Printers use light-absorbing ink and computer monitors use light-transmitting phosphors.  The perfect cyan ink would completely absorb red light and be completely transparent to green and blue.   The tactic of mixing cyan and yellow ink to get green is backwards from mixing red and green light to get yellow.  But the strategy is the same:  fooling human eyeballs by manipulating the red, green and blue light that ultimately hits the retina.
+Incidentally, the distinction between Red, Green, Blue (RGB) and Cyan, Magenta, Yellow (CMY or CMYK when Black is added to the mix) is purely tactical.  Printers use light-absorbing ink and computer monitors use light-transmitting phosphors.  The perfect cyan ink would completely absorb red light and be completely transparent to green and blue.   The tactic of mixing cyan and yellow ink to get green is backwards from mixing red and green light to get yellow.  But the strategy is the same:  fooling human eyeballs by manipulating the red, green and blue light that ultimately hits the retina.
 '
         }
 

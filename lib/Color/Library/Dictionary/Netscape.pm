@@ -17,217 +17,212 @@ Color::Library::Dictionary::Netscape - (Netscape) Colors recognized by Netscape
 
 =head1 DESCRIPTION
 
-
-"Netscape Color Names with their Color Values"
+    Netscape Color Names with their Color Values
 
 L<http://www.timestream.com/mmedia/graphics/colors/ns3names.txt>
 
 =head1 COLORS
 
-=over 4
+	aquamarine          aquamarine         #70db93
 
-=item aquamarine          aquamarine         #70db93
+	baker'schocolate    bakerschocolate    #5c3317
 
-=item baker'schocolate    bakerschocolate    #5c3317
+	black               black              #000000
 
-=item black               black              #000000
+	blue                blue               #0000ff
 
-=item blue                blue               #0000ff
+	blueviolet          blueviolet         #9f5f9f
 
-=item blueviolet          blueviolet         #9f5f9f
+	brass               brass              #b5a642
 
-=item brass               brass              #b5a642
+	brightgold          brightgold         #d9d919
 
-=item brightgold          brightgold         #d9d919
+	bronze              bronze             #8c7853
 
-=item bronze              bronze             #8c7853
+	bronzeii            bronzeii           #a67d3d
 
-=item bronzeii            bronzeii           #a67d3d
+	brown               brown              #a62a2a
 
-=item brown               brown              #a62a2a
+	cadetblue           cadetblue          #5f9f9f
 
-=item cadetblue           cadetblue          #5f9f9f
+	coolcopper          coolcopper         #d98719
 
-=item coolcopper          coolcopper         #d98719
+	copper              copper             #b87333
 
-=item copper              copper             #b87333
+	coral               coral              #ff7f00
 
-=item coral               coral              #ff7f00
+	cornflowerblue      cornflowerblue     #42426f
 
-=item cornflowerblue      cornflowerblue     #42426f
+	cyan                cyan               #00ffff
 
-=item cyan                cyan               #00ffff
+	darkbrown           darkbrown          #5c4033
 
-=item darkbrown           darkbrown          #5c4033
+	darkgreen           darkgreen          #2f4f2f
 
-=item darkgreen           darkgreen          #2f4f2f
+	darkgreencopper     darkgreencopper    #4a766e
 
-=item darkgreencopper     darkgreencopper    #4a766e
+	darkolivegreen      darkolivegreen     #4f4f2f
 
-=item darkolivegreen      darkolivegreen     #4f4f2f
+	darkorchid          darkorchid         #9932cd
 
-=item darkorchid          darkorchid         #9932cd
+	darkpurple          darkpurple         #871f78
 
-=item darkpurple          darkpurple         #871f78
+	darkslateblue       darkslateblue      #241882
 
-=item darkslateblue       darkslateblue      #241882
+	darkslategrey       darkslategrey      #2f4f4f
 
-=item darkslategrey       darkslategrey      #2f4f4f
+	darktan             darktan            #97694f
 
-=item darktan             darktan            #97694f
+	darkturquoise       darkturquoise      #7093db
 
-=item darkturquoise       darkturquoise      #7093db
+	darkwood            darkwood           #855e42
 
-=item darkwood            darkwood           #855e42
+	dimgrey             dimgrey            #545454
 
-=item dimgrey             dimgrey            #545454
+	dustyrose           dustyrose          #856363
 
-=item dustyrose           dustyrose          #856363
+	feldspar            feldspar           #d19275
 
-=item feldspar            feldspar           #d19275
+	firebrick           firebrick          #8e2323
 
-=item firebrick           firebrick          #8e2323
+	flesh               flesh              #f5ccb0
 
-=item flesh               flesh              #f5ccb0
+	forestgreen         forestgreen        #238e23
 
-=item forestgreen         forestgreen        #238e23
+	gold                gold               #cd7f32
 
-=item gold                gold               #cd7f32
+	goldenrod           goldenrod          #dbdb70
 
-=item goldenrod           goldenrod          #dbdb70
+	green               green              #00ff00
 
-=item green               green              #00ff00
+	greencopper         greencopper        #856363
 
-=item greencopper         greencopper        #856363
+	greenyellow         greenyellow        #d19275
 
-=item greenyellow         greenyellow        #d19275
+	grey                grey               #545454
 
-=item grey                grey               #545454
+	huntergreen         huntergreen        #8e2323
 
-=item huntergreen         huntergreen        #8e2323
+	indianred           indianred          #f5ccb0
 
-=item indianred           indianred          #f5ccb0
+	khaki               khaki              #238e23
 
-=item khaki               khaki              #238e23
+	lightblue           lightblue          #cd7f32
 
-=item lightblue           lightblue          #cd7f32
+	lightgrey           lightgrey          #dbdb70
 
-=item lightgrey           lightgrey          #dbdb70
+	lightsteelblue      lightsteelblue     #545454
 
-=item lightsteelblue      lightsteelblue     #545454
+	lightwood           lightwood          #856363
 
-=item lightwood           lightwood          #856363
+	limegreen           limegreen          #d19275
 
-=item limegreen           limegreen          #d19275
+	magenta             magenta            #ff00ff
 
-=item magenta             magenta            #ff00ff
+	mandarianorange     mandarianorange    #8e2323
 
-=item mandarianorange     mandarianorange    #8e2323
+	maroon              maroon             #f5ccb0
 
-=item maroon              maroon             #f5ccb0
+	mediumaquamarine    mediumaquamarine   #238e23
 
-=item mediumaquamarine    mediumaquamarine   #238e23
+	mediumblue          mediumblue         #cd7f32
 
-=item mediumblue          mediumblue         #cd7f32
+	mediumforestgreen   mediumforestgreen  #dbdb70
 
-=item mediumforestgreen   mediumforestgreen  #dbdb70
+	mediumgoldenrod     mediumgoldenrod    #eaeaae
 
-=item mediumgoldenrod     mediumgoldenrod    #eaeaae
+	mediumorchid        mediumorchid       #9370db
 
-=item mediumorchid        mediumorchid       #9370db
+	mediumseagreen      mediumseagreen     #426f42
 
-=item mediumseagreen      mediumseagreen     #426f42
+	mediumslateblue     mediumslateblue    #7f00ff
 
-=item mediumslateblue     mediumslateblue    #7f00ff
+	mediumspringgreen   mediumspringgreen  #7fff00
 
-=item mediumspringgreen   mediumspringgreen  #7fff00
+	mediumturquoise     mediumturquoise    #70dbdb
 
-=item mediumturquoise     mediumturquoise    #70dbdb
+	mediumvioletred     mediumvioletred    #db7093
 
-=item mediumvioletred     mediumvioletred    #db7093
+	mediumwood          mediumwood         #a68064
 
-=item mediumwood          mediumwood         #a68064
+	midnightblue        midnightblue       #2f2f4f
 
-=item midnightblue        midnightblue       #2f2f4f
+	navyblue            navyblue           #23238e
 
-=item navyblue            navyblue           #23238e
+	neonblue            neonblue           #4d4dff
 
-=item neonblue            neonblue           #4d4dff
+	neonpink            neonpink           #ff6ec7
 
-=item neonpink            neonpink           #ff6ec7
+	newmidnightblue     newmidnightblue    #00009c
 
-=item newmidnightblue     newmidnightblue    #00009c
+	newtan              newtan             #ebc79e
 
-=item newtan              newtan             #ebc79e
+	oldgold             oldgold            #cfb53b
 
-=item oldgold             oldgold            #cfb53b
+	orange              orange             #ff7f00
 
-=item orange              orange             #ff7f00
+	orangered           orangered          #ff2400
 
-=item orangered           orangered          #ff2400
+	orchid              orchid             #db70db
 
-=item orchid              orchid             #db70db
+	palegreen           palegreen          #8fbc8f
 
-=item palegreen           palegreen          #8fbc8f
+	pink                pink               #bc8f8f
 
-=item pink                pink               #bc8f8f
+	plum                plum               #eaadea
 
-=item plum                plum               #eaadea
+	quartz              quartz             #d9d9f3
 
-=item quartz              quartz             #d9d9f3
+	red                 red                #ff0000
 
-=item red                 red                #ff0000
+	richblue            richblue           #5959ab
 
-=item richblue            richblue           #5959ab
+	salmon              salmon             #6f4242
 
-=item salmon              salmon             #6f4242
+	scarlet             scarlet            #8c1717
 
-=item scarlet             scarlet            #8c1717
+	seagreen            seagreen           #238e68
 
-=item seagreen            seagreen           #238e68
+	semi-sweetchocolate semisweetchocolate #6b4226
 
-=item semi-sweetchocolate semisweetchocolate #6b4226
+	sienna              sienna             #8e6b23
 
-=item sienna              sienna             #8e6b23
+	silver              silver             #e6e8fa
 
-=item silver              silver             #e6e8fa
+	skyblue             skyblue            #3299cc
 
-=item skyblue             skyblue            #3299cc
+	slateblue           slateblue          #007fff
 
-=item slateblue           slateblue          #007fff
+	spicypink           spicypink          #ff1cae
 
-=item spicypink           spicypink          #ff1cae
+	springgreen         springgreen        #00ff7f
 
-=item springgreen         springgreen        #00ff7f
+	steelblue           steelblue          #236b8e
 
-=item steelblue           steelblue          #236b8e
+	summersky           summersky          #38b0de
 
-=item summersky           summersky          #38b0de
+	tan                 tan                #db9370
 
-=item tan                 tan                #db9370
+	thistle             thistle            #d8bfd8
 
-=item thistle             thistle            #d8bfd8
+	turquoise           turquoise          #adeaea
 
-=item turquoise           turquoise          #adeaea
+	verydarkbrown       verydarkbrown      #5c4033
 
-=item verydarkbrown       verydarkbrown      #5c4033
+	verylightgrey       verylightgrey      #cdcdcd
 
-=item verylightgrey       verylightgrey      #cdcdcd
+	violet              violet             #4f2f4f
 
-=item violet              violet             #4f2f4f
+	violetred           violetred          #cc3299
 
-=item violetred           violetred          #cc3299
+	wheat               wheat              #d8d8bf
 
-=item wheat               wheat              #d8d8bf
+	white               white              #ffffff
 
-=item white               white              #ffffff
+	yellow              yellow             #ffff00
 
-=item yellow              yellow             #ffff00
+	yellowgreen         yellowgreen        #99cc32
 
-=item yellowgreen         yellowgreen        #99cc32
-
-
-=back
 
 =cut
 
@@ -340,7 +335,7 @@ sub _description {
     return {
           'subtitle' => 'Colors recognized by Netscape',
           'title' => 'Netscape',
-          'description' => '"Netscape Color Names with their Color Values"
+          'description' => '    Netscape Color Names with their Color Values
 
 [http://www.timestream.com/mmedia/graphics/colors/ns3names.txt]
 '

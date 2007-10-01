@@ -17,49 +17,44 @@ Color::Library::Dictionary::Windows - (Windows) Colors from the Windows system p
 
 =head1 DESCRIPTION
 
-
-"Static colors. Twenty colors found in the [Windows] system palette that cannot be set by an application. Sixteen of these colors are common across all color displays."
+Static colors. Twenty colors found in the [Windows] system palette that cannot be set by an application. Sixteen of these colors are common across all color displays.
 
 L<http://msdn.microsoft.com/archive/en-us/dnargdi/html/msdn_palette.asp?frame=true>
 
 =head1 COLORS
 
-=over 4
+	black       black       #000000
 
-=item black       black       #000000
+	blue        blue        #0000ff
 
-=item blue        blue        #0000ff
+	cyan        cyan        #00ffff
 
-=item cyan        cyan        #00ffff
+	darkblue    darkblue    #000080
 
-=item darkblue    darkblue    #000080
+	darkcyan    darkcyan    #008080
 
-=item darkcyan    darkcyan    #008080
+	darkgray    darkgray    #808080
 
-=item darkgray    darkgray    #808080
+	darkgreen   darkgreen   #008000
 
-=item darkgreen   darkgreen   #008000
+	darkmagenta darkmagenta #800080
 
-=item darkmagenta darkmagenta #800080
+	darkred     darkred     #800000
 
-=item darkred     darkred     #800000
+	darkyellow  darkyellow  #808000
 
-=item darkyellow  darkyellow  #808000
+	green       green       #00ff00
 
-=item green       green       #00ff00
+	lightgray   lightgray   #c0c0c0
 
-=item lightgray   lightgray   #c0c0c0
+	magenta     magenta     #ff00ff
 
-=item magenta     magenta     #ff00ff
+	red         red         #ff0000
 
-=item red         red         #ff0000
+	white       white       #ffffff
 
-=item white       white       #ffffff
+	yellow      yellow      #ffff00
 
-=item yellow      yellow      #ffff00
-
-
-=back
 
 =cut
 
@@ -88,7 +83,7 @@ sub _description {
     return {
           'subtitle' => 'Colors from the Windows system palette',
           'title' => 'Windows',
-          'description' => '"Static colors. Twenty colors found in the [Windows] system palette that cannot be set by an application. Sixteen of these colors are common across all color displays."
+          'description' => 'Static colors. Twenty colors found in the [Windows] system palette that cannot be set by an application. Sixteen of these colors are common across all color displays.
 
 [http://msdn.microsoft.com/archive/en-us/dnargdi/html/msdn_palette.asp?frame=true]
 '
