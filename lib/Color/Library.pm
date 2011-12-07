@@ -1,19 +1,11 @@
 package Color::Library;
+{
+  $Color::Library::VERSION = '0.021';
+}
+# ABSTRACT: An easy-to-use and comprehensive named-color library
 
 use warnings;
 use strict;
-
-=head1 NAME
-
-Color::Library - An easy-to-use and comprehensive named-color library
-
-=head1 VERSION
-
-Version 0.02
-
-=cut
-
-our $VERSION = '0.02';
 
 use Module::Pluggable search_path => 'Color::Library::Dictionary', sub_name => '_load_dictionaries', require => 1;
 use Color::Library::Dictionary;
@@ -25,6 +17,88 @@ sub _register_dictionary {
     my $dictionary = shift;
     $dictionary{$dictionary->id} = $dictionary;
 }
+
+
+sub dictionary {
+    my $self = shift;
+    return ($self->dictionaries(shift))[0];
+}
+
+
+sub dictionaries {
+    my $self = shift;
+    local @_ = keys %dictionary unless @_;
+    @_ = map { Color::Library::Dictionary::_parse_id $_ } @_;
+    if (wantarray) {
+        return map { $_->_singleton } @dictionary{@_};
+    }
+    else {
+        my %_dictionary;
+        @_dictionary{@_} = map { $_->_singleton } @dictionary{@_};
+        return \%_dictionary;
+    }
+}
+
+
+# FUTURE Make this better
+my @dictionary_search_order = (qw/svg x11 html ie mozilla netscape windows vaccc nbs-iscc/,
+        map { "nbs-iscc-$_" } qw/a b f h m p r rc s sc tc/);
+
+sub color {
+    my $self = shift;
+
+    my @colors;
+
+    # Default dictionaries to search, in order
+    my @dictionaries = @dictionary_search_order;
+
+    # Can also pass in a default array of dictionary ids to search
+    @dictionaries = @{ shift() } if ref $_[0] eq "ARRAY";
+
+    my $query_;
+    for my $query (@_) {
+        $query_ = $query;
+        my @dictionaries = @dictionaries;
+
+        if ($query =~ m/:/) {
+            # Looks like the query contains at least one dictionary id
+
+            my ($dictionaries, $name) = split m/:/, $query, 2;
+            unless (defined $name) {
+                $name = $dictionaries;
+                undef $dictionaries
+            }
+            @dictionaries = split m/,/, $dictionaries if defined $dictionaries;
+            $query_ = $name;
+        }
+
+        my $color;
+        for my $dictionary_id (@dictionaries) {
+            next unless my $dictionary = $self->dictionary($dictionary_id);
+            last if $color = $dictionary->color($query_);
+        }
+        push @colors, $color;
+    }
+
+    return wantarray ? @colors : $colors[0];
+}
+*colors = \&color;
+*colour = \&color;
+*colours = \&color;
+
+
+1;
+
+__END__
+=pod
+
+=head1 NAME
+
+Color::Library - An easy-to-use and comprehensive named-color library
+
+=head1 VERSION
+
+version 0.021
 
 =head1 SYNOPSIS
 
@@ -94,13 +168,6 @@ If you have any suggestions for more color dictionaries to integrate, contact me
 
 Returns a Color::Library::Dictionary object corresponding to <dictionary_id>
 
-=cut
-
-sub dictionary {
-    my $self = shift;
-    return ($self->dictionaries(shift))[0];
-}
-
 =item @dictionaries = Color::Library->dictionaries
 
 =item @dictionaries = Color::Library->dictionaries( <dictionary_id>, <dictionary_id>, ... )
@@ -112,22 +179,6 @@ In list context, returns a list of Color::Library::Dictionary objects (for each 
 In scalar context, returns a hash of Color::Library::Dictionary objects mapping a dictionary id to a dictionary 
 
 When called without arguments, the method will return all dictionaries
-
-=cut
-
-sub dictionaries {
-    my $self = shift;
-    local @_ = keys %dictionary unless @_;
-    @_ = map { Color::Library::Dictionary::_parse_id $_ } @_;
-    if (wantarray) {
-        return map { $_->_singleton } @dictionary{@_};
-    }
-    else {
-        my %_dictionary;
-        @_dictionary{@_} = map { $_->_singleton } @dictionary{@_};
-        return \%_dictionary;
-    }
-}
 
 =item $color = Color::Library->color( <query> )
 
@@ -176,54 +227,6 @@ through (in order):
 
 All are aliases for the above color method
 
-=cut
-
-# FUTURE Make this better
-my @dictionary_search_order = (qw/svg x11 html ie mozilla netscape windows vaccc nbs-iscc/,
-        map { "nbs-iscc-$_" } qw/a b f h m p r rc s sc tc/);
-
-sub color {
-    my $self = shift;
-
-    my @colors;
-
-    # Default dictionaries to search, in order
-    my @dictionaries = @dictionary_search_order;
-
-    # Can also pass in a default array of dictionary ids to search
-    @dictionaries = @{ shift() } if ref $_[0] eq "ARRAY";
-
-    my $query_;
-    for my $query (@_) {
-        $query_ = $query;
-        my @dictionaries = @dictionaries;
-
-        if ($query =~ m/:/) {
-            # Looks like the query contains at least one dictionary id
-
-            my ($dictionaries, $name) = split m/:/, $query, 2;
-            unless (defined $name) {
-                $name = $dictionaries;
-                undef $dictionaries
-            }
-            @dictionaries = split m/,/, $dictionaries if defined $dictionaries;
-            $query_ = $name;
-        }
-
-        my $color;
-        for my $dictionary_id (@dictionaries) {
-            next unless my $dictionary = $self->dictionary($dictionary_id);
-            last if $color = $dictionary->color($query_);
-        }
-        push @colors, $color;
-    }
-
-    return wantarray ? @colors : $colors[0];
-}
-*colors = \&color;
-*colour = \&color;
-*colours = \&color;
-
 =back
 
 =head1 ABOUT
@@ -232,59 +235,18 @@ This package was inspired by Graphics::ColorNames, and covers much of the same g
 
 =head1 SEE ALSO
 
-Graphics::ColorNames, L<http://bravo9.com/colors/>
+L<Graphics::ColorNames>
 
 =head1 AUTHOR
 
-Robert Krimen, C<< <rkrimen at cpan.org> >>
+Robert Krimen <robertkrimen@gmail.com>
 
-=head1 BUGS
+=head1 COPYRIGHT AND LICENSE
 
-Please report any bugs or feature requests to
-C<bug-color-library at rt.cpan.org>, or through the web interface at
-L<http://rt.cpan.org/NoAuth/ReportBug.html?Queue=Color-Library>.
-I will be notified, and then you'll automatically be notified of progress on
-your bug as I make changes.
+This software is copyright (c) 2011 by Robert Krimen.
 
-=head1 SUPPORT
-
-You can find documentation for this module with the perldoc command.
-
-    perldoc Color::Library
-
-You can also look for information at:
-
-=over 4
-
-=item * AnnoCPAN: Annotated CPAN documentation
-
-L<http://annocpan.org/dist/Color-Library>
-
-=item * CPAN Ratings
-
-L<http://cpanratings.perl.org/d/Color-Library>
-
-=item * RT: CPAN's request tracker
-
-L<http://rt.cpan.org/NoAuth/Bugs.html?Dist=Color-Library>
-
-=item * Search CPAN
-
-L<http://search.cpan.org/dist/Color-Library>
-
-=back
-
-=head1 ACKNOWLEDGEMENTS
-
-Thanks to Robert Rothenberg (RWRO) for writing Graphics::ColorNames
-
-=head1 COPYRIGHT & LICENSE
-
-Copyright 2007 Robert Krimen, all rights reserved.
-
-This program is free software; you can redistribute it and/or modify it
-under the same terms as Perl itself.
+This is free software; you can redistribute it and/or modify it under
+the same terms as the Perl 5 programming language system itself.
 
 =cut
 
-1; # End of Color::Library

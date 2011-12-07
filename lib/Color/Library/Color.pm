@@ -98,7 +98,7 @@ Returns the numeric value of the color, e.g.
 
 =cut
 
-for my $method qw/id name title dictionary html value hex/ {
+for my $method (qw/id name title dictionary html value hex/) {
     no strict 'refs';
     my $accessor = "_$method";
     *$method = sub { return $_[0]->$accessor };

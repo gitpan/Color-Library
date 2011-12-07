@@ -1,14 +1,9 @@
-Build.PL
 Changes
 MANIFEST
-META.yml # Will be created by "make dist"
+META.yml
+Makefile.PL
 README
 lib/Color/Library.pm
-t/00-load.t
-t/boilerplate.t
-t/pod-coverage.t
-t/pod.t
-Makefile.PL
 lib/Color/Library/Color.pm
 lib/Color/Library/Dictionary.pm
 lib/Color/Library/Dictionary/HTML.pm
@@ -28,9 +23,10 @@ lib/Color/Library/Dictionary/NBS_ISCC/SC.pm
 lib/Color/Library/Dictionary/NBS_ISCC/TC.pm
 lib/Color/Library/Dictionary/Netscape.pm
 lib/Color/Library/Dictionary/SVG.pm
-lib/Color/Library/Dictionary/VACCC.pm
-lib/Color/Library/Dictionary/Windows.pm
-lib/Color/Library/Dictionary/WWW.pm
-lib/Color/Library/Dictionary/X11.pm
 lib/Color/Library/Dictionary/Tango.pm
+lib/Color/Library/Dictionary/VACCC.pm
+lib/Color/Library/Dictionary/WWW.pm
+lib/Color/Library/Dictionary/Windows.pm
+lib/Color/Library/Dictionary/X11.pm
 t/01-Color-Library.t
+t/9-rt6850.t
